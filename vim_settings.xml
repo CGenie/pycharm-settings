@@ -431,12 +431,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Italamo/converter/worker.py" timestamp="1474107646250">
-        <mark key="'" line="70" column="5" />
-        <mark key="[" line="70" column="5" />
-        <mark key="]" line="35" column="22" />
-        <mark key="^" line="35" column="22" />
-        <mark key="." line="35" column="22" />
+      <file name="$USER_HOME$/Italamo/converter/worker.py" timestamp="1476341928563">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/wait.coffee" timestamp="1473155493253">
         <mark key="'" line="0" column="0" />
@@ -670,12 +669,12 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="127" column="10" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/cloudconverter/views.py" timestamp="1476341711225">
+      <file name="$USER_HOME$/Italamo/italamo/apps/cloudconverter/views.py" timestamp="1476341979247">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="32" column="67" />
-        <mark key="^" line="30" column="83" />
-        <mark key="." line="30" column="83" />
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="35" />
+        <mark key="^" line="30" column="55" />
+        <mark key="." line="30" column="35" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/case/api.py" timestamp="1475089635695">
         <mark key="'" line="255" column="124" />
@@ -1465,8 +1464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="48" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="99" column="58" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="102" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="103" column="54" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="97" column="36" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
@@ -1565,6 +1562,8 @@
       <jump line="41" column="6" filename="$USER_HOME$/Italamo/italamo/italamo/settings/prod.py" />
       <jump line="103" column="57" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/cloudconverter/views.py" />
+      <jump line="172" column="22" filename="$USER_HOME$/Italamo/converter/worker.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/Italamo/converter/worker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1584,8 +1583,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGNhbGxiYWNrKHJlcXVlc3QpOgogICAgVGVuYW50ID0gbW9kZWxzLmdldF9tb2RlbCgnYWNjb3VudCcsICdUZW5hbnQnKQogICAgdGVuYW50ID0gVGVuYW50LmdldF9jdXJyZW50X3RlbmFudCgpCiAgICBjb252ZXJzaW9uX2lkID0gcmVxdWVzdC5HRVQuZ2V0KCdpZCcpCiAgICBjb252ZXJzaW9uX3VybCA9IHJlcXVlc3QuR0VULmdldCgndXJsJykKICAgIGNvbnZlcnNpb25fc3RlcCA9IHJlcXVlc3QuR0VULmdldCgnc3RlcCcpCiAgICBpZiBjb252ZXJzaW9uX3N0ZXAgPT0gJ2Vycm9yJzoKICAgICAgICBlcnJvcl9tZXNzYWdlX3VybCA9IHJlcXVlc3QuR0VULmdldCgnZXJyb3JfbWVzc2FnZV91cmwnKQogICAgICAgIGVycm9yX21lc3NhZ2UgPSBOb25lCiAgICAgICAgaWYgZXJyb3JfbWVzc2FnZV91cmw6CiAgICAgICAgICAgIGVycm9yX21lc3NhZ2UgPSByZXF1ZXN0cy5nZXQoZXJyb3JfbWVzc2FnZV91cmwpLnRleHQKICAgICAgICBsb2dnZXIuZXJyb3IoJ0FuIGVycm9yIG9jY3VyZWQgd2hpbGUgY29udmVydGluZyBmaWxlOiAlcycsIGVycm9yX21lc3NhZ2UpCiAgICAgICAgcmFpc2UgSHR0cDQwNCgnQW4gZXJyb3Igb2NjdXJyZWQgd2hpbGUgY29udmVydGluZyBmaWxlIScpCiAgICBpZiBjb252ZXJzaW9uX3VybCBpcyBOb25lOgogICAgICAgIHJhaXNlIEh0dHA0MDQoJ0FuIGVycm9yIG9jY3VycmVkIHdoaWxlIHByb2Nlc3NpbmcgcmVxdWVzdCEnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1600,49 +1599,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://1b3ecc8f2ea24a0c97f515c2e4c6b71c:3c706fbdff4f4fdf96759902aa863110@sentry.pyproject.ninja/8</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>call</text>
+        <text>error_call</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAneGxzeCc6ICdhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC5zaGVldCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I0NPTlZFUlRFUl9BUElfS0VZID0gJzRjNjZlMjMwLWJmMTctNGNiOC1hNTE1LTVmZWI2NzQxZWNhYScK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I0NPTlZFUlRFUl9BUElfS0VZID0gJzRjNjZlMjMwLWJmMTctNGNiOC1hNTE1LTVmZWI2NzQxZWNhYScK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I0RPQ0tFUl9XRUJfSE9TVCA9ICdpdGFsYW1vLXZhZ3JhbnQ6ODAnCg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09OVkVSVEVSX0FQSV9LRVkgPSAnNzg5NGQyOTUtNDc3ZC00NzdmLTk3YjctNzViMzYxMjViM2U4Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcl9jYWxsYmFja19yZW5kZXJlZF91cmw9cmV0LnJlcXVlc3QudXJsLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0NPTlZFUlRFUl9BUElfS0VZID0gJzRjNjZlMjMwLWJmMTctNGNiOC1hNTE1LTVmZWI2NzQxZWNhYScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0NPTlZFUlRFUl9BUElfS0VZID0gJzRjNjZlMjMwLWJmMTctNGNiOC1hNTE1LTVmZWI2NzQxZWNhYScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0RPQ0tFUl9XRUJfSE9TVCA9ICdpdGFsYW1vLXZhZ3JhbnQ6ODAnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09OVkVSVEVSX0FQSV9LRVkgPSAnNzg5NGQyOTUtNDc3ZC00NzdmLTk3YjctNzViMzYxMjViM2U4Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>call</last-search>
+      <last-search>error_call</last-search>
       <last-offset />
-      <last-pattern>call</last-pattern>
+      <last-pattern>error_call</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1650,7 +1649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type_id</entry>
         <entry>write_</entry>
         <entry>csv-dump-mod</entry>
         <entry>html</entry>
@@ -1670,6 +1668,7 @@
         <entry>conversion_pat</entry>
         <entry>SENTRY</entry>
         <entry>call</entry>
+        <entry>error_call</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
