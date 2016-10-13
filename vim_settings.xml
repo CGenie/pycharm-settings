@@ -119,12 +119,12 @@
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" timestamp="1476335320293">
-        <mark key="'" line="82" column="19" />
-        <mark key="[" line="103" column="21" />
-        <mark key="]" line="103" column="56" />
-        <mark key="^" line="103" column="56" />
-        <mark key="." line="103" column="56" />
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" timestamp="1476340521812">
+        <mark key="'" line="103" column="57" />
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="109" />
+        <mark key="^" line="55" column="109" />
+        <mark key="." line="55" column="109" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/import-uploaded-file.html" timestamp="1474969539450">
         <mark key="'" line="0" column="27" />
@@ -830,12 +830,12 @@
         <mark key="^" line="95" column="79" />
         <mark key="." line="95" column="79" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/prod.py" timestamp="1475235449606">
-        <mark key="'" line="42" column="6" />
-        <mark key="[" line="93" column="37" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="93" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/prod.py" timestamp="1476340495353">
+        <mark key="'" line="41" column="6" />
+        <mark key="[" line="64" column="12" />
+        <mark key="]" line="64" column="109" />
+        <mark key="." line="64" column="109" />
+        <mark key="^" line="64" column="109" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/account/tools.py" timestamp="1474275759386">
         <mark key="[" line="104" column="34" />
@@ -1498,8 +1498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="18" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="62" column="76" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="63" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="64" column="48" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="99" column="58" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
@@ -1598,6 +1596,8 @@
       <jump line="55" column="92" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Italamo/converter/api.py" />
       <jump line="126" column="4" filename="$USER_HOME$/Italamo/converter/api.py" />
+      <jump line="41" column="6" filename="$USER_HOME$/Italamo/italamo/italamo/settings/prod.py" />
+      <jump line="103" column="57" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1618,7 +1618,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>spreadsheetml.sheet</text>
+        <text>https://1b3ecc8f2ea24a0c97f515c2e4c6b71c:3c706fbdff4f4fdf96759902aa863110@sentry.pyproject.ninja/8</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1633,10 +1633,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>spreadsheetml.sheet</text>
+        <text>https://1b3ecc8f2ea24a0c97f515c2e4c6b71c:3c706fbdff4f4fdf96759902aa863110@sentry.pyproject.ninja/8</text>
       </register>
       <register name="/" type="4">
-        <text>conversion_pat</text>
+        <text>SENTRY</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAneGxzeCc6ICdhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC5zaGVldCcsCg==</text>
@@ -1673,9 +1673,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conversion_pat</last-search>
+      <last-search>SENTRY</last-search>
       <last-offset />
-      <last-pattern>conversion_pat</last-pattern>
+      <last-pattern>SENTRY</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1683,7 +1683,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Closed</entry>
         <entry>write_c</entry>
         <entry>type_id</entry>
         <entry>write_</entry>
@@ -1703,6 +1702,7 @@
         <entry>CONVERTER_PRO</entry>
         <entry>check_</entry>
         <entry>conversion_pat</entry>
+        <entry>SENTRY</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
