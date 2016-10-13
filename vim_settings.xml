@@ -867,12 +867,12 @@
         <mark key="^" line="31" column="84" />
         <mark key="." line="31" column="60" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/sale.py" timestamp="1476197437768">
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/sale.py" timestamp="1476364100249">
         <mark key="'" line="102" column="4" />
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="12" column="50" />
-        <mark key="." line="12" column="50" />
-        <mark key="^" line="12" column="50" />
+        <mark key="[" line="63" column="51" />
+        <mark key="]" line="63" column="52" />
+        <mark key="." line="63" column="52" />
+        <mark key="^" line="63" column="52" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1471893956621">
         <mark key="[" line="97" column="46" />
