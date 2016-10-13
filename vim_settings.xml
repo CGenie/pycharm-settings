@@ -348,12 +348,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476364220354">
-        <mark key="'" line="1236" column="30" />
-        <mark key="[" line="603" column="12" />
-        <mark key="]" line="601" column="12" />
-        <mark key="." line="603" column="12" />
-        <mark key="^" line="601" column="12" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476365271139">
+        <mark key="'" line="922" column="19" />
+        <mark key="[" line="916" column="62" />
+        <mark key="]" line="919" column="84" />
+        <mark key="." line="919" column="84" />
+        <mark key="^" line="919" column="84" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/results.py" timestamp="1474025241231">
         <mark key="'" line="0" column="0" />
@@ -1395,11 +1395,11 @@
         <mark key="^" line="38" column="68" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/__openerp__.py" timestamp="1476362716777">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="23" column="20" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/__openerp__.py" timestamp="1476364957128">
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="65" column="17" />
+        <mark key="." line="65" column="17" />
+        <mark key="^" line="65" column="17" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/case/show.html" timestamp="1475135174242">
         <mark key="'" line="11" column="79" />
@@ -1469,9 +1469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="119" column="45" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="392" column="33" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="342" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="475" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
       <jump line="99" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
@@ -1569,6 +1566,9 @@
       <jump line="1208" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="1214" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="1235" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="603" column="12" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="918" column="19" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1607,7 +1607,7 @@
         <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sale\.order</text>
+        <text>def create_invoices</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQGZvbnQtZmFjZSB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICAgICAgc3JjOiB1cmwoJShkb21haW4pcy9ob2xsYW5kYmlvX2N1c3RvbWl6YXRpb25zL3N0YXRpYy9zcmMvY3NzL2ZvbnRzL2NvcmJlbGkudHRmKTsKICAgICAgICAgICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYywgb2JsaXF1ZTsKICAgICAgICAgICAgfQo=</text>
@@ -1644,9 +1644,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sale\.order</last-search>
+      <last-search>def create_invoices</last-search>
       <last-offset />
-      <last-pattern>sale\.order</last-pattern>
+      <last-pattern>def create_invoices</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1654,8 +1654,6 @@
     </search>
     <history>
       <history-search>
-        <entry>estimated price</entry>
-        <entry>check_required_value</entry>
         <entry>weight</entry>
         <entry>menu-button</entry>
         <entry>convert</entry>
@@ -1674,6 +1672,8 @@
         <entry>Delivery La</entry>
         <entry>get_ups_</entry>
         <entry>sale\.order</entry>
+        <entry>create_delivery_inv</entry>
+        <entry>def create_invoices</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
