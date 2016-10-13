@@ -380,12 +380,12 @@
         <mark key="^" line="52" column="15" />
         <mark key="." line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" timestamp="1476337384211">
-        <mark key="'" line="55" column="92" />
-        <mark key="[" line="135" column="98" />
-        <mark key="]" line="135" column="98" />
-        <mark key="^" line="135" column="98" />
-        <mark key="." line="135" column="98" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" timestamp="1476337662610">
+        <mark key="'" line="57" column="92" />
+        <mark key="[" line="37" column="63" />
+        <mark key="]" line="37" column="89" />
+        <mark key="^" line="37" column="89" />
+        <mark key="." line="37" column="89" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/document/models.py" timestamp="1476336988543">
         <mark key="'" line="217" column="6" />
@@ -1618,7 +1618,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>spreadsheetml.sheet</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1633,13 +1633,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>spreadsheetml.sheet</text>
       </register>
       <register name="/" type="4">
         <text>conversion_pat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPjxzdHJvbmc+Q3VzdG9tZXIgQWRkcmVzczo8L3N0cm9uZz48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdC1pZj0iby5wYXJ0bmVyX2lkIiBuYW1lPSJwYXJ0bmVyX2hlYWRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB0LWZpZWxkPSJvLnBhcnRuZXJfaWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdC1maWVsZC1vcHRpb25zPSd7IndpZGdldCI6ICJjb250YWN0IiwgImZpZWxkcyI6IFsiYWRkcmVzcyIsICJuYW1lIiwgInBob25lIiwgImZheCJdLCAibm9fbWFya2VyIjogdHJ1ZX0nLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4gICAgCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAneGxzeCc6ICdhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC5zaGVldCcsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I0NPTlZFUlRFUl9BUElfS0VZID0gJzRjNjZlMjMwLWJmMTctNGNiOC1hNTE1LTVmZWI2NzQxZWNhYScK</text>
