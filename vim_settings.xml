@@ -330,12 +330,9 @@
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" timestamp="1476301730180">
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" timestamp="1476362699653">
         <mark key="'" line="0" column="24" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
         <mark key="^" line="0" column="24" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/classifier/essential.sls" timestamp="1473673844835">
         <mark key="'" line="9" column="58" />
@@ -351,12 +348,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476334036746">
-        <mark key="'" line="628" column="17" />
-        <mark key="[" line="1176" column="0" />
-        <mark key="]" line="1176" column="0" />
-        <mark key="^" line="1237" column="0" />
-        <mark key="." line="1176" column="0" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476362690110">
+        <mark key="'" line="1007" column="8" />
+        <mark key="[" line="1236" column="0" />
+        <mark key="]" line="1236" column="0" />
+        <mark key="." line="1236" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/results.py" timestamp="1474025241231">
         <mark key="'" line="0" column="0" />
@@ -624,11 +620,11 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1476301345994">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="30" column="35" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1476362725788">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="36" />
         <mark key="^" line="30" column="35" />
-        <mark key="." line="30" column="35" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.js" timestamp="1469442311104">
         <mark key="[" line="0" column="0" />
@@ -1397,10 +1393,10 @@
         <mark key="^" line="38" column="68" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/__openerp__.py" timestamp="1474535411062">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/__openerp__.py" timestamp="1476362716777">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
         <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/case/show.html" timestamp="1475135174242">
@@ -1471,7 +1467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="36" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="345" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="421" column="29" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="56" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
@@ -1571,6 +1566,7 @@
       <jump line="39" column="4" filename="$USER_HOME$/Italamo/converter/worker.py" />
       <jump line="9" column="18" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/mail_mail.py" />
       <jump line="1" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/mail_mail.py" />
+      <jump line="1007" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1590,8 +1586,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICFpbXBvcnRhbnQ=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnc3RvY2tfcGlja2luZ19tYXNzX2Fzc2lnbicsCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1615,31 +1611,31 @@
         <text encoding="base64">ICAgICAgICAgICAgQGZvbnQtZmFjZSB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICAgICAgc3JjOiB1cmwoJShkb21haW4pcy9ob2xsYW5kYmlvX2N1c3RvbWl6YXRpb25zL3N0YXRpYy9zcmMvY3NzL2ZvbnRzL2NvcmJlbGkudHRmKTsKICAgICAgICAgICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYywgb2JsaXF1ZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGRpdiB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAnc3RvY2tfcGlja2luZ19tYXNzX2Fzc2lnbicsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CgpjbGFzcyBzdG9ja19waWNraW5nX2NoZWNrX2Fzc2lnbl9hbGwobW9kZWxzLlRyYW5zaWVudE1vZGVsKToKICAgIF9pbmhlcml0ID0gJ3N0b2NrLnBpY2tpbmcuY2hlY2suYXNzaWduLmFsbCcKCiAgICBAYXBpLm11bHRpCiAgICBkZWYgY2hlY2soc2VsZik6CiAgICAgICAgc2VsZi5lbnN1cmVfb25lKCkKICAgICAgICBzdXBlcihzdG9ja19waWNraW5nX2NoZWNrX2Fzc2lnbl9hbGwsIHNlbGYpLmNoZWNrKCkKCiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgJ3R5cGUnOiAnaXIuYWN0aW9ucy5yZXBvcnQueG1sJywKICAgICAgICAgICAgJ3JlcG9ydF9uYW1lJzogJ3BvYi5yZXBvcnRfcG9iX2RlbGl2ZXJ5X2xhYmVsJywKICAgICAgICAgICAgJ2RhdGFzJzogewogICAgICAgICAgICAgICAgJ2lkcyc6IHNlbGYuZW52LmNvbnRleHQuZ2V0KCdhY3RpdmVfaWRzJywgW10pLAogICAgICAgICAgICAgICAgJ21vZGVsJzogJ3N0b2NrLnBpY2tpbmcnLAogICAgICAgICAgICB9LAogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGRpdiB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhyZWY9IiUoZG9tYWluKXMvaG9sbGFuZGJpb19jdXN0b21pemF0aW9ucy9zdGF0aWMvc3JjL2Nzcy9mb250cy9jb3JiZWwudHRmIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBvcGVuZXJwIGltcG9ydCB0b29scwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhyZWY9IiUoZG9tYWluKXMvaG9sbGFuZGJpb19jdXN0b21pemF0aW9ucy9zdGF0aWMvc3JjL2Nzcy9mb250cy9jb3JiZWwudHRmIiAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSBvcGVuZXJwIGltcG9ydCB0b29scwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
