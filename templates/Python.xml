@@ -1,0 +1,12 @@
+<templateSet group="Python">
+  <template name="pudb" value="import pudb; pudb.set_trace()" description="pudb debugger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="django-log" value="from django.utils.log import getLogger&#10;log = getLogger(__name__)" description="django logging template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

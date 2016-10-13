@@ -1,0 +1,5 @@
+<application>
+  <component name="HaskellDebugConfiguration">
+    <option name="remoteDebuggerPath" value="$USER_HOME$/.cabal/bin/remote-debugger" />
+  </component>
+</application>

@@ -1,0 +1,3 @@
+<application>
+  <component name="GerritSettings" Login="PK" Host="https://review.openstack.org" ListAllChanges="false" AutomaticRefresh="false" RefreshTimeout="0" ReviewNotifications="false" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="false" />
+</application>

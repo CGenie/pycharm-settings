@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="ideavim-sticky" displayType="STICKY_BALLOON" />
+    <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

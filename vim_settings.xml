@@ -1,0 +1,1766 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/classifier/docker.sls" timestamp="1473671668762">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" timestamp="1475212519677">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_multishop/prestashop_bridge_multishop.py" timestamp="1474377051541">
+        <mark key="'" line="84" column="8" />
+        <mark key="[" line="60" column="70" />
+        <mark key="]" line="60" column="70" />
+        <mark key="^" line="66" column="3" />
+        <mark key="." line="60" column="70" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/settings.py" timestamp="1474039764521">
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="35" />
+        <mark key="." line="39" column="35" />
+        <mark key="^" line="39" column="35" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/odoo/serializers.py" timestamp="1465970484078">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_product_attributes/model/product_feature.py" timestamp="1470130135752">
+        <mark key="'" line="52" column="66" />
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="53" column="43" />
+        <mark key="^" line="53" column="43" />
+        <mark key="." line="53" column="43" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/odoo_importer.py" timestamp="1476193542512">
+        <mark key="'" line="53" column="35" />
+        <mark key="[" line="184" column="4" />
+        <mark key="]" line="184" column="4" />
+        <mark key="^" line="45" column="52" />
+        <mark key="." line="184" column="4" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/vagrants/Vagrantfile_italamo_box" timestamp="1474279236489">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="6" column="50" />
+        <mark key="." line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/templates/admin-table.html" timestamp="1469290505087">
+        <mark key="'" line="53" column="86" />
+        <mark key="[" line="53" column="83" />
+        <mark key="]" line="53" column="83" />
+        <mark key="." line="53" column="86" />
+        <mark key="^" line="39" column="39" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/config.coffee" timestamp="1469789885867">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="13" column="88" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" timestamp="1476200599987">
+        <mark key="'" line="426" column="59" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/sale_workflows.xml" timestamp="1474893195094">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="39" />
+        <mark key="." line="57" column="39" />
+        <mark key="^" line="57" column="39" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/auth.py" timestamp="1474024742749">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="50" column="49" />
+        <mark key="]" line="50" column="49" />
+        <mark key="." line="50" column="49" />
+        <mark key="^" line="50" column="52" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" timestamp="1476288919827">
+        <mark key="'" line="50" column="96" />
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="81" column="74" />
+        <mark key="^" line="81" column="74" />
+        <mark key="." line="81" column="74" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_features/model/prestashop_bridge_product_attributes.py" timestamp="1470134252698">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/documents/models/__init__.py" timestamp="1466526053250">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/invoice_workflows.xml" timestamp="1476192971625">
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="56" column="49" />
+        <mark key="." line="56" column="49" />
+        <mark key="^" line="56" column="49" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/css/app/combined.css" timestamp="1475139118107">
+        <mark key="'" line="5030" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/views/inherited_view.xml" timestamp="1473418862515">
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="21" column="61" />
+        <mark key="." line="21" column="61" />
+        <mark key="^" line="21" column="61" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/__openerp__.py" timestamp="1476105722847">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" timestamp="1475212508570">
+        <mark key="[" line="37" column="19" />
+        <mark key="]" line="37" column="19" />
+        <mark key="^" line="37" column="13" />
+        <mark key="." line="37" column="19" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/import-uploaded-file.html" timestamp="1474969539450">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/vagrant/users.sls" timestamp="1474280938471">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/vagrant_base.yml" timestamp="1474284672007">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1476265080044">
+        <mark key="'" line="584" column="13" />
+        <mark key="[" line="573" column="59" />
+        <mark key="]" line="573" column="78" />
+        <mark key="^" line="573" column="78" />
+        <mark key="." line="573" column="78" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/static/src/js/case.coffee" timestamp="1473683839087">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/vagrant.sls" timestamp="1474277953441">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/tika/tika.service" timestamp="1473934250295">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="63" />
+        <mark key="." line="12" column="63" />
+        <mark key="^" line="12" column="63" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/docker-host.sh" timestamp="1469130001533">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/tenant.py" timestamp="1475127857236">
+        <mark key="[" line="68" column="67" />
+        <mark key="]" line="68" column="67" />
+        <mark key="." line="68" column="67" />
+        <mark key="^" line="68" column="67" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/views/delivery_ups_view.xml" timestamp="1476196420214">
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="63" />
+        <mark key="." line="27" column="63" />
+        <mark key="^" line="27" column="63" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" timestamp="1473742014132">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="63" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" timestamp="1474878678719">
+        <mark key="'" line="51" column="16" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.coffee" timestamp="1469446761933">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="28" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/stock_delivery_slip.xml" timestamp="1471892600770">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/converters/documents.py" timestamp="1474107581393">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-datacardtype.html" timestamp="1470042230125">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="64" />
+        <mark key="." line="26" column="10" />
+        <mark key="^" line="26" column="10" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-datacardtype-category-chooser.html" timestamp="1470042296490">
+        <mark key="[" line="23" column="72" />
+        <mark key="]" line="23" column="68" />
+        <mark key="." line="23" column="68" />
+        <mark key="^" line="23" column="68" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/prestapi/prestapi.py" timestamp="1475175821165">
+        <mark key="'" line="216" column="28" />
+        <mark key="[" line="214" column="51" />
+        <mark key="]" line="214" column="55" />
+        <mark key="." line="214" column="55" />
+        <mark key="^" line="214" column="55" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/vault-ui/proxy/proxy.coffee" timestamp="1469447255944">
+        <mark key="'" line="10" column="36" />
+        <mark key="[" line="16" column="78" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" timestamp="1476206360510">
+        <mark key="'" line="169" column="0" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
+        <mark key="^" line="168" column="51" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/converter/essential.sls" timestamp="1473673851450">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="60" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="4" column="47" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" timestamp="1475082187662">
+        <mark key="'" line="495" column="8" />
+        <mark key="[" line="449" column="39" />
+        <mark key="]" line="449" column="44" />
+        <mark key="." line="449" column="44" />
+        <mark key="^" line="449" column="44" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/templates/account/tenant/management.html" timestamp="1469472645966">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/italamo-postgresql.sls" timestamp="1474109501454">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" timestamp="1475089308834">
+        <mark key="'" line="89" column="14" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" timestamp="1473166187397">
+        <mark key="'" line="5" column="5" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="87" />
+        <mark key="." line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" timestamp="1476265355147">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="245" column="20" />
+        <mark key="]" line="245" column="21" />
+        <mark key="." line="245" column="21" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/scheduler.py" timestamp="1473417826584">
+        <mark key="'" line="192" column="24" />
+        <mark key="[" line="205" column="15" />
+        <mark key="]" line="205" column="25" />
+        <mark key="^" line="205" column="25" />
+        <mark key="." line="205" column="25" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/product_data.xml" timestamp="1471338112739">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="4" column="44" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/mainapp/templates/main_app.html" timestamp="1473168552071">
+        <mark key="[" line="25" column="63" />
+        <mark key="]" line="25" column="69" />
+        <mark key="." line="25" column="69" />
+        <mark key="^" line="25" column="69" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/tools.py" timestamp="1476250270909">
+        <mark key="'" line="101" column="4" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/security/italamo_security.xml" timestamp="1466091041446">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="65" />
+        <mark key="." line="5" column="65" />
+        <mark key="^" line="5" column="65" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/serializers.py" timestamp="1474023713168">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="57" column="79" />
+        <mark key="]" line="57" column="97" />
+        <mark key="." line="57" column="97" />
+        <mark key="^" line="57" column="97" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_crm/views/crm_lead.xml" timestamp="1465801043673">
+        <mark key="[" line="47" column="109" />
+        <mark key="]" line="47" column="111" />
+        <mark key="." line="47" column="111" />
+        <mark key="^" line="47" column="111" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/views/main.xml" timestamp="1475127914001">
+        <mark key="[" line="123" column="81" />
+        <mark key="]" line="123" column="89" />
+        <mark key="." line="123" column="89" />
+        <mark key="^" line="123" column="89" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/__openerp__.py" timestamp="1476195102133">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="54" />
+        <mark key="^" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" timestamp="1476301730180">
+        <mark key="'" line="0" column="24" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/classifier/essential.sls" timestamp="1473673844835">
+        <mark key="'" line="9" column="58" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="60" />
+        <mark key="^" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/top.sls" timestamp="1474280485816">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476333878243">
+        <mark key="'" line="628" column="17" />
+        <mark key="[" line="1176" column="0" />
+        <mark key="]" line="1176" column="0" />
+        <mark key="^" line="1237" column="0" />
+        <mark key="." line="1176" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/results.py" timestamp="1474025241231">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="52" column="15" />
+        <mark key="^" line="52" column="15" />
+        <mark key="." line="52" column="15" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/user.js" timestamp="1472486370145">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/static/src/js/common-widgets.coffee" timestamp="1473687223153">
+        <mark key="'" line="181" column="34" />
+        <mark key="[" line="181" column="42" />
+        <mark key="]" line="182" column="34" />
+        <mark key="^" line="182" column="34" />
+        <mark key="." line="182" column="34" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/vagrant.py" timestamp="1475212465174">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1470042633598">
+        <mark key="'" line="1158" column="0" />
+        <mark key="[" line="1063" column="23" />
+        <mark key="]" line="1063" column="25" />
+        <mark key="." line="1063" column="25" />
+        <mark key="^" line="1063" column="25" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/invoice.py" timestamp="1471891947480">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="10" column="73" />
+        <mark key="^" line="10" column="73" />
+        <mark key="." line="10" column="73" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/docker/docker-compose.yaml" timestamp="1474039673768">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="16" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="35" column="23" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" timestamp="1474609733509">
+        <mark key="'" line="132" column="42" />
+        <mark key="[" line="213" column="62" />
+        <mark key="]" line="213" column="62" />
+        <mark key="." line="213" column="71" />
+        <mark key="^" line="212" column="60" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/__init__.py" timestamp="1476105423128">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/worker.py" timestamp="1474107646250">
+        <mark key="'" line="70" column="5" />
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="35" column="22" />
+        <mark key="^" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob_extension_multilang/prestashop_bridge_multilang.py" timestamp="1474899514450">
+        <mark key="'" line="962" column="4" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/wait.coffee" timestamp="1473155493253">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="53" column="17" />
+        <mark key="." line="52" column="28" />
+        <mark key="^" line="52" column="28" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/tools.py" timestamp="1469273160041">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="46" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="31" column="46" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/vagrants/Vagrantfile_common" timestamp="1474278568045">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" timestamp="1476168507893">
+        <mark key="'" line="771" column="4" />
+        <mark key="[" line="781" column="31" />
+        <mark key="]" line="784" column="59" />
+        <mark key="." line="781" column="55" />
+        <mark key="^" line="784" column="59" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/templates/account/tenant/edit_settings.html" timestamp="1469471925661">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="9" column="54" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/__init__.py" timestamp="1473094998104">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/scroll.coffee" timestamp="1470053398560">
+        <mark key="'" line="19" column="11" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/permission/tools.py" timestamp="1467352511256">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+        <mark key="." line="46" column="3" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/migrations/0008_auto_20160725_1739.py" timestamp="1474014272670">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="85" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="53" column="9" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" timestamp="1476105712971">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" timestamp="1475089567711">
+        <mark key="'" line="246" column="0" />
+        <mark key="[" line="149" column="75" />
+        <mark key="]" line="149" column="125" />
+        <mark key="^" line="36" column="122" />
+        <mark key="." line="149" column="75" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/cache.py" timestamp="1470983416929">
+        <mark key="'" line="46" column="12" />
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/italamo/urls.py" timestamp="1474272578964">
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="63" column="33" />
+        <mark key="." line="63" column="36" />
+        <mark key="^" line="63" column="14" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" timestamp="1476265510194">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="29" column="121" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob_extension_multilang/prestapi/prestapi.py" timestamp="1474899639146">
+        <mark key="'" line="94" column="8" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/base.html" timestamp="1471888795175">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/conversion_helpers.py" timestamp="1476164448386">
+        <mark key="'" line="160" column="93" />
+        <mark key="[" line="158" column="28" />
+        <mark key="]" line="160" column="93" />
+        <mark key="." line="160" column="93" />
+        <mark key="^" line="160" column="93" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/converters/images.py" timestamp="1474107695451">
+        <mark key="'" line="39" column="21" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="70" column="8" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/document.coffee" timestamp="1472487289668">
+        <mark key="'" line="61" column="11" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="20" />
+        <mark key="." line="71" column="20" />
+        <mark key="^" line="71" column="37" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/required_packages.py" timestamp="1467027509028">
+        <mark key="[" line="9" column="60" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/results.py" timestamp="1472557248935">
+        <mark key="'" line="226" column="29" />
+        <mark key="[" line="200" column="11" />
+        <mark key="]" line="200" column="20" />
+        <mark key="." line="200" column="20" />
+        <mark key="^" line="200" column="20" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/static/css/style.css" timestamp="1470854777885">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/converters/__init__.py" timestamp="1474107571275">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="13" column="77" />
+        <mark key="]" line="13" column="80" />
+        <mark key="." line="13" column="80" />
+        <mark key="^" line="13" column="80" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_features/__openerp__.py" timestamp="1470735777998">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info.html" timestamp="1472102229149">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="137" column="24" />
+        <mark key="]" line="137" column="37" />
+        <mark key="." line="137" column="37" />
+        <mark key="^" line="137" column="37" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_extra_fields/__openerp__.py" timestamp="1469775036640">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_crm/data/ss_crm_data.xml" timestamp="1465801941156">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/vagrant-tika.sls" timestamp="1473933218168">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="45" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1476301345994">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="30" column="35" />
+        <mark key="^" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.js" timestamp="1469442311104">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/casetype/edit.html" timestamp="1470119379518">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="314" column="35" />
+        <mark key="]" line="314" column="40" />
+        <mark key="." line="314" column="40" />
+        <mark key="^" line="314" column="40" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_features/security/ir.model.access.csv" timestamp="1470135144302">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="75" />
+        <mark key="^" line="3" column="68" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/api.py" timestamp="1474026711073">
+        <mark key="'" line="153" column="30" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="112" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="138" column="110" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1475088173065">
+        <mark key="'" line="98" column="46" />
+        <mark key="[" line="183" column="17" />
+        <mark key="]" line="183" column="17" />
+        <mark key="^" line="169" column="22" />
+        <mark key="." line="183" column="17" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/conv.py" timestamp="1467033008385">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="56" />
+        <mark key="." line="13" column="56" />
+        <mark key="^" line="13" column="56" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/odoo/rpc.py" timestamp="1473687740684">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="127" column="10" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/cloudconverter/views.py" timestamp="1474108229426">
+        <mark key="'" line="21" column="40" />
+        <mark key="[" line="30" column="68" />
+        <mark key="]" line="30" column="83" />
+        <mark key="^" line="30" column="83" />
+        <mark key="." line="30" column="83" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/api.py" timestamp="1475089635695">
+        <mark key="'" line="255" column="124" />
+        <mark key="[" line="255" column="75" />
+        <mark key="]" line="255" column="125" />
+        <mark key="^" line="897" column="1" />
+        <mark key="." line="255" column="75" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/classifier/classifier.service" timestamp="1473673871938">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/utils.py" timestamp="1471932611195">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" timestamp="1473159819431">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="50" column="70" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/lib/rpc/__init__.py" timestamp="1473686365262">
+        <mark key="'" line="42" column="21" />
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="72" column="39" />
+        <mark key="." line="72" column="39" />
+        <mark key="^" line="72" column="39" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" timestamp="1470042397630">
+        <mark key="'" line="623" column="13" />
+        <mark key="[" line="581" column="48" />
+        <mark key="]" line="581" column="73" />
+        <mark key="." line="581" column="73" />
+        <mark key="^" line="581" column="73" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-edit-datacard.html" timestamp="1469792362662">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="93" />
+        <mark key="." line="17" column="93" />
+        <mark key="^" line="17" column="93" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/tika/init.sls" timestamp="1473933829895">
+        <mark key="'" line="7" column="44" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/backuper.py" timestamp="1473417804170">
+        <mark key="'" line="42" column="25" />
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="25" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="25" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/lib/search/tools.py" timestamp="1475089532542">
+        <mark key="[" line="21" column="83" />
+        <mark key="]" line="21" column="83" />
+        <mark key="^" line="21" column="83" />
+        <mark key="." line="21" column="83" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_crm/__openerp__.py" timestamp="1466706652734">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/converters/base.py" timestamp="1474107764071">
+        <mark key="'" line="35" column="49" />
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="52" column="37" />
+        <mark key="." line="52" column="37" />
+        <mark key="^" line="52" column="37" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/docker/nginx.conf" timestamp="1467206521419">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" timestamp="1476206182567">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="72" />
+        <mark key="]" line="44" column="88" />
+        <mark key="^" line="44" column="88" />
+        <mark key="." line="44" column="88" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/exceptions.py" timestamp="1473845734700">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/urls.py" timestamp="1474272548654">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/case.py" timestamp="1476252431028">
+        <mark key="'" line="82" column="42" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/webdev.sls" timestamp="1474277554807">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/rpc.py" timestamp="1470208796022">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="40" />
+        <mark key="^" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/swap.sls" timestamp="1474109288421">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/base_urls.js" timestamp="1472486810721">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="95" column="79" />
+        <mark key="]" line="95" column="79" />
+        <mark key="^" line="95" column="79" />
+        <mark key="." line="95" column="79" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/prod.py" timestamp="1475235449606">
+        <mark key="'" line="42" column="6" />
+        <mark key="[" line="93" column="37" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/tools.py" timestamp="1474275759386">
+        <mark key="[" line="104" column="34" />
+        <mark key="]" line="92" column="55" />
+        <mark key="^" line="92" column="55" />
+        <mark key="." line="104" column="60" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1476282240947">
+        <mark key="'" line="417" column="46" />
+        <mark key="[" line="207" column="62" />
+        <mark key="]" line="207" column="92" />
+        <mark key="^" line="207" column="92" />
+        <mark key="." line="207" column="92" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/document_version.py" timestamp="1466081943069">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="16" column="60" />
+        <mark key="." line="16" column="60" />
+        <mark key="^" line="16" column="60" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/README.md" timestamp="1475869684243">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/controllers/__init__.py" timestamp="1472068415435">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/pob.py" timestamp="1475232114344">
+        <mark key="'" line="158" column="9" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="127" column="17" />
+        <mark key="." line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/inbox/serializers.py" timestamp="1474023566077">
+        <mark key="'" line="24" column="85" />
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="24" column="69" />
+        <mark key="." line="24" column="85" />
+        <mark key="^" line="24" column="85" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_features/view/product_feature_view.xml" timestamp="1470142780785">
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="31" column="60" />
+        <mark key="^" line="31" column="84" />
+        <mark key="." line="31" column="60" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/sale.py" timestamp="1476197437768">
+        <mark key="'" line="102" column="4" />
+        <mark key="[" line="9" column="53" />
+        <mark key="]" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+        <mark key="^" line="12" column="50" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1471893956621">
+        <mark key="[" line="97" column="46" />
+        <mark key="]" line="97" column="52" />
+        <mark key="." line="97" column="52" />
+        <mark key="^" line="97" column="52" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/workflows.xml" timestamp="1474447303761">
+        <mark key="'" line="175" column="42" />
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="60" column="38" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/converter/converter.service" timestamp="1473673879445">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="8" column="80" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/serializers.py" timestamp="1475039670335">
+        <mark key="[" line="50" column="34" />
+        <mark key="]" line="50" column="47" />
+        <mark key="^" line="50" column="47" />
+        <mark key="." line="50" column="47" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/directives/itCategoryTreeChooserModal.html" timestamp="1470039937914">
+        <mark key="'" line="18" column="68" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="86" />
+        <mark key="^" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/ids.py" timestamp="1471979738659">
+        <mark key="'" line="42" column="122" />
+        <mark key="[" line="42" column="86" />
+        <mark key="]" line="42" column="86" />
+        <mark key="." line="42" column="86" />
+        <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/sale_invoicing_policy/views/sale_view.xml" timestamp="1474380805533">
+        <mark key="[" line="10" column="66" />
+        <mark key="]" line="10" column="66" />
+        <mark key="." line="10" column="66" />
+        <mark key="^" line="10" column="66" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/help/news/indicator.html" timestamp="1472535178560">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
+        <mark key="^" line="5" column="71" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/collection.js" timestamp="1473071049909">
+        <mark key="'" line="62" column="30" />
+        <mark key="[" line="63" column="50" />
+        <mark key="]" line="64" column="11" />
+        <mark key="^" line="64" column="11" />
+        <mark key="." line="64" column="11" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/security/sale_security.xml" timestamp="1466089888453">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/idx.html" timestamp="1473247983551">
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="23" column="45" />
+        <mark key="." line="23" column="45" />
+        <mark key="^" line="23" column="45" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/lib/notifications/notification.py" timestamp="1475212654351">
+        <mark key="'" line="209" column="42" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_product_attributes/view/prestashop_bridge_product_attributes_view.xml" timestamp="1470130672309">
+        <mark key="[" line="18" column="70" />
+        <mark key="]" line="18" column="70" />
+        <mark key="^" line="18" column="80" />
+        <mark key="." line="18" column="70" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/templates/admin.html" timestamp="1474025288689">
+        <mark key="'" line="155" column="12" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="190" column="66" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-stock-validation.html" timestamp="1472557313166">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/models.py" timestamp="1475089374546">
+        <mark key="'" line="335" column="20" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/search/entries/collection.html" timestamp="1467016521388">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/import_helpers.py" timestamp="1473094276627">
+        <mark key="'" line="254" column="78" />
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/export.py" timestamp="1467276965972">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="44" />
+        <mark key="." line="33" column="44" />
+        <mark key="^" line="33" column="44" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/casetype.js" timestamp="1473071185566">
+        <mark key="[" line="100" column="19" />
+        <mark key="]" line="100" column="19" />
+        <mark key="^" line="130" column="4" />
+        <mark key="." line="100" column="19" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/__init__.py" timestamp="1465998797834">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/vagrants/Vagrantfile_base" timestamp="1474279341956">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="6" column="50" />
+        <mark key="^" line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/migrations/0002_datacardtype_root_category.py" timestamp="1469624793866">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="29" column="66" />
+        <mark key="^" line="29" column="66" />
+        <mark key="." line="35" column="66" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/inbox/migrations/0004_document_types_inbox.py" timestamp="1474014616600">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="104" />
+        <mark key="." line="12" column="103" />
+        <mark key="^" line="12" column="103" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__init__.py" timestamp="1472798755430">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/task/api.py" timestamp="1472017888900">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="726" column="29" />
+        <mark key="]" line="725" column="43" />
+        <mark key="." line="726" column="38" />
+        <mark key="^" line="725" column="43" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/models/__init__.py" timestamp="1466083246019">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/docker/daemon.json" timestamp="1475129276184">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="3" column="55" />
+        <mark key="^" line="3" column="55" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-stock.html" timestamp="1472556989959">
+        <mark key="'" line="34" column="11" />
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/italamo/nginx.conf" timestamp="1474287299657">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/stock_view.xml" timestamp="1474445284121">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/it_settings.py" timestamp="1475128079092">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="162" column="42" />
+        <mark key="]" line="162" column="42" />
+        <mark key="^" line="162" column="62" />
+        <mark key="." line="162" column="42" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/vault-ui/partials/login.html" timestamp="1469443586721">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/document/document_version_preview.html" timestamp="1474023138118">
+        <mark key="'" line="64" column="50" />
+        <mark key="[" line="64" column="58" />
+        <mark key="]" line="64" column="60" />
+        <mark key="." line="64" column="60" />
+        <mark key="^" line="64" column="60" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/tika.sls" timestamp="1474274957894">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/fire_forget.py" timestamp="1473418655701">
+        <mark key="'" line="4" column="29" />
+        <mark key="[" line="38" column="40" />
+        <mark key="]" line="38" column="40" />
+        <mark key="^" line="38" column="40" />
+        <mark key="." line="38" column="40" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/inbox/migrations/0010_document_types_inbox.py" timestamp="1474014478180">
+        <mark key="[" line="54" column="19" />
+        <mark key="]" line="54" column="41" />
+        <mark key="." line="54" column="41" />
+        <mark key="^" line="54" column="41" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/rpc.py" timestamp="1474104974604">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="136" column="34" />
+        <mark key="]" line="136" column="34" />
+        <mark key="." line="136" column="34" />
+        <mark key="^" line="136" column="15" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/pob_data.xml" timestamp="1475087121891">
+        <mark key="[" line="44" column="122" />
+        <mark key="]" line="44" column="122" />
+        <mark key="^" line="44" column="122" />
+        <mark key="." line="44" column="122" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/deploy/Makefile" timestamp="1473944355261">
+        <mark key="'" line="81" column="17" />
+        <mark key="[" line="77" column="25" />
+        <mark key="]" line="77" column="25" />
+        <mark key="." line="77" column="25" />
+        <mark key="^" line="59" column="17" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/security/ir.model.access.csv" timestamp="1466091054477">
+        <mark key="[" line="2" column="96" />
+        <mark key="]" line="2" column="100" />
+        <mark key="." line="2" column="100" />
+        <mark key="^" line="2" column="100" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/security/ir.model.access.csv" timestamp="1466486888209">
+        <mark key="[" line="1" column="62" />
+        <mark key="]" line="1" column="69" />
+        <mark key="^" line="1" column="69" />
+        <mark key="." line="1" column="69" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/serializers.py" timestamp="1475235483234">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="80" />
+        <mark key="]" line="0" column="96" />
+        <mark key="." line="0" column="96" />
+        <mark key="^" line="0" column="96" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/settings.py" timestamp="1472206561864">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="17" />
+        <mark key="]" line="59" column="27" />
+        <mark key="^" line="59" column="27" />
+        <mark key="." line="59" column="27" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/docker/nginx-default.conf" timestamp="1469274054980">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/custom-charts.coffee" timestamp="1473259166164">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="34" column="7" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/_all.coffee" timestamp="1469790895122">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/it-graph.html" timestamp="1475137548236">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-datacardtypes.html" timestamp="1470039738544">
+        <mark key="[" line="24" column="71" />
+        <mark key="]" line="24" column="79" />
+        <mark key="." line="24" column="79" />
+        <mark key="^" line="24" column="79" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/converter/converter.sls" timestamp="1469174387259">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/workflows.xml" timestamp="1473841416029">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="22" column="53" />
+        <mark key="." line="22" column="53" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/product_dimension/product.py" timestamp="1469649273645">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/static/src/xml/document_viewer.xml" timestamp="1466176202617">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/documents/__openerp__.py" timestamp="1466526344189">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/requirements.txt" timestamp="1469291114162">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="10" />
+        <mark key="^" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/essential.sls" timestamp="1473935316749">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/utils.py" timestamp="1474028081031">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/admin.html" timestamp="1469112315713">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_features/model/product_feature.py" timestamp="1470149725435">
+        <mark key="[" line="27" column="75" />
+        <mark key="]" line="27" column="93" />
+        <mark key="." line="27" column="93" />
+        <mark key="^" line="27" column="93" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/Vagrantfile" timestamp="1474287467422">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="38" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="24" column="38" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/vault-ui/partials/main.html" timestamp="1469445846462">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="20" column="48" />
+        <mark key="." line="20" column="48" />
+        <mark key="^" line="20" column="48" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/api.py" timestamp="1475216668662">
+        <mark key="'" line="77" column="88" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="77" column="88" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/directives/itCategoryChooser.html" timestamp="1469793186244">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/README.md" timestamp="1469274182443">
+        <mark key="[" line="85" column="29" />
+        <mark key="]" line="88" column="65" />
+        <mark key="." line="88" column="65" />
+        <mark key="^" line="88" column="65" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" timestamp="1474971248768">
+        <mark key="'" line="91" column="48" />
+        <mark key="[" line="85" column="48" />
+        <mark key="]" line="85" column="64" />
+        <mark key="." line="85" column="64" />
+        <mark key="^" line="85" column="64" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/inbox/test/empty_email" timestamp="1476250395447">
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="2" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/index.html" timestamp="1469790881456">
+        <mark key="'" line="34" column="37" />
+        <mark key="[" line="65" column="44" />
+        <mark key="]" line="65" column="44" />
+        <mark key="." line="65" column="44" />
+        <mark key="^" line="65" column="44" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/views.py" timestamp="1476250304091">
+        <mark key="'" line="12" column="35" />
+        <mark key="[" line="40" column="32" />
+        <mark key="]" line="40" column="32" />
+        <mark key="^" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/sale_view.xml" timestamp="1476197524601">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="14" column="68" />
+        <mark key="]" line="15" column="91" />
+        <mark key="." line="15" column="91" />
+        <mark key="^" line="15" column="91" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/purchase.py" timestamp="1474370249026">
+        <mark key="'" line="59" column="13" />
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="44" />
+        <mark key="^" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/docker.sls" timestamp="1475129289989">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/product.xml" timestamp="1473746764815">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="49" column="9" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="71" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1469798710255">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="135" column="53" />
+        <mark key="]" line="136" column="28" />
+        <mark key="." line="136" column="28" />
+        <mark key="^" line="136" column="28" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/itDatacardTypesEdit.html" timestamp="1470119875803">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1475232132188">
+        <mark key="'" line="209" column="34" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="108" />
+        <mark key="." line="218" column="57" />
+        <mark key="^" line="218" column="102" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="24" />
+        <mark key="." line="35" column="24" />
+        <mark key="^" line="35" column="24" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/task/export.py" timestamp="1467277207894">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/__openerp__.py" timestamp="1466706627124">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/sale_invoicing_policy/__openerp__.py" timestamp="1474379854468">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+      </file>
+      <file name="$USER_HOME$/Italamo/converter/celeryconfig.py" timestamp="1467111007413">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" timestamp="1476301763783">
+        <mark key="'" line="8" column="1" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="38" column="68" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/__openerp__.py" timestamp="1474535411062">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/case/show.html" timestamp="1475135174242">
+        <mark key="'" line="11" column="79" />
+        <mark key="[" line="69" column="155" />
+        <mark key="]" line="69" column="155" />
+        <mark key="^" line="69" column="172" />
+        <mark key="." line="69" column="155" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/discussion/models.py" timestamp="1475234529517">
+        <mark key="'" line="299" column="39" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" timestamp="1470040353396">
+        <mark key="'" line="14" column="26" />
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="13" column="54" />
+        <mark key="." line="13" column="54" />
+        <mark key="^" line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/vault-ui/src/index.html" timestamp="1469442016720">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/tika/tika.service" timestamp="1473933816192">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/vault-ui/index.html" timestamp="1469444763782">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" timestamp="1473093880185">
+        <mark key="'" line="25" column="7" />
+        <mark key="[" line="87" column="4" />
+        <mark key="]" line="116" column="4" />
+        <mark key="." line="87" column="4" />
+        <mark key="^" line="116" column="4" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/product_dimension/product_view.xml" timestamp="1469649303601">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/urls.py" timestamp="1474272496350">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="35" column="61" />
+        <mark key="." line="35" column="89" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/category/models.py" timestamp="1469526341712">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/account_invoice.xml" timestamp="1471892826049">
+        <mark key="'" line="9" column="30" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="991" column="44" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="36" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="799" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="795" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="787" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="775" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="764" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="769" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="772" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="794" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="792" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="784" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="786" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="793" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="771" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
+      <jump line="1017" column="53" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="649" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="637" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="647" column="40" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="78" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="59" column="18" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="62" column="76" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="63" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="64" column="48" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="99" column="58" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="102" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="103" column="54" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="97" column="36" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="345" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="421" column="29" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="56" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="287" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="263" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="313" column="17" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="419" column="25" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="130" column="100" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="114" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="119" column="45" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="392" column="33" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="342" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="475" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="99" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="416" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="472" column="7" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="420" column="67" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="358" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="360" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="8" column="56" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="18" column="56" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="56" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="355" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="65" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="287" column="56" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="296" column="72" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="305" column="35" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="353" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="426" column="59" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="39" column="63" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
+      <jump line="12" column="39" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
+      <jump line="28" column="39" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
+      <jump line="31" column="39" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
+      <jump line="42" column="39" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
+      <jump line="281" column="31" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
+      <jump line="164" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="169" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="365" column="52" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/case/tools.py" />
+      <jump line="101" column="4" filename="$USER_HOME$/Italamo/italamo/apps/case/tools.py" />
+      <jump line="12" column="35" filename="$USER_HOME$/Italamo/italamo/apps/case/views.py" />
+      <jump line="357" column="0" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
+      <jump line="3" column="3" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/csv-dump-modal.html" />
+      <jump line="6" column="11" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/csv-dump-modal.html" />
+      <jump line="9" column="31" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/csv-dump-modal.html" />
+      <jump line="11" column="11" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/csv-dump-modal.html" />
+      <jump line="82" column="42" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/case.py" />
+      <jump line="584" column="13" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="236" column="20" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" />
+      <jump line="163" column="49" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="417" column="46" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="81" column="74" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="112" column="58" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="115" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="116" column="54" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="44" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="49" column="70" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="50" column="96" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="24" column="15" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
+      <jump line="82" column="43" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
+      <jump line="0" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
+      <jump line="45" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" />
+      <jump line="8" column="1" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" />
+      <jump line="628" column="17" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>weight</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPjxzdHJvbmc+Q3VzdG9tZXIgQWRkcmVzczo8L3N0cm9uZz48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdC1pZj0iby5wYXJ0bmVyX2lkIiBuYW1lPSJwYXJ0bmVyX2hlYWRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB0LWZpZWxkPSJvLnBhcnRuZXJfaWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdC1maWVsZC1vcHRpb25zPSd7IndpZGdldCI6ICJjb250YWN0IiwgImZpZWxkcyI6IFsiYWRkcmVzcyIsICJuYW1lIiwgInBob25lIiwgImZheCJdLCAibm9fbWFya2VyIjogdHJ1ZX0nLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4gICAgCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CgpjbGFzcyBzdG9ja19waWNraW5nX2NoZWNrX2Fzc2lnbl9hbGwobW9kZWxzLlRyYW5zaWVudE1vZGVsKToKICAgIF9pbmhlcml0ID0gJ3N0b2NrLnBpY2tpbmcuY2hlY2suYXNzaWduLmFsbCcKCiAgICBAYXBpLm11bHRpCiAgICBkZWYgY2hlY2soc2VsZik6CiAgICAgICAgc2VsZi5lbnN1cmVfb25lKCkKICAgICAgICBzdXBlcihzdG9ja19waWNraW5nX2NoZWNrX2Fzc2lnbl9hbGwsIHNlbGYpLmNoZWNrKCkKCiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgJ3R5cGUnOiAnaXIuYWN0aW9ucy5yZXBvcnQueG1sJywKICAgICAgICAgICAgJ3JlcG9ydF9uYW1lJzogJ3BvYi5yZXBvcnRfcG9iX2RlbGl2ZXJ5X2xhYmVsJywKICAgICAgICAgICAgJ2RhdGFzJzogewogICAgICAgICAgICAgICAgJ2lkcyc6IHNlbGYuZW52LmNvbnRleHQuZ2V0KCdhY3RpdmVfaWRzJywgW10pLAogICAgICAgICAgICAgICAgJ21vZGVsJzogJ3N0b2NrLnBpY2tpbmcnLAogICAgICAgICAgICB9LAogICAgICAgIH0K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>weight</last-search>
+      <last-offset />
+      <last-pattern>weight</last-pattern>
+      <last-replace encoding="base64">ICAgIA==</last-replace>
+      <last-substitute>\t</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>NotificationCode</entry>
+        <entry>Notification\.</entry>
+        <entry>ns0</entry>
+        <entry>Notification</entry>
+        <entry>RequestT</entry>
+        <entry>ShipmentType</entry>
+        <entry>PaymentInformation</entry>
+        <entry>NotificationType</entry>
+        <entry>Prestashop cus</entry>
+        <entry>Order message</entry>
+        <entry>Closed</entry>
+        <entry>write_c</entry>
+        <entry>type_id</entry>
+        <entry>write_</entry>
+        <entry>csv-dump-mod</entry>
+        <entry>html</entry>
+        <entry>estimated</entry>
+        <entry>estimated price</entry>
+        <entry>check_required_value</entry>
+        <entry>weight</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>S</entry>
+        <entry>s</entry>
+        <entry>a</entry>
+        <entry>.w</entry>
+        <entry>ww</entry>
+        <entry>d</entry>
+        <entry>q</entry>
+        <entry>w:w</entry>
+        <entry>1</entry>
+        <entry>reg</entry>
+        <entry>%sort</entry>
+        <entry encoding="base64">JzwsJz4lc29ydA==</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>3</entry>
+        <entry>:w</entry>
+        <entry encoding="base64">JzwsJz5zL1x0LyAgICAvZw==</entry>
+        <entry>set ignorecase smartcase</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

@@ -1,0 +1,625 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.4.1 (/usr/bin/python3.4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.1" />
+      <homePath value="/usr/bin/python3.4" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-linux" />
+            <root type="simple" url="file:///usr/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1247971765" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.8 virtualenv at ~/.virtualenvs/fuel" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="$USER_HOME$/.virtualenvs/fuel/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fuel/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fuel/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fuel/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm30/system/python_stubs/1128314843" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Mirantis/vagrant/sources/fuel-web">
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://$USER_HOME$/Mirantis/fuel-dev-vm/src/fuel-web/nailgun" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.3 (vagrant:///home/przemek/Mirantis/vagrant/home/vagrant/.virtualenvs/fuel/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="vagrant:///home/przemek/Mirantis/vagrant/home/vagrant/.virtualenvs/fuel/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/721478080" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/721478080/277818121" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/721478080/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/721478080/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/721478080/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/721478080/-2004068215" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/721478080/1202906157" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/Mirantis/vagrant" INTERPRETER_PATH="/home/vagrant/.virtualenvs/fuel/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="undefined">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/721478080/277818121" remote-root="/home/vagrant/.virtualenvs/fuel/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/721478080/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/721478080/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/721478080/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/721478080/-2004068215" remote-root="/home/vagrant/.virtualenvs/fuel/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/721478080/1202906157" remote-root="/home/vagrant/.virtualenvs/fuel/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.8 virtualenv at ~/.virtualenvs/monasca-agent" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="$USER_HOME$/.virtualenvs/monasca-agent/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/monasca-agent/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/monasca-agent/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/monasca-agent/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/site-packages/gtk-2.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/865500033" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git-work/github/monasca-agent" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.9 virtualenv at ~/.virtualenvs/python27" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="$USER_HOME$/.virtualenvs/python27/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/python27/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/python27/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/python27/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1683429776" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (vagrant:///home/przemek/git-work/github/celery-astute/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///home/przemek/git-work/github/celery-astute/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1341324773" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-1341324773/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-1341324773/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-1341324773/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-1341324773/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-1341324773/-125940560" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/git-work/github/celery-astute" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="undefined">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-1341324773/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-1341324773/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-1341324773/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-1341324773/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-1341324773/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (vagrant:///home/przemek/Italamo/italamo/home/vagrant/env/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="vagrant:///home/przemek/Italamo/italamo/home/vagrant/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/508210813/-1744706832" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/508210813/1430841812" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/508210813/796011508" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/508210813/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/508210813/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/508210813/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/508210813/-396839436" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/508210813/-1715442216" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/508210813/-1744706832" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/508210813/1430841812" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/508210813/796011508" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/508210813/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/508210813/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/508210813/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/508210813/-396839436" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/508210813/-1715442216" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/508210813/2076355561" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/508210813" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/Italamo/italamo" INTERPRETER_PATH="/home/vagrant/env/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/508210813/-1744706832" remote-root="/home/vagrant/env/local/lib/python2.7/site-packages/pycharm-debug.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/508210813/1430841812" remote-root="/home/vagrant/env/lib/python2.7/site-packages/pycharm-debug.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/508210813/796011508" remote-root="/home/vagrant/env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/508210813/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/508210813/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/508210813/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/508210813/-396839436" remote-root="/home/vagrant/env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/508210813/-1715442216" remote-root="/home/vagrant/env/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/508210813/-1744706832" remote-root="/home/vagrant/env/local/lib/python2.7/site-packages/pycharm-debug.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/508210813/1430841812" remote-root="/home/vagrant/env/lib/python2.7/site-packages/pycharm-debug.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/508210813/796011508" remote-root="/home/vagrant/env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/508210813/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/508210813/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/508210813/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/508210813/-396839436" remote-root="/home/vagrant/env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/508210813/-1715442216" remote-root="/home/vagrant/env/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/508210813/2076355561" remote-root="/home/vagrant/italamo/djorm-ext-pgfulltext" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.9 virtualenv at ~/.virtualenvs/pyxos" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="$USER_HOME$/.virtualenvs/pyxos/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pyxos/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pyxos/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pyxos/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-870129278" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.9 virtualenv at ~/.virtualenvs/solar" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="$USER_HOME$/.virtualenvs/solar/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/git-work/github/fuel-ng/solar" />
+            <root type="simple" url="file://$USER_HOME$/git-work/github/raven-python" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/solar/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/solar/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/solar/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1157947572" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/.virtualenvs/pyra" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/pyra/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pyra/lib/python3.4" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pyra/lib/python3.4/plat-linux" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pyra/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-linux" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/pyra/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/357514841" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/italamo" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/.virtualenvs/italamo/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/italamo/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/italamo/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1741952248" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Jython 2.7.0 (/opt/jython/bin/jython)" />
+      <type value="Python SDK" />
+      <version value="Jython 2.7.0" />
+      <homePath value="/opt/jython/bin/jython" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///opt/jython/Lib" />
+            <root type="simple" url="file:///opt/jython/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1114639092" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/AI" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/.virtualenvs/AI/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/AI/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/AI/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/AI/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/552230313" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.0 virtualenv at ~/.virtualenvs/classifier" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/.virtualenvs/classifier/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/classifier/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/classifier/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/classifier/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1105778672" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.10 Vagrant VM at ~/git-work/github/odoo (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="vagrant:///home/przemek/git-work/github/ODOO/odoo/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-118031115" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-719428744" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/230124869" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/vobject-0.8.1rc0-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/vatnumber-1.2-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/suds_jurko-0.6-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-955472835" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/qrcode-5.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/pyusb-1.0.0b2-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/pytz-2015.7-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/python_openid-2.2.5-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-655316765" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/python_dateutil-2.4.2-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/pyserial-3.0.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/pyPdf-1.13-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1683027632" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/pydot-1.0.2-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/Python_Chart-1.39-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/180893651" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/psycogreen-1.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/2132346186" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/Pillow-3.1.0-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/passlib-1.6.5-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/ofxparse-0.14-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-464261708" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/186865410" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1961791750" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/53247354" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/feedparser-5.2.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/1056668556" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/934895301" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1644889394" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1117634937" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1673229279" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/1607835310" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1289283958" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-13928277" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1245392368" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-125940560" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-118031115" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/vatnumber-1.2-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/suds_jurko-0.6-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/qrcode-5.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/pyusb-1.0.0b2-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/python_openid-2.2.5-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/pyPdf-1.13-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/pydot-1.0.2-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/Python_Chart-1.39-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/psycogreen-1.0-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/Pillow-3.1.0-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/ofxparse-0.14-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/1056668556" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-1117634937" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-1673229279" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/1607835310" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-1289283958" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-13928277" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-125940560" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm50/system/python_stubs/1719316859" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/git-work/github/ODOO/odoo" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.10">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-118031115" remote-root="/usr/local/lib/python2.7/dist-packages/odoo-9.0rc0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-719428744" remote-root="/usr/local/lib/python2.7/dist-packages/xlwt-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/230124869" remote-root="/usr/local/lib/python2.7/dist-packages/Werkzeug-0.11.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/vobject-0.8.1rc0-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/vobject-0.8.1rc0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/vatnumber-1.2-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/vatnumber-1.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/suds_jurko-0.6-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/suds_jurko-0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-955472835" remote-root="/usr/local/lib/python2.7/dist-packages/reportlab-3.2.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/qrcode-5.1-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/qrcode-5.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/pyusb-1.0.0b2-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/pyusb-1.0.0b2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/pytz-2015.7-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/pytz-2015.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/python_openid-2.2.5-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/python_openid-2.2.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-655316765" remote-root="/usr/local/lib/python2.7/dist-packages/python_ldap-2.4.22-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/python_dateutil-2.4.2-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/python_dateutil-2.4.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/pyserial-3.0.1-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/pyserial-3.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/pyPdf-1.13-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/pyPdf-1.13-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1683027632" remote-root="/usr/local/lib/python2.7/dist-packages/pyparsing-2.0.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/pydot-1.0.2-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/pydot-1.0.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/Python_Chart-1.39-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Python_Chart-1.39-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/180893651" remote-root="/usr/local/lib/python2.7/dist-packages/psycopg2-2.6.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/psycogreen-1.0-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/psycogreen-1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/2132346186" remote-root="/usr/local/lib/python2.7/dist-packages/psutil-3.3.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/Pillow-3.1.0-py2.7-linux-x86_64.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Pillow-3.1.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/passlib-1.6.5-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/passlib-1.6.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/ofxparse-0.14-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/ofxparse-0.14-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-464261708" remote-root="/usr/local/lib/python2.7/dist-packages/mock-1.3.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/186865410" remote-root="/usr/local/lib/python2.7/dist-packages/Mako-1.0.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1961791750" remote-root="/usr/local/lib/python2.7/dist-packages/Jinja2-2.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/53247354" remote-root="/usr/local/lib/python2.7/dist-packages/gevent-1.1rc3-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/feedparser-5.2.1-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/feedparser-5.2.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/1056668556" remote-root="/usr/local/lib/python2.7/dist-packages/docutils-0.12-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/934895301" remote-root="/usr/local/lib/python2.7/dist-packages/decorator-4.0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1644889394" remote-root="/usr/local/lib/python2.7/dist-packages/Babel-2.2.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1117634937" remote-root="/usr/local/lib/python2.7/dist-packages/python_stdnum-1.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1673229279" remote-root="/usr/local/lib/python2.7/dist-packages/pip-7.1.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/1607835310" remote-root="/usr/local/lib/python2.7/dist-packages/funcsigs-0.4-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1289283958" remote-root="/usr/local/lib/python2.7/dist-packages/pbr-1.8.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-13928277" remote-root="/usr/local/lib/python2.7/dist-packages/MarkupSafe-0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1245392368" remote-root="/usr/local/lib/python2.7/dist-packages/greenlet-0.4.9-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1456516253/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-118031115" remote-root="/usr/local/lib/python2.7/dist-packages/odoo-9.0rc0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/vatnumber-1.2-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/vatnumber-1.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/suds_jurko-0.6-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/suds_jurko-0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/qrcode-5.1-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/qrcode-5.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/pyusb-1.0.0b2-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/pyusb-1.0.0b2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/python_openid-2.2.5-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/python_openid-2.2.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/pyPdf-1.13-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/pyPdf-1.13-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/pydot-1.0.2-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/pydot-1.0.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/Python_Chart-1.39-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Python_Chart-1.39-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/psycogreen-1.0-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/psycogreen-1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/Pillow-3.1.0-py2.7-linux-x86_64.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Pillow-3.1.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/ofxparse-0.14-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/ofxparse-0.14-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/1056668556" remote-root="/usr/local/lib/python2.7/dist-packages/docutils-0.12-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-1117634937" remote-root="/usr/local/lib/python2.7/dist-packages/python_stdnum-1.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-1673229279" remote-root="/usr/local/lib/python2.7/dist-packages/pip-7.1.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/1607835310" remote-root="/usr/local/lib/python2.7/dist-packages/funcsigs-0.4-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-1289283958" remote-root="/usr/local/lib/python2.7/dist-packages/pbr-1.8.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-13928277" remote-root="/usr/local/lib/python2.7/dist-packages/MarkupSafe-0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm50/system/remote_sources/1719316859/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at ~/.virtualenvs/crossbar" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/.virtualenvs/crossbar/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/crossbar/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/crossbar/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-linux2" />
+            <root type="simple" url="file:///usr/lib64/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/crossbar/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/296594078" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/.virtualenvs/converter" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.virtualenvs/converter/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/converter/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/converter/lib/python3.5/plat-linux" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/converter/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib64/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-linux" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/converter/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1334117771" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
