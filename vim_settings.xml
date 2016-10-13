@@ -107,11 +107,11 @@
         <mark key="." line="21" column="61" />
         <mark key="^" line="21" column="61" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/__openerp__.py" timestamp="1476105722847">
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
-        <mark key="^" line="26" column="31" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/__openerp__.py" timestamp="1476358043533">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="25" column="22" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" timestamp="1476340521812">
         <mark key="'" line="103" column="57" />
@@ -372,6 +372,13 @@
         <mark key="^" line="37" column="89" />
         <mark key="." line="37" column="89" />
       </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/mail_mail.py" timestamp="1476358955073">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/document/models.py" timestamp="1476336988543">
         <mark key="'" line="217" column="6" />
         <mark key="[" line="128" column="30" />
@@ -425,11 +432,11 @@
         <mark key="." line="213" column="71" />
         <mark key="^" line="212" column="60" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/__init__.py" timestamp="1476105423128">
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/__init__.py" timestamp="1476358006075">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/worker.py" timestamp="1476341928563">
         <mark key="'" line="39" column="4" />
@@ -1464,8 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="103" column="54" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="97" column="36" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="345" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="421" column="29" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
@@ -1564,6 +1569,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/cloudconverter/views.py" />
       <jump line="172" column="22" filename="$USER_HOME$/Italamo/converter/worker.py" />
       <jump line="39" column="4" filename="$USER_HOME$/Italamo/converter/worker.py" />
+      <jump line="9" column="18" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/mail_mail.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/mail_mail.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1584,7 +1591,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>body</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1599,40 +1606,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text>error_call</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAneGxzeCc6ICdhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC5zaGVldCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keSB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhyZWY9IiUoZG9tYWluKXMvaG9sbGFuZGJpb19jdXN0b21pemF0aW9ucy9zdGF0aWMvc3JjL2Nzcy9mb250cy9jb3JiZWwudHRmIiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBvcGVuZXJwIGltcG9ydCB0b29scwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcl9jYWxsYmFja19yZW5kZXJlZF91cmw9cmV0LnJlcXVlc3QudXJsLAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I0NPTlZFUlRFUl9BUElfS0VZID0gJzRjNjZlMjMwLWJmMTctNGNiOC1hNTE1LTVmZWI2NzQxZWNhYScK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I0NPTlZFUlRFUl9BUElfS0VZID0gJzRjNjZlMjMwLWJmMTctNGNiOC1hNTE1LTVmZWI2NzQxZWNhYScK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I0RPQ0tFUl9XRUJfSE9TVCA9ICdpdGFsYW1vLXZhZ3JhbnQ6ODAnCg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q09OVkVSVEVSX0FQSV9LRVkgPSAnNzg5NGQyOTUtNDc3ZC00NzdmLTk3YjctNzViMzYxMjViM2U4Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
