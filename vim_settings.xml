@@ -23,12 +23,6 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="60" column="70" />
       </file>
-      <file name="$USER_HOME$/Italamo/converter/settings.py" timestamp="1474039764521">
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="35" />
-        <mark key="." line="39" column="35" />
-        <mark key="^" line="39" column="35" />
-      </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/odoo/serializers.py" timestamp="1465970484078">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="9" column="33" />
@@ -1289,8 +1283,8 @@
         <mark key="." line="20" column="48" />
         <mark key="^" line="20" column="48" />
       </file>
-      <file name="$USER_HOME$/Italamo/converter/api.py" timestamp="1475216668662">
-        <mark key="'" line="77" column="88" />
+      <file name="$USER_HOME$/Italamo/converter/api.py" timestamp="1476337497699">
+        <mark key="'" line="126" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1504,8 +1498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="647" column="40" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="78" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="59" column="18" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="62" column="76" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="63" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
@@ -1604,6 +1596,8 @@
       <jump line="571" column="13" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
       <jump line="43" column="18" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="55" column="92" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Italamo/converter/api.py" />
+      <jump line="126" column="4" filename="$USER_HOME$/Italamo/converter/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1642,7 +1636,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>CONVERTER_PRO</text>
+        <text>conversion_pat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPjxzdHJvbmc+Q3VzdG9tZXIgQWRkcmVzczo8L3N0cm9uZz48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdC1pZj0iby5wYXJ0bmVyX2lkIiBuYW1lPSJwYXJ0bmVyX2hlYWRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB0LWZpZWxkPSJvLnBhcnRuZXJfaWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdC1maWVsZC1vcHRpb25zPSd7IndpZGdldCI6ICJjb250YWN0IiwgImZpZWxkcyI6IFsiYWRkcmVzcyIsICJuYW1lIiwgInBob25lIiwgImZheCJdLCAibm9fbWFya2VyIjogdHJ1ZX0nLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4gICAgCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
@@ -1679,9 +1673,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CONVERTER_PRO</last-search>
+      <last-search>conversion_pat</last-search>
       <last-offset />
-      <last-pattern>CONVERTER_PRO</last-pattern>
+      <last-pattern>conversion_pat</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1689,8 +1683,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Prestashop cus</entry>
-        <entry>Order message</entry>
         <entry>Closed</entry>
         <entry>write_c</entry>
         <entry>type_id</entry>
@@ -1709,6 +1701,8 @@
         <entry>CHECK_F</entry>
         <entry>CHECK</entry>
         <entry>CONVERTER_PRO</entry>
+        <entry>check_</entry>
+        <entry>conversion_pat</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
