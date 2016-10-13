@@ -348,12 +348,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476363259044">
-        <mark key="'" line="1255" column="32" />
-        <mark key="[" line="992" column="25" />
-        <mark key="]" line="992" column="26" />
-        <mark key="." line="992" column="26" />
-        <mark key="^" line="992" column="26" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476363871300">
+        <mark key="'" line="1235" column="30" />
+        <mark key="[" line="606" column="23" />
+        <mark key="]" line="606" column="26" />
+        <mark key="." line="606" column="26" />
+        <mark key="^" line="606" column="26" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/results.py" timestamp="1474025241231">
         <mark key="'" line="0" column="0" />
@@ -1469,11 +1469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="263" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="313" column="17" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="419" column="25" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="130" column="100" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="114" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="119" column="45" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="392" column="33" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
@@ -1569,6 +1564,11 @@
       <jump line="1257" column="2" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="43" column="42" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/pob_data.xml" />
       <jump line="1251" column="32" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="992" column="26" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="1207" column="34" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="1208" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="1214" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="1235" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1589,7 +1589,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>i.size[1]</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1604,10 +1604,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i.size[1]</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get_ups_</text>
+        <text>sale\.order</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQGZvbnQtZmFjZSB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICAgICAgc3JjOiB1cmwoJShkb21haW4pcy9ob2xsYW5kYmlvX2N1c3RvbWl6YXRpb25zL3N0YXRpYy9zcmMvY3NzL2ZvbnRzL2NvcmJlbGkudHRmKTsKICAgICAgICAgICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYywgb2JsaXF1ZTsKICAgICAgICAgICAgfQo=</text>
@@ -1644,9 +1644,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_ups_</last-search>
+      <last-search>sale\.order</last-search>
       <last-offset />
-      <last-pattern>get_ups_</last-pattern>
+      <last-pattern>sale\.order</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1654,7 +1654,6 @@
     </search>
     <history>
       <history-search>
-        <entry>estimated</entry>
         <entry>estimated price</entry>
         <entry>check_required_value</entry>
         <entry>weight</entry>
@@ -1674,6 +1673,7 @@
         <entry>report</entry>
         <entry>Delivery La</entry>
         <entry>get_ups_</entry>
+        <entry>sale\.order</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
