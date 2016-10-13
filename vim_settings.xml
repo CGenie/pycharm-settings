@@ -62,9 +62,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="88" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" timestamp="1476200599987">
-        <mark key="'" line="426" column="59" />
-      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/sale_workflows.xml" timestamp="1474893195094">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="57" column="36" />
@@ -103,9 +100,6 @@
         <mark key="]" line="56" column="49" />
         <mark key="." line="56" column="49" />
         <mark key="^" line="56" column="49" />
-      </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/css/app/combined.css" timestamp="1475139118107">
-        <mark key="'" line="5030" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/views/inherited_view.xml" timestamp="1473418862515">
         <mark key="[" line="21" column="61" />
@@ -195,9 +189,6 @@
         <mark key="." line="29" column="19" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" timestamp="1474878678719">
-        <mark key="'" line="51" column="16" />
-      </file>
       <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.coffee" timestamp="1469446761933">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="25" column="28" />
@@ -276,9 +267,6 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" timestamp="1475089308834">
-        <mark key="'" line="89" column="14" />
-      </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" timestamp="1473166187397">
         <mark key="'" line="5" column="5" />
         <mark key="[" line="18" column="0" />
@@ -310,9 +298,6 @@
         <mark key="]" line="25" column="69" />
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="69" />
-      </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/case/tools.py" timestamp="1476250270909">
-        <mark key="'" line="101" column="4" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/security/italamo_security.xml" timestamp="1466091041446">
         <mark key="[" line="5" column="34" />
@@ -453,9 +438,6 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob_extension_multilang/prestashop_bridge_multilang.py" timestamp="1474899514450">
-        <mark key="'" line="962" column="4" />
-      </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/wait.coffee" timestamp="1473155493253">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="0" />
@@ -551,9 +533,6 @@
         <mark key="]" line="9" column="68" />
         <mark key="^" line="9" column="68" />
         <mark key="." line="9" column="68" />
-      </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob_extension_multilang/prestapi/prestapi.py" timestamp="1474899639146">
-        <mark key="'" line="94" column="8" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/base.html" timestamp="1471888795175">
         <mark key="[" line="4" column="18" />
@@ -691,10 +670,10 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="127" column="10" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/cloudconverter/views.py" timestamp="1474108229426">
-        <mark key="'" line="21" column="40" />
-        <mark key="[" line="30" column="68" />
-        <mark key="]" line="30" column="83" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/cloudconverter/views.py" timestamp="1476341711225">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="32" column="67" />
         <mark key="^" line="30" column="83" />
         <mark key="." line="30" column="83" />
       </file>
@@ -800,9 +779,6 @@
         <mark key="]" line="4" column="44" />
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
-      </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/case.py" timestamp="1476252431028">
-        <mark key="'" line="82" column="42" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/webdev.sls" timestamp="1474277554807">
         <mark key="[" line="0" column="0" />
@@ -966,9 +942,6 @@
         <mark key="." line="23" column="45" />
         <mark key="^" line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/notifications/notification.py" timestamp="1475212654351">
-        <mark key="'" line="209" column="42" />
-      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_product_attributes/view/prestashop_bridge_product_attributes_view.xml" timestamp="1470130672309">
         <mark key="[" line="18" column="70" />
         <mark key="]" line="18" column="70" />
@@ -987,9 +960,6 @@
         <mark key="]" line="3" column="26" />
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/case/models.py" timestamp="1475089374546">
-        <mark key="'" line="335" column="20" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/search/entries/collection.html" timestamp="1467016521388">
         <mark key="[" line="2" column="47" />
@@ -1434,9 +1404,6 @@
         <mark key="^" line="69" column="172" />
         <mark key="." line="69" column="155" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/discussion/models.py" timestamp="1475234529517">
-        <mark key="'" line="299" column="39" />
-      </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" timestamp="1470040353396">
         <mark key="'" line="14" column="26" />
         <mark key="[" line="12" column="28" />
@@ -1498,7 +1465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="64" column="48" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="99" column="58" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="102" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
@@ -1598,6 +1564,7 @@
       <jump line="126" column="4" filename="$USER_HOME$/Italamo/converter/api.py" />
       <jump line="41" column="6" filename="$USER_HOME$/Italamo/italamo/italamo/settings/prod.py" />
       <jump line="103" column="57" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/cloudconverter/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1617,8 +1584,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>https://1b3ecc8f2ea24a0c97f515c2e4c6b71c:3c706fbdff4f4fdf96759902aa863110@sentry.pyproject.ninja/8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIGNhbGxiYWNrKHJlcXVlc3QpOgogICAgVGVuYW50ID0gbW9kZWxzLmdldF9tb2RlbCgnYWNjb3VudCcsICdUZW5hbnQnKQogICAgdGVuYW50ID0gVGVuYW50LmdldF9jdXJyZW50X3RlbmFudCgpCiAgICBjb252ZXJzaW9uX2lkID0gcmVxdWVzdC5HRVQuZ2V0KCdpZCcpCiAgICBjb252ZXJzaW9uX3VybCA9IHJlcXVlc3QuR0VULmdldCgndXJsJykKICAgIGNvbnZlcnNpb25fc3RlcCA9IHJlcXVlc3QuR0VULmdldCgnc3RlcCcpCiAgICBpZiBjb252ZXJzaW9uX3N0ZXAgPT0gJ2Vycm9yJzoKICAgICAgICBlcnJvcl9tZXNzYWdlX3VybCA9IHJlcXVlc3QuR0VULmdldCgnZXJyb3JfbWVzc2FnZV91cmwnKQogICAgICAgIGVycm9yX21lc3NhZ2UgPSBOb25lCiAgICAgICAgaWYgZXJyb3JfbWVzc2FnZV91cmw6CiAgICAgICAgICAgIGVycm9yX21lc3NhZ2UgPSByZXF1ZXN0cy5nZXQoZXJyb3JfbWVzc2FnZV91cmwpLnRleHQKICAgICAgICBsb2dnZXIuZXJyb3IoJ0FuIGVycm9yIG9jY3VyZWQgd2hpbGUgY29udmVydGluZyBmaWxlOiAlcycsIGVycm9yX21lc3NhZ2UpCiAgICAgICAgcmFpc2UgSHR0cDQwNCgnQW4gZXJyb3Igb2NjdXJyZWQgd2hpbGUgY29udmVydGluZyBmaWxlIScpCiAgICBpZiBjb252ZXJzaW9uX3VybCBpcyBOb25lOgogICAgICAgIHJhaXNlIEh0dHA0MDQoJ0FuIGVycm9yIG9jY3VycmVkIHdoaWxlIHByb2Nlc3NpbmcgcmVxdWVzdCEnKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1636,7 +1603,7 @@
         <text>https://1b3ecc8f2ea24a0c97f515c2e4c6b71c:3c706fbdff4f4fdf96759902aa863110@sentry.pyproject.ninja/8</text>
       </register>
       <register name="/" type="4">
-        <text>SENTRY</text>
+        <text>call</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAneGxzeCc6ICdhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQuc3ByZWFkc2hlZXRtbC5zaGVldCcsCg==</text>
@@ -1673,9 +1640,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SENTRY</last-search>
+      <last-search>call</last-search>
       <last-offset />
-      <last-pattern>SENTRY</last-pattern>
+      <last-pattern>call</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1683,7 +1650,6 @@
     </search>
     <history>
       <history-search>
-        <entry>write_c</entry>
         <entry>type_id</entry>
         <entry>write_</entry>
         <entry>csv-dump-mod</entry>
@@ -1703,6 +1669,7 @@
         <entry>check_</entry>
         <entry>conversion_pat</entry>
         <entry>SENTRY</entry>
+        <entry>call</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
