@@ -9,12 +9,12 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" timestamp="1475212519677">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" timestamp="1476335811195">
+        <mark key="'" line="13" column="14" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_multishop/prestashop_bridge_multishop.py" timestamp="1474377051541">
         <mark key="'" line="84" column="8" />
@@ -125,11 +125,12 @@
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" timestamp="1475212508570">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="19" />
-        <mark key="^" line="37" column="13" />
-        <mark key="." line="37" column="19" />
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" timestamp="1476335320293">
+        <mark key="'" line="82" column="19" />
+        <mark key="[" line="103" column="21" />
+        <mark key="]" line="103" column="56" />
+        <mark key="^" line="103" column="56" />
+        <mark key="." line="103" column="56" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/import-uploaded-file.html" timestamp="1474969539450">
         <mark key="'" line="0" column="27" />
@@ -531,11 +532,11 @@
         <mark key="." line="63" column="36" />
         <mark key="^" line="63" column="14" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" timestamp="1476265510194">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="29" column="121" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" timestamp="1476334801434">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="68" />
+        <mark key="^" line="9" column="68" />
+        <mark key="." line="9" column="68" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob_extension_multilang/prestapi/prestapi.py" timestamp="1474899639146">
         <mark key="'" line="94" column="8" />
@@ -1173,6 +1174,13 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" timestamp="1476334936002">
+        <mark key="'" line="138" column="3" />
+        <mark key="[" line="412" column="16" />
+        <mark key="]" line="412" column="18" />
+        <mark key="^" line="412" column="18" />
+        <mark key="." line="412" column="18" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/it-graph.html" timestamp="1475137548236">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="29" />
@@ -1469,13 +1477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="991" column="44" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="36" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="799" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="795" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="787" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="775" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="764" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="769" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="772" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="794" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
@@ -1569,6 +1570,13 @@
       <jump line="77" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" />
       <jump line="8" column="1" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" />
       <jump line="628" column="17" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="482" column="19" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
+      <jump line="205" column="3" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
+      <jump line="221" column="3" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
+      <jump line="400" column="5" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
+      <jump line="138" column="3" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
+      <jump line="82" column="19" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
+      <jump line="13" column="14" filename="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1589,7 +1597,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0NPTlZFUlRFUl9BUElfS0VZID0gJzRjNjZlMjMwLWJmMTctNGNiOC1hNTE1LTVmZWI2NzQxZWNhYScK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1607,22 +1615,22 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>weight</text>
+        <text>menu-button</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtNiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPjxzdHJvbmc+Q3VzdG9tZXIgQWRkcmVzczo8L3N0cm9uZz48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdC1pZj0iby5wYXJ0bmVyX2lkIiBuYW1lPSJwYXJ0bmVyX2hlYWRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB0LWZpZWxkPSJvLnBhcnRuZXJfaWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdC1maWVsZC1vcHRpb25zPSd7IndpZGdldCI6ICJjb250YWN0IiwgImZpZWxkcyI6IFsiYWRkcmVzcyIsICJuYW1lIiwgInBob25lIiwgImZheCJdLCAibm9fbWFya2VyIjogdHJ1ZX0nLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4gICAgCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0NPTlZFUlRFUl9BUElfS0VZID0gJzRjNjZlMjMwLWJmMTctNGNiOC1hNTE1LTVmZWI2NzQxZWNhYScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0NPTlZFUlRFUl9BUElfS0VZID0gJzRjNjZlMjMwLWJmMTctNGNiOC1hNTE1LTVmZWI2NzQxZWNhYScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0RPQ0tFUl9XRUJfSE9TVCA9ICdpdGFsYW1vLXZhZ3JhbnQ6ODAnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09OVkVSVEVSX0FQSV9LRVkgPSAnNzg5NGQyOTUtNDc3ZC00NzdmLTk3YjctNzViMzYxMjViM2U4Jwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1637,16 +1645,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgpjbGFzcyBzdG9ja19waWNraW5nX2NoZWNrX2Fzc2lnbl9hbGwobW9kZWxzLlRyYW5zaWVudE1vZGVsKToKICAgIF9pbmhlcml0ID0gJ3N0b2NrLnBpY2tpbmcuY2hlY2suYXNzaWduLmFsbCcKCiAgICBAYXBpLm11bHRpCiAgICBkZWYgY2hlY2soc2VsZik6CiAgICAgICAgc2VsZi5lbnN1cmVfb25lKCkKICAgICAgICBzdXBlcihzdG9ja19waWNraW5nX2NoZWNrX2Fzc2lnbl9hbGwsIHNlbGYpLmNoZWNrKCkKCiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgJ3R5cGUnOiAnaXIuYWN0aW9ucy5yZXBvcnQueG1sJywKICAgICAgICAgICAgJ3JlcG9ydF9uYW1lJzogJ3BvYi5yZXBvcnRfcG9iX2RlbGl2ZXJ5X2xhYmVsJywKICAgICAgICAgICAgJ2RhdGFzJzogewogICAgICAgICAgICAgICAgJ2lkcyc6IHNlbGYuZW52LmNvbnRleHQuZ2V0KCdhY3RpdmVfaWRzJywgW10pLAogICAgICAgICAgICAgICAgJ21vZGVsJzogJ3N0b2NrLnBpY2tpbmcnLAogICAgICAgICAgICB9LAogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>weight</last-search>
+      <last-search>menu-button</last-search>
       <last-offset />
-      <last-pattern>weight</last-pattern>
+      <last-pattern>menu-button</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1654,7 +1662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NotificationCode</entry>
         <entry>Notification\.</entry>
         <entry>ns0</entry>
         <entry>Notification</entry>
@@ -1674,6 +1681,7 @@
         <entry>estimated price</entry>
         <entry>check_required_value</entry>
         <entry>weight</entry>
+        <entry>menu-button</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
