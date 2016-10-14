@@ -429,11 +429,11 @@
         <mark key="." line="213" column="71" />
         <mark key="^" line="212" column="60" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/__init__.py" timestamp="1476358006075">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/__init__.py" timestamp="1476447206399">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/worker.py" timestamp="1476341928563">
         <mark key="'" line="39" column="4" />
@@ -499,11 +499,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="53" column="9" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" timestamp="1476105712971">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="9" column="45" />
-        <mark key="^" line="9" column="45" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" timestamp="1476448432312">
+        <mark key="'" line="41" column="44" />
+        <mark key="[" line="29" column="85" />
+        <mark key="]" line="29" column="126" />
+        <mark key="^" line="29" column="126" />
+        <mark key="." line="29" column="126" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" timestamp="1476337325330">
         <mark key="'" line="571" column="13" />
@@ -1136,6 +1137,12 @@
         <mark key="." line="77" column="25" />
         <mark key="^" line="59" column="17" />
       </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/res_partner.py" timestamp="1476447173043">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/security/ir.model.access.csv" timestamp="1466091054477">
         <mark key="[" line="2" column="96" />
         <mark key="]" line="2" column="100" />
@@ -1486,12 +1493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="365" column="52" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/case/tools.py" />
-      <jump line="101" column="4" filename="$USER_HOME$/Italamo/italamo/apps/case/tools.py" />
-      <jump line="12" column="35" filename="$USER_HOME$/Italamo/italamo/apps/case/views.py" />
       <jump line="357" column="0" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
       <jump line="3" column="3" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/csv-dump-modal.html" />
       <jump line="6" column="11" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/csv-dump-modal.html" />
@@ -1586,6 +1587,12 @@
       <jump line="208" column="118" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="210" column="94" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="211" column="107" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="22" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" />
+      <jump line="12" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" />
+      <jump line="15" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" />
+      <jump line="18" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" />
+      <jump line="21" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" />
+      <jump line="24" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1606,7 +1613,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>line.unit_sale_price</text>
+        <text>required</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1621,49 +1628,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>line.unit_sale_price</text>
+        <text>required</text>
       </register>
       <register name="/" type="4">
-        <text>missing</text>
+        <text>readonly</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2R1Y3RfaWQnOiBsaW5lLnByb2R1Y3RfaWQuaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVjb3JkIG1vZGVsPSJpci51aS52aWV3IiBpZD0idmlld19wYXJ0bmVyX2Zvcm0iPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0ibmFtZSI+cmVzLnBhcnRuZXIuZm9ybTwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJtb2RlbCI+cmVzLnBhcnRuZXI8L2ZpZWxkPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iaW5oZXJpdF9pZCIgcmVmPSJiYXNlLnZpZXdfcGFydG5lcl9mb3JtIiAvPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iYXJjaCIgdHlwZT0ieG1sIj4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2VtYWlsJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC9maWVsZFtAbmFtZT0ndGl0bGUnXSIgcG9zaXRpb249ImF0dHJpYnV0ZXMiPgogICAgICAgICAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0icmVxdWlyZWQiPlsoJ2lzX2NvbXBhbnknLCAnPScsIEZhbHNlKV08L2F0dHJpYnV0ZT4KICAgICAgICAgICAgICAgIDwveHBhdGg+CiAgICAgICAgICAgICAgICA8eHBhdGggZXhwcj0iL2Zvcm0vL2dyb3VwLy9maWVsZFtAbmFtZT0nY2l0eSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvL2ZpZWxkW0BuYW1lPSdjb3VudHJ5X2lkJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC8vZmllbGRbQG5hbWU9J3ppcCddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2ZpcnN0bmFtZSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+WygnaXNfY29tcGFueScsICc9JywgRmFsc2UpXTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2xhc3RuYW1lJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5bKCdpc19jb21wYW55JywgJz0nLCBGYWxzZSldPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICA8L2ZpZWxkPgogICAgICAgIDwvcmVjb3JkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvbV9saW5lcyA9IFt7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9IGZvciBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvL2ZpZWxkW0BuYW1lPSd6aXAnXSIgcG9zaXRpb249ImF0dHJpYnV0ZXMiPgogICAgICAgICAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0icmVxdWlyZWQiPlRydWU8L2F0dHJpYnV0ZT4KICAgICAgICAgICAgICAgIDwveHBhdGg+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9kdWN0X3VvbSc6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvL2ZpZWxkW0BuYW1lPSdjb3VudHJ5X2lkJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvL2ZpZWxkW0BuYW1lPSdjaXR5J10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RfdW9tX3F0eV9ib20gPSBzZWxmLmVudlsncHJvZHVjdC51b20nXS5fY2FsY3VsYXRlX3F0eV9vYmoobGluZS4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvL2ZpZWxkW0BuYW1lPSd0aXRsZSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+WygnaXNfY29tcGFueScsICc9JywgRmFsc2UpXTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2ZpcnN0bmFtZSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJhdHRycyI+eydyZXF1aXJlZCc6IFsoJ2lzX2NvbXBhbnknLCAnPScsIEZhbHNlKV19PC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC9maWVsZFtAbmFtZT0nbGFzdG5hbWUnXSIgcG9zaXRpb249ImF0dHJpYnV0ZXMiPgogICAgICAgICAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0iYXR0cnMiPnsncmVxdWlyZWQnOiBbKCdpc19jb21wYW55JywgJz0nLCBGYWxzZSldfTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdCA9IGxpbmUucHJvZHVjdF9pZAo=</text>
+        <text encoding="base64">aW1wb3J0IHJlc19wYXJ0bmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhaW1fbGluZV8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2VtYWlsJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9ImF0dHJzIj57J3JlcXVpcmVkJzogVHJ1ZX08L2F0dHJpYnV0ZT4KICAgICAgICAgICAgICAgIDwveHBhdGg+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvbV9saW5lcyA9IFt7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9IGZvciBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjcm1fY2xhaW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9kdWN0X3VvbSc6IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>missing</last-search>
+      <last-search>readonly</last-search>
       <last-offset />
-      <last-pattern>missing</last-pattern>
+      <last-pattern>readonly</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1671,8 +1678,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CONVERTER_PRO</entry>
-        <entry>check_</entry>
         <entry>conversion_pat</entry>
         <entry>SENTRY</entry>
         <entry>call</entry>
@@ -1691,6 +1696,8 @@
         <entry>line</entry>
         <entry>notification_emails</entry>
         <entry>missing</entry>
+        <entry>attrs</entry>
+        <entry>readonly</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
