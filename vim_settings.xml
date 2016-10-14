@@ -473,11 +473,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/__init__.py" timestamp="1473094998104">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/__init__.py" timestamp="1476428768745">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/scroll.coffee" timestamp="1470053398560">
         <mark key="'" line="19" column="11" />
@@ -621,11 +620,11 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1476423135388">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="26" />
-        <mark key="^" line="38" column="29" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1476428815637">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="35" column="37" />
+        <mark key="^" line="35" column="37" />
+        <mark key="." line="35" column="37" />
       </file>
       <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.js" timestamp="1469442311104">
         <mark key="[" line="0" column="0" />
@@ -834,6 +833,12 @@
         <mark key="]" line="207" column="92" />
         <mark key="^" line="207" column="92" />
         <mark key="." line="207" column="92" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" timestamp="1476428761617">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/document_version.py" timestamp="1466081943069">
         <mark key="[" line="15" column="55" />
@@ -1044,6 +1049,11 @@
         <mark key="]" line="3" column="55" />
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/crm_claim_workflow.xml" timestamp="1476429703750">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-stock.html" timestamp="1472556989959">
         <mark key="'" line="34" column="11" />
@@ -1593,8 +1603,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnc3RvY2snLAogICAgICAgICdzdG9ja19hdmFpbGFibGUnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>auto_</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1609,40 +1619,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9maWVsZD4=</text>
+        <text>auto_</text>
       </register>
       <register name="/" type="4">
         <text>action_canc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGZvbnQtZmFjZSB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICAgICAgc3JjOiB1cmwoJShkb21haW4pcy9ob2xsYW5kYmlvX2N1c3RvbWl6YXRpb25zL3N0YXRpYy9zcmMvY3NzL2ZvbnRzL2NvcmJlbGkudHRmKTsKICAgICAgICAgICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYywgb2JsaXF1ZTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDxyZWNvcmQgaWQ9ImNybV9jbGFpbV93YXJyYW50eV9zdGF0ZV9zdGFydF9jYWxjdWxhdGUiIG1vZGVsPSJ3b3JrZmxvdy50cmFuc2l0aW9uIj4KICAgICAgICA8ZmllbGQgbmFtZT0iYWN0X2Zyb20iIHJlZj0iY3JtX2NsYWltX3dhcnJhbnR5X3N0YXRlX3N0YXJ0IiAvPgogICAgICAgIDxmaWVsZCBuYW1lPSJhY3RfdG8iIHJlZj0iY3JtX2NsYWltX3dhcnJhbnR5X3N0YXRlX2NhbGN1bGF0ZSIgLz4KICAgICAgICA8ZmllbGQgbmFtZT0iY29uZGl0aW9uIj5UcnVlPC9maWVsZD4KICAgIDwvcmVjb3JkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnc3RvY2snLAogICAgICAgICdzdG9ja19hdmFpbGFibGUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhaW1fbGluZV8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVsaXZlcnknLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnYmFzZV9tdWx0aV9pbWFnZScsCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjcm1fY2xhaW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnYmFzZV9tdWx0aV9pbWFnZScsCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZmllbGQgbmFtZT0iZmxvd19zdGFydCI+VHJ1ZTwvZmllbGQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnY3JtX2NsYWltX3JtYScsCg==</text>
+        <text encoding="base64">ICAgICAgICAnc3RvY2snLAogICAgICAgICdzdG9ja19hdmFpbGFibGUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvZGF0YT4K</text>
+        <text encoding="base64">ICAgICAgICAnZGVsaXZlcnknLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYmFzZV9tdWx0aV9pbWFnZScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkYXRhPgo=</text>
+        <text encoding="base64">ICAgICAgICAnYmFzZV9tdWx0aV9pbWFnZScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnc2FsZV9zdG9jaycsCg==</text>
+        <text encoding="base64">ICAgICAgICAnY3JtX2NsYWltX3JtYScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
