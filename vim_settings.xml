@@ -473,10 +473,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/__init__.py" timestamp="1476428768745">
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/__init__.py" timestamp="1476435281032">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/scroll.coffee" timestamp="1470053398560">
         <mark key="'" line="19" column="11" />
@@ -834,11 +835,12 @@
         <mark key="^" line="207" column="92" />
         <mark key="." line="207" column="92" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" timestamp="1476428761617">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" timestamp="1476436635584">
+        <mark key="'" line="21" column="26" />
+        <mark key="[" line="85" column="17" />
+        <mark key="]" line="85" column="19" />
+        <mark key="." line="85" column="19" />
+        <mark key="^" line="85" column="19" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/document_version.py" timestamp="1466081943069">
         <mark key="[" line="15" column="55" />
@@ -1484,18 +1486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="67" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="358" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="360" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="8" column="56" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="18" column="56" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="56" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="355" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="65" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="287" column="56" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="296" column="72" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="305" column="35" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
       <jump line="353" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
       <jump line="426" column="59" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
       <jump line="39" column="63" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
@@ -1584,6 +1574,18 @@
       <jump line="580" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="860" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="168" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="73" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="56" column="49" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="89" column="37" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="91" column="36" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="9" column="53" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="11" column="20" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="15" column="26" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="16" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="17" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
+      <jump line="21" column="26" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1604,7 +1606,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>auto_</text>
+        <text>line.unit_sale_price</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1619,49 +1621,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>auto_</text>
+        <text>line.unit_sale_price</text>
       </register>
       <register name="/" type="4">
-        <text>action_canc</text>
+        <text>line</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxyZWNvcmQgaWQ9ImNybV9jbGFpbV93YXJyYW50eV9zdGF0ZV9zdGFydF9jYWxjdWxhdGUiIG1vZGVsPSJ3b3JrZmxvdy50cmFuc2l0aW9uIj4KICAgICAgICA8ZmllbGQgbmFtZT0iYWN0X2Zyb20iIHJlZj0iY3JtX2NsYWltX3dhcnJhbnR5X3N0YXRlX3N0YXJ0IiAvPgogICAgICAgIDxmaWVsZCBuYW1lPSJhY3RfdG8iIHJlZj0iY3JtX2NsYWltX3dhcnJhbnR5X3N0YXRlX2NhbGN1bGF0ZSIgLz4KICAgICAgICA8ZmllbGQgbmFtZT0iY29uZGl0aW9uIj5UcnVlPC9maWVsZD4KICAgIDwvcmVjb3JkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2R1Y3RfaWQnOiBsaW5lLnByb2R1Y3RfaWQuaWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhaW1fbGluZV8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvbV9saW5lcyA9IFt7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9IGZvciBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9kdWN0X3VvbSc6IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjcm1fY2xhaW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmllbGQgbmFtZT0iZmxvd19zdGFydCI+VHJ1ZTwvZmllbGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RfdW9tX3F0eV9ib20gPSBzZWxmLmVudlsncHJvZHVjdC51b20nXS5fY2FsY3VsYXRlX3F0eV9vYmoobGluZS4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnc3RvY2snLAogICAgICAgICdzdG9ja19hdmFpbGFibGUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVsaXZlcnknLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdCA9IGxpbmUucHJvZHVjdF9pZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnYmFzZV9tdWx0aV9pbWFnZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhaW1fbGluZV8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnYmFzZV9tdWx0aV9pbWFnZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnY3JtX2NsYWltX3JtYScsCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjcm1fY2xhaW0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>action_canc</last-search>
+      <last-search>line</last-search>
       <last-offset />
-      <last-pattern>action_canc</last-pattern>
+      <last-pattern>line</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1669,7 +1671,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NoSer</entry>
         <entry>CHECK_F</entry>
         <entry>CHECK</entry>
         <entry>CONVERTER_PRO</entry>
@@ -1689,6 +1690,7 @@
         <entry>picking_create_deli</entry>
         <entry>def is_done_for_deli</entry>
         <entry>action_canc</entry>
+        <entry>line</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
