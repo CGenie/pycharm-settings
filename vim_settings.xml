@@ -234,8 +234,8 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" timestamp="1476206360510">
-        <mark key="'" line="169" column="0" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" timestamp="1476422964025">
+        <mark key="'" line="168" column="0" />
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
@@ -621,11 +621,11 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1476362725788">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="36" />
-        <mark key="^" line="30" column="35" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1476423135388">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="38" column="29" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.js" timestamp="1469442311104">
         <mark key="[" line="0" column="0" />
@@ -738,6 +738,12 @@
         <mark key="]" line="42" column="25" />
         <mark key="." line="42" column="25" />
         <mark key="^" line="42" column="25" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/crm_claim.xml" timestamp="1476423184652">
+        <mark key="[" line="7" column="82" />
+        <mark key="]" line="7" column="82" />
+        <mark key="^" line="7" column="82" />
+        <mark key="." line="7" column="82" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/lib/search/tools.py" timestamp="1475089532542">
         <mark key="[" line="21" column="83" />
@@ -1468,7 +1474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="7" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="420" column="67" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="358" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="360" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
@@ -1568,6 +1573,7 @@
       <jump line="917" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="580" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="860" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1587,8 +1593,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnc3RvY2snLAogICAgICAgICdzdG9ja19hdmFpbGFibGUnLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1603,7 +1609,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">PC9maWVsZD4=</text>
       </register>
       <register name="/" type="4">
         <text>action_canc</text>
@@ -1612,31 +1618,31 @@
         <text encoding="base64">ICAgICAgICAgICAgQGZvbnQtZmFjZSB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICAgICAgc3JjOiB1cmwoJShkb21haW4pcy9ob2xsYW5kYmlvX2N1c3RvbWl6YXRpb25zL3N0YXRpYy9zcmMvY3NzL2ZvbnRzL2NvcmJlbGkudHRmKTsKICAgICAgICAgICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYywgb2JsaXF1ZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnc2FsZV9zdG9jaycsCg==</text>
+        <text encoding="base64">ICAgICAgICAnc3RvY2snLAogICAgICAgICdzdG9ja19hdmFpbGFibGUnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbihbCiAgICAgICAgICAgICAgICAobC5wcm9kdWN0X2lkLm5hbWUsIGwucHJvZHVjdF9xdHksIGwuX2dldF9kZWxpdmVyZWRfcXR5KCkpIGZvciBsIGluIHBpY2tpbmcuZ2V0X3NhbGVfaWQoKS5vcmRlcl9saW5lCiAgICAgICAgICAgIF0pCgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oWwogICAgICAgICAgICAgICAgKG1sLnByb2R1Y3RfaWQubmFtZSwgbWwucHJvZHVjdF91b21fcXR5LCBtbC5zdGF0ZSkgZm9yIG1sIGluIHBpY2tpbmcubW92ZV9saW5lcwogICAgICAgICAgICBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAnZGVsaXZlcnknLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbihbCiAgICAgICAgICAgICAgICAobWwucHJvZHVjdF9pZC5uYW1lLCBtbC5wcm9kdWN0X3VvbV9xdHksIG1sLnN0YXRlKSBmb3IgbWwgaW4gcGlja2luZy5tb3ZlX2xpbmVzCiAgICAgICAgICAgIF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAnYmFzZV9tdWx0aV9pbWFnZScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnc3RvY2tfcGlja2luZ19tYXNzX2Fzc2lnbicsCg==</text>
+        <text encoding="base64">ICAgICAgICAnYmFzZV9tdWx0aV9pbWFnZScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgpjbGFzcyBzdG9ja19waWNraW5nX2NoZWNrX2Fzc2lnbl9hbGwobW9kZWxzLlRyYW5zaWVudE1vZGVsKToKICAgIF9pbmhlcml0ID0gJ3N0b2NrLnBpY2tpbmcuY2hlY2suYXNzaWduLmFsbCcKCiAgICBAYXBpLm11bHRpCiAgICBkZWYgY2hlY2soc2VsZik6CiAgICAgICAgc2VsZi5lbnN1cmVfb25lKCkKICAgICAgICBzdXBlcihzdG9ja19waWNraW5nX2NoZWNrX2Fzc2lnbl9hbGwsIHNlbGYpLmNoZWNrKCkKCiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgJ3R5cGUnOiAnaXIuYWN0aW9ucy5yZXBvcnQueG1sJywKICAgICAgICAgICAgJ3JlcG9ydF9uYW1lJzogJ3BvYi5yZXBvcnRfcG9iX2RlbGl2ZXJ5X2xhYmVsJywKICAgICAgICAgICAgJ2RhdGFzJzogewogICAgICAgICAgICAgICAgJ2lkcyc6IHNlbGYuZW52LmNvbnRleHQuZ2V0KCdhY3RpdmVfaWRzJywgW10pLAogICAgICAgICAgICAgICAgJ21vZGVsJzogJ3N0b2NrLnBpY2tpbmcnLAogICAgICAgICAgICB9LAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAnY3JtX2NsYWltX3JtYScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGRpdiB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDwvZGF0YT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDxkYXRhPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhyZWY9IiUoZG9tYWluKXMvaG9sbGFuZGJpb19jdXN0b21pemF0aW9ucy9zdGF0aWMvc3JjL2Nzcy9mb250cy9jb3JiZWwudHRmIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAnc2FsZV9zdG9jaycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
