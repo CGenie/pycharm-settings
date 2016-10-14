@@ -348,11 +348,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476371768791">
-        <mark key="'" line="917" column="0" />
-        <mark key="[" line="917" column="0" />
-        <mark key="]" line="917" column="0" />
-        <mark key="." line="917" column="0" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476421984210">
+        <mark key="'" line="860" column="21" />
+        <mark key="[" line="860" column="21" />
+        <mark key="]" line="860" column="21" />
+        <mark key="." line="860" column="21" />
+        <mark key="^" line="853" column="26" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/results.py" timestamp="1474025241231">
         <mark key="'" line="0" column="0" />
@@ -1467,8 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
       <jump line="472" column="7" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="420" column="67" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="358" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
@@ -1567,6 +1566,8 @@
       <jump line="45" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="864" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="917" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="580" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="860" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1586,8 +1587,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGZvbnQtZmFjZSB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICAgICAgc3JjOiB1cmwoJShkb21haW4pcy9ob2xsYW5kYmlvX2N1c3RvbWl6YXRpb25zL3N0YXRpYy9zcmMvY3NzL2ZvbnRzL2NvcmJlbC50dGYpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAZm9udC1mYWNlIHsKICAgICAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBDb3JiZWw7CiAgICAgICAgICAgICAgICBzcmM6IHVybCglKGRvbWFpbilzL2hvbGxhbmRiaW9fY3VzdG9taXphdGlvbnMvc3RhdGljL3NyYy9jc3MvZm9udHMvY29yYmVsYi50dGYpOwogICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBmb250LWZhY2UgewogICAgICAgICAgICAgICAgZm9udC1mYW1pbHk6IENvcmJlbDsKICAgICAgICAgICAgICAgIHNyYzogdXJsKCUoZG9tYWluKXMvaG9sbGFuZGJpb19jdXN0b21pemF0aW9ucy9zdGF0aWMvc3JjL2Nzcy9mb250cy9jb3JiZWxpLnR0Zik7CiAgICAgICAgICAgICAgICBmb250LXN0eWxlOiBpdGFsaWMsIG9ibGlxdWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBmb250LWZhY2UgewogICAgICAgICAgICAgICAgZm9udC1mYW1pbHk6IENvcmJlbDsKICAgICAgICAgICAgICAgIHNyYzogdXJsKCUoZG9tYWluKXMvaG9sbGFuZGJpb19jdXN0b21pemF0aW9ucy9zdGF0aWMvc3JjL2Nzcy9mb250cy9jb3JiZWx6LnR0Zik7CiAgICAgICAgICAgICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgICAgICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYywgb2JsaXF1ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgKiB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1602,7 +1603,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1pbigxLjAs</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>action_canc</text>
