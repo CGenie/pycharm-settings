@@ -368,10 +368,10 @@
         <mark key="^" line="37" column="89" />
         <mark key="." line="37" column="89" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/mail_mail.py" timestamp="1476361209924">
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/mail_mail.py" timestamp="1476420535684">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="38" column="35" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="39" column="12" />
         <mark key="." line="38" column="35" />
         <mark key="^" line="38" column="45" />
       </file>
@@ -1587,7 +1587,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnc2FsZV9zdG9jaycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGZvbnQtZmFjZSB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICAgICAgc3JjOiB1cmwoJShkb21haW4pcy9ob2xsYW5kYmlvX2N1c3RvbWl6YXRpb25zL3N0YXRpYy9zcmMvY3NzL2ZvbnRzL2NvcmJlbC50dGYpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAZm9udC1mYWNlIHsKICAgICAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBDb3JiZWw7CiAgICAgICAgICAgICAgICBzcmM6IHVybCglKGRvbWFpbilzL2hvbGxhbmRiaW9fY3VzdG9taXphdGlvbnMvc3RhdGljL3NyYy9jc3MvZm9udHMvY29yYmVsYi50dGYpOwogICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBmb250LWZhY2UgewogICAgICAgICAgICAgICAgZm9udC1mYW1pbHk6IENvcmJlbDsKICAgICAgICAgICAgICAgIHNyYzogdXJsKCUoZG9tYWluKXMvaG9sbGFuZGJpb19jdXN0b21pemF0aW9ucy9zdGF0aWMvc3JjL2Nzcy9mb250cy9jb3JiZWxpLnR0Zik7CiAgICAgICAgICAgICAgICBmb250LXN0eWxlOiBpdGFsaWMsIG9ibGlxdWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBmb250LWZhY2UgewogICAgICAgICAgICAgICAgZm9udC1mYW1pbHk6IENvcmJlbDsKICAgICAgICAgICAgICAgIHNyYzogdXJsKCUoZG9tYWluKXMvaG9sbGFuZGJpb19jdXN0b21pemF0aW9ucy9zdGF0aWMvc3JjL2Nzcy9mb250cy9jb3JiZWx6LnR0Zik7CiAgICAgICAgICAgICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgICAgICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYywgb2JsaXF1ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgKiB7CiAgICAgICAgICAgICAgICBmb250LWZhbWlseTogQ29yYmVsOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
