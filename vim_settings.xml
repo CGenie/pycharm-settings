@@ -811,12 +811,12 @@
         <mark key="^" line="92" column="55" />
         <mark key="." line="104" column="60" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1476443650329">
-        <mark key="'" line="211" column="107" />
-        <mark key="[" line="210" column="64" />
-        <mark key="]" line="210" column="94" />
-        <mark key="^" line="210" column="94" />
-        <mark key="." line="210" column="94" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1476687500910">
+        <mark key="'" line="181" column="68" />
+        <mark key="[" line="422" column="38" />
+        <mark key="]" line="422" column="38" />
+        <mark key="^" line="419" column="57" />
+        <mark key="." line="422" column="38" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" timestamp="1476436635584">
         <mark key="'" line="21" column="26" />
@@ -1548,7 +1548,6 @@
       <jump line="414" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="424" column="30" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="181" column="68" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="191" column="70" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="201" column="62" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="208" column="118" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
@@ -1575,6 +1574,7 @@
       <jump line="38" column="11" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" />
       <jump line="624" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="181" column="68" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1594,8 +1594,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHNlbGYucG9vbC5nZXQoJ3NhbGUub3JkZXInKS5yZWFkKGNyLCB1aWQsIG9yZGVyX2lkLCBbJ3ByaWNlbGlzdF9pZCddLCBjb250ZXh0PWNvbnRleHQpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1610,49 +1610,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Pricelist id</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>onchange_partner_id</text>
+        <text>Notif</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVjb3JkIG1vZGVsPSJpci51aS52aWV3IiBpZD0idmlld19wYXJ0bmVyX2Zvcm0iPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0ibmFtZSI+cmVzLnBhcnRuZXIuZm9ybTwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJtb2RlbCI+cmVzLnBhcnRuZXI8L2ZpZWxkPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iaW5oZXJpdF9pZCIgcmVmPSJiYXNlLnZpZXdfcGFydG5lcl9mb3JtIiAvPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iYXJjaCIgdHlwZT0ieG1sIj4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2VtYWlsJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC9maWVsZFtAbmFtZT0ndGl0bGUnXSIgcG9zaXRpb249ImF0dHJpYnV0ZXMiPgogICAgICAgICAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0icmVxdWlyZWQiPlsoJ2lzX2NvbXBhbnknLCAnPScsIEZhbHNlKV08L2F0dHJpYnV0ZT4KICAgICAgICAgICAgICAgIDwveHBhdGg+CiAgICAgICAgICAgICAgICA8eHBhdGggZXhwcj0iL2Zvcm0vL2dyb3VwLy9maWVsZFtAbmFtZT0nY2l0eSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvL2ZpZWxkW0BuYW1lPSdjb3VudHJ5X2lkJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC8vZmllbGRbQG5hbWU9J3ppcCddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2ZpcnN0bmFtZSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+WygnaXNfY29tcGFueScsICc9JywgRmFsc2UpXTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2xhc3RuYW1lJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5bKCdpc19jb21wYW55JywgJz0nLCBGYWxzZSldPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICA8L2ZpZWxkPgogICAgICAgIDwvcmVjb3JkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHNlbGYucG9vbC5nZXQoJ3NhbGUub3JkZXInKS5yZWFkKGNyLCB1aWQsIG9yZGVyX2lkLCBbJ3ByaWNlbGlzdF9pZCddLCBjb250ZXh0PWNvbnRleHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsXy5FTWFpbEFkZHJlc3MgPSBlbWFpbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHNlbGYucG9vbC5nZXQoJ3NhbGUub3JkZXInKS5yZWFkKGNyLCB1aWQsIG9yZGVyX2lkLCBbJ3ByaWNlbGlzdF9pZCddLCBjb250ZXh0PWNvbnRleHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVtYWlsIGluIHNlbmRfbm90aWZpY2F0aW9uX2VtYWlsczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHNlbGYucG9vbC5nZXQoJ3NhbGUub3JkZXInKS5yZWFkKGNyLCB1aWQsIG9yZGVyX2lkLCBbJ3ByaWNlbGlzdF9pZCddLCBjb250ZXh0PWNvbnRleHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWxzID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHNlbGYucG9vbC5nZXQoJ3NhbGUub3JkZXInKS5yZWFkKGNyLCB1aWQsIG9yZGVyX2lkLCBbJ3ByaWNlbGlzdF9pZCddLCBjb250ZXh0PWNvbnRleHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlscy5hcHBlbmQoZW1haWxfKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oJ1NhbGUgZGF0YTogJXMnICUgc2FsZV9kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbmRfbm90aWZpY2F0aW9uX3VuZGVsaXZlcmVkX2VtYWlsOgogICAgICAgICAgICAgICAgICAgIGVtYWlsXy5VbmRlbGl2ZXJhYmxlRU1haWxBZGRyZXNzID0gc2VuZF9ub3RpZmljYXRpb25fdW5kZWxpdmVyZWRfZW1haWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oJ29yZGVyIGRhdGE6ICVzJyAlIG9yZGVyX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsXyA9IGNsaWVudC5mYWN0b3J5LmNyZWF0ZSgne306RW1haWxEZXRhaWxzVHlwZScuZm9ybWF0KG5hbWVzcGFjZSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oJ29yZGVyIGRhdGE6ICVzJyAlIG9yZGVyX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHNlbGYucG9vbC5nZXQoJ3NhbGUub3JkZXInKS5yZWFkKGNyLCB1aWQsIG9yZGVyX2lkLCBbJ3ByaWNlbGlzdF9pZCddLCBjb250ZXh0PWNvbnRleHQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvL2ZpZWxkW0BuYW1lPSd6aXAnXSIgcG9zaXRpb249ImF0dHJpYnV0ZXMiPgogICAgICAgICAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0icmVxdWlyZWQiPlRydWU8L2F0dHJpYnV0ZT4KICAgICAgICAgICAgICAgIDwveHBhdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHNlbGYucG9vbC5nZXQoJ3NhbGUub3JkZXInKS5yZWFkKGNyLCB1aWQsIG9yZGVyX2lkLCBbJ3ByaWNlbGlzdF9pZCddLCBjb250ZXh0PWNvbnRleHQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvL2ZpZWxkW0BuYW1lPSdjb3VudHJ5X2lkJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHNlbGYucG9vbC5nZXQoJ3NhbGUub3JkZXInKS5yZWFkKGNyLCB1aWQsIG9yZGVyX2lkLCBbJ3ByaWNlbGlzdF9pZCddLCBjb250ZXh0PWNvbnRleHQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onchange_partner_id</last-search>
+      <last-search>Notif</last-search>
       <last-offset />
-      <last-pattern>onchange_partner_id</last-pattern>
+      <last-pattern>Notif</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1660,7 +1660,6 @@
     </search>
     <history>
       <history-search>
-        <entry>report</entry>
         <entry>Delivery La</entry>
         <entry>get_ups_</entry>
         <entry>sale\.order</entry>
@@ -1680,6 +1679,7 @@
         <entry>pricelist_id</entry>
         <entry>force.done</entry>
         <entry>onchange_partner_id</entry>
+        <entry>Notif</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
