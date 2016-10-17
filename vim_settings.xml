@@ -76,8 +76,8 @@
         <mark key="." line="50" column="49" />
         <mark key="^" line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" timestamp="1476703521925">
-        <mark key="'" line="56" column="12" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" timestamp="1476706015082">
+        <mark key="'" line="48" column="77" />
         <mark key="[" line="80" column="27" />
         <mark key="]" line="81" column="74" />
         <mark key="^" line="81" column="74" />
@@ -807,8 +807,8 @@
         <mark key="^" line="92" column="55" />
         <mark key="." line="104" column="60" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1476703703218">
-        <mark key="'" line="249" column="34" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1476706105370">
+        <mark key="'" line="101" column="12" />
         <mark key="[" line="422" column="38" />
         <mark key="]" line="422" column="38" />
         <mark key="^" line="419" column="57" />
@@ -1471,16 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="19" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
-      <jump line="13" column="14" filename="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/api.py" />
-      <jump line="32" column="54" filename="$USER_HOME$/Italamo/italamo/apps/document/api.py" />
-      <jump line="217" column="6" filename="$USER_HOME$/Italamo/italamo/apps/document/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
-      <jump line="456" column="20" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
-      <jump line="80" column="8" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
-      <jump line="5" column="42" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="571" column="13" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
       <jump line="43" column="18" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="55" column="92" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
@@ -1525,7 +1515,6 @@
       <jump line="353" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="414" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="424" column="30" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="191" column="70" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="201" column="62" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="22" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" />
@@ -1552,25 +1541,36 @@
       <jump line="181" column="68" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="365" column="35" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="100" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="101" column="71" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="102" column="47" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="107" column="30" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="108" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="110" column="19" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="112" column="19" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="172" column="108" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="207" column="114" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="208" column="92" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="210" column="116" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="211" column="81" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="135" column="34" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="56" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="276" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="248" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="249" column="34" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="195" column="10" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="36" column="34" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="59" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="45" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="48" column="77" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="104" column="50" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="242" column="17" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="243" column="62" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="244" column="46" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="245" column="45" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="246" column="46" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="105" column="13" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="207" column="113" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="210" column="115" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="248" column="60" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="249" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="101" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1609,7 +1609,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>def set_order_cancel</text>
+        <text>\.weight</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVjb3JkIG1vZGVsPSJpci51aS52aWV3IiBpZD0idmlld19wYXJ0bmVyX2Zvcm0iPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0ibmFtZSI+cmVzLnBhcnRuZXIuZm9ybTwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJtb2RlbCI+cmVzLnBhcnRuZXI8L2ZpZWxkPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iaW5oZXJpdF9pZCIgcmVmPSJiYXNlLnZpZXdfcGFydG5lcl9mb3JtIiAvPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iYXJjaCIgdHlwZT0ieG1sIj4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2VtYWlsJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC9maWVsZFtAbmFtZT0ndGl0bGUnXSIgcG9zaXRpb249ImF0dHJpYnV0ZXMiPgogICAgICAgICAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0icmVxdWlyZWQiPlsoJ2lzX2NvbXBhbnknLCAnPScsIEZhbHNlKV08L2F0dHJpYnV0ZT4KICAgICAgICAgICAgICAgIDwveHBhdGg+CiAgICAgICAgICAgICAgICA8eHBhdGggZXhwcj0iL2Zvcm0vL2dyb3VwLy9maWVsZFtAbmFtZT0nY2l0eSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvL2ZpZWxkW0BuYW1lPSdjb3VudHJ5X2lkJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC8vZmllbGRbQG5hbWU9J3ppcCddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2ZpcnN0bmFtZSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+WygnaXNfY29tcGFueScsICc9JywgRmFsc2UpXTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2xhc3RuYW1lJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5bKCdpc19jb21wYW55JywgJz0nLCBGYWxzZSldPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICA8L2ZpZWxkPgogICAgICAgIDwvcmVjb3JkPgo=</text>
@@ -1646,9 +1646,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def set_order_cancel</last-search>
+      <last-search>\.weight</last-search>
       <last-offset />
-      <last-pattern>def set_order_cancel</last-pattern>
+      <last-pattern>\.weight</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1656,10 +1656,6 @@
     </search>
     <history>
       <history-search>
-        <entry>picking_Create_deli</entry>
-        <entry>picking_create_Deli</entry>
-        <entry>picking_create_deli</entry>
-        <entry>def is_done_for_deli</entry>
         <entry>action_canc</entry>
         <entry>line</entry>
         <entry>notification_emails</entry>
@@ -1674,8 +1670,12 @@
         <entry>weight</entry>
         <entry>set_package_detail</entry>
         <entry>get_shipping_price</entry>
-        <entry>Weight</entry>
         <entry>def set_order_cancel</entry>
+        <entry>Weight</entry>
+        <entry>dimension_unit</entry>
+        <entry>length</entry>
+        <entry>dimension</entry>
+        <entry>\.weight</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
