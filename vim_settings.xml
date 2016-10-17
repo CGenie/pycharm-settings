@@ -1347,8 +1347,8 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476703110369">
-        <mark key="'" line="189" column="29" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476704805213">
+        <mark key="'" line="36" column="34" />
         <mark key="[" line="220" column="82" />
         <mark key="]" line="220" column="84" />
         <mark key="^" line="220" column="84" />
@@ -1471,8 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="5" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
-      <jump line="138" column="3" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
       <jump line="82" column="19" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
       <jump line="13" column="14" filename="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/api.py" />
@@ -1571,6 +1569,8 @@
       <jump line="276" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="248" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="249" column="34" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="195" column="10" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="36" column="34" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1609,7 +1609,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>Weight</text>
+        <text>def set_order_cancel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVjb3JkIG1vZGVsPSJpci51aS52aWV3IiBpZD0idmlld19wYXJ0bmVyX2Zvcm0iPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0ibmFtZSI+cmVzLnBhcnRuZXIuZm9ybTwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJtb2RlbCI+cmVzLnBhcnRuZXI8L2ZpZWxkPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iaW5oZXJpdF9pZCIgcmVmPSJiYXNlLnZpZXdfcGFydG5lcl9mb3JtIiAvPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iYXJjaCIgdHlwZT0ieG1sIj4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2VtYWlsJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC9maWVsZFtAbmFtZT0ndGl0bGUnXSIgcG9zaXRpb249ImF0dHJpYnV0ZXMiPgogICAgICAgICAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0icmVxdWlyZWQiPlsoJ2lzX2NvbXBhbnknLCAnPScsIEZhbHNlKV08L2F0dHJpYnV0ZT4KICAgICAgICAgICAgICAgIDwveHBhdGg+CiAgICAgICAgICAgICAgICA8eHBhdGggZXhwcj0iL2Zvcm0vL2dyb3VwLy9maWVsZFtAbmFtZT0nY2l0eSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvL2ZpZWxkW0BuYW1lPSdjb3VudHJ5X2lkJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC8vZmllbGRbQG5hbWU9J3ppcCddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2ZpcnN0bmFtZSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+WygnaXNfY29tcGFueScsICc9JywgRmFsc2UpXTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2xhc3RuYW1lJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5bKCdpc19jb21wYW55JywgJz0nLCBGYWxzZSldPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICA8L2ZpZWxkPgogICAgICAgIDwvcmVjb3JkPgo=</text>
@@ -1646,9 +1646,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Weight</last-search>
+      <last-search>def set_order_cancel</last-search>
       <last-offset />
-      <last-pattern>Weight</last-pattern>
+      <last-pattern>def set_order_cancel</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1656,7 +1656,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def create_invoices</entry>
         <entry>picking_Create_deli</entry>
         <entry>picking_create_Deli</entry>
         <entry>picking_create_deli</entry>
@@ -1676,6 +1675,7 @@
         <entry>set_package_detail</entry>
         <entry>get_shipping_price</entry>
         <entry>Weight</entry>
+        <entry>def set_order_cancel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
