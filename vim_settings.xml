@@ -1351,12 +1351,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476687137883">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476703110369">
         <mark key="'" line="189" column="29" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="^" line="222" column="11" />
-        <mark key="." line="228" column="0" />
+        <mark key="[" line="220" column="82" />
+        <mark key="]" line="220" column="84" />
+        <mark key="^" line="220" column="84" />
+        <mark key="." line="220" column="84" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
         <mark key="[" line="35" column="24" />
