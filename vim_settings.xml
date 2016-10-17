@@ -1347,12 +1347,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476720276801">
-        <mark key="'" line="219" column="16" />
-        <mark key="[" line="188" column="12" />
-        <mark key="]" line="188" column="12" />
-        <mark key="." line="188" column="12" />
-        <mark key="^" line="220" column="71" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476723378164">
+        <mark key="'" line="188" column="57" />
+        <mark key="[" line="191" column="64" />
+        <mark key="]" line="188" column="65" />
+        <mark key="." line="191" column="72" />
+        <mark key="^" line="188" column="65" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
         <mark key="[" line="35" column="24" />
@@ -1471,8 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="19" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="112" column="19" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="172" column="108" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="135" column="34" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="276" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
@@ -1571,6 +1569,8 @@
       <jump line="123" column="77" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="17" column="39" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="49" column="31" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
+      <jump line="192" column="57" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="252" column="50" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1590,8 +1590,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>invoice</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhID0gewogICAgICAgICAgICAnZW1haWwnOiBlbWFpbCwKICAgICAgICAgICAgJ25hbWUnOiBjdXN0b21lcl9kYXRhWyduYW1lJ10sCiAgICAgICAgICAgICdwZXJzb24nOiBjdXN0b21lcl9kYXRhWydwZXJzb24nXSwKICAgICAgICB9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1606,49 +1606,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>invoice</text>
+        <text>context['email']</text>
       </register>
       <register name="/" type="4">
-        <text>send inv</text>
+        <text>\.create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVjb3JkIGlkPSJwaWNraW5nX3NlbmRfaW52b2ljZV90cmFuc19zZW5kX2ludm9pY2VfZW5kIiBtb2RlbD0id29ya2Zsb3cudHJhbnNpdGlvbiI+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJhY3RfZnJvbSIgcmVmPSJwaWNraW5nX3NlbmRfaW52b2ljZSIvPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iYWN0X3RvIiByZWY9InBpY2tpbmdfc2VuZF9pbnZvaWNlX2VuZCIvPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iY29uZGl0aW9uIj5UcnVlPC9maWVsZD4KICAgICAgICA8L3JlY29yZD4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAnb3JkZXJfaWQnOiBvcmRlcl9pZCwKICAgICAgICAgICAgJ29yZGVyX25hbWUnOiBvcmRlcl9uYW1lLAogICAgICAgICAgICAnc3RhdHVzX21lc3NhZ2UnOiBzdGF0dXNfbWVzc2FnZSwKICAgICAgICAgICAgJ3N0YXR1cyc6IHN0YXR1cwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gewogICAgICAgICAgICAnZW1haWwnOiBlbWFpbCwKICAgICAgICAgICAgJ25hbWUnOiBjdXN0b21lcl9kYXRhWyduYW1lJ10sCiAgICAgICAgICAgICdwZXJzb24nOiBjdXN0b21lcl9kYXRhWydwZXJzb24nXSwKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGludm9pY2VfaWRzLnNlbnQ6CiAgICAgICAgICAgICAgICBhY3Rpb24gPSBzZWxmLmVudlsnaXIuYWN0aW9ucy5zZXJ2ZXInXS5zZWFyY2goW1snbmFtZScsICc9JywgJ1NlbmQgaW52b2ljZSBieSBlbWFpbCddXSkKICAgICAgICAgICAgICAgIGFjdGlvbi53aXRoX2NvbnRleHQoeydhY3RpdmVfaWQnOiBpbnZvaWNlX2lkcy5pZH0pLnJ1bl9hY3Rpb25fZW1haWwoYWN0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29yZGVyX25hbWUnOiBvcmRlcl9uYW1lLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGludm9pY2VfaWRzLnNlbnQ6CiAgICAgICAgICAgICAgICBhY3Rpb24gPSBzZWxmLmVudlsnaXIuYWN0aW9ucy5zZXJ2ZXInXS5zZWFyY2goW1snbmFtZScsICc9JywgJ1NlbmQgaW52b2ljZSBieSBlbWFpbCddXSkKICAgICAgICAgICAgICAgIGFjdGlvbi53aXRoX2NvbnRleHQoeydhY3RpdmVfaWQnOiBpbnZvaWNlX2lkcy5pZH0pLnJ1bl9hY3Rpb25fZW1haWwoYWN0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29yZGVyX2lkJzogb3JkZXJfaWQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaW52b2ljZSBpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldFsnZXJyb3JfbWVzc2FnZSddID0gJyVzXG5cbiVzJyAlIChyZXRbJ2Vycm9yX21lc3NhZ2UnXSwgcmVxdWVzdCkKICAgICAgICAgICAgICAgIHJldHVybiByZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGludm9pY2VfaWRzLnNlbnQ6CiAgICAgICAgICAgICAgICBhY3Rpb24gPSBzZWxmLmVudlsnaXIuYWN0aW9ucy5zZXJ2ZXInXS5zZWFyY2goW1snbmFtZScsICc9JywgJ1NlbmQgaW52b2ljZSBieSBlbWFpbCddXSkKICAgICAgICAgICAgICAgIGFjdGlvbi53aXRoX2NvbnRleHQoeydhY3RpdmVfaWQnOiBpbnZvaWNlX2lkcy5pZH0pLnJ1bl9hY3Rpb25fZW1haWwoYWN0aW9uKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpY2VsaXN0ID0gc2VsZi5wb29sLmdldCgncHJvZHVjdC5wcmljZWxpc3QnKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGludm9pY2VfaWRzLnNlbnQ6CiAgICAgICAgICAgICAgICBhY3Rpb24gPSBzZWxmLmVudlsnaXIuYWN0aW9ucy5zZXJ2ZXInXS5zZWFyY2goW1snbmFtZScsICc9JywgJ1NlbmQgaW52b2ljZSBieSBlbWFpbCddXSkKICAgICAgICAgICAgICAgIGFjdGlvbi53aXRoX2NvbnRleHQoeydhY3RpdmVfaWQnOiBpbnZvaWNlX2lkcy5pZH0pLnJ1bl9hY3Rpb25fZW1haWwoYWN0aW9uKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsXy5FTWFpbEFkZHJlc3MgPSBlbWFpbAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaW52b2ljZSBpbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVtYWlsIGluIHNlbmRfbm90aWZpY2F0aW9uX2VtYWlsczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldFsnZXJyb3JfbWVzc2FnZSddID0gJyVzXG5cbiVzJyAlIChyZXRbJ2Vycm9yX21lc3NhZ2UnXSwgcmVxdWVzdCkKICAgICAgICAgICAgICAgIHJldHVybiByZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWxzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpY2VsaXN0ID0gc2VsZi5wb29sLmdldCgncHJvZHVjdC5wcmljZWxpc3QnKS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>send inv</last-search>
+      <last-search>\.create</last-search>
       <last-offset />
-      <last-pattern>send inv</last-pattern>
+      <last-pattern>\.create</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1656,7 +1656,6 @@
     </search>
     <history>
       <history-search>
-        <entry>move_lines</entry>
         <entry>weight</entry>
         <entry>\.weight</entry>
         <entry>cannot be</entry>
@@ -1676,6 +1675,7 @@
         <entry>is_order_inv</entry>
         <entry>send_inv</entry>
         <entry>send inv</entry>
+        <entry>\.create</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
