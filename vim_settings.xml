@@ -1347,12 +1347,11 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476704805213">
-        <mark key="'" line="36" column="34" />
-        <mark key="[" line="220" column="82" />
-        <mark key="]" line="220" column="84" />
-        <mark key="^" line="220" column="84" />
-        <mark key="." line="220" column="84" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476708875229">
+        <mark key="'" line="219" column="16" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
         <mark key="[" line="35" column="24" />
@@ -1471,9 +1470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1257" column="2" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="43" column="42" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/pob_data.xml" />
-      <jump line="1251" column="32" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="992" column="26" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="1207" column="34" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="1208" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
@@ -1571,6 +1567,9 @@
       <jump line="147" column="26" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="76" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="219" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="225" column="41" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1590,8 +1589,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGFuZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpY2VsaXN0ID0gc2VsZi5wb29sLmdldCgncHJvZHVjdC5wcmljZWxpc3QnKS4K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1606,34 +1605,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>check_required_value</text>
+        <text>\.write</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVjb3JkIG1vZGVsPSJpci51aS52aWV3IiBpZD0idmlld19wYXJ0bmVyX2Zvcm0iPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0ibmFtZSI+cmVzLnBhcnRuZXIuZm9ybTwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJtb2RlbCI+cmVzLnBhcnRuZXI8L2ZpZWxkPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iaW5oZXJpdF9pZCIgcmVmPSJiYXNlLnZpZXdfcGFydG5lcl9mb3JtIiAvPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iYXJjaCIgdHlwZT0ieG1sIj4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2VtYWlsJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC9maWVsZFtAbmFtZT0ndGl0bGUnXSIgcG9zaXRpb249ImF0dHJpYnV0ZXMiPgogICAgICAgICAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0icmVxdWlyZWQiPlsoJ2lzX2NvbXBhbnknLCAnPScsIEZhbHNlKV08L2F0dHJpYnV0ZT4KICAgICAgICAgICAgICAgIDwveHBhdGg+CiAgICAgICAgICAgICAgICA8eHBhdGggZXhwcj0iL2Zvcm0vL2dyb3VwLy9maWVsZFtAbmFtZT0nY2l0eSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvL2ZpZWxkW0BuYW1lPSdjb3VudHJ5X2lkJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC8vZmllbGRbQG5hbWU9J3ppcCddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2ZpcnN0bmFtZSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+WygnaXNfY29tcGFueScsICc9JywgRmFsc2UpXTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2xhc3RuYW1lJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5bKCdpc19jb21wYW55JywgJz0nLCBGYWxzZSldPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICA8L2ZpZWxkPgogICAgICAgIDwvcmVjb3JkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsXy5FTWFpbEFkZHJlc3MgPSBlbWFpbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpY2VsaXN0ID0gc2VsZi5wb29sLmdldCgncHJvZHVjdC5wcmljZWxpc3QnKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVtYWlsIGluIHNlbmRfbm90aWZpY2F0aW9uX2VtYWlsczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsXy5FTWFpbEFkZHJlc3MgPSBlbWFpbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWxzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVtYWlsIGluIHNlbmRfbm90aWZpY2F0aW9uX2VtYWlsczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlscy5hcHBlbmQoZW1haWxfKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWxzID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbmRfbm90aWZpY2F0aW9uX3VuZGVsaXZlcmVkX2VtYWlsOgogICAgICAgICAgICAgICAgICAgIGVtYWlsXy5VbmRlbGl2ZXJhYmxlRU1haWxBZGRyZXNzID0gc2VuZF9ub3RpZmljYXRpb25fdW5kZWxpdmVyZWRfZW1haWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlscy5hcHBlbmQoZW1haWxfKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsXyA9IGNsaWVudC5mYWN0b3J5LmNyZWF0ZSgne306RW1haWxEZXRhaWxzVHlwZScuZm9ybWF0KG5hbWVzcGFjZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbmRfbm90aWZpY2F0aW9uX3VuZGVsaXZlcmVkX2VtYWlsOgogICAgICAgICAgICAgICAgICAgIGVtYWlsXy5VbmRlbGl2ZXJhYmxlRU1haWxBZGRyZXNzID0gc2VuZF9ub3RpZmljYXRpb25fdW5kZWxpdmVyZWRfZW1haWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHNlbGYucG9vbC5nZXQoJ3NhbGUub3JkZXInKS5yZWFkKGNyLCB1aWQsIG9yZGVyX2lkLCBbJ3ByaWNlbGlzdF9pZCddLCBjb250ZXh0PWNvbnRleHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsXyA9IGNsaWVudC5mYWN0b3J5LmNyZWF0ZSgne306RW1haWxEZXRhaWxzVHlwZScuZm9ybWF0KG5hbWVzcGFjZSkpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHNlbGYucG9vbC5nZXQoJ3NhbGUub3JkZXInKS5yZWFkKGNyLCB1aWQsIG9yZGVyX2lkLCBbJ3ByaWNlbGlzdF9pZCddLCBjb250ZXh0PWNvbnRleHQpKQo=</text>
@@ -1646,9 +1645,9 @@
       </register>
     </registers>
     <search>
-      <last-search>check_required_value</last-search>
+      <last-search>\.write</last-search>
       <last-offset />
-      <last-pattern>check_required_value</last-pattern>
+      <last-pattern>\.write</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1656,7 +1655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>readonly</entry>
         <entry>def create_order</entry>
         <entry>pricelist_id</entry>
         <entry>force.done</entry>
@@ -1676,6 +1674,7 @@
         <entry>\.weight</entry>
         <entry>cannot be</entry>
         <entry>check_required_value</entry>
+        <entry>\.write</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
