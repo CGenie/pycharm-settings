@@ -338,7 +338,7 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476455066113">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476721001754">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="860" column="21" />
         <mark key="]" line="860" column="21" />
@@ -1347,11 +1347,11 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476712937762">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476720276801">
         <mark key="'" line="219" column="16" />
-        <mark key="[" line="220" column="47" />
-        <mark key="]" line="220" column="71" />
-        <mark key="." line="220" column="71" />
+        <mark key="[" line="188" column="12" />
+        <mark key="]" line="188" column="12" />
+        <mark key="." line="188" column="12" />
         <mark key="^" line="220" column="71" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
@@ -1471,13 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="37" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="290" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="326" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="166" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="60" column="70" filename="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_multishop/prestashop_bridge_multishop.py" />
-      <jump line="187" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" />
       <jump line="50" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" />
       <jump line="263" column="19" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" />
@@ -1485,7 +1478,6 @@
       <jump line="37" column="6" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" />
       <jump line="38" column="11" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" />
       <jump line="624" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="181" column="68" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="100" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="108" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
@@ -1571,6 +1563,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="2" column="1" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="474" column="124" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="618" column="19" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="897" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="919" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="931" column="22" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="947" column="22" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="864" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="396" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1591,7 +1591,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>raise Exception('No packages')</text>
+        <text>#</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1606,10 +1606,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>raise Exception('No packages')</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>ShipTo</text>
+        <text>is_order_inv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldFsnZXJyb3JfbWVzc2FnZSddID0gJyVzXG5cbiVzJyAlIChyZXRbJ2Vycm9yX21lc3NhZ2UnXSwgcmVxdWVzdCkKICAgICAgICAgICAgICAgIHJldHVybiByZXQK</text>
@@ -1646,9 +1646,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ShipTo</last-search>
+      <last-search>is_order_inv</last-search>
       <last-offset />
-      <last-pattern>ShipTo</last-pattern>
+      <last-pattern>is_order_inv</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1656,9 +1656,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dimension_unit</entry>
-        <entry>length</entry>
-        <entry>dimension</entry>
         <entry>get_shipping_price_from_so</entry>
         <entry>weight of</entry>
         <entry>move_lines</entry>
@@ -1676,6 +1673,9 @@
         <entry>96</entry>
         <entry>CompanyName</entry>
         <entry>ShipTo</entry>
+        <entry>\.get_invoice</entry>
+        <entry>def is_done_for</entry>
+        <entry>is_order_inv</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
