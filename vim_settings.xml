@@ -1347,11 +1347,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476708875229">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476712937762">
         <mark key="'" line="219" column="16" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
+        <mark key="[" line="220" column="47" />
+        <mark key="]" line="220" column="71" />
+        <mark key="." line="220" column="71" />
+        <mark key="^" line="220" column="71" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
         <mark key="[" line="35" column="24" />
