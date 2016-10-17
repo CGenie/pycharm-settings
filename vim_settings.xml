@@ -76,8 +76,8 @@
         <mark key="." line="50" column="49" />
         <mark key="^" line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" timestamp="1476288919827">
-        <mark key="'" line="50" column="96" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" timestamp="1476703521925">
+        <mark key="'" line="56" column="12" />
         <mark key="[" line="80" column="27" />
         <mark key="]" line="81" column="74" />
         <mark key="^" line="81" column="74" />
@@ -323,10 +323,6 @@
         <mark key="]" line="3" column="54" />
         <mark key="^" line="3" column="54" />
         <mark key="." line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" timestamp="1476362699653">
-        <mark key="'" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/classifier/essential.sls" timestamp="1473673844835">
         <mark key="'" line="9" column="58" />
@@ -811,8 +807,8 @@
         <mark key="^" line="92" column="55" />
         <mark key="." line="104" column="60" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1476687500910">
-        <mark key="'" line="181" column="68" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1476703703218">
+        <mark key="'" line="249" column="34" />
         <mark key="[" line="422" column="38" />
         <mark key="]" line="422" column="38" />
         <mark key="^" line="419" column="57" />
@@ -1475,21 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="116" column="54" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="44" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="49" column="70" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="50" column="96" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="24" column="15" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
-      <jump line="82" column="43" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
-      <jump line="0" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
-      <jump line="45" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" />
-      <jump line="8" column="1" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" />
-      <jump line="628" column="17" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="482" column="19" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
-      <jump line="205" column="3" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
-      <jump line="221" column="3" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
       <jump line="400" column="5" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
       <jump line="138" column="3" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
       <jump line="82" column="19" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
@@ -1543,16 +1524,12 @@
       <jump line="16" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
       <jump line="17" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
       <jump line="21" column="26" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" />
-      <jump line="207" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="353" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="414" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="424" column="30" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="191" column="70" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="201" column="62" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="208" column="118" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="210" column="94" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="211" column="107" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="22" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" />
       <jump line="12" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" />
       <jump line="15" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/views/res_partner.xml" />
@@ -1575,6 +1552,25 @@
       <jump line="624" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="181" column="68" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="365" column="35" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="100" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="101" column="71" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="102" column="47" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="107" column="30" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="108" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="110" column="19" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="112" column="19" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="172" column="108" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="207" column="114" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="208" column="92" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="210" column="116" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="211" column="81" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="135" column="34" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="56" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="276" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="248" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="249" column="34" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1613,7 +1609,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>Notif</text>
+        <text>Weight</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVjb3JkIG1vZGVsPSJpci51aS52aWV3IiBpZD0idmlld19wYXJ0bmVyX2Zvcm0iPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0ibmFtZSI+cmVzLnBhcnRuZXIuZm9ybTwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJtb2RlbCI+cmVzLnBhcnRuZXI8L2ZpZWxkPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iaW5oZXJpdF9pZCIgcmVmPSJiYXNlLnZpZXdfcGFydG5lcl9mb3JtIiAvPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iYXJjaCIgdHlwZT0ieG1sIj4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2VtYWlsJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC9maWVsZFtAbmFtZT0ndGl0bGUnXSIgcG9zaXRpb249ImF0dHJpYnV0ZXMiPgogICAgICAgICAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0icmVxdWlyZWQiPlsoJ2lzX2NvbXBhbnknLCAnPScsIEZhbHNlKV08L2F0dHJpYnV0ZT4KICAgICAgICAgICAgICAgIDwveHBhdGg+CiAgICAgICAgICAgICAgICA8eHBhdGggZXhwcj0iL2Zvcm0vL2dyb3VwLy9maWVsZFtAbmFtZT0nY2l0eSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvL2ZpZWxkW0BuYW1lPSdjb3VudHJ5X2lkJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5UcnVlPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtLy9ncm91cC8vZmllbGRbQG5hbWU9J3ppcCddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+VHJ1ZTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2ZpcnN0bmFtZSddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJyZXF1aXJlZCI+WygnaXNfY29tcGFueScsICc9JywgRmFsc2UpXTwvYXR0cmlidXRlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgICAgIDx4cGF0aCBleHByPSIvZm9ybS8vZ3JvdXAvZmllbGRbQG5hbWU9J2xhc3RuYW1lJ10iIHBvc2l0aW9uPSJhdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InJlcXVpcmVkIj5bKCdpc19jb21wYW55JywgJz0nLCBGYWxzZSldPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgICAgICA8L3hwYXRoPgogICAgICAgICAgICA8L2ZpZWxkPgogICAgICAgIDwvcmVjb3JkPgo=</text>
@@ -1650,9 +1646,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Notif</last-search>
+      <last-search>Weight</last-search>
       <last-offset />
-      <last-pattern>Notif</last-pattern>
+      <last-pattern>Weight</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1660,10 +1656,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Delivery La</entry>
-        <entry>get_ups_</entry>
-        <entry>sale\.order</entry>
-        <entry>create_delivery_inv</entry>
         <entry>def create_invoices</entry>
         <entry>picking_Create_deli</entry>
         <entry>picking_create_Deli</entry>
@@ -1680,6 +1672,10 @@
         <entry>force.done</entry>
         <entry>onchange_partner_id</entry>
         <entry>Notif</entry>
+        <entry>weight</entry>
+        <entry>set_package_detail</entry>
+        <entry>get_shipping_price</entry>
+        <entry>Weight</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
