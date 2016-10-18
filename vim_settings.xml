@@ -347,11 +347,11 @@
         <mark key="." line="139" column="16" />
         <mark key="^" line="139" column="16" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476811356414">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476821244824">
+        <mark key="[" line="37" column="35" />
+        <mark key="]" line="38" column="24" />
+        <mark key="^" line="38" column="24" />
+        <mark key="." line="38" column="24" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1476454722440">
         <mark key="'" line="38" column="11" />
@@ -894,7 +894,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5OiBub25lOyI=</text>
+        <text>phone</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -909,7 +909,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5OiBub25lOyI=</text>
+        <text>phone</text>
       </register>
       <register name="/" type="4">
         <text>server_config</text>
@@ -918,31 +918,31 @@
         <text encoding="base64">ICAgICAgICB2YXIgJHByb2Nlc3NlZFVzZXJzSGVhZGluZyA9ICQoJyNwcm9jZXNzZWQtdXNlcnMgLmxpc3QtZ3JvdXAtaXRlbS1oZWFkaW5nJyk7CiAgICAgICAgdmFyICRwcm9jZXNzZWRVc2Vyc0l0ZW1zID0gJCgnI3Byb2Nlc3NlZC11c2VycyAuanMtdXNlcicpCiAgICAgICAgJHByb2Nlc3NlZFVzZXJzSGVhZGluZy5jbG9zZXN0KCdsaScpLm9uKCdjbGljaycsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICAkcHJvY2Vzc2VkVXNlcnNJdGVtcy50b2dnbGUoKTsKICAgICAgICAgICAgc2V0SGFzaCgnaXQtcHJvY2Vzc2VkLXVzZXJzJywgJHByb2Nlc3NlZFVzZXJzSXRlbXMuaXMoJzp2aXNpYmxlJykpOwogICAgICAgIH0pOwogICAgICAgIGhhc2hTaG93KCdpdC1wcm9jZXNzZWQtdXNlcnMnLCAkcHJvY2Vzc2VkVXNlcnNJdGVtcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJlIGNsYXNzPSJsaXN0LWdyb3VwLWl0ZW0ganMtdXNlci1kZXRhaWxzIiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgogICAgICAgICAgICB7JSBmb3Iga2V5LCB2YWx1ZSBpbiB1c2VyLml0ZW1zKCkgfCBzb3J0ICV9e3sga2V5LmxqdXN0KDIwKSB9fSA6ICB7eyB2YWx1ZSB9fQogICAgICAgICAgICB7JSBlbmRmb3IgJX08L3ByZT4K</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHhtbF9vZG9vID0K</text>
+        <text encoding="base64">ICAgICAgICA8cHJlIGNsYXNzPSJsaXN0LWdyb3VwLWl0ZW0ganMtdXNlci1kZXRhaWxzIiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgogICAgICAgICAgICB7JSBmb3Iga2V5LCB2YWx1ZSBpbiB1c2VyLml0ZW1zKCkgfCBzb3J0ICV9e3sga2V5LmxqdXN0KDIwKSB9fSA6ICB7eyB2YWx1ZSB9fQogICAgICAgICAgICB7JSBlbmRmb3IgJX08L3ByZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZW49bGVuLAo=</text>
+        <text encoding="base64">ICAgIHhtbF9vZG9vID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0ZWQ9c29ydGVkLAo=</text>
+        <text encoding="base64">ICAgICAgICBsZW49bGVuLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgdXNlciB9fQo=</text>
+        <text encoding="base64">ICAgICAgICBzb3J0ZWQ9c29ydGVkLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgdXNlciB9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC51cGRhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKHJvdykK</text>
+        <text encoding="base64">ICAgIHJlc3VsdC51cGRhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
