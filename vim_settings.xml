@@ -1349,12 +1349,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476767880511">
-        <mark key="'" line="263" column="0" />
-        <mark key="[" line="237" column="14" />
-        <mark key="]" line="237" column="14" />
-        <mark key="^" line="237" column="14" />
-        <mark key="." line="237" column="14" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476781743303">
+        <mark key="'" line="230" column="18" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="59" column="49" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
         <mark key="[" line="35" column="24" />
@@ -1473,7 +1473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="4" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="107" column="30" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="211" column="81" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="56" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
@@ -1573,6 +1572,7 @@
       <jump line="22" column="0" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" />
       <jump line="13" column="37" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" />
       <jump line="6" column="43" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" />
+      <jump line="232" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1592,8 +1592,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHNjcm9sbGVy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gY29udGV4dCBvciB7fQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1608,49 +1608,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNjcm9sbGVy</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>scro</text>
+        <text>def set_order_cancel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gY29udGV4dCBvciB7fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmxleC1ncm93OiAxCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gY29udGV4dCBvciB7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcmVzaXplLW9uPSJ3aWRlX3NwcmluZ2JvYXJkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGlja19vYmogPSBzZWxmLnBvb2wuZ2V0KCdzdG9jay5waWNraW5nJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgIGNvbnNvbGUubG9nICdyZXNpemVPbicsIHZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgZmxleC1ncm93OiAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgY29uc29sZS5sb2cgJ2FmdGVyIGNhbGxiYWNrJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcmVzaXplLW9uPSJ3aWRlX3NwcmluZ2JvYXJkIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFpbnRhaW5Bc3BlY3RSYXRpbzogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAjICAgIGNvbnNvbGUubG9nICdyZXNpemVPbicsIHZhbHVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYWxsKGdldGF0dHIoYWRkcmVzcywgZmllbGQpID09IGFkZHJlc3NfZGF0YVtmaWVsZF0gZm9yIGZpZWxkIGluIGNvbXBhcmVfZmllbGRzKToK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgY29uc29sZS5sb2cgJ2FmdGVyIGNhbGxiYWNrJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcGFyZV9maWVsZHMgPSBbJ3ppcCcsICdjaXR5JywgJ2NvdW50cnlfaWQnLCAnc3RhdGVfaWQnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFpbnRhaW5Bc3BlY3RSYXRpbzogZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKGVtYWlsLCBwKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgYWxsKGdldGF0dHIoYWRkcmVzcywgZmllbGQpID09IGFkZHJlc3NfZGF0YVtmaWVsZF0gZm9yIGZpZWxkIGluIGNvbXBhcmVfZmllbGRzKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKGVtYWlsLCBwKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGFyZV9maWVsZHMgPSBbJ3ppcCcsICdjaXR5JywgJ2NvdW50cnlfaWQnLCAnc3RhdGVfaWQnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scro</last-search>
+      <last-search>def set_order_cancel</last-search>
       <last-offset />
-      <last-pattern>scro</last-pattern>
+      <last-pattern>def set_order_cancel</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1658,7 +1658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CompanyName</entry>
         <entry>ShipTo</entry>
         <entry>\.get_invoice</entry>
         <entry>def is_done_for</entry>
@@ -1678,6 +1677,7 @@
         <entry>maint</entry>
         <entry>it-gra</entry>
         <entry>scro</entry>
+        <entry>def set_order_cancel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
