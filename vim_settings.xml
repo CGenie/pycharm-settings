@@ -1349,8 +1349,8 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476781743303">
-        <mark key="'" line="230" column="18" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476806042301">
+        <mark key="'" line="33" column="18" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="59" column="49" />
@@ -1473,8 +1473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="30" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="211" column="81" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="56" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="119" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="112" column="57" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
@@ -1563,7 +1561,6 @@
       <jump line="134" column="96" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="214" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="265" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="71" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="104" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="259" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
@@ -1573,6 +1570,9 @@
       <jump line="13" column="37" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" />
       <jump line="6" column="43" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" />
       <jump line="232" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="244" column="37" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="33" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="51" column="69" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1611,7 +1611,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>def set_order_cancel</text>
+        <text>cancel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gY29udGV4dCBvciB7fQo=</text>
@@ -1648,9 +1648,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def set_order_cancel</last-search>
+      <last-search>cancel</last-search>
       <last-offset />
-      <last-pattern>def set_order_cancel</last-pattern>
+      <last-pattern>cancel</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1658,7 +1658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ShipTo</entry>
         <entry>\.get_invoice</entry>
         <entry>def is_done_for</entry>
         <entry>is_order_inv</entry>
@@ -1678,6 +1677,7 @@
         <entry>it-gra</entry>
         <entry>scro</entry>
         <entry>def set_order_cancel</entry>
+        <entry>cancel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
