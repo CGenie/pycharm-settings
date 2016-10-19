@@ -139,12 +139,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1476265080044">
-        <mark key="'" line="584" column="13" />
-        <mark key="[" line="573" column="59" />
-        <mark key="]" line="573" column="78" />
-        <mark key="^" line="573" column="78" />
-        <mark key="." line="573" column="78" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1476862026193">
+        <mark key="'" line="442" column="41" />
+        <mark key="[" line="432" column="27" />
+        <mark key="]" line="433" column="20" />
+        <mark key="^" line="433" column="20" />
+        <mark key="." line="433" column="20" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/static/src/js/case.coffee" timestamp="1473683839087">
         <mark key="[" line="19" column="0" />
@@ -287,8 +287,12 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" timestamp="1476771044523">
-        <mark key="'" line="149" column="8" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" timestamp="1476861203636">
+        <mark key="'" line="150" column="8" />
+        <mark key="[" line="158" column="8" />
+        <mark key="]" line="150" column="8" />
+        <mark key="^" line="150" column="8" />
+        <mark key="." line="158" column="8" />
       </file>
       <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/scheduler.py" timestamp="1473417826584">
         <mark key="'" line="192" column="24" />
@@ -686,12 +690,12 @@
         <mark key="^" line="30" column="55" />
         <mark key="." line="30" column="35" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/case/api.py" timestamp="1475089635695">
-        <mark key="'" line="255" column="124" />
-        <mark key="[" line="255" column="75" />
-        <mark key="]" line="255" column="125" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/api.py" timestamp="1476861863930">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="77" column="99" />
+        <mark key="]" line="77" column="99" />
         <mark key="^" line="897" column="1" />
-        <mark key="." line="255" column="75" />
+        <mark key="." line="77" column="99" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/classifier/classifier.service" timestamp="1473673871938">
         <mark key="[" line="9" column="9" />
@@ -992,6 +996,9 @@
         <mark key="]" line="3" column="26" />
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/models.py" timestamp="1476861752948">
+        <mark key="'" line="604" column="12" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/search/entries/collection.html" timestamp="1467016521388">
         <mark key="[" line="2" column="47" />
@@ -1515,18 +1522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="947" column="22" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="864" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="396" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="79" column="62" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="81" column="75" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="85" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="91" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="97" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="104" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="110" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="123" column="77" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="17" column="39" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="49" column="31" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="192" column="57" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
@@ -1615,6 +1610,18 @@
       <jump line="183" column="47" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="21" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/case.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo_res_partner/models/crm_lead.py" />
+      <jump line="905" column="15" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="414" column="28" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="644" column="8" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="84" column="8" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="100" column="22" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="298" column="8" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="369" column="5" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="902" column="9" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="150" column="8" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" />
+      <jump line="32" column="0" filename="$USER_HOME$/Italamo/italamo/apps/case/api.py" />
+      <jump line="604" column="12" filename="$USER_HOME$/Italamo/italamo/apps/case/models.py" />
+      <jump line="440" column="41" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1634,8 +1641,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgPHJlY29yZCBtb2RlbD0iaXIudWkudmlldyIgaWQ9ImNybV9jYXNlX2Zvcm1fdmlld19vcHBvciI+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5PcHBvcnR1bml0aWVzPC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1vZGVsIj5jcm0ubGVhZDwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJpbmhlcml0X2lkIiByZWY9ImNybS5jcm1fY2FzZV9mb3JtX3ZpZXdfb3Bwb3IiIC8+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJhcmNoIiB0eXBlPSJ4bWwiPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtL3NoZWV0L25vdGVib29rL3BhZ2VbbGFzdCgpXSIgcG9zaXRpb249ImFmdGVyIj4KICAgICAgICAgICAgICAgICAgICA8cGFnZSBzdHJpbmc9IkktdGFsYW1vIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwIHN0cmluZz0iRG9jdW1lbnRzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJpdF9jYXNlX2lkIiB3aWRnZXQ9ImNhc2UiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZ3JvdXA+CiAgICAgICAgICAgICAgICAgICAgPC9wYWdlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgPC9maWVsZD4KICAgICAgICA8L3JlY29yZD4K</text>
+      <register name="&quot;" type="4">
+        <text>, 'metadata_search_index'</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1650,10 +1657,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>crm_case_form_view_leads</text>
+        <text>, 'metadata_search_index'</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>metadata_search</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBvcGVuZXJwIGltcG9ydCBhcGkKZnJvbSBvcGVuZXJwLm9zdiBpbXBvcnQgb3N2LCBmaWVsZHMKCgpjbGFzcyBjcm1fbGVhZChvc3Yub3N2KToKICAgIF9pbmhlcml0ID0gJ2NybS5sZWFkJwoKICAgIF9jb2x1bW5zID0gewogICAgICAgICdpdF9jYXNlX2lkJzogZmllbGRzLm1hbnkyb25lKCdpdGFsYW1vLmNhc2UnLCBzdHJpbmc9J09kb28gY2FzZScsIHJlYWRvbmx5PVRydWUpLAogICAgfQoKICAgIEBhcGkubW9kZWwKICAgIGRlZiBpdF9jcmVhdGVfY2FzZShzZWxmLCBsZWFkX2lkLCBtYXN0ZXJfaWQ9Tm9uZSwgZXhpc3RpbmdfY2FzZV9pZD1Ob25lKToKICAgICAgICBsZWFkID0gc2VsZi5lbnZbJ2NybS5sZWFkJ10uYnJvd3NlKFtsZWFkX2lkXSlbMF0KICAgICAgICB0ZW5hbnQgPSBzZWxmLmVudlsnaXRhbGFtby50ZW5hbnQnXS5zdWRvKCkuZ2V0X2N1cnJlbnQoKVswXQoKICAgICAgICBpZiBsZWFkLml0X2Nhc2VfaWQ6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignTGVhZCAlZCBhbHJlYWR5IGhhcyBjYXNlIGFzc2lnbmVkOiAlZCcgJSAobGVhZC5pZCwgbGVhZC5pdF9jYXNlX2lkKSkKCiAgICAgICAgIyBOT1RFOiBjcmVhdGUgY2FzZSBvbiBJLXRhbGFtbyBzaWRlCiAgICAgICAgY2FzZSA9IHNlbGYuZW52WydpdGFsYW1vLmNhc2UnXS5zdWRvKCkuY3JlYXRlKHsKICAgICAgICAgICAgJ25hbWUnOiBsZWFkLm5hbWUsCiAgICAgICAgICAgICd0ZW5hbnRfaWQnOiB0ZW5hbnQuaWQsCiAgICAgICAgICAgICdvZG9vX29iamVjdF9pZCc6IGxlYWQuaWQsCiAgICAgICAgICAgICdvZG9vX2NvbnRlbnRfdHlwZSc6ICdjcm0ubGVhZCcsCiAgICAgICAgICAgICdtYXN0ZXJfaWQnOiBtYXN0ZXJfaWQsCiAgICAgICAgICAgICdpdF9pZCc6IGV4aXN0aW5nX2Nhc2VfaWQsCiAgICAgICAgfSkKICAgICAgICBsZWFkLndyaXRlKHsnaXRfY2FzZV9pZCc6IGNhc2UuaWR9KQoKICAgICAgICAjIE5PVEU6IGNyZWF0ZSBjb2xsZWN0aW9ucyBpbiB0aGlzIGNhc2UgYmFzZWQgb24gdXNlcidzIHRlYW0ncyBTdGFnZXMgaW4gZGlyZWN0IHNhbGVzCiAgICAgICAgdGVhbXMgPSBzZWxmLmVudlsnY3JtLnRlYW0nXS5zZWFyY2goW1snbWVtYmVyX2lkcycsICc9Jywgc2VsZi5lbnYudWlkXV0pCiAgICAgICAgaWYgdGVhbXM6CiAgICAgICAgICAgIHRlYW0gPSB0ZWFtc1swXQogICAgICAgICAgICAjIE5PVEU6IHNpbmNlIHRoZSB1c2VyIGNhbiBsaW5rL3VubGluayB0aGUgc2FtZSBjYXNlLCB3ZSBtdXN0IGF2b2lkCiAgICAgICAgICAgICMgY3JlYXRpb24gb2YgZHVwbGljYXRlIGNvbGxlY3Rpb25zCiAgICAgICAgICAgIHN0YWdlX25hbWVzID0gW3N0YWdlLm5hbWUgZm9yIHN0YWdlIGluIHRlYW0uc3RhZ2VfaWRzLnNvcnRlZChrZXk9bGFtYmRhIHM6IHMucHJvYmFiaWxpdHkpXQogICAgICAgICAgICBmb3IgbmFtZSBpbiBzdGFnZV9uYW1lczoKICAgICAgICAgICAgICAgIHNlbGYuZW52WydpdGFsYW1vLmNhc2UnXS5pdF9hZGRfY29sbGVjdGlvbihjYXNlLmlkLCBuYW1lLCBjcmVhdGVfaWZfbmFtZV9leGlzdHM9RmFsc2UpCgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICdpZCc6IGNhc2UuaWQsCiAgICAgICAgICAgICduYW1lJzogY2FzZS5uYW1lLAogICAgICAgIH0K</text>
@@ -1690,9 +1697,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>metadata_search</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>metadata_search</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1700,13 +1707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set_order</entry>
-        <entry>erp_cu</entry>
-        <entry>respon</entry>
-        <entry>resizeOn</entry>
-        <entry>maint</entry>
-        <entry>it-gra</entry>
-        <entry>scro</entry>
         <entry>def set_order_cancel</entry>
         <entry>cancel</entry>
         <entry>info.html</entry>
@@ -1720,6 +1720,13 @@
         <entry>server_config</entry>
         <entry>UK</entry>
         <entry>log</entry>
+        <entry>case_lead</entry>
+        <entry>lead_</entry>
+        <entry>Lead</entry>
+        <entry>make_points</entry>
+        <entry>x_axis_type</entry>
+        <entry>x_axis_t</entry>
+        <entry>metadata_search</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
