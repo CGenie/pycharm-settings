@@ -431,6 +431,9 @@
         <mark key="^" line="44" column="88" />
         <mark key="." line="44" column="88" />
       </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/case.py" timestamp="1476853688368">
+        <mark key="'" line="21" column="8" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/swap.sls" timestamp="1474109288421">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="0" />
@@ -775,7 +778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="919" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="931" column="22" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="947" column="22" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="864" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
@@ -875,6 +877,7 @@
       <jump line="177" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="15" column="32" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="183" column="47" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
+      <jump line="21" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/case.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
