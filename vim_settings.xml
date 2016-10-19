@@ -347,12 +347,12 @@
         <mark key="." line="139" column="16" />
         <mark key="^" line="139" column="16" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476824412871">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476852292968">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+        <mark key="[" line="82" column="42" />
+        <mark key="]" line="82" column="48" />
+        <mark key="." line="82" column="48" />
+        <mark key="^" line="82" column="48" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1476454722440">
         <mark key="'" line="38" column="11" />
@@ -710,12 +710,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476823980081">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476852644341">
         <mark key="'" line="203" column="27" />
-        <mark key="[" line="233" column="90" />
-        <mark key="]" line="233" column="96" />
-        <mark key="." line="233" column="96" />
-        <mark key="^" line="233" column="96" />
+        <mark key="[" line="234" column="39" />
+        <mark key="]" line="234" column="39" />
+        <mark key="." line="234" column="39" />
+        <mark key="^" line="234" column="39" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" timestamp="1476337043514">
         <mark key="'" line="456" column="20" />
@@ -745,12 +745,12 @@
         <mark key="." line="13" column="54" />
         <mark key="^" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" timestamp="1476851686274">
-        <mark key="'" line="15" column="32" />
-        <mark key="[" line="182" column="86" />
-        <mark key="]" line="183" column="47" />
-        <mark key="." line="183" column="47" />
-        <mark key="^" line="183" column="47" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" timestamp="1476852348267">
+        <mark key="'" line="190" column="47" />
+        <mark key="[" line="182" column="87" />
+        <mark key="]" line="183" column="42" />
+        <mark key="." line="183" column="42" />
+        <mark key="^" line="183" column="42" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/product_dimension/product_view.xml" timestamp="1469649303601">
         <mark key="'" line="0" column="0" />
@@ -775,7 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="897" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="919" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="931" column="22" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="947" column="22" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
@@ -875,6 +874,7 @@
       <jump line="193" column="2" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="177" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="15" column="32" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
+      <jump line="183" column="47" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -895,7 +895,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VuZF91c2VyLnN0YXJtYXAoemlwKGl0ZXJ0b29scy5yZXBlYXQoZGJfaWQpLCB1c2Vycy52YWx1ZXMoKSkpLmFwcGx5X2FzeW5jKCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUHJlZmV0Y2hpbmcgY291bnRyaWVzJykK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -910,40 +910,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;&quot;</text>
+        <text>delivery</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2ltcG9ydGVyLnNlbmRfdXNlcih1c2VyLCB4bWxfb2RvbywganNvbl9vZG9vKQogICAgICAgIHJlc3VsdHMudXBkYXRlKAogICAgICAgICAgICBkYl9pZCwKICAgICAgICAgICAgbW9kZWw9cmVzdWx0cy5Vc2VyQ29udmVyc2lvblByb2Nlc3MsCiAgICAgICAgICAgIHNlbnRfdXNlcnM9W3VzZXJbJ2VtYWlsJ11dCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyX2ltcG9ydGVyLmZldGNoX2NvdW50cnkodXNlclsnZGVsaXZlcnlfY291bnRyeSddLCBOb25lLCB4bWxfb2RvbywganNvbl9vZG9vKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VuZF91c2VyLnN0YXJtYXAoemlwKGl0ZXJ0b29scy5yZXBlYXQoZGJfaWQpLCB1c2Vycy52YWx1ZXMoKSkpLmFwcGx5X2FzeW5jKCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUHJlZmV0Y2hpbmcgY291bnRyaWVzJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjcmVzdWx0cy51cGRhdGUoCiAgICAgICAgIyAgICBkYl9pZCwKICAgICAgICAjICAgIG1vZGVsPXJlc3VsdHMuVXNlckNvbnZlcnNpb25Qcm9jZXNzLAogICAgICAgICMgICAgc2VudF91c2Vycz1bdXNlclsnZW1haWwnXV0KICAgICAgICAjKQo=</text>
+        <text encoding="base64">ICAgICAgICAjc2VuZF91c2VyLnN0YXJtYXAoemlwKGl0ZXJ0b29scy5yZXBlYXQoZGJfaWQpLCB1c2Vycy52YWx1ZXMoKSkpLmFwcGx5X2FzeW5jKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjcmVzdWx0cy51cGRhdGUoCiAgICAgICAgIyAgICBkYl9pZCwKICAgICAgICAjICAgIG1vZGVsPXJlc3VsdHMuVXNlckNvbnZlcnNpb25Qcm9jZXNzLAogICAgICAgICMgICAgc2VudF91c2Vycz1bdXNlclsnZW1haWwnXV0KICAgICAgICAjKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kX3VzZXIuc3Rhcm1hcCh6aXAoaXRlcnRvb2xzLnJlcGVhdChkYl9pZCksIHVzZXJzLnZhbHVlcygpKSkuYXBwbHlfYXN5bmMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgpAY2VsZXJ5X2FwcC50YXNrKG5hbWU9J3NlbmRfdXNlcicpCmRlZiBzZW5kX3VzZXIoZGJfaWQsIHVzZXIpOgogICAgaW1wb3J0IGltcG9ydF9oZWxwZXJzCgogICAgcmVzdWx0ID0gcmVzdWx0cy5nZXQoZGJfaWQsIG1vZGVsPXJlc3VsdHMuVXNlckNvbnZlcnNpb25Qcm9jZXNzKQoKICAgIHNlcnZlcl9jb25maWcgPSByZXN1bHQuZ2V0X3NlcnZlcl9jb25maWcoKQogICAgeG1sX29kb28gPSBpbXBvcnRfaGVscGVycy5pbml0X3htbF9vZG9vKHNlcnZlcl9jb25maWcpCiAgICBqc29uX29kb28gPSBpbXBvcnRfaGVscGVycy5pbml0X2pzb25fb2RvbyhzZXJ2ZXJfY29uZmlnKQoKICAgIHVzZXJfaW1wb3J0ZXIuc2VuZF91c2VyKHVzZXIsIHhtbF9vZG9vLCBqc29uX29kb28pCiAgICAjcmVzdWx0cy51cGRhdGUoCiAgICAjICAgIGRiX2lkLAogICAgIyAgICBtb2RlbD1yZXN1bHRzLlVzZXJDb252ZXJzaW9uUHJvY2VzcywKICAgICMgICAgc2VudF91c2Vycz1bdXNlclsnZW1haWwnXV0KICAgICMpCiAgICByZXN1bHQuc2VudF91c2Vycy5hcHBlbmQodXNlclsnZW1haWwnXSkKICAgIHJlc3VsdC5zYXZlKCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZW5kX3VzZXIuc3Rhcm1hcCh6aXAoaXRlcnRvb2xzLnJlcGVhdChkYl9pZCksIHVzZXJzLnZhbHVlcygpKSkuYXBwbHlfYXN5bmMoKQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CgpAY2VsZXJ5X2FwcC50YXNrKG5hbWU9J3NlbmRfdXNlcicpCmRlZiBzZW5kX3VzZXIoZGJfaWQsIHVzZXIpOgogICAgaW1wb3J0IGltcG9ydF9oZWxwZXJzCgogICAgcmVzdWx0ID0gcmVzdWx0cy5nZXQoZGJfaWQsIG1vZGVsPXJlc3VsdHMuVXNlckNvbnZlcnNpb25Qcm9jZXNzKQoKICAgIHNlcnZlcl9jb25maWcgPSByZXN1bHQuZ2V0X3NlcnZlcl9jb25maWcoKQogICAgeG1sX29kb28gPSBpbXBvcnRfaGVscGVycy5pbml0X3htbF9vZG9vKHNlcnZlcl9jb25maWcpCiAgICBqc29uX29kb28gPSBpbXBvcnRfaGVscGVycy5pbml0X2pzb25fb2RvbyhzZXJ2ZXJfY29uZmlnKQoKICAgIHVzZXJfaW1wb3J0ZXIuc2VuZF91c2VyKHVzZXIsIHhtbF9vZG9vLCBqc29uX29kb28pCiAgICAjcmVzdWx0cy51cGRhdGUoCiAgICAjICAgIGRiX2lkLAogICAgIyAgICBtb2RlbD1yZXN1bHRzLlVzZXJDb252ZXJzaW9uUHJvY2VzcywKICAgICMgICAgc2VudF91c2Vycz1bdXNlclsnZW1haWwnXV0KICAgICMpCiAgICByZXN1bHQuc2VudF91c2Vycy5hcHBlbmQodXNlclsnZW1haWwnXSkKICAgIHJlc3VsdC5zYXZlKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGFkZHJlc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZW5kX3VzZXIuc3Rhcm1hcCh6aXAoaXRlcnRvb2xzLnJlcGVhdChkYl9pZCksIHVzZXJzLnZhbHVlcygpKSkuYXBwbHlfYXN5bmMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2woYWRkcmVzcyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGFkZHJlc3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnY291bnRyeV9pZCc6IE5vbmUsICAjIFRPRE8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2woYWRkcmVzcyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
