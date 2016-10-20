@@ -656,12 +656,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476852292968">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476941454242">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="82" column="42" />
-        <mark key="]" line="82" column="48" />
-        <mark key="." line="82" column="48" />
-        <mark key="^" line="82" column="48" />
+        <mark key="[" line="80" column="23" />
+        <mark key="]" line="80" column="29" />
+        <mark key="." line="80" column="29" />
+        <mark key="^" line="80" column="29" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1476454722440">
         <mark key="'" line="38" column="11" />
@@ -1642,7 +1642,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>phone_</text>
+        <text>delivery</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1657,13 +1657,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>phone_</text>
+        <text>delivery</text>
       </register>
       <register name="/" type="4">
         <text>Exception(add</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgY3VzdG9tZXJfZGF0YVsncGhvbmUnXToKICAgICAgICAgICAgY3VzdG9tZXJfZGF0YVsncGhvbmUnXSA9IGN1c3RvbWVyX2RhdGFbJ3Bob25lX21vYmlsZSddCg==</text>
+        <text encoding="base64">ICAgICAgICAncGhvbmUnOiB1c2VyWydkZWxpdmVyeV9waG9uZW1vYmlsZSddLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oYWRkcmVzcykK</text>
