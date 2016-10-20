@@ -656,12 +656,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476941454242">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476941732182">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="23" />
-        <mark key="]" line="80" column="29" />
-        <mark key="." line="80" column="29" />
-        <mark key="^" line="80" column="29" />
+        <mark key="[" line="83" column="30" />
+        <mark key="]" line="83" column="36" />
+        <mark key="." line="83" column="36" />
+        <mark key="^" line="83" column="36" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1476454722440">
         <mark key="'" line="38" column="11" />
@@ -1403,12 +1403,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476865949299">
-        <mark key="'" line="199" column="46" />
-        <mark key="[" line="192" column="52" />
-        <mark key="]" line="192" column="52" />
-        <mark key="." line="192" column="52" />
-        <mark key="^" line="215" column="21" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476941789560">
+        <mark key="'" line="202" column="46" />
+        <mark key="[" line="194" column="61" />
+        <mark key="]" line="195" column="42" />
+        <mark key="." line="195" column="42" />
+        <mark key="^" line="195" column="42" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
         <mark key="[" line="35" column="24" />
@@ -1642,7 +1642,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>delivery</text>
+        <text>(</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1657,13 +1657,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>delivery</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>Exception(add</text>
+        <text>phone_mob</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncGhvbmUnOiB1c2VyWydkZWxpdmVyeV9waG9uZW1vYmlsZSddLAo=</text>
+        <text encoding="base64">ICAgICAgICAncGhvbmVfbW9iaWxlJzogdXNlclsnZGVsaXZlcnlfcGhvbmVtb2JpbGUnXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oYWRkcmVzcykK</text>
@@ -1697,9 +1697,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Exception(add</last-search>
+      <last-search>phone_mob</last-search>
       <last-offset />
-      <last-pattern>Exception(add</last-pattern>
+      <last-pattern>phone_mob</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1707,7 +1707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cancel</entry>
         <entry>info.html</entry>
         <entry>XLSX f</entry>
         <entry>xlsx fi</entry>
@@ -1727,6 +1726,7 @@
         <entry>x_axis_t</entry>
         <entry>metadata_search</entry>
         <entry>Exception(add</entry>
+        <entry>phone_mob</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
