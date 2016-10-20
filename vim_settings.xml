@@ -656,12 +656,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476951203027">
-        <mark key="'" line="68" column="41" />
-        <mark key="[" line="89" column="41" />
-        <mark key="]" line="89" column="41" />
-        <mark key="." line="89" column="47" />
-        <mark key="^" line="89" column="25" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476956701224">
+        <mark key="'" line="102" column="69" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="16" />
+        <mark key="." line="32" column="16" />
+        <mark key="^" line="31" column="96" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1476454722440">
         <mark key="'" line="38" column="11" />
@@ -1521,7 +1521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="71" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="104" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="259" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
@@ -1621,6 +1620,7 @@
       <jump line="186" column="15" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="187" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="189" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="96" column="69" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1640,8 +1640,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>customer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleSA9IGNvbnZlcnNpb25faGVscGVycwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1656,49 +1656,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>customer</text>
+        <text>user['invoice_company'] or '%(invoice_firstname)s %(invoice_lastname)s' % user,</text>
       </register>
       <register name="/" type="4">
-        <text>customer_da</text>
+        <text>deliv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wYXJzZV9jdXN0b21lcl9waG9uZShjdXN0b21lcl9kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAnbmFtZSc6IF9hZGRyZXNzX25hbWUodXNlclsnZGVsaXZlcnlfZmlyc3RuYW1lJ10sIHVzZXJbJ2RlbGl2ZXJ5X2xhc3RuYW1lJ10sIHVzZXJbJ2RlbGl2ZXJ5X2NvbXBhbnknXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYWRkcmVzc19kYXRhWydwaG9uZSddOgogICAgICAgICAgICBhZGRyZXNzX2RhdGFbJ3Bob25lJ10gPSBhZGRyZXNzX2RhdGFbJ21vYmlsZSddCgogICAgICAgIGlmIGFkZHJlc3NfZGF0YVsncGhvbmUnXSA9PSBhZGRyZXNzX2RhdGFbJ21vYmlsZSddOgogICAgICAgICAgICBhZGRyZXNzX2RhdGFbJ21vYmlsZSddID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleSA9IGNvbnZlcnNpb25faGVscGVycwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgY3VzdG9tZXJfZGF0YVsncGhvbmUnXToKICAgICAgICAgICAgY3VzdG9tZXJfZGF0YVsncGhvbmUnXSA9IGN1c3RvbWVyX2RhdGFbJ21vYmlsZSddCgogICAgICAgIGlmIGN1c3RvbWVyX2RhdGFbJ3Bob25lJ10gPT0gY3VzdG9tZXJfZGF0YVsnbW9iaWxlJ106CiAgICAgICAgICAgIGN1c3RvbWVyX2RhdGFbJ21vYmlsZSddID0gRmFsc2UKCg==</text>
+        <text encoding="base64">CiAgICBkZWYgX2FkZHJlc3NfbmFtZShmaXJzdF9uYW1lLCBsYXN0X25hbWUsIGNvbXBhbnkpOgogICAgICAgIGlmIGZpcnN0X25hbWUgb3IgbGFzdF9uYW1lOgogICAgICAgICAgICByZXR1cm4gJyVzICVzJyAlIChmaXJzdF9uYW1lLCBsYXN0X25hbWUpCgogICAgICAgIHJldHVybiBjb21wYW55Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwo=</text>
+        <text encoding="base64">CiAgICBkZWxpdmVyeV9uYW1lID0gdXNlclsnZGVsaXZlcnlfY29tcGFueSddCiAgICBpZiB1c2VyWydkZWxpdmVyeV9maXJzdG5hbWUnXSBvciB1c2VyWydkZWxpdmVyeV9sYXN0bmFtZSddOgogICAgICAgIGZsID0gJyUoZGVsaXZlcnlfZmlyc3RuYW1lKXMgJShkZWxpdmVyeV9sYXN0bmFtZSlzJyAlIHVzZXIKICAgICAgICBpZiB1c2VyWydkZWxpdmVyeV9jb21wYW55J106CiAgICAgICAgICAgIGRlbGl2ZXJ5X25hbWUgPSAnJXMgLSAlcycgJSAodXNlclsnZGVsaXZlcnlfY29tcGFueSddLCBmbCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBkZWxpdmVyeV9uYW1lID0gZmwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAndmF0JzogdXNlclsnaW52b2ljZV92YXRfbnVtYmVyJ10sCg==</text>
+        <text encoding="base64">CiAgICBpbnZvaWNlX25hbWUgPSB1c2VyWydpbnZvaWNlX2NvbXBhbnknXQogICAgaWYgbm90IHVzZXJbJ2ludm9pY2VfY29tcGFueSddOgogICAgICAgIGludm9pY2VfbmFtZSA9ICclKGludm9pY2VfZmlyc3RuYW1lKXMgJShpbnZvaWNlX2xhc3RuYW1lKXMnICUgdXNlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oYWRkcmVzcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICBpbnZvaWNlX25hbWUgPSB1c2VyWydpbnZvaWNlX2NvbXBhbnknXQogICAgaWYgbm90IHVzZXJbJ2ludm9pY2VfY29tcGFueSddOgogICAgICAgIGludm9pY2VfbmFtZSA9ICclKGludm9pY2VfZmlyc3RuYW1lKXMgJShpbnZvaWNlX2xhc3RuYW1lKXMnICUgdXNlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAnbmFtZSc6IHVzZXJbJ2ludm9pY2VfY29tcGFueSddIG9yICclKGludm9pY2VfZmlyc3RuYW1lKXMgJShpbnZvaWNlX2xhc3RuYW1lKXMnICUgdXNlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgPHJlY29yZCBtb2RlbD0iaXIudWkudmlldyIgaWQ9ImNybV9jYXNlX2Zvcm1fdmlld19vcHBvciI+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5PcHBvcnR1bml0aWVzPC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1vZGVsIj5jcm0ubGVhZDwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJpbmhlcml0X2lkIiByZWY9ImNybS5jcm1fY2FzZV9mb3JtX3ZpZXdfb3Bwb3IiIC8+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJhcmNoIiB0eXBlPSJ4bWwiPgogICAgICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii9mb3JtL3NoZWV0L25vdGVib29rL3BhZ2VbbGFzdCgpXSIgcG9zaXRpb249ImFmdGVyIj4KICAgICAgICAgICAgICAgICAgICA8cGFnZSBzdHJpbmc9IkktdGFsYW1vIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwIHN0cmluZz0iRG9jdW1lbnRzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJpdF9jYXNlX2lkIiB3aWRnZXQ9ImNhc2UiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZ3JvdXA+CiAgICAgICAgICAgICAgICAgICAgPC9wYWdlPgogICAgICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgPC9maWVsZD4KICAgICAgICA8L3JlY29yZD4K</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYWRkcmVzc19kYXRhWydwaG9uZSddOgogICAgICAgICAgICBhZGRyZXNzX2RhdGFbJ3Bob25lJ10gPSBhZGRyZXNzX2RhdGFbJ21vYmlsZSddCgogICAgICAgIGlmIGFkZHJlc3NfZGF0YVsncGhvbmUnXSA9PSBhZGRyZXNzX2RhdGFbJ21vYmlsZSddOgogICAgICAgICAgICBhZGRyZXNzX2RhdGFbJ21vYmlsZSddID0gRmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjcm1fbGVhZAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgY3VzdG9tZXJfZGF0YVsncGhvbmUnXToKICAgICAgICAgICAgY3VzdG9tZXJfZGF0YVsncGhvbmUnXSA9IGN1c3RvbWVyX2RhdGFbJ21vYmlsZSddCgogICAgICAgIGlmIGN1c3RvbWVyX2RhdGFbJ3Bob25lJ10gPT0gY3VzdG9tZXJfZGF0YVsnbW9iaWxlJ106CiAgICAgICAgICAgIGN1c3RvbWVyX2RhdGFbJ21vYmlsZSddID0gRmFsc2UKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBOT1RFOiBjcmVhdGUgY29sbGVjdGlvbnMgaW4gdGhpcyBjYXNlIGJhc2VkIG9uIHVzZXIncyB0ZWFtJ3MgU3RhZ2VzIGluIGRpcmVjdCBzYWxlcwogICAgICAgIHRlYW1zID0gc2VsZi5lbnZbJ2NybS50ZWFtJ10uc2VhcmNoKFtbJ21lbWJlcl9pZHMnLCAnPScsIHNlbGYuZW52LnVpZF1dKQogICAgICAgIGlmIHRlYW1zOgogICAgICAgICAgICB0ZWFtID0gdGVhbXNbMF0KICAgICAgICAgICAgIyBOT1RFOiBzaW5jZSB0aGUgdXNlciBjYW4gbGluay91bmxpbmsgdGhlIHNhbWUgY2FzZSwgd2UgbXVzdCBhdm9pZAogICAgICAgICAgICAjIGNyZWF0aW9uIG9mIGR1cGxpY2F0ZSBjb2xsZWN0aW9ucwogICAgICAgICAgICBzdGFnZV9uYW1lcyA9IFtzdGFnZS5uYW1lIGZvciBzdGFnZSBpbiB0ZWFtLnN0YWdlX2lkcy5zb3J0ZWQoa2V5PWxhbWJkYSBzOiBzLnByb2JhYmlsaXR5KV0KICAgICAgICAgICAgZm9yIG5hbWUgaW4gc3RhZ2VfbmFtZXM6CiAgICAgICAgICAgICAgICBzZWxmLmVudlsnaXRhbGFtby5jYXNlJ10uaXRfYWRkX2NvbGxlY3Rpb24oY2FzZS5pZCwgbmFtZSwgY3JlYXRlX2lmX25hbWVfZXhpc3RzPUZhbHNlKQo=</text>
+        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>customer_da</last-search>
+      <last-search>deliv</last-search>
       <last-offset />
-      <last-pattern>customer_da</last-pattern>
+      <last-pattern>deliv</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1706,7 +1706,6 @@
     </search>
     <history>
       <history-search>
-        <entry>csv_</entry>
         <entry>def task_res</entry>
         <entry>codename</entry>
         <entry>server_config</entry>
@@ -1726,6 +1725,7 @@
         <entry>parse_lang</entry>
         <entry>itertools</entry>
         <entry>customer_da</entry>
+        <entry>deliv</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
