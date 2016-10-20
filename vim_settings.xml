@@ -1081,6 +1081,11 @@
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
       </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/crm_claim_workflow.xml" timestamp="1476429703750">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-stock.html" timestamp="1472556989959">
         <mark key="'" line="34" column="11" />
         <mark key="[" line="3" column="10" />
@@ -1403,12 +1408,10 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476959250888">
-        <mark key="'" line="189" column="28" />
-        <mark key="[" line="257" column="63" />
-        <mark key="]" line="258" column="56" />
-        <mark key="." line="258" column="56" />
-        <mark key="^" line="258" column="56" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476961618157">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
         <mark key="[" line="35" column="24" />
@@ -1453,6 +1456,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="^" line="38" column="68" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/__openerp__.py" timestamp="1476371901865">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/case/show.html" timestamp="1475135174242">
         <mark key="'" line="11" column="79" />
@@ -1521,8 +1529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="104" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="259" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="103" column="27" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" />
       <jump line="155" column="8" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" />
@@ -1621,6 +1627,8 @@
       <jump line="187" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="189" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="96" column="69" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
+      <jump line="276" column="94" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="335" column="63" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1641,7 +1649,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAncHJlc3Rhc2hvcCc6ICdwcmVzdGFzaG9wJywgICMgRm9yICdsYW5nJyBzZXR0aW5nCg==</text>
+        <text encoding="base64">CiAgICAgICAgIyBTZXQgZGVsaXZlcnkgYWRkcmVzcyB0byAnW2NvbXBhbnldIC0gW2ZpcnN0bmFtZV0gW2xhc3RuYW1lXScgaWYgaW52b2ljZSBjb21wYW55IGlzIGRpZmZlcmVudAogICAgICAgIGlmIGFkZHJlc3NfZGF0YVsndHlwZSddID09ICdkZWxpdmVyeSc6CiAgICAgICAgICAgIGludiA9IHNlbGYucG9vbC5nZXQoJ3Jlcy5wYXJ0bmVyJykuc2VhcmNoKGNyLCB1aWQsIFsKICAgICAgICAgICAgICAgIFsncGFyZW50X2lkJywgJz0nLCBwWzBdXSwKICAgICAgICAgICAgICAgIFsndHlwZScsICc9JywgJ2ludm9pY2UnXQogICAgICAgICAgICBdLCBjb250ZXh0PWNvbnRleHQpCiAgICAgICAgICAgIGlmIGludjoKICAgICAgICAgICAgICAgIGludl9kYXRhID0gc2VsZi5wb29sLmdldCgncmVzLnBhcnRuZXInKS5icm93c2UoY3IsIHVpZCwgaW52WzBdLCBjb250ZXh0PWNvbnRleHQpCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1656,49 +1664,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>not user['invoice_company']</text>
+        <text>search_read</text>
       </register>
       <register name="/" type="4">
-        <text>deliv</text>
+        <text>\.browse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAncHJlc3Rhc2hvcCc6ICdwcmVzdGFzaG9wJywgICMgRm9yICdsYW5nJyBzZXR0aW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJzogYWRkcmVzc19kYXRhWyduYW1lJ10sCg==</text>
+        <text encoding="base64">CiAgICAgICAgIyBTZXQgZGVsaXZlcnkgYWRkcmVzcyB0byAnW2NvbXBhbnldIC0gW2ZpcnN0bmFtZV0gW2xhc3RuYW1lXScgaWYgaW52b2ljZSBjb21wYW55IGlzIGRpZmZlcmVudAogICAgICAgIGlmIGFkZHJlc3NfZGF0YVsndHlwZSddID09ICdkZWxpdmVyeSc6CiAgICAgICAgICAgIGludiA9IHNlbGYucG9vbC5nZXQoJ3Jlcy5wYXJ0bmVyJykuc2VhcmNoKGNyLCB1aWQsIFsKICAgICAgICAgICAgICAgIFsncGFyZW50X2lkJywgJz0nLCBwWzBdXSwKICAgICAgICAgICAgICAgIFsndHlwZScsICc9JywgJ2ludm9pY2UnXQogICAgICAgICAgICBdLCBjb250ZXh0PWNvbnRleHQpCiAgICAgICAgICAgIGlmIGludjoKICAgICAgICAgICAgICAgIGludl9kYXRhID0gc2VsZi5wb29sLmdldCgncmVzLnBhcnRuZXInKS5icm93c2UoY3IsIHVpZCwgaW52WzBdLCBjb250ZXh0PWNvbnRleHQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJzogYWRkcmVzc19kYXRhWyduYW1lJ10sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleSA9IGNvbnZlcnNpb25faGVscGVycwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgX2FkZHJlc3NfbmFtZShmaXJzdF9uYW1lLCBsYXN0X25hbWUsIGNvbXBhbnkpOgogICAgICAgIGlmIGZpcnN0X25hbWUgb3IgbGFzdF9uYW1lOgogICAgICAgICAgICByZXR1cm4gJyVzICVzJyAlIChmaXJzdF9uYW1lLCBsYXN0X25hbWUpCgogICAgICAgIHJldHVybiBjb21wYW55Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleSA9IGNvbnZlcnNpb25faGVscGVycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWxpdmVyeV9uYW1lID0gdXNlclsnZGVsaXZlcnlfY29tcGFueSddCiAgICBpZiB1c2VyWydkZWxpdmVyeV9maXJzdG5hbWUnXSBvciB1c2VyWydkZWxpdmVyeV9sYXN0bmFtZSddOgogICAgICAgIGZsID0gJyUoZGVsaXZlcnlfZmlyc3RuYW1lKXMgJShkZWxpdmVyeV9sYXN0bmFtZSlzJyAlIHVzZXIKICAgICAgICBpZiB1c2VyWydkZWxpdmVyeV9jb21wYW55J106CiAgICAgICAgICAgIGRlbGl2ZXJ5X25hbWUgPSAnJXMgLSAlcycgJSAodXNlclsnZGVsaXZlcnlfY29tcGFueSddLCBmbCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBkZWxpdmVyeV9uYW1lID0gZmwK</text>
+        <text encoding="base64">CiAgICBkZWYgX2FkZHJlc3NfbmFtZShmaXJzdF9uYW1lLCBsYXN0X25hbWUsIGNvbXBhbnkpOgogICAgICAgIGlmIGZpcnN0X25hbWUgb3IgbGFzdF9uYW1lOgogICAgICAgICAgICByZXR1cm4gJyVzICVzJyAlIChmaXJzdF9uYW1lLCBsYXN0X25hbWUpCgogICAgICAgIHJldHVybiBjb21wYW55Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBpbnZvaWNlX25hbWUgPSB1c2VyWydpbnZvaWNlX2NvbXBhbnknXQogICAgaWYgbm90IHVzZXJbJ2ludm9pY2VfY29tcGFueSddOgogICAgICAgIGludm9pY2VfbmFtZSA9ICclKGludm9pY2VfZmlyc3RuYW1lKXMgJShpbnZvaWNlX2xhc3RuYW1lKXMnICUgdXNlcgo=</text>
+        <text encoding="base64">CiAgICBkZWxpdmVyeV9uYW1lID0gdXNlclsnZGVsaXZlcnlfY29tcGFueSddCiAgICBpZiB1c2VyWydkZWxpdmVyeV9maXJzdG5hbWUnXSBvciB1c2VyWydkZWxpdmVyeV9sYXN0bmFtZSddOgogICAgICAgIGZsID0gJyUoZGVsaXZlcnlfZmlyc3RuYW1lKXMgJShkZWxpdmVyeV9sYXN0bmFtZSlzJyAlIHVzZXIKICAgICAgICBpZiB1c2VyWydkZWxpdmVyeV9jb21wYW55J106CiAgICAgICAgICAgIGRlbGl2ZXJ5X25hbWUgPSAnJXMgLSAlcycgJSAodXNlclsnZGVsaXZlcnlfY29tcGFueSddLCBmbCkKICAgICAgICBlbHNlOgogICAgICAgICAgICBkZWxpdmVyeV9uYW1lID0gZmwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICBpbnZvaWNlX25hbWUgPSB1c2VyWydpbnZvaWNlX2NvbXBhbnknXQogICAgaWYgbm90IHVzZXJbJ2ludm9pY2VfY29tcGFueSddOgogICAgICAgIGludm9pY2VfbmFtZSA9ICclKGludm9pY2VfZmlyc3RuYW1lKXMgJShpbnZvaWNlX2xhc3RuYW1lKXMnICUgdXNlcgo=</text>
+        <text encoding="base64">CiAgICBpbnZvaWNlX25hbWUgPSB1c2VyWydpbnZvaWNlX2NvbXBhbnknXQogICAgaWYgbm90IHVzZXJbJ2ludm9pY2VfY29tcGFueSddOgogICAgICAgIGludm9pY2VfbmFtZSA9ICclKGludm9pY2VfZmlyc3RuYW1lKXMgJShpbnZvaWNlX2xhc3RuYW1lKXMnICUgdXNlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnbmFtZSc6IHVzZXJbJ2ludm9pY2VfY29tcGFueSddIG9yICclKGludm9pY2VfZmlyc3RuYW1lKXMgJShpbnZvaWNlX2xhc3RuYW1lKXMnICUgdXNlciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICBpbnZvaWNlX25hbWUgPSB1c2VyWydpbnZvaWNlX2NvbXBhbnknXQogICAgaWYgbm90IHVzZXJbJ2ludm9pY2VfY29tcGFueSddOgogICAgICAgIGludm9pY2VfbmFtZSA9ICclKGludm9pY2VfZmlyc3RuYW1lKXMgJShpbnZvaWNlX2xhc3RuYW1lKXMnICUgdXNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deliv</last-search>
+      <last-search>\.browse</last-search>
       <last-offset />
-      <last-pattern>deliv</last-pattern>
+      <last-pattern>\.browse</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1706,7 +1714,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def task_res</entry>
         <entry>codename</entry>
         <entry>server_config</entry>
         <entry>UK</entry>
@@ -1726,6 +1733,7 @@
         <entry>itertools</entry>
         <entry>customer_da</entry>
         <entry>deliv</entry>
+        <entry>\.browse</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
