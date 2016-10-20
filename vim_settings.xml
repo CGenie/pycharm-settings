@@ -656,12 +656,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476959328487">
-        <mark key="'" line="102" column="69" />
-        <mark key="[" line="73" column="16" />
-        <mark key="]" line="73" column="42" />
-        <mark key="." line="73" column="42" />
-        <mark key="^" line="73" column="42" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476960942821">
+        <mark key="'" line="104" column="69" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="57" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="85" column="56" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1476454722440">
         <mark key="'" line="38" column="11" />
@@ -1641,7 +1641,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJzogYWRkcmVzc19kYXRhWyduYW1lJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAncHJlc3Rhc2hvcCc6ICdwcmVzdGFzaG9wJywgICMgRm9yICdsYW5nJyBzZXR0aW5nCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1662,7 +1662,7 @@
         <text>deliv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnbmFtZSc6IF9hZGRyZXNzX25hbWUodXNlclsnZGVsaXZlcnlfZmlyc3RuYW1lJ10sIHVzZXJbJ2RlbGl2ZXJ5X2xhc3RuYW1lJ10sIHVzZXJbJ2RlbGl2ZXJ5X2NvbXBhbnknXSksCg==</text>
+        <text encoding="base64">ICAgICAgICAncHJlc3Rhc2hvcCc6ICdwcmVzdGFzaG9wJywgICMgRm9yICdsYW5nJyBzZXR0aW5nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJzogYWRkcmVzc19kYXRhWyduYW1lJ10sCg==</text>
