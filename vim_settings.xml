@@ -1660,7 +1660,7 @@
         <text>phone_</text>
       </register>
       <register name="/" type="4">
-        <text>phone_mob</text>
+        <text>lang</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAncGhvbmVfbW9iaWxlJzogdXNlclsnZGVsaXZlcnlfcGhvbmVtb2JpbGUnXSwK</text>
@@ -1697,9 +1697,9 @@
       </register>
     </registers>
     <search>
-      <last-search>phone_mob</last-search>
+      <last-search>lang</last-search>
       <last-offset />
-      <last-pattern>phone_mob</last-pattern>
+      <last-pattern>lang</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1707,7 +1707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>info.html</entry>
         <entry>XLSX f</entry>
         <entry>xlsx fi</entry>
         <entry>index.html</entry>
@@ -1727,6 +1726,7 @@
         <entry>metadata_search</entry>
         <entry>Exception(add</entry>
         <entry>phone_mob</entry>
+        <entry>lang</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
