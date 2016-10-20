@@ -656,12 +656,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476956701224">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476958524432">
         <mark key="'" line="102" column="69" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="16" />
-        <mark key="." line="32" column="16" />
-        <mark key="^" line="31" column="96" />
+        <mark key="[" line="63" column="35" />
+        <mark key="]" line="63" column="116" />
+        <mark key="." line="63" column="116" />
+        <mark key="^" line="63" column="116" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1476454722440">
         <mark key="'" line="38" column="11" />
@@ -1639,8 +1639,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>not user['invoice_company']</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1655,7 +1655,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user['invoice_company'] or '%(invoice_firstname)s %(invoice_lastname)s' % user,</text>
+        <text>not user['invoice_company']</text>
       </register>
       <register name="/" type="4">
         <text>deliv</text>
