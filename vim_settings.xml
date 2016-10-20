@@ -358,8 +358,8 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476721929484">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476944177167">
+        <mark key="'" line="263" column="18" />
         <mark key="[" line="973" column="0" />
         <mark key="]" line="973" column="0" />
         <mark key="^" line="971" column="15" />
@@ -656,11 +656,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476943966100">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476944257040">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="42" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="69" column="25" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1476454722440">
         <mark key="'" line="38" column="11" />
@@ -1521,11 +1521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="31" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="192" column="57" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="252" column="50" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="257" column="12" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="175" column="56" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="49" column="75" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="176" column="42" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="215" column="40" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
@@ -1621,6 +1616,11 @@
       <jump line="604" column="12" filename="$USER_HOME$/Italamo/italamo/apps/case/models.py" />
       <jump line="440" column="41" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="199" column="46" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="973" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="301" column="9" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="241" column="14" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="256" column="14" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="263" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1641,7 +1641,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAndmF0JzogdXNlclsnaW52b2ljZV92YXRfbnVtYmVyJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAnc3RyZWV0JzogdXNlclsnZGVsaXZlcnlfYWRkcmVzczEnXSwKICAgICAgICAnemlwJzogdXNlclsnZGVsaXZlcnlfcG9zdGNvZGUnXSwKICAgICAgICAnY2l0eSc6IHVzZXJbJ2RlbGl2ZXJ5X2NpdHknXSwKICAgICAgICAnY291bnRyeV9pZCc6IGZldGNoX2NvdW50cnkodXNlclsnZGVsaXZlcnlfY291bnRyeSddLCBOb25lLCB4bWxfb2RvbywganNvbl9vZG9vKSwKICAgICAgICAnc3RhdGVfaWQnOiBOb25lLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1659,10 +1659,10 @@
         <text>phone_</text>
       </register>
       <register name="/" type="4">
-        <text>lang</text>
+        <text>parse_lang</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncGhvbmVfbW9iaWxlJzogdXNlclsnZGVsaXZlcnlfcGhvbmVtb2JpbGUnXSwK</text>
+        <text encoding="base64">ICAgICAgICAnc3RyZWV0JzogdXNlclsnZGVsaXZlcnlfYWRkcmVzczEnXSwKICAgICAgICAnemlwJzogdXNlclsnZGVsaXZlcnlfcG9zdGNvZGUnXSwKICAgICAgICAnY2l0eSc6IHVzZXJbJ2RlbGl2ZXJ5X2NpdHknXSwKICAgICAgICAnY291bnRyeV9pZCc6IGZldGNoX2NvdW50cnkodXNlclsnZGVsaXZlcnlfY291bnRyeSddLCBOb25lLCB4bWxfb2RvbywganNvbl9vZG9vKSwKICAgICAgICAnc3RhdGVfaWQnOiBOb25lLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAndmF0JzogdXNlclsnaW52b2ljZV92YXRfbnVtYmVyJ10sCg==</text>
@@ -1696,9 +1696,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lang</last-search>
+      <last-search>parse_lang</last-search>
       <last-offset />
-      <last-pattern>lang</last-pattern>
+      <last-pattern>parse_lang</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1706,8 +1706,6 @@
     </search>
     <history>
       <history-search>
-        <entry>XLSX f</entry>
-        <entry>xlsx fi</entry>
         <entry>index.html</entry>
         <entry>login</entry>
         <entry>csv_</entry>
@@ -1726,6 +1724,8 @@
         <entry>Exception(add</entry>
         <entry>phone_mob</entry>
         <entry>lang</entry>
+        <entry>prestashop_prepare</entry>
+        <entry>parse_lang</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
