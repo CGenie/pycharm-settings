@@ -1066,11 +1066,6 @@
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/crm_claim_workflow.xml" timestamp="1476429703750">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="27" />
-        <mark key="." line="21" column="27" />
-      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-stock.html" timestamp="1472556989959">
         <mark key="'" line="34" column="11" />
         <mark key="[" line="3" column="10" />
@@ -1387,10 +1382,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1476965841892">
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="241" column="0" />
-        <mark key="." line="241" column="0" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477035313518">
+        <mark key="'" line="238" column="23" />
+        <mark key="[" line="39" column="84" />
+        <mark key="]" line="39" column="93" />
+        <mark key="." line="39" column="93" />
+        <mark key="^" line="39" column="93" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
         <mark key="[" line="35" column="24" />
@@ -1435,11 +1432,6 @@
         <mark key="]" line="60" column="0" />
         <mark key="^" line="38" column="68" />
         <mark key="." line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/__openerp__.py" timestamp="1476371901865">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/case/show.html" timestamp="1475135174242">
         <mark key="'" line="11" column="79" />
@@ -1508,7 +1500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="784" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
       <jump line="173" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
       <jump line="25" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
@@ -1608,6 +1599,7 @@
       <jump line="187" column="13" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="147" column="0" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="186" column="39" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="238" column="23" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1646,7 +1638,7 @@
         <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>process_id</text>
+        <text>def set_order_c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnb2R0JzogJ2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQudGV4dCcsCg==</text>
@@ -1683,9 +1675,9 @@
       </register>
     </registers>
     <search>
-      <last-search>process_id</last-search>
+      <last-search>def set_order_c</last-search>
       <last-offset />
-      <last-pattern>process_id</last-pattern>
+      <last-pattern>def set_order_c</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1693,7 +1685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>server_config</entry>
         <entry>UK</entry>
         <entry>log</entry>
         <entry>case_lead</entry>
@@ -1713,6 +1704,7 @@
         <entry>deliv</entry>
         <entry>\.browse</entry>
         <entry>process_id</entry>
+        <entry>def set_order_c</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
