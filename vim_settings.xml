@@ -9,12 +9,12 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" timestamp="1476335811195">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" timestamp="1477025618991">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="84" column="21" />
+        <mark key="]" line="84" column="56" />
+        <mark key="." line="84" column="56" />
+        <mark key="^" line="84" column="56" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_multishop/prestashop_bridge_multishop.py" timestamp="1476454408108">
         <mark key="'" line="60" column="70" />
@@ -372,8 +372,8 @@
         <mark key="^" line="52" column="15" />
         <mark key="." line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" timestamp="1476337662610">
-        <mark key="'" line="57" column="92" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" timestamp="1477025032529">
+        <mark key="'" line="147" column="0" />
         <mark key="[" line="37" column="63" />
         <mark key="]" line="37" column="89" />
         <mark key="^" line="37" column="89" />
@@ -1520,15 +1520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="103" column="27" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" />
-      <jump line="155" column="8" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" />
-      <jump line="22" column="0" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" />
-      <jump line="13" column="37" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" />
-      <jump line="6" column="43" filename="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" />
-      <jump line="232" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="244" column="37" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="33" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="51" column="69" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="784" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
@@ -1620,6 +1611,15 @@
       <jump line="96" column="69" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
       <jump line="276" column="94" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="335" column="63" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" />
+      <jump line="480" column="4" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
+      <jump line="37" column="89" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="74" column="16" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="78" column="13" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="117" column="35" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="124" column="35" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="187" column="13" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1639,8 +1639,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10gPSBhZGRyZXNzX2RhdGFbJ2NpdHknXS5kZWNvZGUoJ3V0Zi04JykK</text>
+      <register name="&quot;" type="4">
+        <text>7894d295-477d-477f-97b7-75b36125b3e8</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1655,10 +1655,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>7894d295-477d-477f-97b7-75b36125b3e8</text>
       </register>
       <register name="/" type="4">
-        <text>\.browse</text>
+        <text>process_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10sCg==</text>
@@ -1695,9 +1695,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\.browse</last-search>
+      <last-search>process_id</last-search>
       <last-offset />
-      <last-pattern>\.browse</last-pattern>
+      <last-pattern>process_id</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1705,7 +1705,6 @@
     </search>
     <history>
       <history-search>
-        <entry>codename</entry>
         <entry>server_config</entry>
         <entry>UK</entry>
         <entry>log</entry>
@@ -1725,6 +1724,7 @@
         <entry>customer_da</entry>
         <entry>deliv</entry>
         <entry>\.browse</entry>
+        <entry>process_id</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
