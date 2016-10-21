@@ -202,8 +202,8 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Italamo/converter/converters/documents.py" timestamp="1477027178149">
-        <mark key="[" line="16" column="57" />
+      <file name="$USER_HOME$/Italamo/converter/converters/documents.py" timestamp="1477027262868">
+        <mark key="[" line="15" column="0" />
         <mark key="]" line="17" column="57" />
         <mark key="^" line="17" column="57" />
         <mark key="." line="17" column="57" />
@@ -372,12 +372,12 @@
         <mark key="^" line="52" column="15" />
         <mark key="." line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" timestamp="1477025032529">
-        <mark key="'" line="147" column="0" />
-        <mark key="[" line="37" column="63" />
-        <mark key="]" line="37" column="89" />
-        <mark key="^" line="37" column="89" />
-        <mark key="." line="37" column="89" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" timestamp="1477027317530">
+        <mark key="'" line="192" column="39" />
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="62" />
+        <mark key="^" line="42" column="62" />
+        <mark key="." line="42" column="62" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/mail_mail.py" timestamp="1476420535684">
         <mark key="'" line="1" column="0" />
@@ -1508,7 +1508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="69" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="784" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
       <jump line="173" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
@@ -1608,6 +1607,7 @@
       <jump line="124" column="35" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="187" column="13" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="147" column="0" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="186" column="39" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1627,8 +1627,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+      <register name="&quot;" type="4">
+        <text>text</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1643,13 +1643,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>7894d295-477d-477f-97b7-75b36125b3e8</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>process_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10sCg==</text>
+        <text encoding="base64">ICAgICAgICAnb2R0JzogJ2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQudGV4dCcsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
