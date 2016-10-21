@@ -1465,11 +1465,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" timestamp="1476950336045">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="181" column="54" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" timestamp="1477053128523">
+        <mark key="[" line="184" column="31" />
+        <mark key="]" line="185" column="25" />
+        <mark key="." line="185" column="25" />
+        <mark key="^" line="185" column="25" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/product_dimension/product_view.xml" timestamp="1469649303601">
         <mark key="'" line="0" column="0" />
@@ -1620,7 +1620,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>users.values()</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1635,7 +1635,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>users.values()</text>
       </register>
       <register name="/" type="4">
         <text>def set_order_c</text>
