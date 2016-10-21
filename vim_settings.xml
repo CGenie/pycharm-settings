@@ -202,11 +202,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Italamo/converter/converters/documents.py" timestamp="1474107581393">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="28" />
+      <file name="$USER_HOME$/Italamo/converter/converters/documents.py" timestamp="1477027178149">
+        <mark key="[" line="16" column="57" />
+        <mark key="]" line="17" column="57" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="17" column="57" />
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-datacardtype.html" timestamp="1470042230125">
         <mark key="[" line="28" column="0" />
@@ -432,12 +432,6 @@
         <mark key="^" line="21" column="23" />
         <mark key="." line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" timestamp="1476811697592">
-        <mark key="'" line="301" column="0" />
-        <mark key="[" line="301" column="0" />
-        <mark key="]" line="301" column="0" />
-        <mark key="." line="301" column="0" />
-      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/hollandbio_customizations/models/__init__.py" timestamp="1476447206399">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -528,12 +522,6 @@
         <mark key="]" line="63" column="33" />
         <mark key="." line="63" column="36" />
         <mark key="^" line="63" column="14" />
-      </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/partials/dashboard/show.html" timestamp="1476771215474">
-        <mark key="'" line="6" column="43" />
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/base.html" timestamp="1471888795175">
         <mark key="[" line="4" column="18" />
