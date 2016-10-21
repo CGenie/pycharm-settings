@@ -694,7 +694,7 @@
         <mark key="'" line="32" column="0" />
         <mark key="[" line="77" column="99" />
         <mark key="]" line="77" column="99" />
-        <mark key="^" line="897" column="1" />
+        <mark key="^" line="887" column="1" />
         <mark key="." line="77" column="99" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/classifier/classifier.service" timestamp="1473673871938">
@@ -997,9 +997,6 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/case/models.py" timestamp="1476861752948">
-        <mark key="'" line="604" column="12" />
-      </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/search/entries/collection.html" timestamp="1467016521388">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="48" />
@@ -1226,12 +1223,6 @@
         <mark key="]" line="3" column="29" />
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" timestamp="1476771116287">
-        <mark key="'" line="138" column="3" />
-        <mark key="[" line="446" column="0" />
-        <mark key="]" line="446" column="0" />
-        <mark key="." line="446" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/it-graph.html" timestamp="1475137548236">
         <mark key="[" line="0" column="4" />
