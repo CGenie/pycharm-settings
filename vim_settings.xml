@@ -62,6 +62,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="88" />
       </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" timestamp="1477139138384">
+        <mark key="'" line="717" column="31" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/sale_workflows.xml" timestamp="1474893195094">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="57" column="36" />
@@ -76,12 +79,12 @@
         <mark key="." line="50" column="49" />
         <mark key="^" line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" timestamp="1476711531202">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="115" column="34" />
-        <mark key="]" line="115" column="91" />
-        <mark key="^" line="115" column="91" />
-        <mark key="." line="115" column="91" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" timestamp="1477138942245">
+        <mark key="'" line="146" column="16" />
+        <mark key="[" line="146" column="42" />
+        <mark key="]" line="146" column="54" />
+        <mark key="^" line="146" column="54" />
+        <mark key="." line="146" column="54" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_features/model/prestashop_bridge_product_attributes.py" timestamp="1470134252698">
         <mark key="[" line="8" column="6" />
@@ -836,12 +839,12 @@
         <mark key="^" line="92" column="55" />
         <mark key="." line="104" column="60" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1476711396585">
-        <mark key="'" line="479" column="124" />
-        <mark key="[" line="359" column="12" />
-        <mark key="]" line="360" column="46" />
-        <mark key="^" line="360" column="46" />
-        <mark key="." line="360" column="46" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1477139309729">
+        <mark key="'" line="385" column="25" />
+        <mark key="[" line="407" column="76" />
+        <mark key="]" line="407" column="89" />
+        <mark key="^" line="407" column="89" />
+        <mark key="." line="407" column="89" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" timestamp="1476436635584">
         <mark key="'" line="21" column="26" />
@@ -1500,14 +1503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
-      <jump line="59" column="56" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" />
-      <jump line="14" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" />
-      <jump line="15" column="42" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/results.py" />
-      <jump line="70" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/results.py" />
-      <jump line="97" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/results.py" />
       <jump line="299" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
       <jump line="63" column="25" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="158" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
@@ -1600,6 +1595,14 @@
       <jump line="238" column="23" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="262" column="12" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="52" column="43" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="146" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="360" column="46" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="353" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="115" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="717" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
+      <jump line="407" column="89" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="385" column="25" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1619,8 +1622,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGNpdHlfc3RhdHVzLA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1635,49 +1638,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNpdHlfc3RhdHVzLA==</text>
+        <text>ship_from.parent_id.name or ship_from.name or ''</text>
       </register>
       <register name="/" type="4">
-        <text>city_s</text>
+        <text>Attent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnb2R0JzogJ2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQudGV4dCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10gPSBhZGRyZXNzX2RhdGFbJ2NpdHknXS5kZWNvZGUoJ3V0Zi04JykK</text>
+        <text encoding="base64">ICAgICAgICBhdHRlbnRpb25fbmFtZSA9IChzaGlwcGVyLm5hbWUgb3IgJycpWzozNV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpdHlfc3RhdHVzID0gJyIlcyIgIiVzIiA6OiAoJXIpICglcikgOjogeyVzfSB7JXN9IDo6ICVzJyAlICgKICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10sCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzcy5jaXR5LAogICAgICAgICAgICAgICAgICAgIGFkZHJlc3NfZGF0YVsnY2l0eSddLAogICAgICAgICAgICAgICAgICAgICcsJy5qb2luKG1hcChzdHIsIG1hcChvcmQsIGFkZHJlc3MuY2l0eSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbihtYXAoc3RyLCBtYXAob3JkLCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbignJXMgPT0gJXMgPSAlcycgJSAocFswXSwgcFsxXSwgcFswXSA9PSBwWzFdKSBmb3IgcCBpbiB6aXAoYWRkcmVzcy5jaXR5LCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpCiAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpdHlfc3RhdHVzID0gJyIlcyIgIiVzIiA6OiAoJXIpICglcikgOjogeyVzfSB7JXN9IDo6ICVzJyAlICgKICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10sCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzcy5jaXR5LAogICAgICAgICAgICAgICAgICAgIGFkZHJlc3NfZGF0YVsnY2l0eSddLAogICAgICAgICAgICAgICAgICAgICcsJy5qb2luKG1hcChzdHIsIG1hcChvcmQsIGFkZHJlc3MuY2l0eSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbihtYXAoc3RyLCBtYXAob3JkLCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbignJXMgPT0gJXMgPSAlcycgJSAocFswXSwgcFsxXSwgcFswXSA9PSBwWzFdKSBmb3IgcCBpbiB6aXAoYWRkcmVzcy5jaXR5LCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpCiAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10gPSBhZGRyZXNzX2RhdGFbJ2NpdHknXS5kZWNvZGUoJ3V0Zi04JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRyZXNzX2RhdGFbJ2NpdHknXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpdHlfc3RhdHVzID0gJyIlcyIgIiVzIiA6OiAoJXIpICglcikgOjogeyVzfSB7JXN9IDo6ICVzJyAlICgKICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10sCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzcy5jaXR5LAogICAgICAgICAgICAgICAgICAgIGFkZHJlc3NfZGF0YVsnY2l0eSddLAogICAgICAgICAgICAgICAgICAgICcsJy5qb2luKG1hcChzdHIsIG1hcChvcmQsIGFkZHJlc3MuY2l0eSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbihtYXAoc3RyLCBtYXAob3JkLCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbignJXMgPT0gJXMgPSAlcycgJSAocFswXSwgcFsxXSwgcFswXSA9PSBwWzFdKSBmb3IgcCBpbiB6aXAoYWRkcmVzcy5jaXR5LCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpdHlfc3RhdHVzID0gJyIlcyIgIiVzIiA6OiAoJXIpICglcikgOjogeyVzfSB7JXN9IDo6ICVzJyAlICgKICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10sCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzcy5jaXR5LAogICAgICAgICAgICAgICAgICAgIGFkZHJlc3NfZGF0YVsnY2l0eSddLAogICAgICAgICAgICAgICAgICAgICcsJy5qb2luKG1hcChzdHIsIG1hcChvcmQsIGFkZHJlc3MuY2l0eSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbihtYXAoc3RyLCBtYXAob3JkLCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbignJXMgPT0gJXMgPSAlcycgJSAocFswXSwgcFsxXSwgcFswXSA9PSBwWzFdKSBmb3IgcCBpbiB6aXAoYWRkcmVzcy5jaXR5LCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRyZXNzX2RhdGFbJ2NpdHknXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZHJlc3Muc3RhdGVfaWQuaWQgPT0gKGludChhZGRyZXNzX2RhdGFbJ3N0YXRlX2lkJ10pIGlmIGFkZHJlc3NfZGF0YVsnc3RhdGVfaWQnXSBlbHNlIEZhbHNlKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRyZXNzX2RhdGFbJ2NpdHknXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>city_s</last-search>
+      <last-search>Attent</last-search>
       <last-offset />
-      <last-pattern>city_s</last-pattern>
+      <last-pattern>Attent</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1685,9 +1688,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>case_lead</entry>
-        <entry>lead_</entry>
         <entry>Lead</entry>
         <entry>make_points</entry>
         <entry>x_axis_type</entry>
@@ -1705,6 +1705,9 @@
         <entry>process_id</entry>
         <entry>def set_order_c</entry>
         <entry>city_s</entry>
+        <entry>email</entry>
+        <entry>send_notification_emails</entry>
+        <entry>Attent</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
