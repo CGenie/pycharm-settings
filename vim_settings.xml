@@ -243,12 +243,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" timestamp="1477139490988">
-        <mark key="'" line="46" column="44" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
-        <mark key="^" line="168" column="51" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" timestamp="1477141235142">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="129" column="59" />
+        <mark key="]" line="129" column="78" />
+        <mark key="." line="129" column="78" />
+        <mark key="^" line="129" column="78" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-users.html" timestamp="1476811815348">
         <mark key="'" line="54" column="31" />
@@ -1503,15 +1503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
-      <jump line="10" column="19" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
-      <jump line="238" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
-      <jump line="47" column="34" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-users.html" />
-      <jump line="130" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-users.html" />
-      <jump line="89" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-users.html" />
-      <jump line="48" column="31" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-users.html" />
-      <jump line="172" column="26" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
-      <jump line="180" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="287" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="633" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="638" column="12" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
@@ -1601,8 +1592,17 @@
       <jump line="717" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
       <jump line="407" column="89" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="385" column="25" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
       <jump line="46" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="54" column="56" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="127" column="55" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="126" column="55" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="119" column="69" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="116" column="60" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="113" column="50" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="100" column="59" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="41" column="74" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="129" column="78" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1641,7 +1641,7 @@
         <text>ship_from.parent_id.name or ship_from.name or ''</text>
       </register>
       <register name="/" type="4">
-        <text>location</text>
+        <text>pack_operation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnb2R0JzogJ2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQudGV4dCcsCg==</text>
@@ -1678,9 +1678,9 @@
       </register>
     </registers>
     <search>
-      <last-search>location</last-search>
+      <last-search>pack_operation</last-search>
       <last-offset />
-      <last-pattern>location</last-pattern>
+      <last-pattern>pack_operation</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1688,9 +1688,6 @@
     </search>
     <history>
       <history-search>
-        <entry>x_axis_type</entry>
-        <entry>x_axis_t</entry>
-        <entry>metadata_search</entry>
         <entry>Exception(add</entry>
         <entry>phone_mob</entry>
         <entry>lang</entry>
@@ -1708,6 +1705,9 @@
         <entry>Attent</entry>
         <entry>Location</entry>
         <entry>location</entry>
+        <entry>kit</entry>
+        <entry>pack_oper</entry>
+        <entry>pack_operation</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
