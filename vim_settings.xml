@@ -243,8 +243,8 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" timestamp="1476422964025">
-        <mark key="'" line="168" column="0" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" timestamp="1477139490988">
+        <mark key="'" line="46" column="44" />
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
@@ -1503,8 +1503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
-      <jump line="63" column="25" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="158" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="10" column="19" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="238" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
@@ -1603,6 +1601,8 @@
       <jump line="717" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
       <jump line="407" column="89" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="385" column="25" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="46" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1641,7 +1641,7 @@
         <text>ship_from.parent_id.name or ship_from.name or ''</text>
       </register>
       <register name="/" type="4">
-        <text>Attent</text>
+        <text>location</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnb2R0JzogJ2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQudGV4dCcsCg==</text>
@@ -1678,9 +1678,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Attent</last-search>
+      <last-search>location</last-search>
       <last-offset />
-      <last-pattern>Attent</last-pattern>
+      <last-pattern>location</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1688,8 +1688,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Lead</entry>
-        <entry>make_points</entry>
         <entry>x_axis_type</entry>
         <entry>x_axis_t</entry>
         <entry>metadata_search</entry>
@@ -1708,6 +1706,8 @@
         <entry>email</entry>
         <entry>send_notification_emails</entry>
         <entry>Attent</entry>
+        <entry>Location</entry>
+        <entry>location</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
