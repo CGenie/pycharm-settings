@@ -358,8 +358,8 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1476965991033">
-        <mark key="'" line="263" column="18" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1477126682658">
+        <mark key="'" line="262" column="12" />
         <mark key="[" line="262" column="12" />
         <mark key="]" line="262" column="12" />
         <mark key="^" line="262" column="12" />
@@ -1382,12 +1382,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477035313518">
-        <mark key="'" line="238" column="23" />
-        <mark key="[" line="39" column="84" />
-        <mark key="]" line="39" column="93" />
-        <mark key="." line="39" column="93" />
-        <mark key="^" line="39" column="93" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477126726282">
+        <mark key="'" line="52" column="43" />
+        <mark key="[" line="269" column="72" />
+        <mark key="]" line="269" column="72" />
+        <mark key="." line="269" column="72" />
+        <mark key="^" line="244" column="12" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1469619253509">
         <mark key="[" line="35" column="24" />
@@ -1500,8 +1500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
       <jump line="25" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
       <jump line="59" column="56" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" />
@@ -1600,6 +1598,8 @@
       <jump line="147" column="0" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="186" column="39" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="238" column="23" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="262" column="12" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="52" column="43" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1620,7 +1620,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>users.values()</text>
+        <text encoding="base64">IGNpdHlfc3RhdHVzLA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1635,10 +1635,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>users.values()</text>
+        <text encoding="base64">IGNpdHlfc3RhdHVzLA==</text>
       </register>
       <register name="/" type="4">
-        <text>def set_order_c</text>
+        <text>city_s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnb2R0JzogJ2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQudGV4dCcsCg==</text>
@@ -1675,9 +1675,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def set_order_c</last-search>
+      <last-search>city_s</last-search>
       <last-offset />
-      <last-pattern>def set_order_c</last-pattern>
+      <last-pattern>city_s</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1685,7 +1685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UK</entry>
         <entry>log</entry>
         <entry>case_lead</entry>
         <entry>lead_</entry>
@@ -1705,6 +1704,7 @@
         <entry>\.browse</entry>
         <entry>process_id</entry>
         <entry>def set_order_c</entry>
+        <entry>city_s</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
