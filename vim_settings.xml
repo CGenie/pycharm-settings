@@ -79,6 +79,12 @@
         <mark key="." line="50" column="49" />
         <mark key="^" line="50" column="52" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_noheader.py" timestamp="1477146757337">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="27" column="49" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="18" column="53" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" timestamp="1477138942245">
         <mark key="'" line="146" column="16" />
         <mark key="[" line="146" column="42" />
@@ -123,12 +129,12 @@
         <mark key="^" line="55" column="109" />
         <mark key="." line="55" column="109" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/import-uploaded-file.html" timestamp="1474969539450">
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/import-uploaded-file.html" timestamp="1477146960629">
         <mark key="'" line="0" column="27" />
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="31" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/vagrant/users.sls" timestamp="1474280938471">
         <mark key="[" line="13" column="45" />
@@ -416,6 +422,13 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1477146933353">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="542" column="59" />
+        <mark key="]" line="543" column="50" />
+        <mark key="^" line="543" column="50" />
+        <mark key="." line="543" column="50" />
+      </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1470042633598">
         <mark key="'" line="1158" column="0" />
         <mark key="[" line="1063" column="23" />
@@ -428,6 +441,13 @@
         <mark key="]" line="10" column="73" />
         <mark key="^" line="10" column="73" />
         <mark key="." line="10" column="73" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" timestamp="1477146989685">
+        <mark key="'" line="108" column="15" />
+        <mark key="[" line="106" column="30" />
+        <mark key="]" line="107" column="21" />
+        <mark key="^" line="107" column="21" />
+        <mark key="." line="107" column="21" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/docker/docker-compose.yaml" timestamp="1474039673768">
         <mark key="[" line="35" column="16" />
@@ -641,11 +661,6 @@
         <mark key="]" line="139" column="16" />
         <mark key="." line="139" column="16" />
         <mark key="^" line="139" column="16" />
-      </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo_res_partner/models/crm_lead.py" timestamp="1476854088328">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="43" column="8" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476960942821">
         <mark key="'" line="104" column="69" />
@@ -1228,6 +1243,12 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_importer.py" timestamp="1477146810382">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="31" column="39" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/workflows.xml" timestamp="1473841416029">
         <mark key="'" line="11" column="12" />
         <mark key="[" line="22" column="33" />
@@ -1503,15 +1524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="633" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="638" column="12" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="639" column="50" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="640" column="24" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="641" column="77" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="642" column="23" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="643" column="24" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="644" column="78" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="646" column="50" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="648" column="115" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
       <jump line="693" column="42" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
@@ -1603,6 +1615,15 @@
       <jump line="41" column="74" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
       <jump line="129" column="78" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="25" column="8" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_importer.py" />
+      <jump line="37" column="28" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_importer.py" />
+      <jump line="106" column="15" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
+      <jump line="3" column="15" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
+      <jump line="484" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="488" column="156" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="489" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="514" column="16" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1622,8 +1643,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>results_l</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1638,49 +1659,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ship_from.parent_id.name or ship_from.name or ''</text>
+        <text>results_l</text>
       </register>
       <register name="/" type="4">
-        <text>pack_operation</text>
+        <text>ImportUpl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnb2R0JzogJ2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQudGV4dCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgKz0gMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRlbnRpb25fbmFtZSA9IChzaGlwcGVyLm5hbWUgb3IgJycpWzozNV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFVuaWNvZGVEZWNvZGVFcnJvcjoKICAgICAgICAgICAgICAgIGRhdGEgPSB7fQogICAgICAgICAgICAgICAgZm9yIGsgaW4gcmVhZGVyLmZpZWxkbmFtZXM6CiAgICAgICAgICAgICAgICAgICAgZGF0YVtrXSA9ICdVbmljb2RlRGVjb2RlRXJyb3I6IG1ha2Ugc3VyZSB5b3Ugc2VuZCBhIFVURi04IGZpbGUgKGxpbmUgbnVtYmVyOiAlcyknICUgaQogICAgICAgICAgICAgICAgbWFwcGVkID0gQ1NWSW1wb3J0ZXIuX21hcF9pdGVtKGRhdGEsIG1ldGFkYXRhLCBtYXBwaW5nKQogICAgICAgICAgICAgICAgbWFwcGVkID0gQmFzZUltcG9ydGVyLmFwcGx5X2RlZmF1bHRfdWlkKG1hcHBlZCwgaSwgZmlsZXBhdGgpCiAgICAgICAgICAgICAgICB5aWVsZCBtYXBwZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10gPSBhZGRyZXNzX2RhdGFbJ2NpdHknXS5kZWNvZGUoJ3V0Zi04JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSA9IDIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpdHlfc3RhdHVzID0gJyIlcyIgIiVzIiA6OiAoJXIpICglcikgOjogeyVzfSB7JXN9IDo6ICVzJyAlICgKICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10sCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzcy5jaXR5LAogICAgICAgICAgICAgICAgICAgIGFkZHJlc3NfZGF0YVsnY2l0eSddLAogICAgICAgICAgICAgICAgICAgICcsJy5qb2luKG1hcChzdHIsIG1hcChvcmQsIGFkZHJlc3MuY2l0eSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbihtYXAoc3RyLCBtYXAob3JkLCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbignJXMgPT0gJXMgPSAlcycgJSAocFswXSwgcFsxXSwgcFswXSA9PSBwWzFdKSBmb3IgcCBpbiB6aXAoYWRkcmVzcy5jaXR5LCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpCiAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpdHlfc3RhdHVzID0gJyIlcyIgIiVzIiA6OiAoJXIpICglcikgOjogeyVzfSB7JXN9IDo6ICVzJyAlICgKICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzc19kYXRhWydjaXR5J10sCiAgICAgICAgICAgICAgICAgICAgYWRkcmVzcy5jaXR5LAogICAgICAgICAgICAgICAgICAgIGFkZHJlc3NfZGF0YVsnY2l0eSddLAogICAgICAgICAgICAgICAgICAgICcsJy5qb2luKG1hcChzdHIsIG1hcChvcmQsIGFkZHJlc3MuY2l0eSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbihtYXAoc3RyLCBtYXAob3JkLCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpKSwKICAgICAgICAgICAgICAgICAgICAnLCcuam9pbignJXMgPT0gJXMgPSAlcycgJSAocFswXSwgcFsxXSwgcFswXSA9PSBwWzFdKSBmb3IgcCBpbiB6aXAoYWRkcmVzcy5jaXR5LCBhZGRyZXNzX2RhdGFbJ2NpdHknXSkpCiAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgKz0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRyZXNzX2RhdGFbJ2NpdHknXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpICs9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLmNpdHksCg==</text>
+        <text encoding="base64">aW1wb3J0IHVuaWNvZGVjc3YgYXMgY3N2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRyZXNzX2RhdGFbJ2NpdHknXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyID0gcmVhZGVyLmZpZWxkbmFtZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pack_operation</last-search>
+      <last-search>ImportUpl</last-search>
       <last-offset />
-      <last-pattern>pack_operation</last-pattern>
+      <last-pattern>ImportUpl</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1688,9 +1709,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Exception(add</entry>
-        <entry>phone_mob</entry>
-        <entry>lang</entry>
         <entry>prestashop_prepare</entry>
         <entry>parse_lang</entry>
         <entry>itertools</entry>
@@ -1708,6 +1726,9 @@
         <entry>kit</entry>
         <entry>pack_oper</entry>
         <entry>pack_operation</entry>
+        <entry>import</entry>
+        <entry>file_sample_d</entry>
+        <entry>ImportUpl</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
