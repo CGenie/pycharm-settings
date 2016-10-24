@@ -204,8 +204,8 @@
         <mark key="." line="27" column="63" />
         <mark key="^" line="27" column="63" />
       </file>
-      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" timestamp="1477284197471">
-        <mark key="'" line="122" column="8" />
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" timestamp="1477296106206">
+        <mark key="'" line="65" column="43" />
         <mark key="[" line="122" column="8" />
         <mark key="]" line="122" column="8" />
         <mark key="." line="122" column="8" />
@@ -1547,8 +1547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="26" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
-      <jump line="203" column="27" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="46" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
       <jump line="180" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="3" column="15" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
@@ -1647,6 +1645,8 @@
       <jump line="142" column="40" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/scheduler.py" />
       <jump line="38" column="40" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/fire_forget.py" />
       <jump line="65" column="9" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/fire_forget.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" />
+      <jump line="65" column="43" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1685,7 +1685,7 @@
         <text>185.62.188.92</text>
       </register>
       <register name="/" type="4">
-        <text>debug=</text>
+        <text>celery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdXNoYnVsbGV0X2tleXMgPSBzeXMuYXJndlsyOl0gb3IgREVGQVVMVF9QVVNIQlVMTEVUX0tFWVMKCiAgICAgICAgcHVzaGJ1bGxldC50ZXN0X3J1bigqcHVzaGJ1bGxldF9rZXlzKQo=</text>
@@ -1722,9 +1722,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debug=</last-search>
+      <last-search>celery</last-search>
       <last-offset />
-      <last-pattern>debug=</last-pattern>
+      <last-pattern>celery</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1732,7 +1732,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deliv</entry>
         <entry>\.browse</entry>
         <entry>process_id</entry>
         <entry>def set_order_c</entry>
@@ -1752,6 +1751,7 @@
         <entry>error: false</entry>
         <entry>importer_mappings</entry>
         <entry>debug=</entry>
+        <entry>celery</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
