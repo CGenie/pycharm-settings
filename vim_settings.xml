@@ -510,11 +510,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/__init__.py" timestamp="1476435281032">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/__init__.py" timestamp="1477310214862">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/scroll.coffee" timestamp="1470053398560">
         <mark key="'" line="19" column="11" />
@@ -930,11 +930,12 @@
         <mark key="." line="78" column="104" />
         <mark key="^" line="78" column="104" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1471893956621">
-        <mark key="[" line="97" column="46" />
-        <mark key="]" line="97" column="52" />
-        <mark key="." line="97" column="52" />
-        <mark key="^" line="97" column="52" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477310566694">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="103" column="65" />
+        <mark key="]" line="97" column="68" />
+        <mark key="." line="103" column="67" />
+        <mark key="^" line="97" column="68" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/workflows.xml" timestamp="1474447303761">
         <mark key="'" line="175" column="42" />
@@ -1322,6 +1323,12 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/res_partner.py" timestamp="1477310338393">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="15" column="28" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_features/model/product_feature.py" timestamp="1470149725435">
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="93" />
@@ -1547,9 +1554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
-      <jump line="180" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
-      <jump line="3" column="15" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="215" column="26" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/results.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
       <jump line="191" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
@@ -1647,6 +1651,9 @@
       <jump line="65" column="9" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/fire_forget.py" />
       <jump line="113" column="0" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" />
       <jump line="65" column="24" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="205" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1667,7 +1674,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>185.62.188.92</text>
+        <text>t</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1682,49 +1689,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>185.62.188.92</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>hubot</text>
+        <text>tagline</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoYnVsbGV0X2tleXMgPSBzeXMuYXJndlsyOl0gb3IgREVGQVVMVF9QVVNIQlVMTEVUX0tFWVMKCiAgICAgICAgcHVzaGJ1bGxldC50ZXN0X3J1bigqcHVzaGJ1bGxldF9rZXlzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0IHQtaWY9InBhcnRuZXJfZGVsaXZlcnkiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoYnVsbGV0LnJ1bigqc3lzLmFyZ3ZbMjpdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcHVzaGJ1bGxldF9rZXlzOgogICAgICAgICAgICBwdXNoYnVsbGV0X2tleXMgPSBbCiAgICAgICAgICAgIF0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhZGRyZXNzIHQtZmllbGQ9InBhcnRuZXJfZGVsaXZlcnkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0LWZpZWxkLW9wdGlvbnM9J3sid2lkZ2V0IjogImNvbnRhY3QiLCAiZmllbGRzIjogWyJhZGRyZXNzIiwgIm5hbWUiXSwgIm5vX21hcmtlciI6IHRydWV9JyAvPgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdvLnJuU0paSTd5Z0pzRzhvUWFmQXVlRXZReURCMDBYTllxJywgICMgcHJ6ZW1lawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHQtaWY9Im8ucGFydG5lcl9pZC52YXQiPlRJTjogPHNwYW4gdC1maWVsZD0iby5wYXJ0bmVyX2lkLnZhdCIvPjwvc3Bhbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuaW1wb3J0ZXJfbWFwcGluZ3MuJHByb21pc2UudGhlbiAoKSAtPgogICAgICAgICAgICBzID0gJHNjb3BlLmltcG9ydGVyX21hcHBpbmdzCiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHQtaWY9Im8ucGFydG5lcl9pZC52YXQiPlRJTjogPHNwYW4gdC1maWVsZD0iby5wYXJ0bmVyX2lkLnZhdCIvPjwvc3Bhbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTMiIG5hbWU9ImNvbXBhbnlfYWRkcmVzcyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdC1maWVsZD0iY29tcGFueS5wYXJ0bmVyX2lkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHQtZmllbGQtb3B0aW9ucz0neyJ3aWRnZXQiOiAiY29udGFjdCIsICJmaWVsZHMiOiBbImFkZHJlc3MiLCAibmFtZSJdLCAibm9fbWFya2VyIjogdHJ1ZX0nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9ImJvcmRlci1ib3R0b206IDFweCBzb2xpZCBibGFjazsiLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdC1maWVsZD0iY29tcGFueS5wYXJ0bmVyX2lkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0LWZpZWxkLW9wdGlvbnM9J3sid2lkZ2V0IjogImNvbnRhY3QiLCAiZmllbGRzIjogWyJlbWFpbCJdLCAibm9fbWFya2VyIjogdHJ1ZX0nIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHQtZmllbGQ9ImNvbXBhbnkucGFydG5lcl9pZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdC1maWVsZC1vcHRpb25zPSd7IndpZGdldCI6ICJjb250YWN0IiwgImZpZWxkcyI6IFsicGhvbmUiXSwgIm5vX21hcmtlciI6IHRydWV9JyAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdC1maWVsZD0iY29tcGFueS5wYXJ0bmVyX2lkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0LWZpZWxkLW9wdGlvbnM9J3sid2lkZ2V0IjogImNvbnRhY3QiLCAiZmllbGRzIjogWyJwaG9uZSJdLCAibm9fbWFya2VyIjogdHJ1ZX0nIC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hubot</last-search>
+      <last-search>tagline</last-search>
       <last-offset />
-      <last-pattern>hubot</last-pattern>
+      <last-pattern>tagline</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1732,7 +1739,6 @@
     </search>
     <history>
       <history-search>
-        <entry>process_id</entry>
         <entry>def set_order_c</entry>
         <entry>city_s</entry>
         <entry>email</entry>
@@ -1752,6 +1758,7 @@
         <entry>debug=</entry>
         <entry>celery</entry>
         <entry>hubot</entry>
+        <entry>tagline</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
