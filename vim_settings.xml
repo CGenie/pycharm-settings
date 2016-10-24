@@ -99,6 +99,12 @@
         <mark key="^" line="146" column="54" />
         <mark key="." line="146" column="54" />
       </file>
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/run.py" timestamp="1477284125525">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="26" column="64" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_features/model/prestashop_bridge_product_attributes.py" timestamp="1470134252698">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="29" />
@@ -198,12 +204,12 @@
         <mark key="." line="27" column="63" />
         <mark key="^" line="27" column="63" />
       </file>
-      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" timestamp="1473742014132">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="63" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="19" />
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" timestamp="1477284197471">
+        <mark key="'" line="122" column="8" />
+        <mark key="[" line="122" column="8" />
+        <mark key="]" line="122" column="8" />
+        <mark key="." line="122" column="8" />
+        <mark key="^" line="122" column="8" />
       </file>
       <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.coffee" timestamp="1469446761933">
         <mark key="[" line="24" column="19" />
@@ -310,12 +316,19 @@
         <mark key="^" line="150" column="8" />
         <mark key="." line="158" column="8" />
       </file>
-      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/scheduler.py" timestamp="1473417826584">
-        <mark key="'" line="192" column="24" />
-        <mark key="[" line="205" column="15" />
-        <mark key="]" line="205" column="25" />
-        <mark key="^" line="205" column="25" />
-        <mark key="." line="205" column="25" />
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/pushbullet.py" timestamp="1477284183158">
+        <mark key="'" line="127" column="8" />
+        <mark key="[" line="127" column="8" />
+        <mark key="]" line="111" column="8" />
+        <mark key="^" line="111" column="8" />
+        <mark key="." line="127" column="8" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/scheduler.py" timestamp="1477284211434">
+        <mark key="'" line="142" column="40" />
+        <mark key="[" line="217" column="8" />
+        <mark key="]" line="217" column="8" />
+        <mark key="^" line="217" column="8" />
+        <mark key="." line="217" column="8" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/product_data.xml" timestamp="1471338112739">
         <mark key="[" line="5" column="33" />
@@ -759,12 +772,12 @@
         <mark key="." line="26" column="36" />
         <mark key="^" line="26" column="36" />
       </file>
-      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/backuper.py" timestamp="1473417804170">
-        <mark key="'" line="42" column="25" />
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="25" />
-        <mark key="." line="42" column="25" />
-        <mark key="^" line="42" column="25" />
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/backuper.py" timestamp="1477284204628">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="8" />
+        <mark key="." line="54" column="8" />
+        <mark key="^" line="54" column="8" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/crm_claim.xml" timestamp="1476423184652">
         <mark key="[" line="7" column="82" />
@@ -1133,12 +1146,12 @@
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/fire_forget.py" timestamp="1473418655701">
-        <mark key="'" line="4" column="29" />
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="40" />
-        <mark key="^" line="38" column="40" />
-        <mark key="." line="38" column="40" />
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/fire_forget.py" timestamp="1477284485901">
+        <mark key="'" line="65" column="9" />
+        <mark key="[" line="65" column="8" />
+        <mark key="]" line="65" column="8" />
+        <mark key="^" line="65" column="8" />
+        <mark key="." line="65" column="8" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo_res_partner/views/crm_leads_form.xml" timestamp="1476854348889">
         <mark key="[" line="17" column="0" />
@@ -1265,6 +1278,12 @@
         <mark key="]" line="22" column="20" />
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="20" />
+      </file>
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/settings.py" timestamp="1477284427651">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/static/src/xml/document_viewer.xml" timestamp="1466176202617">
         <mark key="[" line="5" column="19" />
@@ -1528,14 +1547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="837" column="45" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="839" column="66" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="842" column="25" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="844" column="38" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="895" column="4" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/excel_parser.py" />
-      <jump line="165" column="24" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
-      <jump line="211" column="36" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/results.py" />
-      <jump line="301" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/api.py" />
       <jump line="8" column="26" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
       <jump line="203" column="27" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="46" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
@@ -1628,6 +1639,14 @@
       <jump line="500" column="24" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="501" column="24" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="518" column="15" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="116" column="13" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/pushbullet.py" />
+      <jump line="127" column="8" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/pushbullet.py" />
+      <jump line="29" column="19" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" />
+      <jump line="122" column="8" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/backuper.py" />
+      <jump line="142" column="40" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/scheduler.py" />
+      <jump line="38" column="40" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/fire_forget.py" />
+      <jump line="65" column="9" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/fire_forget.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1647,8 +1666,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuaW1wb3J0ZXJfbWFwcGluZ3MuJHByb21pc2UudGhlbiAoKSAtPgogICAgICAgICAgICBzID0gJHNjb3BlLmltcG9ydGVyX21hcHBpbmdzCiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text>185.62.188.92</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1663,49 +1682,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>185.62.188.92</text>
       </register>
       <register name="/" type="4">
-        <text>importer_mappings</text>
+        <text>debug=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yID0gJ1VuaWNvZGVEZWNvZGVFcnJvcjogbWFrZSBzdXJlIHlvdSBzZW5kIGEgVVRGLTggZmlsZSAobGluZSBudW1iZXI6ICVzKScgJSBpCiAgICAgICAgICAgICAgICB5aWVsZCBlcnJvciwgVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBwdXNoYnVsbGV0X2tleXMgPSBzeXMuYXJndlsyOl0gb3IgREVGQVVMVF9QVVNIQlVMTEVUX0tFWVMKCiAgICAgICAgcHVzaGJ1bGxldC50ZXN0X3J1bigqcHVzaGJ1bGxldF9rZXlzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuaW1wb3J0ZXJfbWFwcGluZ3MuJHByb21pc2UudGhlbiAoKSAtPgogICAgICAgICAgICBzID0gJHNjb3BlLmltcG9ydGVyX21hcHBpbmdzCiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBwdXNoYnVsbGV0LnJ1bigqc3lzLmFyZ3ZbMjpdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcHVzaGJ1bGxldF9rZXlzOgogICAgICAgICAgICBwdXNoYnVsbGV0X2tleXMgPSBbCiAgICAgICAgICAgIF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdvLnJuU0paSTd5Z0pzRzhvUWFmQXVlRXZReURCMDBYTllxJywgICMgcHJ6ZW1lawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogcmV0dXJuIHZlcmJvc2UgZXJyb3JzCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHJldFsnZXJyb3InXToK</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuaW1wb3J0ZXJfbWFwcGluZ3MuJHByb21pc2UudGhlbiAoKSAtPgogICAgICAgICAgICBzID0gJHNjb3BlLmltcG9ydGVyX21hcHBpbmdzCiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBKc29uUmVzcG9uc2Uoe30pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSnNvblJlc3BvbnNlKHsKICAgICAgICAgICAgJ2Vycm9yJzogcmV0WydlcnJvciddLAogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmhlbHBlci5pbXBvcnRfZXJyb3IgPSBkYXRhLmVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>importer_mappings</last-search>
+      <last-search>debug=</last-search>
       <last-offset />
-      <last-pattern>importer_mappings</last-pattern>
+      <last-pattern>debug=</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1713,7 +1732,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customer_da</entry>
         <entry>deliv</entry>
         <entry>\.browse</entry>
         <entry>process_id</entry>
@@ -1733,6 +1751,7 @@
         <entry>map_it</entry>
         <entry>error: false</entry>
         <entry>importer_mappings</entry>
+        <entry>debug=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
