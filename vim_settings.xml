@@ -9,12 +9,11 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" timestamp="1477374269474">
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" timestamp="1477377680008">
         <mark key="'" line="34" column="109" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="35" column="23" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_multishop/prestashop_bridge_multishop.py" timestamp="1476454408108">
         <mark key="'" line="60" column="70" />
@@ -132,12 +131,11 @@
         <mark key="." line="25" column="22" />
         <mark key="^" line="25" column="22" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" timestamp="1477374483629">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="75" />
-        <mark key="^" line="56" column="23" />
-        <mark key="." line="56" column="23" />
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" timestamp="1477377715960">
+        <mark key="'" line="52" column="23" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/import-uploaded-file.html" timestamp="1477148152892">
         <mark key="'" line="0" column="27" />
@@ -439,6 +437,12 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1477148099198">
+        <mark key="'" line="518" column="15" />
+        <mark key="[" line="521" column="0" />
+        <mark key="]" line="521" column="0" />
+        <mark key="." line="521" column="0" />
+      </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1470042633598">
         <mark key="'" line="1158" column="0" />
         <mark key="[" line="1063" column="23" />
@@ -582,10 +586,11 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/celery.py" timestamp="1477374725557">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/italamo/celery.py" timestamp="1477378000652">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/document.coffee" timestamp="1472487289668">
         <mark key="'" line="61" column="11" />
@@ -859,12 +864,11 @@
         <mark key="^" line="95" column="79" />
         <mark key="." line="95" column="79" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/prod.py" timestamp="1477374260774">
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/prod.py" timestamp="1477377718634">
         <mark key="'" line="41" column="6" />
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="65" column="23" />
-        <mark key="." line="65" column="23" />
-        <mark key="^" line="65" column="23" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/account/tools.py" timestamp="1474275759386">
         <mark key="[" line="104" column="34" />
@@ -1161,12 +1165,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="6" column="63" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" timestamp="1477376080497">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" timestamp="1477377801056">
+        <mark key="'" line="44" column="33" />
         <mark key="[" line="60" column="33" />
-        <mark key="]" line="4" column="41" />
+        <mark key="]" line="60" column="33" />
         <mark key="^" line="4" column="41" />
-        <mark key="." line="60" column="40" />
+        <mark key="." line="60" column="33" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/inbox/migrations/0010_document_types_inbox.py" timestamp="1474014478180">
         <mark key="[" line="54" column="19" />
@@ -1568,7 +1572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="35" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="124" column="35" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="187" column="13" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="147" column="0" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
@@ -1657,17 +1660,18 @@
       <jump line="30" column="0" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="35" column="42" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="37" column="28" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
-      <jump line="44" column="41" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="46" column="0" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="51" column="42" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="53" column="28" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
-      <jump line="60" column="4" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="539" column="4" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
       <jump line="114" column="30" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
       <jump line="128" column="8" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
       <jump line="129" column="8" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
       <jump line="144" column="13" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
+      <jump line="52" column="23" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
+      <jump line="60" column="4" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="44" column="33" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1688,7 +1692,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>#</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1703,49 +1707,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>models\.</text>
+        <text>italamo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UkVTVF9GUkFNRVdPUktbJ0VYQ0VQVElPTl9IQU5ETEVSJ10gPSAnbGliLnNlbnRyeS5zZW50cnlfZXhjZXB0aW9uX2hhbmRsZXInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVnaXN0ZXJfbG9nZ2VyX3NpZ25hbChjbGllbnQsIGxvZ2xldmVsPSkK</text>
+        <text encoding="base64">ICAgICd2ZXJpZnlfc3NsJzogRmFsc2UsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmF2ZW5fY2xpZW50Lgo=</text>
+        <text encoding="base64">ICAgICd2ZXJpZnlfc3NsJzogRmFsc2UsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TUlERExFV0FSRV9DTEFTU0VTID0gWwogICAgJ2xpYi5zZW50cnkuUmVxdWVzdFByb3ZpZGVyTWlkZGxld2FyZScsCiAgICAncmF2ZW4uY29udHJpYi5kamFuZ28ucmF2ZW5fY29tcGF0Lm1pZGRsZXdhcmUuU2VudHJ5UmVzcG9uc2VFcnJvcklkTWlkZGxld2FyZScsCl0gKyBNSURETEVXQVJFX0NMQVNTRVMKUkVTVF9GUkFNRVdPUktbJ0VYQ0VQVElPTl9IQU5ETEVSJ10gPSAnbGliLnNlbnRyeS5zZW50cnlfZXhjZXB0aW9uX2hhbmRsZXInCgpJTlNUQUxMRURfQVBQUyArPSBbJ3JhdmVuLmNvbnRyaWIuZGphbmdvLnJhdmVuX2NvbXBhdCddCg==</text>
+        <text encoding="base64">ICAgICd2ZXJpZnlfc3NsJzogRmFsc2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAnY2xhc3MnOiAncmF2ZW4uY29udHJpYi5kamFuZ28ucmF2ZW5fY29tcGF0LmhhbmRsZXJzLlNlbnRyeUhhbmRsZXInLAo=</text>
+        <text encoding="base64">cmVnaXN0ZXJfbG9nZ2VyX3NpZ25hbChjbGllbnQsIGxvZ2xldmVsPSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmF2ZW5fY2xpZW50Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdyYXZlbi5jb250cmliLmRqYW5nby5yYXZlbl9jb21wYXQnLAo=</text>
+        <text encoding="base64">TUlERExFV0FSRV9DTEFTU0VTID0gWwogICAgJ2xpYi5zZW50cnkuUmVxdWVzdFByb3ZpZGVyTWlkZGxld2FyZScsCiAgICAncmF2ZW4uY29udHJpYi5kamFuZ28ucmF2ZW5fY29tcGF0Lm1pZGRsZXdhcmUuU2VudHJ5UmVzcG9uc2VFcnJvcklkTWlkZGxld2FyZScsCl0gKyBNSURETEVXQVJFX0NMQVNTRVMKUkVTVF9GUkFNRVdPUktbJ0VYQ0VQVElPTl9IQU5ETEVSJ10gPSAnbGliLnNlbnRyeS5zZW50cnlfZXhjZXB0aW9uX2hhbmRsZXInCgpJTlNUQUxMRURfQVBQUyArPSBbJ3JhdmVuLmNvbnRyaWIuZGphbmdvLnJhdmVuX2NvbXBhdCddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ClJBVkVOX0NPTkZJRyA9IHsKICAgICdkc24nOiAnaHR0cHM6Ly8zMTU2MDI1MWE3Mzc0MTdkOGViZjljMWMwZGRjMmQ4OTo5NjdjN2I1NzIxZjA0ZDUyYmEwZjFjNGE1OThmNDE5MEBzZW50cnkucHlwcm9qZWN0Lm5pbmphLzUnLAp9Cg==</text>
+        <text encoding="base64">ICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAnY2xhc3MnOiAncmF2ZW4uY29udHJpYi5kamFuZ28ucmF2ZW5fY29tcGF0LmhhbmRsZXJzLlNlbnRyeUhhbmRsZXInLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UkFWRU5fQ09ORklHID0gewogICAgJ2Rzbic6ICdodHRwczovLzMyOTNhMGIwZTczZjQyNTNiYzhiZmY5YWFiZGZjODk4OjVmMzAwMGJhMGQyZjQ3M2M5ZTZlN2QxYzNlNmE5ODBmQHNlbnRyeS5weXByb2plY3QubmluamEvMycsCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHQtaWY9ImwucHJvZHVjdF9pZC5ib21fY291bnQgPiAwIj5ba2l0XTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICdyYXZlbi5jb250cmliLmRqYW5nby5yYXZlbl9jb21wYXQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>models\.</last-search>
+      <last-search>italamo</last-search>
       <last-offset />
-      <last-pattern>models\.</last-pattern>
+      <last-pattern>italamo</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1753,9 +1757,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug=</entry>
-        <entry>celery</entry>
-        <entry>hubot</entry>
         <entry>tagline</entry>
         <entry>origin</entry>
         <entry>add</entry>
@@ -1773,6 +1774,9 @@
         <entry>celery-</entry>
         <entry>models.CONVER</entry>
         <entry>models\.</entry>
+        <entry>verify_ssl</entry>
+        <entry>celery-class</entry>
+        <entry>italamo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
