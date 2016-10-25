@@ -688,12 +688,12 @@
         <mark key="." line="139" column="16" />
         <mark key="^" line="139" column="16" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1476960942821">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" timestamp="1477392720252">
         <mark key="'" line="104" column="69" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="57" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="85" column="56" />
+        <mark key="[" line="64" column="43" />
+        <mark key="]" line="64" column="66" />
+        <mark key="." line="64" column="66" />
+        <mark key="^" line="64" column="66" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1476454722440">
         <mark key="'" line="38" column="11" />
@@ -1454,8 +1454,8 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477126726282">
-        <mark key="'" line="52" column="43" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477392691574">
+        <mark key="'" line="20" column="5" />
         <mark key="[" line="269" column="72" />
         <mark key="]" line="269" column="72" />
         <mark key="." line="269" column="72" />
@@ -1572,10 +1572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
-      <jump line="360" column="46" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="353" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="115" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
       <jump line="717" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
       <jump line="407" column="89" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="385" column="25" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
@@ -1672,6 +1668,10 @@
       <jump line="31" column="29" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="226" column="37" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="26" column="59" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="279" column="38" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="274" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="47" column="102" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="20" column="5" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1710,7 +1710,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>kit</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB0LWlmPSJjb21wYW55LmxvZ28iIHQtYXR0LXNyYz0iJ2RhdGE6aW1hZ2UvcG5nO2Jhc2U2NCwlcycgJSBjb21wYW55LmxvZ28iIHN0eWxlPSJtYXgtaGVpZ2h0OiA0NXB4OyIvPgo=</text>
@@ -1747,17 +1747,16 @@
       </register>
     </registers>
     <search>
-      <last-search>kit</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern>kit</last-pattern>
+      <last-pattern>name</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_APP</entry>
         <entry>RAVEN_C</entry>
         <entry>raven_com</entry>
         <entry>LOGG</entry>
@@ -1777,6 +1776,7 @@
         <entry>get_sal</entry>
         <entry>TODO</entry>
         <entry>kit</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
