@@ -935,12 +935,12 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477314557767">
-        <mark key="'" line="133" column="40" />
-        <mark key="[" line="224" column="70" />
-        <mark key="]" line="225" column="84" />
-        <mark key="^" line="225" column="84" />
-        <mark key="." line="225" column="84" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477380513809">
+        <mark key="'" line="199" column="57" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="24" />
+        <mark key="^" line="78" column="50" />
+        <mark key="." line="76" column="24" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/workflows.xml" timestamp="1474447303761">
         <mark key="'" line="175" column="42" />
@@ -1572,10 +1572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="35" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
-      <jump line="187" column="13" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
-      <jump line="147" column="0" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
-      <jump line="186" column="39" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="238" column="23" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="262" column="12" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="52" column="43" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
@@ -1672,6 +1668,10 @@
       <jump line="52" column="23" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
       <jump line="60" column="4" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="44" column="33" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="231" column="30" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="57" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="199" column="57" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1691,8 +1691,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1707,49 +1707,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IGNsYXNzPSJ0ZXh0LWNlbnRlciI=</text>
       </register>
       <register name="/" type="4">
-        <text>italamo</text>
+        <text>get_sal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UkVTVF9GUkFNRVdPUktbJ0VYQ0VQVElPTl9IQU5ETEVSJ10gPSAnbGliLnNlbnRyeS5zZW50cnlfZXhjZXB0aW9uX2hhbmRsZXInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICd2ZXJpZnlfc3NsJzogRmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICd2ZXJpZnlfc3NsJzogRmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd2ZXJpZnlfc3NsJzogRmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVnaXN0ZXJfbG9nZ2VyX3NpZ25hbChjbGllbnQsIGxvZ2xldmVsPSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LWlubGluZSI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmF2ZW5fY2xpZW50Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TUlERExFV0FSRV9DTEFTU0VTID0gWwogICAgJ2xpYi5zZW50cnkuUmVxdWVzdFByb3ZpZGVyTWlkZGxld2FyZScsCiAgICAncmF2ZW4uY29udHJpYi5kamFuZ28ucmF2ZW5fY29tcGF0Lm1pZGRsZXdhcmUuU2VudHJ5UmVzcG9uc2VFcnJvcklkTWlkZGxld2FyZScsCl0gKyBNSURETEVXQVJFX0NMQVNTRVMKUkVTVF9GUkFNRVdPUktbJ0VYQ0VQVElPTl9IQU5ETEVSJ10gPSAnbGliLnNlbnRyeS5zZW50cnlfZXhjZXB0aW9uX2hhbmRsZXInCgpJTlNUQUxMRURfQVBQUyArPSBbJ3JhdmVuLmNvbnRyaWIuZGphbmdvLnJhdmVuX2NvbXBhdCddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdsZXZlbCc6ICdERUJVRycsCiAgICAnY2xhc3MnOiAncmF2ZW4uY29udHJpYi5kamFuZ28ucmF2ZW5fY29tcGF0LmhhbmRsZXJzLlNlbnRyeUhhbmRsZXInLAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Imxpc3QtaW5saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+UGFnZTo8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48c3BhbiBjbGFzcz0icGFnZSIvPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPi88L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48c3BhbiBjbGFzcz0idG9wYWdlIi8+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdyYXZlbi5jb250cmliLmRqYW5nby5yYXZlbl9jb21wYXQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0LWNlbnRlciIgc3R5bGU9ImJvcmRlci10b3A6IDFweCBzb2xpZCBibGFjazsiPgogICAgICAgICAgICAgICAgICAgICAgICA8dWwgdC1pZj0ibm90IGNvbXBhbnkuY3VzdG9tX2Zvb3RlciIgY2xhc3M9Imxpc3QtaW5saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB0LWlmPSJjb21wYW55LnBob25lIj5QaG9uZTogPHNwYW4gdC1maWVsZD0iY29tcGFueS5waG9uZSIvPjwvbGk+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIHQtaWY9ImNvbXBhbnkuZmF4IGFuZCBjb21wYW55LnBob25lIj4mYW1wO2J1bGw7PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB0LWlmPSJjb21wYW55LmZheCI+RmF4OiA8c3BhbiB0LWZpZWxkPSJjb21wYW55LmZheCIvPjwvbGk+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIHQtaWY9ImNvbXBhbnkuZW1haWwgYW5kIGNvbXBhbnkuZmF4IG9yIGNvbXBhbnkuZW1haWwgYW5kIGNvbXBhbnkucGhvbmUiPiZhbXA7YnVsbDs8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIHQtaWY9ImNvbXBhbnkuZW1haWwiPkVtYWlsOiA8c3BhbiB0LWZpZWxkPSJjb21wYW55LmVtYWlsIi8+PC9saT4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgdC1pZj0iY29tcGFueS53ZWJzaXRlIGFuZCBjb21wYW55LmVtYWlsIG9yIGNvbXBhbnkud2Vic2l0ZSBhbmQgY29tcGFueS5mYXggb3IgY29tcGFueS53ZWJzaXRlIGFuZCBjb21wYW55LnBob25lIj4mYW1wO2J1bGw7PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB0LWlmPSJjb21wYW55LndlYnNpdGUiPldlYnNpdGU6IDxzcGFuIHQtZmllbGQ9ImNvbXBhbnkud2Vic2l0ZSIvPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+CgogICAgICAgICAgICAgICAgICAgICAgICA8dWwgdC1pZj0ibm90IGNvbXBhbnkuY3VzdG9tX2Zvb3RlciIgY2xhc3M9Imxpc3QtaW5saW5lIiBuYW1lPSJmaW5hbmNpYWxfaW5mb3MiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIHQtaWY9ImNvbXBhbnkudmF0Ij5USU46IDxzcGFuIHQtZmllbGQ9ImNvbXBhbnkudmF0Ii8+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4KCiAgICAgICAgICAgICAgICAgICAgICAgIDx0IHQtaWY9ImNvbXBhbnkuY3VzdG9tX2Zvb3RlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiB0LXJhdz0iY29tcGFueS5ybWxfZm9vdGVyIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdD4KCiAgICAgICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibGlzdC1pbmxpbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPlBhZ2U6PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48c3BhbiBjbGFzcz0icGFnZSIvPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+LzwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PHNwYW4gY2xhc3M9InRvcGFnZSIvPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>italamo</last-search>
+      <last-search>get_sal</last-search>
       <last-offset />
-      <last-pattern>italamo</last-pattern>
+      <last-pattern>get_sal</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1757,9 +1757,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tagline</entry>
-        <entry>origin</entry>
-        <entry>add</entry>
         <entry>name</entry>
         <entry>INSTALL</entry>
         <entry>_APP</entry>
@@ -1777,6 +1774,9 @@
         <entry>verify_ssl</entry>
         <entry>celery-class</entry>
         <entry>italamo</entry>
+        <entry>wrapwrap</entry>
+        <entry>get_deliv</entry>
+        <entry>get_sal</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
