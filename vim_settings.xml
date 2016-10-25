@@ -935,11 +935,11 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477404055840">
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477405296758">
         <mark key="'" line="293" column="54" />
-        <mark key="[" line="59" column="48" />
-        <mark key="]" line="51" column="58" />
-        <mark key="." line="59" column="58" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
         <mark key="^" line="51" column="58" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/workflows.xml" timestamp="1474447303761">
