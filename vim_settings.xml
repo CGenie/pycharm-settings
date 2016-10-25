@@ -439,12 +439,6 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1477148099198">
-        <mark key="'" line="518" column="15" />
-        <mark key="[" line="521" column="0" />
-        <mark key="]" line="521" column="0" />
-        <mark key="." line="521" column="0" />
-      </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1470042633598">
         <mark key="'" line="1158" column="0" />
         <mark key="[" line="1063" column="23" />
@@ -1167,6 +1161,13 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="6" column="63" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" timestamp="1477376080497">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="60" column="40" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/inbox/migrations/0010_document_types_inbox.py" timestamp="1474014478180">
         <mark key="[" line="54" column="19" />
         <mark key="]" line="54" column="41" />
@@ -1249,6 +1250,12 @@
         <mark key="]" line="3" column="29" />
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celerybeat/init.sls" timestamp="1477375990114">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="5" column="41" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/it-graph.html" timestamp="1475137548236">
         <mark key="[" line="0" column="4" />
@@ -1480,12 +1487,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" timestamp="1476337043514">
-        <mark key="'" line="456" column="20" />
-        <mark key="[" line="637" column="22" />
-        <mark key="]" line="638" column="13" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" timestamp="1477376405238">
+        <mark key="'" line="144" column="13" />
+        <mark key="[" line="114" column="30" />
+        <mark key="]" line="114" column="30" />
         <mark key="^" line="638" column="13" />
-        <mark key="." line="638" column="13" />
+        <mark key="." line="114" column="30" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" timestamp="1476301763783">
         <mark key="'" line="8" column="1" />
@@ -1561,27 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="973" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="301" column="9" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="241" column="14" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="256" column="14" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="263" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="182" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
-      <jump line="67" column="7" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/worker.py" />
-      <jump line="68" column="41" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
-      <jump line="186" column="15" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="187" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="189" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="96" column="69" filename="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/user_importer.py" />
-      <jump line="276" column="94" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="335" column="63" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" />
-      <jump line="480" column="4" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
-      <jump line="37" column="89" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
-      <jump line="74" column="16" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
-      <jump line="78" column="13" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="117" column="35" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="124" column="35" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
       <jump line="187" column="13" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
@@ -1661,6 +1647,27 @@
       <jump line="12" column="0" filename="$USER_HOME$/Italamo/italamo/lib/sentry.py" />
       <jump line="18" column="8" filename="$USER_HOME$/Italamo/italamo/lib/sentry.py" />
       <jump line="21" column="4" filename="$USER_HOME$/Italamo/italamo/lib/sentry.py" />
+      <jump line="6" column="28" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="13" column="33" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="4" column="42" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="15" column="0" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="19" column="42" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="21" column="28" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="28" column="33" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="30" column="0" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="35" column="42" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="37" column="28" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="44" column="41" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="46" column="0" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="51" column="42" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="53" column="28" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="60" column="4" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
+      <jump line="539" column="4" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
+      <jump line="114" column="30" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
+      <jump line="128" column="8" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
+      <jump line="129" column="8" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
+      <jump line="144" column="13" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1680,8 +1687,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVnaXN0ZXJfbG9nZ2VyX3NpZ25hbChjbGllbnQsIGxvZ2xldmVsPSkK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1696,10 +1703,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>handlers</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>_handle_exc</text>
+        <text>models\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UkVTVF9GUkFNRVdPUktbJ0VYQ0VQVElPTl9IQU5ETEVSJ10gPSAnbGliLnNlbnRyeS5zZW50cnlfZXhjZXB0aW9uX2hhbmRsZXInCg==</text>
@@ -1736,9 +1743,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_handle_exc</last-search>
+      <last-search>models\.</last-search>
       <last-offset />
-      <last-pattern>_handle_exc</last-pattern>
+      <last-pattern>models\.</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1746,10 +1753,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ImportUpl</entry>
-        <entry>map_it</entry>
-        <entry>error: false</entry>
-        <entry>importer_mappings</entry>
         <entry>debug=</entry>
         <entry>celery</entry>
         <entry>hubot</entry>
@@ -1766,6 +1769,10 @@
         <entry>regis</entry>
         <entry>raven</entry>
         <entry>_handle_exc</entry>
+        <entry>celery.ser</entry>
+        <entry>celery-</entry>
+        <entry>models.CONVER</entry>
+        <entry>models\.</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
