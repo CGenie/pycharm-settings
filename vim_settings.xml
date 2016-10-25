@@ -935,12 +935,12 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477380513809">
-        <mark key="'" line="199" column="57" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="24" />
-        <mark key="^" line="78" column="50" />
-        <mark key="." line="76" column="24" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477392385360">
+        <mark key="'" line="26" column="59" />
+        <mark key="[" line="26" column="102" />
+        <mark key="]" line="26" column="105" />
+        <mark key="." line="26" column="105" />
+        <mark key="^" line="26" column="105" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/workflows.xml" timestamp="1474447303761">
         <mark key="'" line="175" column="42" />
@@ -1572,10 +1572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="23" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="262" column="12" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="52" column="43" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="146" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="360" column="46" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
       <jump line="353" column="27" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
@@ -1669,9 +1665,13 @@
       <jump line="60" column="4" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="44" column="33" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="231" column="30" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="57" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="199" column="57" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="266" column="85" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="31" column="29" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="226" column="37" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="26" column="59" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1691,8 +1691,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1707,49 +1707,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNsYXNzPSJ0ZXh0LWNlbnRlciI=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get_sal</text>
+        <text>kit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UkVTVF9GUkFNRVdPUktbJ0VYQ0VQVElPTl9IQU5ETEVSJ10gPSAnbGliLnNlbnRyeS5zZW50cnlfZXhjZXB0aW9uX2hhbmRsZXInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB0LWlmPSJjb21wYW55LmxvZ28iIHQtYXR0LXNyYz0iJ2RhdGE6aW1hZ2UvcG5nO2Jhc2U2NCwlcycgJSBjb21wYW55LmxvZ28iIHN0eWxlPSJtYXgtaGVpZ2h0OiA0NXB4OyIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiAgc3R5bGU9Im1pbi1oZWlnaHQ6IDEwMCU7IG1pbi13aWR0aDogMTAwJTsgZGlzcGxheTogZmxleDsgYWxpZ24taXRlbXM6IGNlbnRlcjsiPgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii90YW1lc29uL3N0YXRpYy9zcmMvaW1nL2xvZ28ucG5nIiBjbGFzcz0iaW1nIGltZy1yZXNwb25zaXZlIiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LWlubGluZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+PC9zcGFuPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+PC9zcGFuPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxzcGFuIHQtZmllbGQ9ImwucHJpY2Vfc3VidG90YWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHQtZmllbGQtb3B0aW9ucz0neyJ3aWRnZXQiOiAibW9uZXRhcnkiLCAiZGlzcGxheV9jdXJyZW5jeSI6ICJvLmN1cnJlbmN5X2lkIn0nLz4tLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Imxpc3QtaW5saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+UGFnZTo8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48c3BhbiBjbGFzcz0icGFnZSIvPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPi88L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48c3BhbiBjbGFzcz0idG9wYWdlIi8+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxzcGFuIHQtZXNjPSInLCAnLmpvaW4obWFwKGxhbWJkYSB4OiAoeC5kZXNjcmlwdGlvbiBvciB4Lm5hbWUpLCBsLmludm9pY2VfbGluZV90YXhfaWRzKSkiLz4tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxzcGFuIHQtZmllbGQ9ImwuZGlzY291bnQiLz4tLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0LWNlbnRlciIgc3R5bGU9ImJvcmRlci10b3A6IDFweCBzb2xpZCBibGFjazsiPgogICAgICAgICAgICAgICAgICAgICAgICA8dWwgdC1pZj0ibm90IGNvbXBhbnkuY3VzdG9tX2Zvb3RlciIgY2xhc3M9Imxpc3QtaW5saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB0LWlmPSJjb21wYW55LnBob25lIj5QaG9uZTogPHNwYW4gdC1maWVsZD0iY29tcGFueS5waG9uZSIvPjwvbGk+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIHQtaWY9ImNvbXBhbnkuZmF4IGFuZCBjb21wYW55LnBob25lIj4mYW1wO2J1bGw7PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB0LWlmPSJjb21wYW55LmZheCI+RmF4OiA8c3BhbiB0LWZpZWxkPSJjb21wYW55LmZheCIvPjwvbGk+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIHQtaWY9ImNvbXBhbnkuZW1haWwgYW5kIGNvbXBhbnkuZmF4IG9yIGNvbXBhbnkuZW1haWwgYW5kIGNvbXBhbnkucGhvbmUiPiZhbXA7YnVsbDs8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIHQtaWY9ImNvbXBhbnkuZW1haWwiPkVtYWlsOiA8c3BhbiB0LWZpZWxkPSJjb21wYW55LmVtYWlsIi8+PC9saT4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgdC1pZj0iY29tcGFueS53ZWJzaXRlIGFuZCBjb21wYW55LmVtYWlsIG9yIGNvbXBhbnkud2Vic2l0ZSBhbmQgY29tcGFueS5mYXggb3IgY29tcGFueS53ZWJzaXRlIGFuZCBjb21wYW55LnBob25lIj4mYW1wO2J1bGw7PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB0LWlmPSJjb21wYW55LndlYnNpdGUiPldlYnNpdGU6IDxzcGFuIHQtZmllbGQ9ImNvbXBhbnkud2Vic2l0ZSIvPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+CgogICAgICAgICAgICAgICAgICAgICAgICA8dWwgdC1pZj0ibm90IGNvbXBhbnkuY3VzdG9tX2Zvb3RlciIgY2xhc3M9Imxpc3QtaW5saW5lIiBuYW1lPSJmaW5hbmNpYWxfaW5mb3MiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIHQtaWY9ImNvbXBhbnkudmF0Ij5USU46IDxzcGFuIHQtZmllbGQ9ImNvbXBhbnkudmF0Ii8+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4KCiAgICAgICAgICAgICAgICAgICAgICAgIDx0IHQtaWY9ImNvbXBhbnkuY3VzdG9tX2Zvb3RlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiB0LXJhdz0iY29tcGFueS5ybWxfZm9vdGVyIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdD4KCiAgICAgICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibGlzdC1pbmxpbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPlBhZ2U6PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48c3BhbiBjbGFzcz0icGFnZSIvPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+LzwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PHNwYW4gY2xhc3M9InRvcGFnZSIvPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxzcGFuIHQtZmllbGQ9ImwucHJpY2VfdW5pdCIvPi0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_sal</last-search>
+      <last-search>kit</last-search>
       <last-offset />
-      <last-pattern>get_sal</last-pattern>
+      <last-pattern>kit</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1757,8 +1757,6 @@
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
-        <entry>INSTALL</entry>
         <entry>_APP</entry>
         <entry>RAVEN_C</entry>
         <entry>raven_com</entry>
@@ -1777,6 +1775,8 @@
         <entry>wrapwrap</entry>
         <entry>get_deliv</entry>
         <entry>get_sal</entry>
+        <entry>TODO</entry>
+        <entry>kit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
