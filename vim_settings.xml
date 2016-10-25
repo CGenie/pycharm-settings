@@ -935,12 +935,12 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477392385360">
-        <mark key="'" line="26" column="59" />
-        <mark key="[" line="26" column="102" />
-        <mark key="]" line="26" column="105" />
-        <mark key="." line="26" column="105" />
-        <mark key="^" line="26" column="105" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477404055840">
+        <mark key="'" line="293" column="54" />
+        <mark key="[" line="59" column="48" />
+        <mark key="]" line="51" column="58" />
+        <mark key="." line="59" column="58" />
+        <mark key="^" line="51" column="58" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/workflows.xml" timestamp="1474447303761">
         <mark key="'" line="175" column="42" />
@@ -1572,20 +1572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="717" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/api/ShipWebServiceSchema.xsd" />
-      <jump line="407" column="89" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="385" column="25" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
-      <jump line="46" column="44" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="54" column="56" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="127" column="55" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="126" column="55" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="119" column="69" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="116" column="60" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="113" column="50" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="100" column="59" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="41" column="74" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="129" column="78" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
       <jump line="25" column="8" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_importer.py" />
       <jump line="37" column="28" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_importer.py" />
       <jump line="106" column="15" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
@@ -1664,7 +1650,6 @@
       <jump line="57" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="199" column="57" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="266" column="85" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="31" column="29" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="226" column="37" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="26" column="59" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
@@ -1672,6 +1657,21 @@
       <jump line="274" column="18" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="47" column="102" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="20" column="5" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="101" column="50" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="172" column="52" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="175" column="80" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="265" column="63" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="34" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="239" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="230" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="259" column="46" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="284" column="54" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="263" column="38" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="260" column="46" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="238" column="46" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="229" column="34" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="286" column="54" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1692,7 +1692,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PCEtLSBiYW5rIEJJQyAtLT4=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1707,62 +1707,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PCEtLSBiYW5rIEJJQyAtLT4=</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>vat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB0LWlmPSJjb21wYW55LmxvZ28iIHQtYXR0LXNyYz0iJ2RhdGE6aW1hZ2UvcG5nO2Jhc2U2NCwlcycgJSBjb21wYW55LmxvZ28iIHN0eWxlPSJtYXgtaGVpZ2h0OiA0NXB4OyIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiAgc3R5bGU9Im1pbi1oZWlnaHQ6IDEwMCU7IG1pbi13aWR0aDogMTAwJTsgZGlzcGxheTogZmxleDsgYWxpZ24taXRlbXM6IGNlbnRlcjsiPgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii90YW1lc29uL3N0YXRpYy9zcmMvaW1nL2xvZ28ucG5nIiBjbGFzcz0iaW1nIGltZy1yZXNwb25zaXZlIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tIFRPRE86IGRpc3BsYXkgZGlzY291bnQgYXMgYSBzYWxlcyBvcmRlciBsaW5lIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBUT0RPOiBlbWFpbC9waG9uZSBkZXBlbmRlbnQgb24gc3RvcmUgbG9jYXRpb24gLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PiszMSA0MCA3NTA1Nzk1PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj5pbmZvQHRhbWVzb24ubmw8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxzcGFuIHQtZmllbGQ9ImwucHJpY2Vfc3VidG90YWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHQtZmllbGQtb3B0aW9ucz0neyJ3aWRnZXQiOiAibW9uZXRhcnkiLCAiZGlzcGxheV9jdXJyZW5jeSI6ICJvLmN1cnJlbmN5X2lkIn0nLz4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHQtZmllbGQ9ImNvbXBhbnkucGFydG5lcl9pZC5lbWFpbCIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHQtZmllbGQ9ImNvbXBhbnkucGFydG5lcl9pZC5waG9uZSIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxzcGFuIHQtZXNjPSInLCAnLmpvaW4obWFwKGxhbWJkYSB4OiAoeC5kZXNjcmlwdGlvbiBvciB4Lm5hbWUpLCBsLmludm9pY2VfbGluZV90YXhfaWRzKSkiLz4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxzcGFuIHQtZmllbGQ9ImwuZGlzY291bnQiLz4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdC1maWVsZD0iY29tcGFueS5wYXJ0bmVyX2lkLmVtYWlsIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB0LWZpZWxkPSJjb21wYW55LnBhcnRuZXJfaWQucGhvbmUiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxzcGFuIHQtZmllbGQ9ImwucHJpY2VfdW5pdCIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>vat</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>vat</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>RAVEN_C</entry>
-        <entry>raven_com</entry>
-        <entry>LOGG</entry>
-        <entry>RAVEN_CONFIG</entry>
-        <entry>regis</entry>
-        <entry>raven</entry>
         <entry>_handle_exc</entry>
         <entry>celery.ser</entry>
         <entry>celery-</entry>
@@ -1774,9 +1768,15 @@
         <entry>wrapwrap</entry>
         <entry>get_deliv</entry>
         <entry>get_sal</entry>
-        <entry>TODO</entry>
         <entry>kit</entry>
         <entry>name</entry>
+        <entry>payment_n</entry>
+        <entry>payment</entry>
+        <entry>font-s</entry>
+        <entry>phone</entry>
+        <entry>TODO</entry>
+        <entry>display_disc</entry>
+        <entry>vat</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
