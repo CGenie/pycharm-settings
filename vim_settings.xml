@@ -200,11 +200,11 @@
         <mark key="." line="122" column="8" />
         <mark key="^" line="122" column="8" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" timestamp="1477470523314">
-        <mark key="'" line="391" column="42" />
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="379" column="0" />
-        <mark key="." line="379" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" timestamp="1477471341699">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.coffee" timestamp="1469446761933">
         <mark key="[" line="24" column="19" />
@@ -1057,8 +1057,8 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" timestamp="1477469691713">
-        <mark key="'" line="228" column="21" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" timestamp="1477470734886">
+        <mark key="'" line="2018" column="20" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/import_helpers.py" timestamp="1473094276627">
         <mark key="'" line="254" column="78" />
@@ -1621,8 +1621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="41" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
-      <jump line="41" column="109" filename="$USER_HOME$/Italamo/italamo/italamo/settings/local.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
       <jump line="692" column="47" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
@@ -1721,6 +1719,8 @@
       <jump line="392" column="42" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/permission.js" />
       <jump line="127" column="13" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/permission.js" />
+      <jump line="2018" column="20" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="133" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1741,7 +1741,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwKICAgICAgICAgICAgcGVybXM6IGZ1bmN0aW9uKHN1Y2Nlc3MsIGVycm9yKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy4kcmVzb3VyY2VzLnBlcm1zLmdldCh7aWQ6IHRoaXMuaWR9LCBzdWNjZXNzLCBlcnJvcik7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1759,46 +1759,46 @@
         <text>query</text>
       </register>
       <register name="/" type="4">
-        <text>object</text>
+        <text>deb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGlzdG9yeTogZnVuY3Rpb24oc3VjY2VzcywgZXJyb3IpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiRyZXNvdXJjZXMuaGlzdG9yeS5xdWVyeSh7aWQ6IHRoaXMuaWR9LCBzdWNjZXNzLCBlcnJvcik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwKICAgICAgICAgICAgcGVybXM6IGZ1bmN0aW9uKHN1Y2Nlc3MsIGVycm9yKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy4kcmVzb3VyY2VzLnBlcm1zLmdldCh7aWQ6IHRoaXMuaWR9LCBzdWNjZXNzLCBlcnJvcik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBmb3IgY2FzZScsIHRoaXMuaWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBmb3IgY2FzZScsIHRoaXMuaWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwKICAgICAgICAgICAgcGVybXM6IGZ1bmN0aW9uKHN1Y2Nlc3MsIGVycm9yKSB7CiAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiRyZXNvdXJjZXMucGVybXMuZ2V0KHtpZDogdGhpcy5pZH0sIHN1Y2Nlc3MsIGVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIG1ldGhvZHM6ewogICAgICAgICAgICAgICAgY2hhbmdlX3N1YnN0YXRlOiBmdW5jdGlvbihwYXJhbXMsIHN1Y2Nlc3MsIGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIENoYW5nZVN1YlN0YXRlUmVzb3VyY2Uuc2F2ZSh7aWQ6IHRoaXMuaWR9LCBwYXJhbXMsIHN1Y2Nlc3MsIGVycm9yKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBjbG9zZTogZnVuY3Rpb24oZGF0YSwgc3VjY2VzcywgZXJyb3IpewogICAgICAgICAgICAgICAgICAgIHJldHVybiBDbG9zZVJlc291cmNlLnNhdmUoe2lkOiB0aGlzLmlkfSwgZGF0YSwgc3VjY2VzcywgZXJyb3IpOwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIGNhbl9jbG9zZTogZnVuY3Rpb24oZGF0YSwgc3VjY2VzcywgZXJyb3IpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ2FzZUNhbkNsb3NlUmVzb3VyY2UuZ2V0KHtpZDogdGhpcy5pZH0sIGRhdGEsIHN1Y2Nlc3MsIGVycm9yKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBjaGFuZ2Vfb3duZXI6IGZ1bmN0aW9uKG5ld19vd25lcl9pZCwgY29tbWVudCwgc3VjY2VzcywgZXJyb3IpewogICAgICAgICAgICAgICAgICAgIGlmICh0eXBlb2YoY29tbWVudCkgPT0gJ2Z1bmN0aW9uJykgewogICAgICAgICAgICAgICAgICAgICAgICBlcnJvciA9IHN1Y2Nlc3M7CiAgICAgICAgICAgICAgICAgICAgICAgIHN1Y2Nlc3MgPSBjb21tZW50OwogICAgICAgICAgICAgICAgICAgICAgICBjb21tZW50ID0gdW5kZWZpbmVkOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ2hhbmdlT3duZXJSZXNvdXJjZS5zYXZlKHtpZDogdGhpcy5pZH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7bmV3X293bmVyOiBuZXdfb3duZXJfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tbWVudDogY29tbWVudH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWNjZXNzLCBlcnJvcik7CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgYWRkX21ldGFkYXRhOiBmdW5jdGlvbihwYXJhbXMsIHN1Y2Nlc3MsIGVycm9yKXsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ2FzZUFkZE1ldGFkYXRhUmVzb3VyY2Uuc2F2ZSh7aWQ6IHRoaXMuaWR9LCBwYXJhbXMsIHN1Y2Nlc3MsIGVycm9yKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBhZGRfZGF0YWNhcmQ6IGZ1bmN0aW9uKGRhdGFjYXJkX2lkKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIENhc2VBZGREYXRhY2FyZFJlc291cmNlLnNhdmUoe2lkOiB0aGlzLmlkfSwge2RhdGFjYXJkX2lkOiBkYXRhY2FyZF9pZH0pOwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHJlbW92ZV9kYXRhY2FyZDogZnVuY3Rpb24oZGF0YWNhcmRfaWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ2FzZVJlbW92ZURhdGFjYXJkUmVzb3VyY2Uuc2F2ZSh7aWQ6IHRoaXMuaWR9LCB7ZGF0YWNhcmRfaWQ6IGRhdGFjYXJkX2lkfSk7CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgcmVvcGVuOiBmdW5jdGlvbihkYXRhLCBzdWNjZXNzLCBlcnJvcil7CiAgICAgICAgICAgICAgICAgICAgaWYgKCEoJ2NvbW1lbnQnIGluIGRhdGEpKSBkYXRhWydjb21tZW50J10gPSB1bmRlZmluZWQ7CiAgICAgICAgICAgICAgICAgICAgaWYgKCEoJ3N0YXRlJyBpbiBkYXRhKSkgZGF0YVsnc3RhdGUnXSA9IHVuZGVmaW5lZDsKICAgICAgICAgICAgICAgICAgICBpZiAoISgnc3Vic3RhdGUnIGluIGRhdGEpKSBkYXRhWydzdWJzdGF0ZSddID0gdW5kZWZpbmVkOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBDbG9zZVJlb3BlblJlc291cmNlLnNhdmUoe2lkOiB0aGlzLmlkfSwgZGF0YSwgc3VjY2VzcywgZXJyb3IpOwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIGNoYW5nZV9zdWJjYXNlOiBmdW5jdGlvbihzdWJjYXNlX2lkKXsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gVGVzdFJlc291cmNlLnNhdmUoe2lkOiB0aGlzLmlkfSx7c3ViY2FzZV9pZDogc3ViY2FzZV9pZH0KICAgICAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBoYXNfZG9jdW1lbnRzOiBmdW5jdGlvbihzdWNjZXNzLCBlcnJvcikgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBDYXNlSGFzRG9jdW1lbnRzUmVzb3VyY2UuZ2V0KHtpZDogdGhpcy5pZH0sIHN1Y2Nlc3MsIGVycm9yKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBoaXN0b3J5OiBmdW5jdGlvbihzdWNjZXNzLCBlcnJvcikgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBDYXNlSGlzdG9yeVJlc291cmNlLnF1ZXJ5KHtpZDogdGhpcy5pZH0sIHN1Y2Nlc3MsIGVycm9yKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBleHBvcnQ6IGZ1bmN0aW9uKHN1Y2Nlc3MsIGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIENhc2VFeHBvcnRSZXNvdXJjZS5zYXZlKHtpZDogdGhpcy5pZH0sIHN1Y2Nlc3MsIGVycm9yKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBwZXJtczogZnVuY3Rpb24oc3VjY2VzcywgZXJyb3IpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ2FzZVBlcm1pc3Npb25zUmVzb3VyY2UuZ2V0KHtpZDogdGhpcy5pZH0sIHN1Y2Nlc3MsIGVycm9yKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cj4+Pj4+Pj4gaXRhbC0yNjExLXJlc3RNb2RlbC1vcHRpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>object</last-search>
+      <last-search>deb</last-search>
       <last-offset />
-      <last-pattern>object</last-pattern>
+      <last-pattern>deb</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1806,7 +1806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vat</entry>
         <entry>sudo</entry>
         <entry>validate</entry>
         <entry>itC</entry>
@@ -1826,6 +1825,7 @@
         <entry>post_init</entry>
         <entry>get_perms</entry>
         <entry>object</entry>
+        <entry>deb</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1846,8 +1846,8 @@
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL1x0LyAgICAvZw==</entry>
         <entry>set ignorecase smartcase</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
