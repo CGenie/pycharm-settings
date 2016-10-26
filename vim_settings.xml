@@ -1494,12 +1494,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477499213037">
-        <mark key="'" line="488" column="11" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477501688525">
+        <mark key="'" line="105" column="14" />
         <mark key="[" line="130" column="0" />
-        <mark key="]" line="136" column="42" />
-        <mark key="." line="137" column="15" />
-        <mark key="^" line="137" column="15" />
+        <mark key="]" line="136" column="43" />
+        <mark key="." line="130" column="65" />
+        <mark key="^" line="130" column="28" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1477467645913">
         <mark key="[" line="32" column="0" />
@@ -1621,9 +1621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="692" column="47" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Italamo/italamo/lib/sentry.py" />
       <jump line="18" column="8" filename="$USER_HOME$/Italamo/italamo/lib/sentry.py" />
       <jump line="21" column="4" filename="$USER_HOME$/Italamo/italamo/lib/sentry.py" />
@@ -1721,6 +1718,9 @@
       <jump line="2018" column="20" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
       <jump line="133" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
       <jump line="462" column="11" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="107" column="43" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="102" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="105" column="14" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1741,7 +1741,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGVmYXVsdF9pbnZvaWNlX2lkcyc6IFtbNCwgaW52b2ljZV9pZCwgTm9uZV1dLAogICAgICAgICAgICAgICAgICAgICdhY3RpdmVfbW9kZWwnOiAnYWNjb3VudC5pbnZvaWNlJywKICAgICAgICAgICAgICAgICAgICAnam91cm5hbF90eXBlJzogJ3NhbGUnLAogICAgICAgICAgICAgICAgICAgICdzZWFyY2hfZGlzYWJsZV9jdXN0b21fZmlsdGVycyc6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgJ2FjdGl2ZV9pZHMnOiBbaW52b2ljZV9pZF0sCiAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnb3V0X2ludm9pY2UnLAogICAgICAgICAgICAgICAgICAgICdhY3RpdmVfaWQnOiBpbnZvaWNlX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGVmYXVsdF9pbnZvaWNlX2lkcyc6IFsoNCwgaW52b2ljZV9pZCwgTm9uZSldLAogICAgICAgICAgICAgICAgICAgICdhY3RpdmVfbW9kZWwnOiAnYWNjb3VudC5pbnZvaWNlJywKICAgICAgICAgICAgICAgICAgICAnam91cm5hbF90eXBlJzogJ3NhbGUnLAogICAgICAgICAgICAgICAgICAgICdzZWFyY2hfZGlzYWJsZV9jdXN0b21fZmlsdGVycyc6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgJ2FjdGl2ZV9pZHMnOiBbaW52b2ljZV9pZF0sCiAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnb3V0X2ludm9pY2UnLAogICAgICAgICAgICAgICAgICAgICdhY3RpdmVfaWQnOiBpbnZvaWNlX2lkLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1756,49 +1756,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>, None</text>
       </register>
       <register name="/" type="4">
-        <text>refer</text>
+        <text>invoice_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGlzdG9yeTogZnVuY3Rpb24oc3VjY2VzcywgZXJyb3IpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiRyZXNvdXJjZXMuaGlzdG9yeS5xdWVyeSh7aWQ6IHRoaXMuaWR9LCBzdWNjZXNzLCBlcnJvcik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwKICAgICAgICAgICAgcGVybXM6IGZ1bmN0aW9uKHN1Y2Nlc3MsIGVycm9yKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy4kcmVzb3VyY2VzLnBlcm1zLmdldCh7aWQ6IHRoaXMuaWR9LCBzdWNjZXNzLCBlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYW1vdW50JzogcGF5bWVudF9kYXRhWydhbW91bnQnXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncGF5bWVudF90eXBlJzogJ2luYm91bmQnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBmb3IgY2FzZScsIHRoaXMuaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncGF5bWVudF90eXBlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBmb3IgY2FzZScsIHRoaXMuaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncmVmZXJlbmNlJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncmVmZXJlbmNlJzogcGF5bWVudF9kYXRhWydwcmVzdGFfcmVmZXJlbmNlJ10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwKICAgICAgICAgICAgcGVybXM6IGZ1bmN0aW9uKHN1Y2Nlc3MsIGVycm9yKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy4kcmVzb3VyY2VzLnBlcm1zLmdldCh7aWQ6IHRoaXMuaWR9LCBzdWNjZXNzLCBlcnJvcik7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBmb3IgY2FzZScsIHRoaXMuaWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBmb3IgY2FzZScsIHRoaXMuaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>refer</last-search>
+      <last-search>invoice_id</last-search>
       <last-offset />
-      <last-pattern>refer</last-pattern>
+      <last-pattern>invoice_id</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1806,8 +1806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validate</entry>
-        <entry>itC</entry>
         <entry>itCa</entry>
         <entry>categ</entry>
         <entry>DatacardType</entry>
@@ -1826,6 +1824,8 @@
         <entry>object</entry>
         <entry>deb</entry>
         <entry>refer</entry>
+        <entry>refe</entry>
+        <entry>invoice_id</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
