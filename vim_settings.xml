@@ -838,6 +838,13 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
       </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/case.py" timestamp="1477459210537">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/webdev.sls" timestamp="1474277554807">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
@@ -1572,7 +1579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="8" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_importer.py" />
       <jump line="37" column="28" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_importer.py" />
       <jump line="106" column="15" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
       <jump line="3" column="15" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
@@ -1672,6 +1678,7 @@
       <jump line="238" column="46" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="229" column="34" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="286" column="54" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/models/case.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1692,7 +1699,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLSBiYW5rIEJJQyAtLT4=</text>
+        <text>t</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1707,10 +1714,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCEtLSBiYW5rIEJJQyAtLT4=</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>vat</text>
+        <text>sudo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB0LWlmPSJjb21wYW55LmxvZ28iIHQtYXR0LXNyYz0iJ2RhdGE6aW1hZ2UvcG5nO2Jhc2U2NCwlcycgJSBjb21wYW55LmxvZ28iIHN0eWxlPSJtYXgtaGVpZ2h0OiA0NXB4OyIvPgo=</text>
@@ -1747,9 +1754,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vat</last-search>
+      <last-search>sudo</last-search>
       <last-offset />
-      <last-pattern>vat</last-pattern>
+      <last-pattern>sudo</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1757,7 +1764,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_handle_exc</entry>
         <entry>celery.ser</entry>
         <entry>celery-</entry>
         <entry>models.CONVER</entry>
@@ -1777,6 +1783,7 @@
         <entry>TODO</entry>
         <entry>display_disc</entry>
         <entry>vat</entry>
+        <entry>sudo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
