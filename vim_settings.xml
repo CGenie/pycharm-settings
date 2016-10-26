@@ -1494,12 +1494,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477498299692">
-        <mark key="'" line="480" column="11" />
-        <mark key="[" line="148" column="34" />
-        <mark key="]" line="149" column="31" />
-        <mark key="." line="149" column="31" />
-        <mark key="^" line="149" column="31" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477499213037">
+        <mark key="'" line="488" column="11" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="136" column="42" />
+        <mark key="." line="137" column="15" />
+        <mark key="^" line="137" column="15" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1477467645913">
         <mark key="[" line="32" column="0" />
@@ -1741,7 +1741,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwKICAgICAgICAgICAgcGVybXM6IGZ1bmN0aW9uKHN1Y2Nlc3MsIGVycm9yKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy4kcmVzb3VyY2VzLnBlcm1zLmdldCh7aWQ6IHRoaXMuaWR9LCBzdWNjZXNzLCBlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGVmYXVsdF9pbnZvaWNlX2lkcyc6IFtbNCwgaW52b2ljZV9pZCwgTm9uZV1dLAogICAgICAgICAgICAgICAgICAgICdhY3RpdmVfbW9kZWwnOiAnYWNjb3VudC5pbnZvaWNlJywKICAgICAgICAgICAgICAgICAgICAnam91cm5hbF90eXBlJzogJ3NhbGUnLAogICAgICAgICAgICAgICAgICAgICdzZWFyY2hfZGlzYWJsZV9jdXN0b21fZmlsdGVycyc6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgJ2FjdGl2ZV9pZHMnOiBbaW52b2ljZV9pZF0sCiAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnb3V0X2ludm9pY2UnLAogICAgICAgICAgICAgICAgICAgICdhY3RpdmVfaWQnOiBpbnZvaWNlX2lkCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
