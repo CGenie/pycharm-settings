@@ -1494,12 +1494,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477392691574">
-        <mark key="'" line="20" column="5" />
-        <mark key="[" line="269" column="72" />
-        <mark key="]" line="269" column="72" />
-        <mark key="." line="269" column="72" />
-        <mark key="^" line="244" column="12" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477498299692">
+        <mark key="'" line="480" column="11" />
+        <mark key="[" line="148" column="34" />
+        <mark key="]" line="149" column="31" />
+        <mark key="." line="149" column="31" />
+        <mark key="^" line="149" column="31" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1477467645913">
         <mark key="[" line="32" column="0" />
@@ -1621,7 +1621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
       <jump line="692" column="47" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
@@ -1721,6 +1720,7 @@
       <jump line="127" column="13" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/permission.js" />
       <jump line="2018" column="20" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
       <jump line="133" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
+      <jump line="462" column="11" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1759,7 +1759,7 @@
         <text>query</text>
       </register>
       <register name="/" type="4">
-        <text>deb</text>
+        <text>refer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGlzdG9yeTogZnVuY3Rpb24oc3VjY2VzcywgZXJyb3IpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiRyZXNvdXJjZXMuaGlzdG9yeS5xdWVyeSh7aWQ6IHRoaXMuaWR9LCBzdWNjZXNzLCBlcnJvcik7CiAgICAgICAgICAgIH0K</text>
@@ -1796,9 +1796,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deb</last-search>
+      <last-search>refer</last-search>
       <last-offset />
-      <last-pattern>deb</last-pattern>
+      <last-pattern>refer</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1806,7 +1806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sudo</entry>
         <entry>validate</entry>
         <entry>itC</entry>
         <entry>itCa</entry>
@@ -1826,6 +1825,7 @@
         <entry>get_perms</entry>
         <entry>object</entry>
         <entry>deb</entry>
+        <entry>refer</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
