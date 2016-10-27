@@ -340,6 +340,13 @@
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="69" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/tools.py" timestamp="1477558270405">
+        <mark key="'" line="60" column="16" />
+        <mark key="[" line="119" column="38" />
+        <mark key="]" line="119" column="49" />
+        <mark key="^" line="119" column="49" />
+        <mark key="." line="119" column="49" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/security/italamo_security.xml" timestamp="1466091041446">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="65" />
@@ -1015,10 +1022,6 @@
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/collection.js" timestamp="1473071049909">
         <mark key="'" line="62" column="30" />
-        <mark key="[" line="63" column="50" />
-        <mark key="]" line="64" column="11" />
-        <mark key="^" line="64" column="11" />
-        <mark key="." line="64" column="11" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/security/sale_security.xml" timestamp="1466089888453">
         <mark key="[" line="3" column="20" />
@@ -1446,12 +1449,12 @@
         <mark key="." line="65" column="44" />
         <mark key="^" line="65" column="44" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/case/views.py" timestamp="1476250304091">
-        <mark key="'" line="12" column="35" />
-        <mark key="[" line="40" column="32" />
-        <mark key="]" line="40" column="32" />
-        <mark key="^" line="40" column="32" />
-        <mark key="." line="40" column="32" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/case/views.py" timestamp="1477558303845">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="53" column="82" />
+        <mark key="]" line="53" column="82" />
+        <mark key="." line="53" column="82" />
+        <mark key="^" line="53" column="79" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/sale_view.xml" timestamp="1476197524601">
         <mark key="'" line="8" column="16" />
@@ -1621,12 +1624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Italamo/italamo/lib/sentry.py" />
-      <jump line="18" column="8" filename="$USER_HOME$/Italamo/italamo/lib/sentry.py" />
-      <jump line="21" column="4" filename="$USER_HOME$/Italamo/italamo/lib/sentry.py" />
-      <jump line="6" column="28" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
-      <jump line="13" column="33" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
-      <jump line="4" column="42" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="15" column="0" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="19" column="42" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="21" column="28" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
@@ -1721,6 +1718,12 @@
       <jump line="107" column="43" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="102" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="105" column="14" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="55" column="23" filename="$USER_HOME$/Italamo/italamo/apps/case/views.py" />
+      <jump line="13" column="48" filename="$USER_HOME$/Italamo/italamo/apps/case/views.py" />
+      <jump line="0" column="21" filename="$USER_HOME$/Italamo/italamo/apps/case/tools.py" />
+      <jump line="8" column="11" filename="$USER_HOME$/Italamo/italamo/apps/case/tools.py" />
+      <jump line="60" column="16" filename="$USER_HOME$/Italamo/italamo/apps/case/tools.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/case/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1740,8 +1743,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGVmYXVsdF9pbnZvaWNlX2lkcyc6IFsoNCwgaW52b2ljZV9pZCwgTm9uZSldLAogICAgICAgICAgICAgICAgICAgICdhY3RpdmVfbW9kZWwnOiAnYWNjb3VudC5pbnZvaWNlJywKICAgICAgICAgICAgICAgICAgICAnam91cm5hbF90eXBlJzogJ3NhbGUnLAogICAgICAgICAgICAgICAgICAgICdzZWFyY2hfZGlzYWJsZV9jdXN0b21fZmlsdGVycyc6IFRydWUsCiAgICAgICAgICAgICAgICAgICAgJ2FjdGl2ZV9pZHMnOiBbaW52b2ljZV9pZF0sCiAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnb3V0X2ludm9pY2UnLAogICAgICAgICAgICAgICAgICAgICdhY3RpdmVfaWQnOiBpbnZvaWNlX2lkLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICUgZmlsZW5hbWU=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1756,49 +1759,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, None</text>
+        <text encoding="base64">ICUgZmlsZW5hbWU=</text>
       </register>
       <register name="/" type="4">
-        <text>invoice_id</text>
+        <text>csv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlzdG9yeTogZnVuY3Rpb24oc3VjY2VzcywgZXJyb3IpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiRyZXNvdXJjZXMuaGlzdG9yeS5xdWVyeSh7aWQ6IHRoaXMuaWR9LCBzdWNjZXNzLCBlcnJvcik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIENhc2UgPSBtb2RlbHMuZ2V0X21vZGVsKCdjYXNlJywgJ0Nhc2UnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYW1vdW50JzogcGF5bWVudF9kYXRhWydhbW91bnQnXSwK</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2Nhc2UtY3N2LXJlcG9ydC56aXAnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncGF5bWVudF90eXBlJzogJ2luYm91bmQnLAo=</text>
+        <text encoding="base64">ICAgIGlmIGxlbihjYXNlX3R5cGVfaWRzKSA9PSAxOgogICAgICAgIGZpbGVuYW1lID0gJyVzLnppcCcgJSBDYXNlVHlwZS5vYmplY3RzLmdldChpZD1jYXNlX3R5cGVfaWRzWzBdKS5uYW1lCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncGF5bWVudF90eXBlJwo=</text>
+        <text encoding="base64">ICAgIENhc2VUeXBlID0gbW9kZWxzLmdldF9tb2RlbCgnY2FzZScsICdDYXNlVHlwZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncmVmZXJlbmNlJywK</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlWydDb250ZW50LURpc3Bvc2l0aW9uJ10gPSAnYXR0YWNobWVudDsgZmlsZW5hbWU9ImNhc2UtY3N2LXJlcG9ydC56aXAiJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncmVmZXJlbmNlJzogcGF5bWVudF9kYXRhWydwcmVzdGFfcmVmZXJlbmNlJ10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwKICAgICAgICAgICAgcGVybXM6IGZ1bmN0aW9uKHN1Y2Nlc3MsIGVycm9yKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy4kcmVzb3VyY2VzLnBlcm1zLmdldCh7aWQ6IHRoaXMuaWR9LCBzdWNjZXNzLCBlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYW1vdW50JzogcGF5bWVudF9kYXRhWydhbW91bnQnXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncGF5bWVudF90eXBlJzogJ2luYm91bmQnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBmb3IgY2FzZScsIHRoaXMuaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncGF5bWVudF90eXBlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCBmb3IgY2FzZScsIHRoaXMuaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncmVmZXJlbmNlJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>invoice_id</last-search>
+      <last-search>csv</last-search>
       <last-offset />
-      <last-pattern>invoice_id</last-pattern>
+      <last-pattern>csv</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1806,7 +1809,6 @@
     </search>
     <history>
       <history-search>
-        <entry>itCa</entry>
         <entry>categ</entry>
         <entry>DatacardType</entry>
         <entry encoding="base64">PDw=</entry>
@@ -1826,6 +1828,7 @@
         <entry>refer</entry>
         <entry>refe</entry>
         <entry>invoice_id</entry>
+        <entry>csv</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
