@@ -960,10 +960,10 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477405296758">
-        <mark key="'" line="293" column="54" />
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="40" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477560694979">
+        <mark key="'" line="31" column="51" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="111" column="60" />
         <mark key="." line="23" column="40" />
         <mark key="^" line="51" column="58" />
       </file>
@@ -1647,7 +1647,6 @@
       <jump line="57" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="199" column="57" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="266" column="85" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="31" column="29" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="226" column="37" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="26" column="59" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="279" column="38" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
@@ -1724,6 +1723,7 @@
       <jump line="8" column="11" filename="$USER_HOME$/Italamo/italamo/apps/case/tools.py" />
       <jump line="60" column="16" filename="$USER_HOME$/Italamo/italamo/apps/case/tools.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/case/views.py" />
+      <jump line="31" column="51" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1743,8 +1743,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICUgZmlsZW5hbWU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgaWQ9InJlcG9ydF9pbnZvaWNlX2RvY3VtZW50Ij4KICAgICAgICAgICAgPHQgdC1jYWxsPSJ0YW1lc29uLmV4dGVybmFsX2xheW91dCI+CiAgICAgICAgICAgICAgICA8dCB0LXNldD0ibyIgdC12YWx1ZT0iby53aXRoX2NvbnRleHQoeydsYW5nJzpvLnBhcnRuZXJfaWQubGFuZ30pIiAvPgogICAgICAgICAgICAgICAgPHQgdC1zZXQ9InNvIiB0LXZhbHVlPSJvLmdldF9zYWxlX29yZGVyKCkiIC8+Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1762,7 +1762,7 @@
         <text encoding="base64">ICUgZmlsZW5hbWU=</text>
       </register>
       <register name="/" type="4">
-        <text>csv</text>
+        <text>get_sa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENhc2UgPSBtb2RlbHMuZ2V0X21vZGVsKCdjYXNlJywgJ0Nhc2UnKQo=</text>
@@ -1799,9 +1799,9 @@
       </register>
     </registers>
     <search>
-      <last-search>csv</last-search>
+      <last-search>get_sa</last-search>
       <last-offset />
-      <last-pattern>csv</last-pattern>
+      <last-pattern>get_sa</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1809,7 +1809,6 @@
     </search>
     <history>
       <history-search>
-        <entry>categ</entry>
         <entry>DatacardType</entry>
         <entry encoding="base64">PDw=</entry>
         <entry>has_per</entry>
@@ -1829,6 +1828,7 @@
         <entry>refe</entry>
         <entry>invoice_id</entry>
         <entry>csv</entry>
+        <entry>get_sa</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
