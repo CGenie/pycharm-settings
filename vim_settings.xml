@@ -1501,8 +1501,8 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477565596471">
-        <mark key="'" line="148" column="21" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477572913147">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="130" column="0" />
         <mark key="]" line="136" column="43" />
         <mark key="." line="130" column="65" />
@@ -1633,8 +1633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="42" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
-      <jump line="37" column="28" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="46" column="0" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="51" column="42" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
       <jump line="53" column="28" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
@@ -1733,6 +1731,8 @@
       <jump line="261" column="80" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" />
       <jump line="109" column="43" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="148" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="159" column="77" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1771,7 +1771,7 @@
         <text>, 'per_page': 1</text>
       </register>
       <register name="/" type="4">
-        <text>journal_id</text>
+        <text>create_or_up</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENhc2UgPSBtb2RlbHMuZ2V0X21vZGVsKCdjYXNlJywgJ0Nhc2UnKQo=</text>
@@ -1808,9 +1808,9 @@
       </register>
     </registers>
     <search>
-      <last-search>journal_id</last-search>
+      <last-search>create_or_up</last-search>
       <last-offset />
-      <last-pattern>journal_id</last-pattern>
+      <last-pattern>create_or_up</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1818,7 +1818,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PDw=</entry>
         <entry>has_per</entry>
         <entry>perms:</entry>
         <entry>resour</entry>
@@ -1838,6 +1837,7 @@
         <entry>csv</entry>
         <entry>get_sa</entry>
         <entry>journal_id</entry>
+        <entry>create_or_up</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
