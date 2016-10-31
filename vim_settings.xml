@@ -35,6 +35,10 @@
         <mark key="." line="9" column="33" />
         <mark key="^" line="9" column="33" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/migrations/0015_auto_20161031_0630.py" timestamp="1477895416465">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="17" column="9" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_product_attributes/model/product_feature.py" timestamp="1470130135752">
         <mark key="'" line="52" column="66" />
         <mark key="[" line="53" column="43" />
@@ -192,6 +196,12 @@
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/django-rest-resource.js" timestamp="1477469643489">
         <mark key="'" line="144" column="4" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/migrations/0014_tenantsettings_max_categories_num.py" timestamp="1477895522410">
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="46" />
+        <mark key="." line="11" column="46" />
+        <mark key="^" line="11" column="9" />
       </file>
       <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" timestamp="1477306498783">
         <mark key="'" line="65" column="24" />
@@ -545,10 +555,10 @@
         <mark key="^" line="46" column="3" />
         <mark key="." line="46" column="3" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/account/migrations/0008_auto_20160725_1739.py" timestamp="1474014272670">
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/migrations/0008_auto_20160725_1739.py" timestamp="1477894435087">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="85" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="23" column="68" />
         <mark key="." line="55" column="0" />
         <mark key="^" line="53" column="9" />
       </file>
@@ -558,6 +568,13 @@
         <mark key="]" line="29" column="126" />
         <mark key="^" line="29" column="126" />
         <mark key="." line="29" column="126" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" timestamp="1477893852187">
+        <mark key="'" line="596" column="21" />
+        <mark key="[" line="603" column="16" />
+        <mark key="]" line="603" column="7" />
+        <mark key="." line="603" column="7" />
+        <mark key="^" line="603" column="7" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" timestamp="1475089567711">
         <mark key="'" line="246" column="0" />
@@ -687,6 +704,9 @@
         <mark key="]" line="314" column="40" />
         <mark key="." line="314" column="40" />
         <mark key="^" line="314" column="40" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/tasks.py" timestamp="1477893859731">
+        <mark key="'" line="169" column="17" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_features/security/ir.model.access.csv" timestamp="1470135144302">
         <mark key="[" line="4" column="52" />
@@ -1016,6 +1036,13 @@
         <mark key="." line="10" column="66" />
         <mark key="^" line="10" column="66" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/models.py" timestamp="1477895379165">
+        <mark key="'" line="270" column="16" />
+        <mark key="[" line="254" column="47" />
+        <mark key="]" line="254" column="69" />
+        <mark key="^" line="254" column="69" />
+        <mark key="." line="254" column="69" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/help/news/indicator.html" timestamp="1472535178560">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="50" />
@@ -1134,6 +1161,9 @@
         <mark key="]" line="76" column="0" />
         <mark key="^" line="75" column="62" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/api.py" timestamp="1477893786674">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/models/__init__.py" timestamp="1466083246019">
         <mark key="[" line="1" column="0" />
@@ -1632,17 +1662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="30" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
-      <jump line="128" column="8" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
-      <jump line="129" column="8" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
-      <jump line="144" column="13" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
-      <jump line="52" column="23" filename="$USER_HOME$/Italamo/italamo/italamo/settings/acc_true.py" />
-      <jump line="60" column="4" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
-      <jump line="44" column="33" filename="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/celery/init.sls" />
-      <jump line="231" column="30" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="57" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="199" column="57" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="266" column="85" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="226" column="37" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="26" column="59" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="279" column="38" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
@@ -1732,6 +1751,17 @@
       <jump line="214" column="55" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/prestapi/prestapi.py" />
       <jump line="150" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/prestapi/prestapi.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/prestapi/prestapi.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="212" column="86" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="254" column="39" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="306" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="270" column="16" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="724" column="18" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/api.py" />
+      <jump line="793" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="596" column="21" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/tasks.py" />
+      <jump line="169" column="17" filename="$USER_HOME$/Italamo/italamo/apps/account/tasks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1752,7 +1782,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>.id</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1767,49 +1797,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>.id</text>
       </register>
       <register name="/" type="4">
-        <text>MIN_COM</text>
+        <text>data_set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIENhc2UgPSBtb2RlbHMuZ2V0X21vZGVsKCdjYXNlJywgJ0Nhc2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J3RlbmFudCcsCiAgICAgICAgICAgIG5hbWU9J3NldHRpbmdzJywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLkZvcmVpZ25LZXkocmVsYXRlZF9uYW1lPSd0ZW5hbnRzJywgdG89J2FjY291bnQuVGVuYW50U2V0dGluZ3MnKSwKICAgICAgICApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0LXNjcm9sbD0iaGVscGVyLmNhc2VUeXBlcyIK</text>
+        <text encoding="base64">ICAgIFRlbmFudCA9IGFwcHMuZ2V0X21vZGVsKCdhY2NvdW50JywgJ1RlbmFudCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKQo=</text>
+        <text encoding="base64">ICAgIGZvciB0ZW5hbnQgaW4gVGVuYW50Lm9iamVjdHMuYWxsKCk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKQo=</text>
+        <text encoding="base64">ICAgIHRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKQo=</text>
+        <text encoding="base64">ICAgIFRlbmFudERqYW5nbyA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gQ2FzZS5vYmplY3RzLmZpbHRlcigKICAgICAgICBwZXJtX3Rvb2xzLmZpbHRlcl9jYXNlX2lkc19mb3JfdXNlcl9yZWFkKHJlcXVlc3QudXNlcikKICAgICkuZmlsdGVyKG9wZW5fcSAmIGNsb3NlZF9xKS5vcmRlcl9ieSgnY3JlYXRlZF9vbicpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW5ncyA9IFRlbmFudFNldHRpbmdzKCkKICAgICAgICBzZXR0aW5ncy5zYXZlKCkKICAgICAgICBUZW5hbnQub2JqZWN0cy5maWx0ZXIoaWQ9dGVuYW50LmlkKS51cGRhdGUoc2V0dGluZ3M9c2V0dGluZ3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2Nhc2UtY3N2LXJlcG9ydC56aXAnCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihjYXNlX3R5cGVfaWRzKSA9PSAxOgogICAgICAgIGZpbGVuYW1lID0gJyVzLnppcCcgJSBDYXNlVHlwZS5vYmplY3RzLmdldChpZD1jYXNlX3R5cGVfaWRzWzBdKS5uYW1lCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG5hbWUsIHZhbHVlIGluIHNlbGYuREVGQVVMVF9TRVRUSU5HU1tzZWxmLnR5cGVdLml0ZW1zKCk6IHNlbGYuc2V0dGluZ3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENhc2VUeXBlID0gbW9kZWxzLmdldF9tb2RlbCgnY2FzZScsICdDYXNlVHlwZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVuYW50U2V0dGluZ3Mub2JqZWN0cy5maWx0ZXIoCiAgICAgICAgICAgICAgICBpZD1zZWxmLnNldHRpbmdzLmlkCiAgICAgICAgICAgICkudXBkYXRlKCoqc2VsZi5ERUZBVUxUX1NFVFRJTkdTW3NlbGYudHlwZV0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlWydDb250ZW50LURpc3Bvc2l0aW9uJ10gPSAnYXR0YWNobWVudDsgZmlsZW5hbWU9ImNhc2UtY3N2LXJlcG9ydC56aXAiJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG5hbWUsIHZhbHVlIGluIHNlbGYuREVGQVVMVF9TRVRUSU5HU1tzZWxmLnR5cGVdLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBzZWxmLnNldHRpbmdzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MIN_COM</last-search>
+      <last-search>data_set</last-search>
       <last-offset />
-      <last-pattern>MIN_COM</last-pattern>
+      <last-pattern>data_set</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1817,11 +1847,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resource</entry>
-        <entry>resources</entry>
-        <entry>\.\$resources</entry>
-        <entry>bind_actions</entry>
-        <entry>\.case</entry>
         <entry>\.get(</entry>
         <entry>post_init</entry>
         <entry>get_perms</entry>
@@ -1837,6 +1862,11 @@
         <entry>commer</entry>
         <entry>incompa</entry>
         <entry>MIN_COM</entry>
+        <entry>datase</entry>
+        <entry>Sett</entry>
+        <entry>TYPE_1HVM</entry>
+        <entry>dataset</entry>
+        <entry>data_set</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
