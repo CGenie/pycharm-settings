@@ -1234,8 +1234,8 @@
         <mark key="^" line="65" column="8" />
         <mark key="." line="65" column="8" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1477905018754">
-        <mark key="'" line="9" column="60" />
+      <file name="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" timestamp="1477905834380">
+        <mark key="'" line="841" column="66" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo_res_partner/views/crm_leads_form.xml" timestamp="1476854348889">
         <mark key="[" line="17" column="0" />
@@ -1616,11 +1616,11 @@
         <mark key="^" line="69" column="172" />
         <mark key="." line="69" column="155" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" timestamp="1477904693743">
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="28" />
-        <mark key="." line="41" column="28" />
-        <mark key="^" line="41" column="39" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" timestamp="1477905848015">
+        <mark key="[" line="42" column="37" />
+        <mark key="]" line="42" column="44" />
+        <mark key="." line="42" column="44" />
+        <mark key="^" line="42" column="44" />
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" timestamp="1470040353396">
         <mark key="'" line="14" column="26" />
@@ -1689,13 +1689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/Italamo/italamo/apps/case/tools.py" />
-      <jump line="40" column="80" filename="$USER_HOME$/Italamo/italamo/apps/case/views.py" />
-      <jump line="261" column="80" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/dashboard.coffee" />
-      <jump line="109" column="43" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="148" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="159" column="77" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="287" column="27" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="321" column="51" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="214" column="55" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/prestapi/prestapi.py" />
@@ -1779,7 +1772,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/partials/category/tree_editor.html" />
       <jump line="5" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/serializers.py" />
       <jump line="52" column="6" filename="$USER_HOME$/Italamo/italamo/lib/rest.py" />
-      <jump line="749" column="6" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="119" column="11" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="120" column="25" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="3" column="33" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
@@ -1789,6 +1781,14 @@
       <jump line="644" column="49" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="9" column="60" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="170" column="49" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="749" column="6" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="810" column="31" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="816" column="59" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="822" column="45" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="823" column="63" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="831" column="64" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="835" column="59" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
+      <jump line="841" column="66" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1827,7 +1827,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>request</text>
+        <text>\.data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICNkZWYgY3JlYXRlKHNlbGYsIHZhbGlkYXRlZF9kYXRhKToKICAgICMgICAgcm9vdF9jYXRlZ29yeSA9IHZhbGlkYXRlZF9kYXRhWydyb290X2NhdGVnb3J5J10KICAgICMgICAgcm9vdF9jYXRlZ29yeS5zYXZlX2Zyb21fdHJlZShyb290X2NhdGVnb3J5Ll90cmVlKQoKICAgICMgICAgcmV0dXJuIHN1cGVyKERhdGFjYXJkVHlwZVNlcmlhbGl6ZXIsIHNlbGYpLmNyZWF0ZSh2YWxpZGF0ZWRfZGF0YSkKCiAgICAjZGVmIHVwZGF0ZShzZWxmLCBpbnN0YW5jZSwgdmFsaWRhdGVkX2RhdGEpOgogICAgIyAgICByb290X2NhdGVnb3J5ID0gdmFsaWRhdGVkX2RhdGFbJ3Jvb3RfY2F0ZWdvcnknXQogICAgIyAgICByb290X2NhdGVnb3J5LnNhdmVfZnJvbV90cmVlKHJvb3RfY2F0ZWdvcnkuX3RyZWUpCgogICAgIyAgICByZXR1cm4gc3VwZXIoRGF0YWNhcmRUeXBlU2VyaWFsaXplciwgc2VsZikudXBkYXRlKGluc3RhbmNlLCB2YWxpZGF0ZWRfZGF0YSkK</text>
@@ -1864,9 +1864,9 @@
       </register>
     </registers>
     <search>
-      <last-search>request</last-search>
+      <last-search>\.data</last-search>
       <last-offset />
-      <last-pattern>request</last-pattern>
+      <last-pattern>\.data</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1874,9 +1874,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DatacardTypeEd</entry>
-        <entry>root_cate</entry>
-        <entry>itRootCa</entry>
         <entry>cate</entry>
         <entry>datac</entry>
         <entry>ListContr</entry>
@@ -1894,6 +1891,9 @@
         <entry>JSONS</entry>
         <entry>_tree</entry>
         <entry>request</entry>
+        <entry>dta</entry>
+        <entry>data</entry>
+        <entry>\.data</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
