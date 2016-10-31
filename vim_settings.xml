@@ -341,11 +341,10 @@
         <mark key="^" line="25" column="69" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/case/tools.py" timestamp="1477561716611">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="119" column="38" />
-        <mark key="]" line="119" column="49" />
-        <mark key="^" line="119" column="49" />
-        <mark key="." line="119" column="49" />
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="49" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/security/italamo_security.xml" timestamp="1466091041446">
         <mark key="[" line="5" column="34" />
