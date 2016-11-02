@@ -65,11 +65,11 @@
         <mark key="." line="53" column="86" />
         <mark key="^" line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/config.coffee" timestamp="1469789885867">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="13" column="88" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/config.coffee" timestamp="1478073537110">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="48" />
+        <mark key="^" line="26" column="44" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/sale_workflows.xml" timestamp="1474893195094">
         <mark key="'" line="0" column="0" />
@@ -1847,8 +1847,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHt7IGNob3NlbkNhdGVnb3JpZXMgfX0K</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1863,7 +1863,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>visible</text>
