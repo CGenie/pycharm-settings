@@ -464,11 +464,12 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1478067536460">
-        <mark key="'" line="421" column="25" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1478070716945">
+        <mark key="'" line="413" column="14" />
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="40" column="42" />
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1470042633598">
         <mark key="'" line="1158" column="0" />
@@ -507,12 +508,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" timestamp="1478069552090">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="55" column="83" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" timestamp="1478071529473">
+        <mark key="'" line="187" column="58" />
+        <mark key="[" line="185" column="79" />
+        <mark key="]" line="185" column="79" />
+        <mark key="." line="185" column="79" />
+        <mark key="^" line="185" column="79" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/wait.coffee" timestamp="1473155493253">
         <mark key="'" line="0" column="0" />
@@ -741,11 +742,12 @@
         <mark key="." line="64" column="66" />
         <mark key="^" line="64" column="66" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/partials/category/root_category_chooser.html" timestamp="1477932176297">
-        <mark key="[" line="2" column="60" />
-        <mark key="]" line="2" column="69" />
-        <mark key="." line="2" column="69" />
-        <mark key="^" line="2" column="69" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/category/root_category_chooser.html" timestamp="1478071368421">
+        <mark key="'" line="12" column="45" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" timestamp="1476454722440">
         <mark key="'" line="38" column="11" />
@@ -1575,8 +1577,8 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478069706018">
-        <mark key="'" line="30" column="19" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478071533713">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="30" column="8" />
         <mark key="]" line="30" column="18" />
         <mark key="^" line="30" column="18" />
@@ -1726,10 +1728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="4" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="167" column="32" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="176" column="32" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="180" column="21" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="240" column="56" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="255" column="65" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="641" column="32" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
@@ -1755,7 +1753,6 @@
       <jump line="53" column="17" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="749" column="6" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="59" column="33" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="372" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
@@ -1811,7 +1808,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/edit.html" />
       <jump line="141" column="18" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="338" column="4" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
-      <jump line="416" column="14" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="420" column="30" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="421" column="25" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="45" column="12" filename="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" />
@@ -1823,9 +1819,15 @@
       <jump line="254" column="12" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
       <jump line="74" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
       <jump line="26" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" />
-      <jump line="30" column="19" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="155" column="42" filename="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" />
       <jump line="161" column="60" filename="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" />
+      <jump line="253" column="12" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
+      <jump line="237" column="8" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
+      <jump line="416" column="14" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="30" column="19" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="13" column="45" filename="$USER_HOME$/Italamo/italamo/statics/partials/category/root_category_chooser.html" />
+      <jump line="187" column="58" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1845,8 +1847,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHt7IGNob3NlbkNhdGVnb3JpZXMgfX0K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1861,49 +1863,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
-        <text>validate</text>
+        <text>visible</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UuUmVzcG9uc2UoCiAgICAgICAgICAgIHNlbGYuc2VyaWFsaXplcl9jbGFzcyhuZXdfZGF0YWNhcmR0eXBlKS5kYXRhLAogICAgICAgICAgICBzdGF0dXM9c3RhdHVzLkhUVFBfMjAxX0NSRUFURUQKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nICdoZWxwZXInLCBzY29wZS5oZWxwZXIK</text>
+        <text encoding="base64">ICAgIHt7IGNob3NlbkNhdGVnb3JpZXMgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nICdmZXRjaGVkIHJvb3QnLCBzY29wZS5yb290Q2F0ZWdvcnkK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgJ2ZldGNoZWQgY2F0ZWdvcnknLCBzY29wZS5jYXRlZ29yeQo=</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NvcGUuY2F0ZWdvcnkuZ2V0X3Jvb3QoKS4kcHJvbWlzZS50aGVuIChjYXRlZ29yeSkgLT4K</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG5nLXNob3c9ImhlbHBlci5hZGRpbmdfYWxsb3dlZCIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4teHMiIG5nLWNsaWNrPSJhZGRfbmV3KCkiPjxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXBsdXMiPjwvc3Bhbj48L2J1dHRvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAZGVjb3JhdG9ycy5kZXRhaWxfcm91dGUoKQogICAgZGVmIGdldF9yb290KHNlbGYsIHJlcXVlc3QsIHBrPU5vbmUpOgogICAgICAgIG9iaiA9IHNlbGYuZ2V0X29iamVjdCgpCgogICAgICAgIHJldHVybiByZXNwb25zZS5SZXNwb25zZSgKICAgICAgICAgICAgc2VsZi5zZXJpYWxpemVyX2NsYXNzKG9iai5nZXRfcm9vdCgpKS5kYXRhLAogICAgICAgICAgICBzdGF0dXM9c3RhdHVzLkhUVFBfMjAwX09LCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIDxkaXY+CiAgICAgICAgPGJ1dHRvbiBuZy1zaG93PSJoZWxwZXIuYWRkaW5nX2FsbG93ZWQiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLXhzIiBuZy1jbGljaz0iYWRkX25ldygpIj48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1wbHVzIj48L3NwYW4+PC9idXR0b24+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nICdmZXRjaGVkIHJvb3QnLCBjYXRlZ29yeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0LmNhdGVnb3JpZXMgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6IG51bGwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6IG51bGwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoaWxkcmVuOiBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzY29wZS50cmVlID0ge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nICdoZWxwZXInLCBzY29wZS5oZWxwZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2JqLmdldF9yb290KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nICdmZXRjaGVkIHJvb3QnLCBzY29wZS5yb290Q2F0ZWdvcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0X3Jvb3Q6ICgpIC0+CiAgICAgICAgICAgICAgICB0aGlzLiRyZXNvdXJjZXMuZ2V0X3Jvb3QuZ2V0IHtpZDogdGhpcy5pZH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cgJ2ZldGNoZWQgY2F0ZWdvcnknLCBzY29wZS5jYXRlZ29yeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>validate</last-search>
+      <last-search>visible</last-search>
       <last-offset />
-      <last-pattern>validate</last-pattern>
+      <last-pattern>visible</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1911,8 +1913,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add_new</entry>
-        <entry>resolve:</entry>
         <entry>scope.datacard_type.cate</entry>
         <entry>settings</entry>
         <entry>itCategorySh</entry>
@@ -1931,6 +1931,8 @@
         <entry>TreeCh</entry>
         <entry>console.log</entry>
         <entry>validate</entry>
+        <entry>chosenCa</entry>
+        <entry>visible</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
