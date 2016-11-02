@@ -35,9 +35,6 @@
         <mark key="." line="9" column="33" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1477949454017">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_product_attributes/model/product_feature.py" timestamp="1470130135752">
         <mark key="'" line="52" column="66" />
         <mark key="[" line="53" column="43" />
@@ -65,7 +62,7 @@
         <mark key="." line="53" column="86" />
         <mark key="^" line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/config.coffee" timestamp="1478073537110">
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/config.coffee" timestamp="1478074240851">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="34" />
         <mark key="." line="27" column="48" />
@@ -471,8 +468,8 @@
         <mark key="." line="40" column="42" />
         <mark key="^" line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1470042633598">
-        <mark key="'" line="1158" column="0" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478074201477">
+        <mark key="'" line="1063" column="0" />
         <mark key="[" line="1063" column="23" />
         <mark key="]" line="1063" column="25" />
         <mark key="." line="1063" column="25" />
@@ -1728,7 +1725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="56" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="255" column="65" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="641" column="32" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="649" column="29" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
@@ -1828,6 +1824,7 @@
       <jump line="13" column="45" filename="$USER_HOME$/Italamo/italamo/statics/partials/category/root_category_chooser.html" />
       <jump line="187" column="58" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="1063" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1866,7 +1863,7 @@
         <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text>visible</text>
+        <text>DatacardTypes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UuUmVzcG9uc2UoCiAgICAgICAgICAgIHNlbGYuc2VyaWFsaXplcl9jbGFzcyhuZXdfZGF0YWNhcmR0eXBlKS5kYXRhLAogICAgICAgICAgICBzdGF0dXM9c3RhdHVzLkhUVFBfMjAxX0NSRUFURUQKICAgICAgICApCg==</text>
@@ -1903,9 +1900,9 @@
       </register>
     </registers>
     <search>
-      <last-search>visible</last-search>
+      <last-search>DatacardTypes</last-search>
       <last-offset />
-      <last-pattern>visible</last-pattern>
+      <last-pattern>DatacardTypes</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1913,7 +1910,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scope.datacard_type.cate</entry>
         <entry>settings</entry>
         <entry>itCategorySh</entry>
         <entry>categ</entry>
@@ -1933,6 +1929,7 @@
         <entry>validate</entry>
         <entry>chosenCa</entry>
         <entry>visible</entry>
+        <entry>DatacardTypes</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
