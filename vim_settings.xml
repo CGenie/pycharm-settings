@@ -1579,8 +1579,8 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1477577380068">
-        <mark key="'" line="321" column="51" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1478079560046">
+        <mark key="'" line="276" column="37" />
         <mark key="[" line="292" column="16" />
         <mark key="]" line="292" column="16" />
         <mark key="." line="292" column="16" />
@@ -1716,7 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="54" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="108" column="8" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="120" column="37" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="199" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
@@ -1816,6 +1815,7 @@
       <jump line="44" column="71" filename="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" />
       <jump line="49" column="17" filename="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" />
       <jump line="1" column="17" filename="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" />
+      <jump line="276" column="37" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1854,7 +1854,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>category</text>
+        <text>set_order_cancel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cmVlSWRNYXBwaW5nOiB0cmVlSWRNYXBwaW5nCiAgICAgICAgY2F0ZWdvcnk6IGNhdGVnb3J5SWQK</text>
@@ -1891,9 +1891,9 @@
       </register>
     </registers>
     <search>
-      <last-search>category</last-search>
+      <last-search>set_order_cancel</last-search>
       <last-offset />
-      <last-pattern>category</last-pattern>
+      <last-pattern>set_order_cancel</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1901,7 +1901,6 @@
     </search>
     <history>
       <history-search>
-        <entry>itCategorySh</entry>
         <entry>categ</entry>
         <entry>action</entry>
         <entry>option</entry>
@@ -1921,6 +1920,7 @@
         <entry>DatacardTypes</entry>
         <entry>categoy</entry>
         <entry>category</entry>
+        <entry>set_order_cancel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
