@@ -1001,12 +1001,11 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1477560694979">
-        <mark key="'" line="31" column="51" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="111" column="60" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="51" column="58" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1478118397651">
+        <mark key="'" line="3" column="23" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/workflows.xml" timestamp="1474447303761">
         <mark key="'" line="175" column="42" />
@@ -1719,12 +1718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="17" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="749" column="6" filename="$USER_HOME$/.virtualenvs/italamo/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="59" column="33" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="372" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/migrations/0006_auto_20161031_2130.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/migrations/0005_datacardtype_category_settings.py" />
@@ -1819,6 +1812,12 @@
       <jump line="204" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="152" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
       <jump line="154" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/delivery_ups.py" />
+      <jump line="72" column="17" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="33" column="29" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="364" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="3" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1839,7 +1838,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sp</text>
+        <text encoding="base64">IHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7Ig==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1854,49 +1853,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sp</text>
+        <text encoding="base64">IHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7Ig==</text>
       </register>
       <register name="/" type="4">
-        <text>error_message</text>
+        <text encoding="base64">eDw=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yID0gJ09yZGVyczogJXNcblxuJXMnICUgKAogICAgICAgICAgICAgICAgICAgICcsICcuam9pbignJXMgW3BpY2tpbmcgJXNdJyAlIChzcC5vcmlnaW4sIHNwLm5hbWUpIGZvciBzcCBpbiBwaWNraW5ncyksCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0WydlcnJvcl9tZXNzYWdlJ10KICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj54PC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldFsnZXJyb3JfbWVzc2FnZSddID0gJ1xuXG4nLmpvaW4oWwogICAgICAgICAgICAgICAgICAgIHJldFsnZXJyb3JfbWVzc2FnZSddLAogICAgICAgICAgICAgICAgICAgIHJlcXVlc3QsCiAgICAgICAgICAgICAgICAgICAgc2hpcG1lbnQsCiAgICAgICAgICAgICAgICAgICAgbGFiZWwsCiAgICAgICAgICAgICAgICBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldFsnZXJyb3JfbWVzc2FnZSddID0gJ1xuXG4nLmpvaW4oWwogICAgICAgICAgICAgICAgICAgIHJldFsnZXJyb3JfbWVzc2FnZSddLAogICAgICAgICAgICAgICAgICAgIHJlcXVlc3QsCiAgICAgICAgICAgICAgICAgICAgc2hpcG1lbnQsCiAgICAgICAgICAgICAgICAgICAgbGFiZWwsCiAgICAgICAgICAgICAgICBdKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nICd0cmVlSWRNYXBwaW5nJywgdHJlZUlkTWFwcGluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnY2F0ZWdvcnlJZCcsICRzdGF0ZVBhcmFtcy5jYXRlZ29yeV9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nICd0cmVlSWRNYXBwaW5nJywgdHJlZUlkTWFwcGluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAndHJlZUlkTWFwcGluZzogJywgcmV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnY2F0ZWdvcnlJZCcsICRzdGF0ZVBhcmFtcy5jYXRlZ29yeV9pZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>error_message</last-search>
+      <last-search encoding="base64">eDw=</last-search>
       <last-offset />
-      <last-pattern>error_message</last-pattern>
+      <last-pattern encoding="base64">eDw=</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1904,9 +1903,6 @@
     </search>
     <history>
       <history-search>
-        <entry>detail</entry>
-        <entry>actions</entry>
-        <entry>bind_ac</entry>
         <entry>bin</entry>
         <entry>wait</entry>
         <entry>options</entry>
@@ -1924,6 +1920,9 @@
         <entry>pick_obj</entry>
         <entry>stock.move</entry>
         <entry>error_message</entry>
+        <entry>x</entry>
+        <entry encoding="base64">eD4=</entry>
+        <entry encoding="base64">eDw=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
