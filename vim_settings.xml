@@ -401,12 +401,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1477126682658">
-        <mark key="'" line="262" column="12" />
-        <mark key="[" line="262" column="12" />
-        <mark key="]" line="262" column="12" />
-        <mark key="^" line="262" column="12" />
-        <mark key="." line="262" column="12" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1478083467708">
+        <mark key="'" line="1164" column="23" />
+        <mark key="[" line="601" column="8" />
+        <mark key="]" line="603" column="8" />
+        <mark key="^" line="603" column="8" />
+        <mark key="." line="601" column="8" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/results.py" timestamp="1474025241231">
         <mark key="'" line="0" column="0" />
@@ -1716,7 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="8" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="120" column="37" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="199" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
       <jump line="16" column="4" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
@@ -1816,6 +1815,7 @@
       <jump line="49" column="17" filename="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" />
       <jump line="1" column="17" filename="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" />
       <jump line="276" column="37" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
+      <jump line="1164" column="23" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1835,8 +1835,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1851,10 +1851,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>set_order_cancel</text>
+        <text>stock.move</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cmVlSWRNYXBwaW5nOiB0cmVlSWRNYXBwaW5nCiAgICAgICAgY2F0ZWdvcnk6IGNhdGVnb3J5SWQK</text>
@@ -1891,9 +1891,9 @@
       </register>
     </registers>
     <search>
-      <last-search>set_order_cancel</last-search>
+      <last-search>stock.move</last-search>
       <last-offset />
-      <last-pattern>set_order_cancel</last-pattern>
+      <last-pattern>stock.move</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1901,8 +1901,6 @@
     </search>
     <history>
       <history-search>
-        <entry>categ</entry>
-        <entry>action</entry>
         <entry>option</entry>
         <entry>detail</entry>
         <entry>actions</entry>
@@ -1921,6 +1919,8 @@
         <entry>categoy</entry>
         <entry>category</entry>
         <entry>set_order_cancel</entry>
+        <entry>pick_obj</entry>
+        <entry>stock.move</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
