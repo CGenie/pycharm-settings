@@ -1001,12 +1001,12 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1478157187067">
-        <mark key="'" line="3" column="23" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1478162649684">
+        <mark key="'" line="104" column="39" />
         <mark key="[" line="115" column="33" />
-        <mark key="]" line="115" column="74" />
-        <mark key="." line="115" column="74" />
-        <mark key="^" line="115" column="74" />
+        <mark key="]" line="115" column="33" />
+        <mark key="." line="115" column="33" />
+        <mark key="^" line="21" column="52" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/workflows.xml" timestamp="1474447303761">
         <mark key="'" line="175" column="42" />
@@ -1710,21 +1710,15 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/account_invoice.xml" timestamp="1471892826049">
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/account_invoice.xml" timestamp="1478162499621">
         <mark key="'" line="9" column="30" />
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="35" />
-        <mark key="^" line="4" column="35" />
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="17" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/migrations/0006_auto_20161031_2130.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/migrations/0005_datacardtype_category_settings.py" />
-      <jump line="11" column="12" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="26" column="37" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="28" column="21" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="37" column="25" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/partials/datacard/edit.html" />
@@ -1816,9 +1810,15 @@
       <jump line="72" column="17" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="33" column="29" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="364" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="3" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="363" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="367" column="9" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="21" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="77" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="102" column="37" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="104" column="39" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1839,7 +1839,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNsYXNzPSJwYWdlIg==</text>
+        <text encoding="base64">IHN0eWxlPSJtYXJnaW46IDBweDsgcGFkZGluZzogMHB4OyI=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1854,49 +1854,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNsYXNzPSJwYWdlIg==</text>
+        <text encoding="base64">IHN0eWxlPSJtYXJnaW46IDBweDsgcGFkZGluZzogMHB4OyI=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">eDw=</text>
+        <text>page</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yID0gJ09yZGVyczogJXNcblxuJXMnICUgKAogICAgICAgICAgICAgICAgICAgICcsICcuam9pbignJXMgW3BpY2tpbmcgJXNdJyAlIChzcC5vcmlnaW4sIHNwLm5hbWUpIGZvciBzcCBpbiBwaWNraW5ncyksCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0WydlcnJvcl9tZXNzYWdlJ10KICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1hcmdpbl9yaWdodCI+NzwvZmllbGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj54PC9kaXY+Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPHJlY29yZCBpZD0icGFwZXJmb3JtYXRfcmVwb3J0X2ludm9pY2UiIG1vZGVsPSJyZXBvcnQucGFwZXJmb3JtYXQiPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iZHBpIj45MDwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJmb3JtYXQiPkE0PC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9ImhlYWRlcl9zcGFjaW5nIj4wPC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1hcmdpbl9ib3R0b20iPjIzPC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1hcmdpbl9sZWZ0Ij43PC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1hcmdpbl9yaWdodCI+NzwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJtYXJnaW5fdG9wIj40MDwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5SZXBvcnQgaW52b2ljZSBwYXBlciBmb3JtYXQgKEE0KTwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJvcmllbnRhdGlvbiI+UG9ydHJhaXQ8L2ZpZWxkPgogICAgICAgIDwvcmVjb3JkPgoKICAgICAgICA8cmVjb3JkIGlkPSJhY2NvdW50LmFjY291bnRfaW52b2ljZXMiIG1vZGVsPSJpci5hY3Rpb25zLnJlcG9ydC54bWwiPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0icGFwZXJmb3JtYXRfaWQiIHJlZj0icGFwZXJmb3JtYXRfcmVwb3J0X2ludm9pY2UiIC8+CiAgICAgICAgPC9yZWNvcmQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA8cmVwb3J0CiAgICAgICAgICAgIGlkPSJhY2NvdW50X2ludm9pY2VzIgogICAgICAgICAgICBtb2RlbD0iYWNjb3VudC5pbnZvaWNlIgogICAgICAgICAgICBzdHJpbmc9Ikludm9pY2VzIgogICAgICAgICAgICByZXBvcnRfdHlwZT0icXdlYi1wZGYiCiAgICAgICAgICAgIG5hbWU9ImFjY291bnQucmVwb3J0X2ludm9pY2UiCiAgICAgICAgICAgIGZpbGU9ImFjY291bnQucmVwb3J0X2ludm9pY2UiCiAgICAgICAgICAgIGF0dGFjaG1lbnRfdXNlPSJUcnVlIgogICAgICAgICAgICBhdHRhY2htZW50PSIob2JqZWN0LnN0YXRlIGluICgnb3BlbicsJ3BhaWQnKSkgYW5kICgnSU5WJysob2JqZWN0Lm51bWJlciBvciAnJykucmVwbGFjZSgnLycsJycpKycucGRmJykiCiAgICAgICAgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gUVdlYiBSZXBvcnRzIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldFsnZXJyb3JfbWVzc2FnZSddID0gJ1xuXG4nLmpvaW4oWwogICAgICAgICAgICAgICAgICAgIHJldFsnZXJyb3JfbWVzc2FnZSddLAogICAgICAgICAgICAgICAgICAgIHJlcXVlc3QsCiAgICAgICAgICAgICAgICAgICAgc2hpcG1lbnQsCiAgICAgICAgICAgICAgICAgICAgbGFiZWwsCiAgICAgICAgICAgICAgICBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1hcmdpbl9ib3R0b20iPjIzPC9maWVsZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KICAgICAgICAgICAgICAgIGJvZHkgewogICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTIwbW07CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAuY29udGFpbmVyIHsKICAgICAgICAgICAgICAgICAgICBvdmVyZmxvdzogaGlkZGVuOwogICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgPC9zdHlsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Q+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dCB0LWlmPSJzby53a19zaG9wIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nICd0cmVlSWRNYXBwaW5nJywgdHJlZUlkTWFwcGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy02IiBzdHlsZT0ibWFyZ2luOiAwcHggMHB4IDEwcHggMHB4OyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHQgdC1pZj0ic28ud2tfc2hvcCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNCB0LWZpZWxkPSJzby53a19zaG9wLm5hbWUiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnY2F0ZWdvcnlJZCcsICRzdGF0ZVBhcmFtcy5jYXRlZ29yeV9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj54PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">eDw=</last-search>
+      <last-search>page</last-search>
       <last-offset />
-      <last-pattern encoding="base64">eDw=</last-pattern>
+      <last-pattern>page</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1904,10 +1904,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bin</entry>
-        <entry>wait</entry>
-        <entry>options</entry>
-        <entry>detail_r</entry>
         <entry>treeCh</entry>
         <entry>TreeCh</entry>
         <entry>console.log</entry>
@@ -1924,6 +1920,10 @@
         <entry>x</entry>
         <entry encoding="base64">eD4=</entry>
         <entry encoding="base64">eDw=</entry>
+        <entry>paperf</entry>
+        <entry>ir.actions.report.xml</entry>
+        <entry>margin</entry>
+        <entry>page</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
