@@ -454,10 +454,10 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1478070716945">
-        <mark key="'" line="413" column="14" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="42" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1478175624697">
+        <mark key="'" line="40" column="42" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="122" column="59" />
         <mark key="." line="40" column="42" />
         <mark key="^" line="40" column="42" />
       </file>
@@ -492,12 +492,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" timestamp="1478071529473">
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" timestamp="1478175654092">
         <mark key="'" line="187" column="58" />
-        <mark key="[" line="185" column="79" />
-        <mark key="]" line="185" column="79" />
-        <mark key="." line="185" column="79" />
-        <mark key="^" line="185" column="79" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="46" column="19" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/wait.coffee" timestamp="1473155493253">
         <mark key="'" line="0" column="0" />
@@ -558,12 +558,18 @@
         <mark key="^" line="29" column="126" />
         <mark key="." line="29" column="126" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" timestamp="1477893852187">
-        <mark key="'" line="596" column="21" />
-        <mark key="[" line="603" column="16" />
-        <mark key="]" line="603" column="7" />
-        <mark key="." line="603" column="7" />
-        <mark key="^" line="603" column="7" />
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" timestamp="1478175936532">
+        <mark key="'" line="474" column="17" />
+        <mark key="[" line="614" column="56" />
+        <mark key="]" line="614" column="63" />
+        <mark key="." line="614" column="63" />
+        <mark key="^" line="614" column="63" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/migrations/0004_category_default.py" timestamp="1478175294866">
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="28" column="83" />
+        <mark key="^" line="28" column="83" />
+        <mark key="." line="28" column="83" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacard/edit.html" timestamp="1477950650780">
         <mark key="'" line="0" column="0" />
@@ -1165,6 +1171,13 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/api.py" timestamp="1478175590516">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="95" column="76" />
+        <mark key="]" line="99" column="36" />
+        <mark key="." line="99" column="36" />
+        <mark key="^" line="99" column="36" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/models/__init__.py" timestamp="1466083246019">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1326,12 +1339,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/partials/category/edit.html" timestamp="1477903360972">
-        <mark key="'" line="40" column="107" />
-        <mark key="[" line="32" column="50" />
-        <mark key="]" line="32" column="54" />
-        <mark key="^" line="32" column="54" />
-        <mark key="." line="32" column="54" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/category/edit.html" timestamp="1478175407910">
+        <mark key="'" line="49" column="107" />
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="40" />
+        <mark key="^" line="34" column="40" />
+        <mark key="." line="34" column="40" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/docker/nginx-default.conf" timestamp="1469274054980">
         <mark key="[" line="12" column="36" />
@@ -1362,6 +1375,12 @@
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/datasets/1hvm_category.json" timestamp="1478174586436">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/it-graph.html" timestamp="1475137548236">
         <mark key="[" line="0" column="4" />
@@ -1548,12 +1567,12 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478071533713">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="18" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="30" column="18" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478175191320">
+        <mark key="'" line="67" column="71" />
+        <mark key="[" line="161" column="16" />
+        <mark key="]" line="161" column="22" />
+        <mark key="^" line="161" column="22" />
+        <mark key="." line="161" column="22" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/itDatacardTypesEdit.html" timestamp="1470119875803">
         <mark key="'" line="0" column="0" />
@@ -1694,15 +1713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/partials/datacard/edit.html" />
-      <jump line="151" column="47" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
-      <jump line="98" column="20" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
-      <jump line="27" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
-      <jump line="88" column="20" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
-      <jump line="92" column="31" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
-      <jump line="112" column="8" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
       <jump line="28" column="11" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/category.coffee" />
       <jump line="27" column="21" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/category.coffee" />
       <jump line="121" column="79" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
@@ -1794,6 +1804,15 @@
       <jump line="102" column="37" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="104" column="39" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="115" column="33" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="181" column="0" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="474" column="17" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="67" column="71" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/api.py" />
+      <jump line="92" column="49" filename="$USER_HOME$/Italamo/italamo/apps/category/api.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/api.py" />
+      <jump line="97" column="18" filename="$USER_HOME$/Italamo/italamo/apps/category/api.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/api.py" />
+      <jump line="40" column="42" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1814,7 +1833,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9mcm9tID0gWwogICAgICAgICMgTVMgT2ZmaWNlCiAgICAgICAgJ2FwcGxpY2F0aW9uL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC53b3JkcHJvY2Vzc2luZ21sLmRvY3VtZW50JywKICAgICAgICAnYXBwbGljYXRpb24vdm5kLm9wZW54bWxmb3JtYXRzLW9mZmljZWRvY3VtZW50LnNwcmVhZHNoZWV0bWwuc2hlZXQnLAogICAgICAgICdhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQucHJlc2VudGF0aW9ubWwucHJlc2VudGF0aW9uJywKICAgICAgICAjIE9EVAogICAgICAgICdhcHBsaWNhdGlvbi92bmQub2FzaXMub3BlbmRvY3VtZW50LnRleHQnLAogICAgICAgICdhcHBsaWNhdGlvbi92bmQub2FzaXMub3BlbmRvY3VtZW50LnNwcmVhZHNoZWV0JywKICAgICAgICAnYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5wcmVzZW50YXRpb24nLAogICAgXQogICAgX3RvID0gJ2FwcGxpY2F0aW9uL3BkZicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0X2RlZmF1bHQ6ICgpIC0+CiAgICAgICAgICAgICAgICB0aGlzLiRyZXNvdXJjZXMuZ2V0X2RlZmF1bHQuZ2V0KCkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1829,49 +1848,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSJtYXJnaW46IDBweDsgcGFkZGluZzogMHB4OyI=</text>
+        <text encoding="base64">IHtpZDogdGhpcy5pZH0=</text>
       </register>
       <register name="/" type="4">
-        <text>page</text>
+        <text>methods =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1hcmdpbl9yaWdodCI+NzwvZmllbGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVwbGljYXRlOiAoKSAtPgogICAgICAgICAgICAgICAgdGhpcy4kcmVzb3VyY2VzLmR1cGxpY2F0ZS5zYXZlIHtpZDogdGhpcy5pZH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgPHJlY29yZCBpZD0icGFwZXJmb3JtYXRfcmVwb3J0X2ludm9pY2UiIG1vZGVsPSJyZXBvcnQucGFwZXJmb3JtYXQiPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iZHBpIj45MDwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJmb3JtYXQiPkE0PC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9ImhlYWRlcl9zcGFjaW5nIj4wPC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1hcmdpbl9ib3R0b20iPjIzPC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1hcmdpbl9sZWZ0Ij43PC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1hcmdpbl9yaWdodCI+NzwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJtYXJnaW5fdG9wIj40MDwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5SZXBvcnQgaW52b2ljZSBwYXBlciBmb3JtYXQgKEE0KTwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJvcmllbnRhdGlvbiI+UG9ydHJhaXQ8L2ZpZWxkPgogICAgICAgIDwvcmVjb3JkPgoKICAgICAgICA8cmVjb3JkIGlkPSJhY2NvdW50LmFjY291bnRfaW52b2ljZXMiIG1vZGVsPSJpci5hY3Rpb25zLnJlcG9ydC54bWwiPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0icGFwZXJmb3JtYXRfaWQiIHJlZj0icGFwZXJmb3JtYXRfcmVwb3J0X2ludm9pY2UiIC8+CiAgICAgICAgPC9yZWNvcmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0X2RlZmF1bHQ6ICgpIC0+CiAgICAgICAgICAgICAgICB0aGlzLiRyZXNvdXJjZXMuZ2V0X2RlZmF1bHQuZ2V0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA8cmVwb3J0CiAgICAgICAgICAgIGlkPSJhY2NvdW50X2ludm9pY2VzIgogICAgICAgICAgICBtb2RlbD0iYWNjb3VudC5pbnZvaWNlIgogICAgICAgICAgICBzdHJpbmc9Ikludm9pY2VzIgogICAgICAgICAgICByZXBvcnRfdHlwZT0icXdlYi1wZGYiCiAgICAgICAgICAgIG5hbWU9ImFjY291bnQucmVwb3J0X2ludm9pY2UiCiAgICAgICAgICAgIGZpbGU9ImFjY291bnQucmVwb3J0X2ludm9pY2UiCiAgICAgICAgICAgIGF0dGFjaG1lbnRfdXNlPSJUcnVlIgogICAgICAgICAgICBhdHRhY2htZW50PSIob2JqZWN0LnN0YXRlIGluICgnb3BlbicsJ3BhaWQnKSkgYW5kICgnSU5WJysob2JqZWN0Lm51bWJlciBvciAnJykucmVwbGFjZSgnLycsJycpKycucGRmJykiCiAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVwbGljYXRlOiAoKSAtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gUVdlYiBSZXBvcnRzIC0tPgo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGZpZWxkIG5hbWU9Im1hcmdpbl9ib3R0b20iPjIzPC9maWVsZD4K</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KICAgICAgICAgICAgICAgIGJvZHkgewogICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTIwbW07CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAuY29udGFpbmVyIHsKICAgICAgICAgICAgICAgICAgICBvdmVyZmxvdzogaGlkZGVuOwogICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgPC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5nLW1vZGVsPSJjYXRlZ29yeS5kZWZhdWx0IiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgc2F2ZShzZWxmLCAqYXJncywgKiprd2FyZ3MpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dCB0LWlmPSJzby53a19zaG9wIj4K</text>
+        <text encoding="base64">ICAgICAgICBAdHJhbnNhY3Rpb24uYXRvbWljCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy02IiBzdHlsZT0ibWFyZ2luOiAwcHggMHB4IDEwcHggMHB4OyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHQgdC1pZj0ic28ud2tfc2hvcCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNCB0LWZpZWxkPSJzby53a19zaG9wLm5hbWUiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RlZmF1bHQnOiAndHJ1ZScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj54PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIFsKICAgICAgImFkZF9kaXNjdXNzaW9uX3Blcm1zIiwKICAgICAgImYwYjgwZjU0OTExYzdmMWFiZTk2NWM3NGI1MDAwYTE3IgogICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>page</last-search>
+      <last-search>methods =</last-search>
       <last-offset />
-      <last-pattern>page</last-pattern>
+      <last-pattern>methods =</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1879,8 +1898,6 @@
     </search>
     <history>
       <history-search>
-        <entry>treeCh</entry>
-        <entry>TreeCh</entry>
         <entry>console.log</entry>
         <entry>validate</entry>
         <entry>chosenCa</entry>
@@ -1899,6 +1916,8 @@
         <entry>ir.actions.report.xml</entry>
         <entry>margin</entry>
         <entry>page</entry>
+        <entry>HVM</entry>
+        <entry>methods =</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
