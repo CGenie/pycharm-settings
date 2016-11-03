@@ -558,12 +558,11 @@
         <mark key="^" line="29" column="126" />
         <mark key="." line="29" column="126" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" timestamp="1478175936532">
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" timestamp="1478186054522">
         <mark key="'" line="474" column="17" />
-        <mark key="[" line="614" column="56" />
-        <mark key="]" line="614" column="63" />
-        <mark key="." line="614" column="63" />
-        <mark key="^" line="614" column="63" />
+        <mark key="[" line="609" column="0" />
+        <mark key="]" line="609" column="76" />
+        <mark key="." line="609" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/migrations/0004_category_default.py" timestamp="1478175294866">
         <mark key="[" line="27" column="10" />
@@ -1833,7 +1832,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0X2RlZmF1bHQ6ICgpIC0+CiAgICAgICAgICAgICAgICB0aGlzLiRyZXNvdXJjZXMuZ2V0X2RlZmF1bHQuZ2V0KCkK</text>
+        <text encoding="base64">ICAgIG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ2FwcHMvY2F0ZWdvcnkvZGF0YXNldHMvMWh2bV9jYXRlZ29yeS5qc29uJyksCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1857,31 +1856,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZHVwbGljYXRlOiAoKSAtPgogICAgICAgICAgICAgICAgdGhpcy4kcmVzb3VyY2VzLmR1cGxpY2F0ZS5zYXZlIHtpZDogdGhpcy5pZH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0X2RlZmF1bHQ6ICgpIC0+CiAgICAgICAgICAgICAgICB0aGlzLiRyZXNvdXJjZXMuZ2V0X2RlZmF1bHQuZ2V0KCkK</text>
+        <text encoding="base64">ICAgIG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ2FwcHMvY2F0ZWdvcnkvZGF0YXNldHMvMWh2bV9jYXRlZ29yeS5qc29uJyksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVwbGljYXRlOiAoKSAtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0X2RlZmF1bHQ6ICgpIC0+CiAgICAgICAgICAgICAgICB0aGlzLiRyZXNvdXJjZXMuZ2V0X2RlZmF1bHQuZ2V0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVwbGljYXRlOiAoKSAtPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5nLW1vZGVsPSJjYXRlZ29yeS5kZWZhdWx0IiAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgc2F2ZShzZWxmLCAqYXJncywgKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5nLW1vZGVsPSJjYXRlZ29yeS5kZWZhdWx0IiAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAdHJhbnNhY3Rpb24uYXRvbWljCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgc2F2ZShzZWxmLCAqYXJncywgKiprd2FyZ3MpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RlZmF1bHQnOiAndHJ1ZScsCg==</text>
+        <text encoding="base64">ICAgICAgICBAdHJhbnNhY3Rpb24uYXRvbWljCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFsKICAgICAgImFkZF9kaXNjdXNzaW9uX3Blcm1zIiwKICAgICAgImYwYjgwZjU0OTExYzdmMWFiZTk2NWM3NGI1MDAwYTE3IgogICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RlZmF1bHQnOiAndHJ1ZScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
