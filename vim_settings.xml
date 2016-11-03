@@ -997,8 +997,8 @@
         <mark key="." line="18" column="73" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1478164622988">
-        <mark key="'" line="115" column="33" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1478180957601">
+        <mark key="'" line="22" column="0" />
         <mark key="[" line="115" column="33" />
         <mark key="]" line="115" column="33" />
         <mark key="." line="115" column="33" />
@@ -1713,7 +1713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="11" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/category.coffee" />
       <jump line="27" column="21" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/category.coffee" />
       <jump line="121" column="79" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
       <jump line="111" column="26" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
@@ -1813,6 +1812,7 @@
       <jump line="97" column="18" filename="$USER_HOME$/Italamo/italamo/apps/category/api.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/api.py" />
       <jump line="40" column="42" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="22" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1851,7 +1851,7 @@
         <text encoding="base64">IHtpZDogdGhpcy5pZH0=</text>
       </register>
       <register name="/" type="4">
-        <text>methods =</text>
+        <text>slips</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZHVwbGljYXRlOiAoKSAtPgogICAgICAgICAgICAgICAgdGhpcy4kcmVzb3VyY2VzLmR1cGxpY2F0ZS5zYXZlIHtpZDogdGhpcy5pZH0K</text>
@@ -1888,9 +1888,9 @@
       </register>
     </registers>
     <search>
-      <last-search>methods =</last-search>
+      <last-search>slips</last-search>
       <last-offset />
-      <last-pattern>methods =</last-pattern>
+      <last-pattern>slips</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1898,8 +1898,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
-        <entry>validate</entry>
         <entry>chosenCa</entry>
         <entry>visible</entry>
         <entry>DatacardTypes</entry>
@@ -1918,6 +1916,8 @@
         <entry>page</entry>
         <entry>HVM</entry>
         <entry>methods =</entry>
+        <entry>delivery sli</entry>
+        <entry>slips</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
