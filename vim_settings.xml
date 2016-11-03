@@ -225,9 +225,9 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Italamo/converter/converters/documents.py" timestamp="1477027262868">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="57" />
+      <file name="$USER_HOME$/Italamo/converter/converters/documents.py" timestamp="1478173443565">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="19" column="26" />
         <mark key="^" line="17" column="57" />
         <mark key="." line="17" column="57" />
       </file>
@@ -1813,8 +1813,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHN0eWxlPSJtYXJnaW46IDBweDsgcGFkZGluZzogMHB4OyI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF9mcm9tID0gWwogICAgICAgICMgTVMgT2ZmaWNlCiAgICAgICAgJ2FwcGxpY2F0aW9uL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC53b3JkcHJvY2Vzc2luZ21sLmRvY3VtZW50JywKICAgICAgICAnYXBwbGljYXRpb24vdm5kLm9wZW54bWxmb3JtYXRzLW9mZmljZWRvY3VtZW50LnNwcmVhZHNoZWV0bWwuc2hlZXQnLAogICAgICAgICdhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQucHJlc2VudGF0aW9ubWwucHJlc2VudGF0aW9uJywKICAgICAgICAjIE9EVAogICAgICAgICdhcHBsaWNhdGlvbi92bmQub2FzaXMub3BlbmRvY3VtZW50LnRleHQnLAogICAgICAgICdhcHBsaWNhdGlvbi92bmQub2FzaXMub3BlbmRvY3VtZW50LnNwcmVhZHNoZWV0JywKICAgICAgICAnYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5wcmVzZW50YXRpb24nLAogICAgXQogICAgX3RvID0gJ2FwcGxpY2F0aW9uL3BkZicK</text>
       </register>
       <register name="i" type="4">
         <keys>
