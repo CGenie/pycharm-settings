@@ -1614,12 +1614,12 @@
         <mark key="." line="0" column="57" />
         <mark key="^" line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1478332013998">
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1478333164272">
         <mark key="'" line="290" column="37" />
-        <mark key="[" line="229" column="30" />
-        <mark key="]" line="232" column="26" />
-        <mark key="." line="232" column="26" />
-        <mark key="^" line="232" column="26" />
+        <mark key="[" line="412" column="61" />
+        <mark key="]" line="412" column="73" />
+        <mark key="." line="412" column="73" />
+        <mark key="^" line="412" column="73" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1477467645913">
         <mark key="[" line="32" column="0" />
@@ -1899,7 +1899,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>delivery</text>
+        <text>order_lines_data['order_lines']),</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1914,7 +1914,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>delivery</text>
+        <text>order_lines_data['order_lines']),</text>
       </register>
       <register name="/" type="4">
         <text>translate</text>
