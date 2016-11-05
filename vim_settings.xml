@@ -1614,12 +1614,12 @@
         <mark key="." line="0" column="57" />
         <mark key="^" line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1478079560046">
-        <mark key="'" line="276" column="37" />
-        <mark key="[" line="292" column="16" />
-        <mark key="]" line="292" column="16" />
-        <mark key="." line="292" column="16" />
-        <mark key="^" line="292" column="16" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1478331304917">
+        <mark key="'" line="278" column="37" />
+        <mark key="[" line="221" column="55" />
+        <mark key="]" line="221" column="55" />
+        <mark key="." line="221" column="55" />
+        <mark key="^" line="221" column="55" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/test.py" timestamp="1477467645913">
         <mark key="[" line="32" column="0" />
@@ -1899,7 +1899,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRhdGE=</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1914,7 +1914,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRhdGE=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>translate</text>
