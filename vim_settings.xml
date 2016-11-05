@@ -303,12 +303,12 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" timestamp="1478245420163">
-        <mark key="'" line="80" column="19" />
-        <mark key="[" line="77" column="43" />
-        <mark key="]" line="77" column="43" />
-        <mark key="." line="77" column="43" />
-        <mark key="^" line="77" column="43" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" timestamp="1478247001262">
+        <mark key="'" line="82" column="19" />
+        <mark key="[" line="70" column="58" />
+        <mark key="]" line="72" column="34" />
+        <mark key="." line="72" column="34" />
+        <mark key="^" line="72" column="34" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" timestamp="1473166187397">
         <mark key="'" line="5" column="5" />
@@ -1028,11 +1028,11 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="8" column="80" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/serializers.py" timestamp="1478245369912">
-        <mark key="[" line="26" column="82" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="32" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/serializers.py" timestamp="1478247047009">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="24" column="65" />
+        <mark key="." line="24" column="65" />
+        <mark key="^" line="24" column="65" />
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/templates/directives/itCategoryTreeChooserModal.html" timestamp="1470039937914">
         <mark key="'" line="18" column="68" />
@@ -1249,11 +1249,7 @@
         <mark key="^" line="64" column="60" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" timestamp="1478246001069">
-        <mark key="'" line="396" column="20" />
-        <mark key="[" line="319" column="6" />
-        <mark key="]" line="319" column="6" />
-        <mark key="." line="319" column="6" />
-        <mark key="^" line="455" column="47" />
+        <mark key="^" line="82" column="47" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/tika.sls" timestamp="1474274957894">
         <mark key="[" line="8" column="8" />
@@ -1485,9 +1481,9 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/account/views.py" timestamp="1478246207305">
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/views.py" timestamp="1478246986679">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="523" column="27" />
+        <mark key="[" line="523" column="30" />
         <mark key="]" line="523" column="29" />
         <mark key="^" line="523" column="29" />
         <mark key="." line="523" column="29" />
@@ -1662,6 +1658,13 @@
         <mark key="^" line="638" column="13" />
         <mark key="." line="114" column="30" />
       </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-left-top-menu.html" timestamp="1478247474425">
+        <mark key="'" line="16" column="80" />
+        <mark key="[" line="19" column="68" />
+        <mark key="]" line="19" column="72" />
+        <mark key="." line="19" column="72" />
+        <mark key="^" line="19" column="72" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" timestamp="1476301763783">
         <mark key="'" line="8" column="1" />
         <mark key="[" line="60" column="0" />
@@ -1750,9 +1753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
-      <jump line="21" column="34" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
-      <jump line="135" column="12" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
       <jump line="258" column="19" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
       <jump line="275" column="15" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
       <jump line="290" column="55" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
@@ -1850,27 +1850,56 @@
       <jump line="108" column="6" filename="$USER_HOME$/Italamo/italamo/apps/account/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/templates/account/tenant/success.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
+      <jump line="10" column="83" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-left-top-menu.html" />
+      <jump line="13" column="86" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-left-top-menu.html" />
+      <jump line="16" column="80" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-left-top-menu.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
           <key char="39" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="101" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
           <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
+          <key char="124" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
           <key char="114" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGRhdGE=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1885,49 +1914,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGRhdGE=</text>
       </register>
       <register name="/" type="4">
-        <text>is_active_api</text>
+        <text>translate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBbY3JlYXRlLCBkYjE2ZTdiMzAzNzg4NDVkOWI3NDZmZTliNGNhYzBjYV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBbYWRkLCBkYjE2ZTdiMzAzNzg4NDVkOWI3NDZmZTliNGNhYzBjYV0K</text>
+        <text encoding="base64">CiAgICBkZWYgdXBkYXRlKHNlbGYsIGluc3RhbmNlLCB2YWxpZGF0ZWRfZGF0YSk6CiAgICAgICAgcmV0ID0gc3VwZXIoRGF0YWNhcmRUeXBlU2VyaWFsaXplciwgc2VsZikudXBkYXRlKGluc3RhbmNlLCB2YWxpZGF0ZWRfZGF0YSkKICAgICAgICByZXQuYWRkX2RlZmF1bHRfY2F0ZWdvcnkoKQogICAgICAgIHJldHVybiByZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gc2VsZi5jb250ZXh0WydyZXF1ZXN0J10KICAgICAgICBpZiByZXF1ZXN0LnRlbmFudC50eXBlID09IHJlcXVlc3QudGVuYW50LlRZUEVfMUhWTSBhbmQgbm90IHJldC5yb290X2NhdGVnb3JpZXMuZXhpc3RzKCk6CiAgICAgICAgICAgIENhdGVnb3J5ID0gZ2V0X21vZGVsKCdjYXRlZ29yeScsICdDYXRlZ29yeScpCiAgICAgICAgICAgIGNhdGVnb3J5ID0gQ2F0ZWdvcnkuZ2V0X2RlZmF1bHQoKQogICAgICAgICAgICBpZiBjYXRlZ29yeToKICAgICAgICAgICAgICAgIHJldC5yb290X2NhdGVnb3JpZXMuYWRkKGNhdGVnb3J5KQo=</text>
+        <text encoding="base64">LSBbYWRkLCBkYjE2ZTdiMzAzNzg4NDVkOWI3NDZmZTliNGNhYzBjYV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gc2VsZi5jb250ZXh0WydyZXF1ZXN0J10KICAgICAgICBpZiByZXF1ZXN0LnRlbmFudC50eXBlID09IHJlcXVlc3QudGVuYW50LlRZUEVfMUhWTSBhbmQgbm90IHJldC5yb290X2NhdGVnb3JpZXMuZXhpc3RzKCk6CiAgICAgICAgICAgIENhdGVnb3J5ID0gZ2V0X21vZGVsKCdjYXRlZ29yeScsICdDYXRlZ29yeScpCiAgICAgICAgICAgIGNhdGVnb3J5ID0gQ2F0ZWdvcnkuZ2V0X2RlZmF1bHQoKQogICAgICAgICAgICBpZiBjYXRlZ29yeToKICAgICAgICAgICAgICAgIHJldC5yb290X2NhdGVnb3JpZXMuYWRkKGNhdGVnb3J5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgbm90IHNlbGYucm9vdF9jYXRlZ29yaWVzLmV4aXN0cygpOgogICAgICAgICAgICB0ZW5hbnQgPSBUZW5hbnQuZ2V0X2N1cnJlbnRfdGVuYW50KCkKICAgICAgICAgICAgaWYgdGVuYW50LnR5cGUgPT0gVGVuYW50LlRZUEVfMUhWTToKICAgICAgICAgICAgICAgIGNhdGVnb3J5ID0gQ2F0ZWdvcnkuZ2V0X2RlZmF1bHQoKQogICAgICAgICAgICAgICAgaWYgY2F0ZWdvcnk6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5yb290X2NhdGVnb3JpZXMuYWRkKGNhdGVnb3J5KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDYXRlZ29yeSA9IG1vZGVscy5nZXRfbW9kZWwoJ2NhdGVnb3J5JywgJ0NhdGVnb3J5JykKICAgICAgICBUZW5hbnQgPSBtb2RlbHMuZ2V0X21vZGVsKCdhY2NvdW50JywgJ1RlbmFudCcpCgo=</text>
+        <text encoding="base64">CiAgICAgICAgaWYgbm90IHNlbGYucm9vdF9jYXRlZ29yaWVzLmV4aXN0cygpOgogICAgICAgICAgICB0ZW5hbnQgPSBUZW5hbnQuZ2V0X2N1cnJlbnRfdGVuYW50KCkKICAgICAgICAgICAgaWYgdGVuYW50LnR5cGUgPT0gVGVuYW50LlRZUEVfMUhWTToKICAgICAgICAgICAgICAgIGNhdGVnb3J5ID0gQ2F0ZWdvcnkuZ2V0X2RlZmF1bHQoKQogICAgICAgICAgICAgICAgaWYgY2F0ZWdvcnk6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5yb290X2NhdGVnb3JpZXMuYWRkKGNhdGVnb3J5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBDYXRlZ29yeSA9IG1vZGVscy5nZXRfbW9kZWwoJ2NhdGVnb3J5JywgJ0NhdGVnb3J5JykKICAgICAgICBUZW5hbnQgPSBtb2RlbHMuZ2V0X21vZGVsKCdhY2NvdW50JywgJ1RlbmFudCcpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAkc2NvcGUuZGF0YWNhcmQK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIGRlZiBjcmVhdGUoc2VsZiwgdmFsaWRhdGVkX2RhdGEpOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAkc2NvcGUuZGF0YWNhcmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ2FkZGluZyBjYXRlZ29yeScpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIGRlZiBjcmVhdGUoc2VsZiwgdmFsaWRhdGVkX2RhdGEpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>is_active_api</last-search>
+      <last-search>translate</last-search>
       <last-offset />
-      <last-pattern>is_active_api</last-pattern>
+      <last-pattern>translate</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1935,7 +1964,6 @@
     </search>
     <history>
       <history-search>
-        <entry>content_type</entry>
         <entry>2e44f</entry>
         <entry>f08</entry>
         <entry>51a63</entry>
@@ -1955,6 +1983,7 @@
         <entry>def is_active</entry>
         <entry>is_active</entry>
         <entry>is_active_api</entry>
+        <entry>translate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
