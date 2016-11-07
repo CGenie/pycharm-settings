@@ -1606,12 +1606,12 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478242900669">
-        <mark key="'" line="165" column="22" />
-        <mark key="[" line="80" column="25" />
-        <mark key="]" line="81" column="59" />
-        <mark key="^" line="81" column="59" />
-        <mark key="." line="81" column="59" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478502829030">
+        <mark key="'" line="158" column="8" />
+        <mark key="[" line="160" column="32" />
+        <mark key="]" line="160" column="69" />
+        <mark key="^" line="160" column="69" />
+        <mark key="." line="160" column="69" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/itDatacardTypesEdit.html" timestamp="1478241252541">
         <mark key="'" line="0" column="0" />
@@ -1685,8 +1685,8 @@
         <mark key="^" line="69" column="172" />
         <mark key="." line="69" column="155" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" timestamp="1478244177259">
-        <mark key="'" line="50" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" timestamp="1478502682415">
+        <mark key="'" line="57" column="46" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="53" column="22" />
         <mark key="." line="35" column="31" />
@@ -1759,15 +1759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="0" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
-      <jump line="20" column="6" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
-      <jump line="3" column="3" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="46" column="2" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="194" column="2" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="167" column="2" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="1" column="11" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="333" column="16" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
-      <jump line="28" column="11" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
       <jump line="29" column="55" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
       <jump line="33" column="8" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
       <jump line="35" column="8" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
@@ -1859,6 +1850,15 @@
       <jump line="569" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="587" column="18" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="645" column="27" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="40" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
+      <jump line="47" column="43" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
+      <jump line="48" column="8" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
+      <jump line="49" column="8" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
+      <jump line="51" column="32" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
+      <jump line="57" column="46" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
+      <jump line="3" column="23" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="158" column="8" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1905,7 +1905,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>datacardtype</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1920,10 +1920,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>datacardtype</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\/category</text>
+        <text>get_ca</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FjaGU6IGZhbHNlCg==</text>
@@ -1960,9 +1960,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\/category</last-search>
+      <last-search>get_ca</last-search>
       <last-offset />
-      <last-pattern>\/category</last-pattern>
+      <last-pattern>get_ca</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1970,8 +1970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pk: 2</entry>
-        <entry>pk: 1</entry>
         <entry>object_id</entry>
         <entry>document.collec</entry>
         <entry>itData</entry>
@@ -1990,6 +1988,8 @@
         <entry>tenant.case.category</entry>
         <entry>case.discu</entry>
         <entry>\/category</entry>
+        <entry>tree</entry>
+        <entry>get_ca</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
