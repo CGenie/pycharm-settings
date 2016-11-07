@@ -455,11 +455,12 @@
         <mark key="]" line="437" column="0" />
         <mark key="." line="437" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478499610136">
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478502449347">
         <mark key="'" line="1064" column="13" />
-        <mark key="[" line="1070" column="0" />
-        <mark key="]" line="1070" column="0" />
-        <mark key="." line="1070" column="0" />
+        <mark key="[" line="1071" column="19" />
+        <mark key="]" line="1071" column="19" />
+        <mark key="." line="1071" column="19" />
+        <mark key="^" line="1071" column="19" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/edit.html" timestamp="1478067320887">
         <mark key="'" line="0" column="0" />
@@ -592,11 +593,11 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/models.coffee" timestamp="1478498506280">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="20" />
-        <mark key="^" line="161" column="46" />
-        <mark key="." line="161" column="20" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/models.coffee" timestamp="1478502336822">
+        <mark key="[" line="159" column="12" />
+        <mark key="]" line="159" column="18" />
+        <mark key="^" line="159" column="18" />
+        <mark key="." line="159" column="18" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/base.html" timestamp="1471888795175">
         <mark key="[" line="4" column="18" />
@@ -809,12 +810,11 @@
         <mark key="." line="72" column="39" />
         <mark key="^" line="72" column="39" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" timestamp="1478499500765">
-        <mark key="'" line="567" column="20" />
-        <mark key="[" line="617" column="0" />
-        <mark key="]" line="617" column="24" />
-        <mark key="." line="585" column="49" />
-        <mark key="^" line="585" column="49" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" timestamp="1478502353910">
+        <mark key="'" line="645" column="27" />
+        <mark key="[" line="581" column="0" />
+        <mark key="]" line="581" column="0" />
+        <mark key="." line="581" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-edit-datacard.html" timestamp="1469792362662">
         <mark key="[" line="17" column="20" />
@@ -1488,11 +1488,11 @@
         <mark key="^" line="523" column="29" />
         <mark key="." line="523" column="29" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category.html" timestamp="1478499002522">
-        <mark key="[" line="20" column="99" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="31" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category.html" timestamp="1478502590486">
+        <mark key="[" line="24" column="87" />
+        <mark key="]" line="24" column="89" />
+        <mark key="." line="24" column="89" />
+        <mark key="^" line="24" column="89" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/utils.py" timestamp="1474028081031">
         <mark key="'" line="0" column="0" />
@@ -1759,13 +1759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="6" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
-      <jump line="172" column="23" filename="$USER_HOME$/Italamo/italamo/apps/account/tasks.py" />
-      <jump line="23" column="1" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
-      <jump line="343" column="19" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
-      <jump line="7" column="24" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
-      <jump line="347" column="63" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
       <jump line="329" column="0" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
       <jump line="20" column="6" filename="$USER_HOME$/Italamo/italamo/lib/datafactory/utils.py" />
       <jump line="3" column="3" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
@@ -1859,6 +1852,13 @@
       <jump line="607" column="9" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="586" column="50" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="567" column="20" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="563" column="20" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="121" column="38" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="127" column="38" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="408" column="23" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="569" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="587" column="18" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="645" column="27" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1904,8 +1904,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text>datacardtype</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1920,49 +1920,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>datacardtype</text>
       </register>
       <register name="/" type="4">
-        <text>tenant.case.category</text>
+        <text>\/category</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FjaGU6IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVpLXNyZWY9ImFwcC50ZW5hbnQuY2FzZS5jYXRlZ29yeSh7Y2F0ZWdvcnlfaWQ6IGNoaWxkfSkiPnt7IGRhdGFjYXJkdHlwZS5uYW1lIH19PC9pb24taXRlbT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKGN1c3RvbWVyX2FkZHJlc3NfZGF0YSwgY29udGV4dCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyBuby1wYWRkaW5nIj4KICAgICAgICAgICAgICAgICAgICB7eyBjYXRlZ29yeS5uYW1lIH19CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgdXBkYXRlKHNlbGYsIGluc3RhbmNlLCB2YWxpZGF0ZWRfZGF0YSk6CiAgICAgICAgcmV0ID0gc3VwZXIoRGF0YWNhcmRUeXBlU2VyaWFsaXplciwgc2VsZikudXBkYXRlKGluc3RhbmNlLCB2YWxpZGF0ZWRfZGF0YSkKICAgICAgICByZXQuYWRkX2RlZmF1bHRfY2F0ZWdvcnkoKQogICAgICAgIHJldHVybiByZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBbYWRkLCBkYjE2ZTdiMzAzNzg4NDVkOWI3NDZmZTliNGNhYzBjYV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGNhdGVnb3J5Lm5hbWUgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ID0gc2VsZi5jb250ZXh0WydyZXF1ZXN0J10KICAgICAgICBpZiByZXF1ZXN0LnRlbmFudC50eXBlID09IHJlcXVlc3QudGVuYW50LlRZUEVfMUhWTSBhbmQgbm90IHJldC5yb290X2NhdGVnb3JpZXMuZXhpc3RzKCk6CiAgICAgICAgICAgIENhdGVnb3J5ID0gZ2V0X21vZGVsKCdjYXRlZ29yeScsICdDYXRlZ29yeScpCiAgICAgICAgICAgIGNhdGVnb3J5ID0gQ2F0ZWdvcnkuZ2V0X2RlZmF1bHQoKQogICAgICAgICAgICBpZiBjYXRlZ29yeToKICAgICAgICAgICAgICAgIHJldC5yb290X2NhdGVnb3JpZXMuYWRkKGNhdGVnb3J5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgbm90IHNlbGYucm9vdF9jYXRlZ29yaWVzLmV4aXN0cygpOgogICAgICAgICAgICB0ZW5hbnQgPSBUZW5hbnQuZ2V0X2N1cnJlbnRfdGVuYW50KCkKICAgICAgICAgICAgaWYgdGVuYW50LnR5cGUgPT0gVGVuYW50LlRZUEVfMUhWTToKICAgICAgICAgICAgICAgIGNhdGVnb3J5ID0gQ2F0ZWdvcnkuZ2V0X2RlZmF1bHQoKQogICAgICAgICAgICAgICAgaWYgY2F0ZWdvcnk6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5yb290X2NhdGVnb3JpZXMuYWRkKGNhdGVnb3J5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FjaGU6IGZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDYXRlZ29yeSA9IG1vZGVscy5nZXRfbW9kZWwoJ2NhdGVnb3J5JywgJ0NhdGVnb3J5JykKICAgICAgICBUZW5hbnQgPSBtb2RlbHMuZ2V0X21vZGVsKCdhY2NvdW50JywgJ1RlbmFudCcpCgo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKGN1c3RvbWVyX2FkZHJlc3NfZGF0YSwgY29udGV4dCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tenant.case.category</last-search>
+      <last-search>\/category</last-search>
       <last-offset />
-      <last-pattern>tenant.case.category</last-pattern>
+      <last-pattern>\/category</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1970,8 +1970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>6fbfd</entry>
-        <entry>af806</entry>
         <entry>pk: 2</entry>
         <entry>pk: 1</entry>
         <entry>object_id</entry>
@@ -1990,6 +1988,8 @@
         <entry>CaseDatacardFil</entry>
         <entry>state</entry>
         <entry>tenant.case.category</entry>
+        <entry>case.discu</entry>
+        <entry>\/category</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
