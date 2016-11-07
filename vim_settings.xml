@@ -455,12 +455,11 @@
         <mark key="]" line="437" column="0" />
         <mark key="." line="437" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478503059523">
-        <mark key="'" line="1064" column="13" />
-        <mark key="[" line="1075" column="39" />
-        <mark key="]" line="1076" column="39" />
-        <mark key="." line="1076" column="39" />
-        <mark key="^" line="1076" column="39" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478505556568">
+        <mark key="'" line="1139" column="17" />
+        <mark key="[" line="1176" column="0" />
+        <mark key="]" line="1176" column="0" />
+        <mark key="." line="1176" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/edit.html" timestamp="1478067320887">
         <mark key="'" line="0" column="0" />
@@ -724,6 +723,10 @@
         <mark key="." line="4" column="75" />
         <mark key="^" line="3" column="68" />
       </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-datacardtype-datacards.html" timestamp="1478503136692">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="69" column="17" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/document/api.py" timestamp="1476336965841">
         <mark key="'" line="32" column="54" />
         <mark key="[" line="139" column="75" />
@@ -796,6 +799,13 @@
         <mark key="^" line="11" column="52" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-datacards-left-menu.html" timestamp="1478504494624">
+        <mark key="'" line="10" column="64" />
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="47" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" timestamp="1476809672257">
         <mark key="'" line="15" column="42" />
         <mark key="[" line="44" column="46" />
@@ -810,17 +820,19 @@
         <mark key="." line="72" column="39" />
         <mark key="^" line="72" column="39" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" timestamp="1478502353910">
-        <mark key="'" line="645" column="27" />
-        <mark key="[" line="581" column="0" />
-        <mark key="]" line="581" column="0" />
-        <mark key="." line="581" column="0" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" timestamp="1478506182414">
+        <mark key="'" line="578" column="33" />
+        <mark key="[" line="599" column="49" />
+        <mark key="]" line="599" column="49" />
+        <mark key="^" line="596" column="56" />
+        <mark key="." line="599" column="56" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-edit-datacard.html" timestamp="1469792362662">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="93" />
-        <mark key="." line="17" column="93" />
-        <mark key="^" line="17" column="93" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-edit-datacard.html" timestamp="1478505444999">
+        <mark key="'" line="17" column="92" />
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/tika/init.sls" timestamp="1473933829895">
         <mark key="'" line="7" column="44" />
@@ -1080,6 +1092,12 @@
         <mark key="." line="23" column="45" />
         <mark key="^" line="23" column="45" />
       </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category-datacards.html" timestamp="1478506252806">
+        <mark key="[" line="33" column="51" />
+        <mark key="]" line="33" column="63" />
+        <mark key="^" line="33" column="63" />
+        <mark key="." line="33" column="63" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_product_attributes/view/prestashop_bridge_product_attributes_view.xml" timestamp="1470130672309">
         <mark key="[" line="18" column="70" />
         <mark key="]" line="18" column="70" />
@@ -1196,6 +1214,13 @@
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
       </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/directives.coffee" timestamp="1478505648937">
+        <mark key="'" line="817" column="13" />
+        <mark key="[" line="862" column="8" />
+        <mark key="]" line="862" column="8" />
+        <mark key="^" line="862" column="8" />
+        <mark key="." line="862" column="8" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/crm_claim_workflow.xml" timestamp="1478083763572">
         <mark key="[" line="27" column="26" />
         <mark key="]" line="27" column="29" />
@@ -1247,9 +1272,6 @@
         <mark key="]" line="64" column="60" />
         <mark key="." line="64" column="60" />
         <mark key="^" line="64" column="60" />
-      </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" timestamp="1478246001069">
-        <mark key="^" line="82" column="47" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/tika.sls" timestamp="1474274957894">
         <mark key="[" line="8" column="8" />
@@ -1488,11 +1510,11 @@
         <mark key="^" line="523" column="29" />
         <mark key="." line="523" column="29" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category.html" timestamp="1478502990952">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="29" column="111" />
-        <mark key="." line="29" column="111" />
-        <mark key="^" line="29" column="111" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category.html" timestamp="1478505986587">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="24" column="55" />
+        <mark key="." line="24" column="55" />
+        <mark key="^" line="24" column="55" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/utils.py" timestamp="1474028081031">
         <mark key="'" line="0" column="0" />
@@ -1540,11 +1562,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="77" column="88" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/templates/directives/itCategoryChooser.html" timestamp="1469793186244">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/directives/itCategoryChooser.html" timestamp="1478504888718">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="4" column="47" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/README.md" timestamp="1469274182443">
         <mark key="[" line="85" column="29" />
@@ -1664,12 +1687,12 @@
         <mark key="^" line="638" column="13" />
         <mark key="." line="114" column="30" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-left-top-menu.html" timestamp="1478499429349">
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-left-top-menu.html" timestamp="1478503562157">
         <mark key="'" line="16" column="80" />
-        <mark key="[" line="18" column="61" />
-        <mark key="]" line="18" column="61" />
-        <mark key="." line="18" column="61" />
-        <mark key="^" line="6" column="90" />
+        <mark key="[" line="6" column="67" />
+        <mark key="]" line="6" column="76" />
+        <mark key="." line="6" column="76" />
+        <mark key="^" line="6" column="76" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/inherited_models.py" timestamp="1476301763783">
         <mark key="'" line="8" column="1" />
@@ -1692,8 +1715,8 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" timestamp="1478076799711">
-        <mark key="'" line="1" column="17" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" timestamp="1478504664575">
+        <mark key="'" line="54" column="0" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
@@ -1759,40 +1782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="55" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="33" column="8" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="35" column="8" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="37" column="8" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="39" column="8" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="41" column="8" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="206" column="2" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="43" column="8" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="30" column="11" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="31" column="58" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="364" column="8" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="166" column="4" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="371" column="4" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="84" column="4" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="117" column="4" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="199" column="4" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="208" column="47" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="295" column="44" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="397" column="43" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="457" column="38" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="48" column="45" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="54" column="47" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="87" column="39" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="202" column="48" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="204" column="29" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="170" column="24" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="211" column="2" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="296" column="24" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="297" column="11" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="398" column="24" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="399" column="11" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="458" column="24" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/lib/scheduler/tasks.py" />
       <jump line="50" column="50" filename="$USER_HOME$/Italamo/italamo/lib/scheduler/tasks.py" />
       <jump line="9" column="23" filename="$USER_HOME$/Italamo/italamo/lib/scheduler/tasks.py" />
       <jump line="121" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
@@ -1859,6 +1848,40 @@
       <jump line="3" column="23" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="158" column="8" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="1076" column="39" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="1136" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="1145" column="27" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="1203" column="135" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="590" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="597" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="616" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="677" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="713" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="797" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="228" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="416" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="434" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="502" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="520" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="543" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="1157" column="12" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="654" column="13" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="1069" column="48" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="1102" column="14" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="1097" column="13" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="1126" column="13" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="1176" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="1075" column="13" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="1144" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="10" column="64" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-datacards-left-menu.html" />
+      <jump line="54" column="0" filename="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" />
+      <jump line="871" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/directives.coffee" />
+      <jump line="17" column="92" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-edit-datacard.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/caretakers/www/templates/directives/itCategoryChooser.html" />
+      <jump line="865" column="48" filename="$USER_HOME$/Italamo/caretakers/www/js/directives.coffee" />
+      <jump line="819" column="36" filename="$USER_HOME$/Italamo/caretakers/www/js/directives.coffee" />
+      <jump line="817" column="13" filename="$USER_HOME$/Italamo/caretakers/www/js/directives.coffee" />
+      <jump line="578" column="33" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1905,7 +1928,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>datacardtype.categories</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1920,49 +1943,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>datacardtype.categories</text>
       </register>
       <register name="/" type="4">
-        <text>get_ca</text>
+        <text>case-datacardtype-da</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGU6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cgJ2NhdGVnb3J5JywgY2F0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVpLXNyZWY9ImFwcC50ZW5hbnQuY2FzZS5jYXRlZ29yeSh7Y2F0ZWdvcnlfaWQ6IGNoaWxkfSkiPnt7IGRhdGFjYXJkdHlwZS5uYW1lIH19PC9pb24taXRlbT4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyBuby1wYWRkaW5nIj4KICAgICAgICAgICAgICAgICAgICB7eyBjYXRlZ29yeS5uYW1lIH19CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGNhdGVnb3J5Lm5hbWUgfX0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGU6IGZhbHNlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnZ2V0dGluZyBjYXRlZ29yeScK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0ID0gQ2F0ZWdvcnkuZ2V0X2RlZmF1bHQoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjYXRlZ29yeVNldHRpbmdzOiAnPScK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICRzY29wZS5kYXRhY2FyZHR5cGUgPSBkYXRhY2FyZHR5cGUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgLnN0YXRlICdhcHAudGVuYW50LmNhc2UuZGF0YWNhcmR0eXBlLmNhdGVnb3J5LmRhdGFjYXJkcycsCiAgICAgICAgICAgIHVybDogJy9kYXRhY2FyZHMnCiAgICAgICAgICAgIGNhY2hlOiBmYWxzZQogICAgICAgICAgICB2aWV3czoKICAgICAgICAgICAgICAgIGRhdGFjYXJkVHlwZUNhdGVnb3J5Q29udGVudDoKICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZVVybDogJ3RlbXBsYXRlcy9jYXNlLWRhdGFjYXJkdHlwZS1kYXRhY2FyZHMuaHRtbCcKICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVyOiAnQ2FzZURhdGFjYXJkVHlwZURhdGFjYXJkc0NvbnRyb2xsZXInCiAgICAgICAgICAgICAgICAnbGVmdFNpZGViYXJUb3BDb250ZW50QGFwcCc6CiAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVVcmw6ICd0ZW1wbGF0ZXMvY2FzZS1kYXRhY2FyZHR5cGUtZGF0YWNhcmRzLWxlZnQtbWVudS5odG1sJwogICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXI6ICdDYXNlRGF0YWNhcmRUeXBlRGF0YWNhcmRzTGVmdE1lbnVDb250cm9sbGVyJwogICAgICAgICAgICAgICAgJ3JpZ2h0U2lkZWJhckNvbnRlbnRAYXBwJzoKICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZVVybDogJ3RlbXBsYXRlcy9maWx0ZXItc29ydC1yaWdodC1tZW51Lmh0bWwnCiAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcjogJ0Nhc2VEYXRhY2FyZFR5cGVEYXRhY2FyZHNGaWx0ZXJTb3J0JwogICAgICAgICAgICByZXNvbHZlOgogICAgICAgICAgICAgICAgZmlsdGVyX3NvcnQ6IFsnRmlsdGVyU29ydCcsICdEYXRhY2FyZCcsIChGaWx0ZXJTb3J0LCBEYXRhY2FyZCkgLT4KICAgICAgICAgICAgICAgICAgICBGaWx0ZXJTb3J0CiAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsOiBEYXRhY2FyZAogICAgICAgICAgICAgICAgICAgICAgICBoYW5kbGVyOiAnc2ltcGxlJwogICAgICAgICAgICAgICAgXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CgouY29udHJvbGxlciAnQ2FzZURhdGFjYXJkc0ZpbHRlclNvcnQnLCBbJyRzY29wZScsICdmaWx0ZXJfc29ydCcsICgkc2NvcGUsIGZpbHRlcl9zb3J0KSAtPgogICAgJHNjb3BlLmZpbHRlcl9zb3J0ID0gZmlsdGVyX3NvcnQKXQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgouY29udHJvbGxlciAnQ2FzZURhdGFjYXJkc0ZpbHRlclNvcnQnLCBbJyRzY29wZScsICdmaWx0ZXJfc29ydCcsICgkc2NvcGUsIGZpbHRlcl9zb3J0KSAtPgogICAgJHNjb3BlLmZpbHRlcl9zb3J0ID0gZmlsdGVyX3NvcnQKXQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKGN1c3RvbWVyX2FkZHJlc3NfZGF0YSwgY29udGV4dCkpCg==</text>
+        <text encoding="base64">CgouY29udHJvbGxlciAnQ2FzZURhdGFjYXJkVHlwZUNhdGVnb3J5Q2hvb3NlckNvbnRyb2xsZXInLCBbJyRzdGF0ZScsICckc2NvcGUnLCAnZGF0YWNhcmR0eXBlJywgJ3RyZWVJZE1hcHBpbmcnLCAnY2F0ZWdvcnlJZCcsICckaW9uaWNIaXN0b3J5JywgKCRzdGF0ZSwgJHNjb3BlLCBkYXRhY2FyZHR5cGUsIHRyZWVJZE1hcHBpbmcsIGNhdGVnb3J5SWQsICRpb25pY0hpc3RvcnkpIC0+CiAgICAkc2NvcGUuZGF0YWNhcmR0eXBlID0gZGF0YWNhcmR0eXBlCiAgICAgICAgCiAgICAkc2NvcGUuaGVscGVyID0KICAgICAgICB0cmVlSWRNYXBwaW5nOiB0cmVlSWRNYXBwaW5nCiAgICAgICAgY2F0ZWdvcnk6IGNhdGVnb3J5SWQKCiAgICAkc2NvcGUuZ29fYmFjayA9ICgpIC0+CiAgICAgICAgYnYgPSAkaW9uaWNIaXN0b3J5LmJhY2tWaWV3KCkKICAgICAgICAkc3RhdGUuZ28oYnYuc3RhdGVOYW1lLCBidi5zdGF0ZVBhcmFtcywgeydyZWxvYWQnOiB0cnVlLCAnaW5oZXJpdCc6IGZhbHNlfSkKCiAgICAkc2NvcGUuc2hvd0RhdGFjYXJkcyA9IChjYXRlZ29yeSkgLT4KICAgICAgICAkc3RhdGUuZ28gJ2FwcC50ZW5hbnQuY2FzZS5kYXRhY2FyZHR5cGUuY2F0ZWdvcnkuZGF0YWNhcmRzJywKICAgICAgICAgICAgY2F0ZWdvcnlfaWQ6IGNhdGVnb3J5LmlkCgogICAgJHNjb3BlLnNlbGVjdCA9IChjYXRlZ29yeSkgLT4KICAgICAgICBpZiBjYXRlZ29yeS5jaGlsZHJlbi5sZW5ndGggPiAwCiAgICAgICAgICAgICRzdGF0ZS5nbyAnYXBwLnRlbmFudC5jYXNlLmRhdGFjYXJkdHlwZS5jYXRlZ29yeScsCiAgICAgICAgICAgICAgICBjYXRlZ29yeV9pZDogY2F0ZWdvcnkuaWQKICAgICAgICBlbHNlCiAgICAgICAgICAgICRzY29wZS5zaG93RGF0YWNhcmRzIGNhdGVnb3J5Cl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_ca</last-search>
+      <last-search>case-datacardtype-da</last-search>
       <last-offset />
-      <last-pattern>get_ca</last-pattern>
+      <last-pattern>case-datacardtype-da</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1970,29 +1993,28 @@
     </search>
     <history>
       <history-search>
-        <entry>object_id</entry>
-        <entry>document.collec</entry>
-        <entry>itData</entry>
-        <entry>create_case</entry>
-        <entry>detail</entry>
-        <entry>\.save</entry>
-        <entry>exist</entry>
-        <entry>ret</entry>
+        <entry>currentD</entry>
+        <entry>datacardt</entry>
+        <entry>rightSidebarContent</entry>
+        <entry>HomeContr</entry>
+        <entry>CaseCategoryC</entry>
+        <entry>CaseDatacardTypeC</entry>
+        <entry>CaseDatacardTypeDatac</entry>
+        <entry>categoryId</entry>
+        <entry>CaseDatacardTypes</entry>
+        <entry>CaseDatacards</entry>
+        <entry>CaseDatacardT</entry>
         <entry>datacardtype</entry>
-        <entry>def is_active</entry>
-        <entry>is_active</entry>
-        <entry>is_active_api</entry>
-        <entry>translate</entry>
-        <entry>CaseDatacardFil</entry>
-        <entry>state</entry>
-        <entry>tenant.case.category</entry>
-        <entry>case.discu</entry>
-        <entry>\/category</entry>
-        <entry>tree</entry>
-        <entry>get_ca</entry>
+        <entry>max_categories_to</entry>
+        <entry>max_ca</entry>
+        <entry>addingAll</entry>
+        <entry>it-category-ch</entry>
+        <entry>it-cate</entry>
+        <entry>must_choo</entry>
+        <entry>itCategoryTreeMod</entry>
+        <entry>case-datacardtype-da</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>S</entry>
         <entry>s</entry>
         <entry>a</entry>
@@ -2011,6 +2033,7 @@
         <entry encoding="base64">JzwsJz5zL1x0LyAgICAvZw==</entry>
         <entry>set ignorecase smartcase</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
