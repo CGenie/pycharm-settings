@@ -455,12 +455,12 @@
         <mark key="]" line="437" column="0" />
         <mark key="." line="437" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478502449347">
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478503059523">
         <mark key="'" line="1064" column="13" />
-        <mark key="[" line="1071" column="19" />
-        <mark key="]" line="1071" column="19" />
-        <mark key="." line="1071" column="19" />
-        <mark key="^" line="1071" column="19" />
+        <mark key="[" line="1075" column="39" />
+        <mark key="]" line="1076" column="39" />
+        <mark key="." line="1076" column="39" />
+        <mark key="^" line="1076" column="39" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/edit.html" timestamp="1478067320887">
         <mark key="'" line="0" column="0" />
@@ -1488,11 +1488,11 @@
         <mark key="^" line="523" column="29" />
         <mark key="." line="523" column="29" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category.html" timestamp="1478502590486">
-        <mark key="[" line="24" column="87" />
-        <mark key="]" line="24" column="89" />
-        <mark key="." line="24" column="89" />
-        <mark key="^" line="24" column="89" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category.html" timestamp="1478502990952">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="29" column="111" />
+        <mark key="." line="29" column="111" />
+        <mark key="^" line="29" column="111" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/utils.py" timestamp="1474028081031">
         <mark key="'" line="0" column="0" />
