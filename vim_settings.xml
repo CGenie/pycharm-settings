@@ -150,12 +150,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478540829299">
-        <mark key="'" line="368" column="36" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="368" column="36" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478543030862">
+        <mark key="'" line="510" column="56" />
+        <mark key="[" line="510" column="57" />
+        <mark key="]" line="510" column="84" />
+        <mark key="." line="510" column="84" />
+        <mark key="^" line="510" column="84" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/static/src/js/case.coffee" timestamp="1473683839087">
         <mark key="[" line="19" column="0" />
@@ -1759,18 +1759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="20" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="373" column="20" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="396" column="20" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/api.py" />
-      <jump line="108" column="6" filename="$USER_HOME$/Italamo/italamo/apps/account/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/templates/account/tenant/success.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
-      <jump line="10" column="83" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-left-top-menu.html" />
-      <jump line="13" column="86" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-left-top-menu.html" />
-      <jump line="16" column="80" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-left-top-menu.html" />
-      <jump line="1064" column="13" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
-      <jump line="580" column="57" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="588" column="9" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="607" column="9" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="586" column="50" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
@@ -1842,7 +1830,6 @@
       <jump line="394" column="21" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="395" column="46" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="413" column="24" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="2" column="7" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="7" column="25" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
@@ -1859,6 +1846,19 @@
       <jump line="140" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="368" column="36" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="138" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="531" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="47" column="16" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="401" column="28" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="80" column="9" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="411" column="48" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="416" column="32" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="515" column="40" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="565" column="20" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="445" column="23" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="434" column="27" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="403" column="8" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="510" column="56" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1904,8 +1904,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgpkZWYgbWluX2Nsb3NlZF9vbigpOgogICAgQ2FzZSA9IG1vZGVscy5nZXRfbW9kZWwoJ2Nhc2UnLCAnQ2FzZScpCgogICAgY2FzZSA9IENhc2Uub2JqZWN0cy5maWx0ZXIoY2xvc2VkX29uX19pc251bGw9RmFsc2UpLm9yZGVyX2J5KCdjbG9zZWRfb24nKS5maXJzdCgpCgogICAgaWYgY2FzZToKICAgICAgICByZXR1cm4gY2FzZS5jcmVhdGVkX29uLmRhdGUoKQoKICAgIHJldHVybiBkYXRldGltZS5kYXRlKDE5NzAsIDEsIDEpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICsgMQ==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1920,60 +1920,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_on</text>
+        <text encoding="base64">ICsgMQ==</text>
       </register>
       <register name="/" type="4">
-        <text>min_clo</text>
+        <text>_compute_per</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IGRhdGVwYXJzZSwgdGltZXpvbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpkZWYgbWluX2Nsb3NlZF9vbigpOgogICAgQ2FzZSA9IG1vZGVscy5nZXRfbW9kZWwoJ2Nhc2UnLCAnQ2FzZScpCgogICAgY2FzZSA9IENhc2Uub2JqZWN0cy5maWx0ZXIoY2xvc2VkX29uX19pc251bGw9RmFsc2UpLm9yZGVyX2J5KCdjbG9zZWRfb24nKS5maXJzdCgpCgogICAgaWYgY2FzZToKICAgICAgICByZXR1cm4gY2FzZS5jcmVhdGVkX29uLmRhdGUoKQoKICAgIHJldHVybiBkYXRldGltZS5kYXRlKDE5NzAsIDEsIDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRlIGZpbHRlcicsIGZpbHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRlIGZpbHRlcicsIGZpbHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5xdWVyeXNldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRlIGZpbHRlcicsIGZpbHRlcik7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcXMgPSBzZWxmLl9maWx0ZXJfcXVlcnlzZXQoKS5vcmRlcl9ieSgnJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IGRhdGVwYXJzZSwgdGltZXpvbmUK</text>
+        <text encoding="base64">ICAgIAogICAgZGVmIF9maWx0ZXJfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgaW50ZXJuYWxfZmlsdGVycyA9IHNlbGYuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2dyb3VwX3F1ZXJ5KHNlbGYsIHBhcmFtcyk6CiAgICAgICAgcXMgPSBzZWxmLl9nZXRfc3Vic3RhdGVzX3FzKHBhcmFtcykKICAgICAgICBhZ2dzID0gc2VsZi5fZ2V0X2FnZ3MocGFyYW1zKQoKICAgICAgICByZXR1cm4gc2VsZi5xdWVyeXNldC5hbm5vdGF0ZSgqKnFzKS5hZ2dyZWdhdGUoKiphZ2dzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hlbHAnOiAnU3RhcnQgb2YgcGVyaW9kIHdoZW4gZmlsdGVyaW5nIGNhc2UgY2xvc2luZyBkYXRlJywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hlbHAnOiAnRW5kIG9mIHBlcmlvZCB3aGVuIGZpbHRlcmluZyBjYXNlIGNsb3NpbmcgZGF0ZScsCg==</text>
+        <text encoding="base64">CgpkZWYgbWluX2Nsb3NlZF9vbigpOgogICAgQ2FzZSA9IG1vZGVscy5nZXRfbW9kZWwoJ2Nhc2UnLCAnQ2FzZScpCgogICAgY2FzZSA9IENhc2Uub2JqZWN0cy5maWx0ZXIoY2xvc2VkX29uX19pc251bGw9RmFsc2UpLm9yZGVyX2J5KCdjbG9zZWRfb24nKS5maXJzdCgpCgogICAgaWYgY2FzZToKICAgICAgICByZXR1cm4gY2FzZS5jcmVhdGVkX29uLmRhdGUoKQoKICAgIHJldHVybiBkYXRldGltZS5kYXRlKDE5NzAsIDEsIDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2dyb3VwX3F1ZXJ5KHNlbGYsIHBhcmFtcyk6CiAgICAgICAgcXMgPSBzZWxmLl9nZXRfc3Vic3RhdGVzX3FzKHBhcmFtcykKICAgICAgICBhZ2dzID0gc2VsZi5fZ2V0X2FnZ3MocGFyYW1zKQoKICAgICAgICByZXR1cm4gc2VsZi5xdWVyeXNldC5hbm5vdGF0ZSgqKnFzKS5hZ2dyZWdhdGUoKiphZ2dzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRlIGZpbHRlcicsIGZpbHRlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>min_clo</last-search>
+      <last-search>_compute_per</last-search>
       <last-offset />
-      <last-pattern>min_clo</last-pattern>
+      <last-pattern>_compute_per</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>it-cate</entry>
-        <entry>must_choo</entry>
-        <entry>itCategoryTreeMod</entry>
-        <entry>case-datacardtype-da</entry>
         <entry>CaseDatacardsC</entry>
         <entry>CaseEdit</entry>
         <entry>CaseEditData</entry>
@@ -1990,6 +1986,10 @@
         <entry>inline</entry>
         <entry>min_cl</entry>
         <entry>min_clo</entry>
+        <entry>get_inter</entry>
+        <entry>internal_f</entry>
+        <entry>created_on</entry>
+        <entry>_compute_per</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
