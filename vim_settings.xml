@@ -150,12 +150,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478591094068">
-        <mark key="'" line="989" column="4" />
-        <mark key="[" line="752" column="33" />
-        <mark key="]" line="752" column="37" />
-        <mark key="." line="752" column="37" />
-        <mark key="^" line="752" column="37" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478635029552">
+        <mark key="'" line="789" column="19" />
+        <mark key="[" line="839" column="36" />
+        <mark key="]" line="840" column="12" />
+        <mark key="." line="840" column="12" />
+        <mark key="^" line="840" column="12" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/static/src/js/case.coffee" timestamp="1473683839087">
         <mark key="[" line="19" column="0" />
@@ -1765,13 +1765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="416" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="434" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="502" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="520" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="543" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="1157" column="12" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="654" column="13" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="1069" column="48" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="1102" column="14" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
@@ -1865,6 +1858,13 @@
       <jump line="756" column="26" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="989" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="544" column="37" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="540" column="45" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="507" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="631" column="15" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="748" column="10" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="750" column="19" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="780" column="19" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1911,7 +1911,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text>OPEN</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1926,49 +1926,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>OPEN</text>
       </register>
       <register name="/" type="4">
-        <text>Withi</text>
+        <text>Within</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2Rfc3RhcnQnLAogICAgICAgICAgICAndHlwZSc6ICdkYXRlJywKICAgICAgICAgICAgJ3Nob3cnOiBGYWxzZSwKICAgICAgICAgICAgJ1EnOiBsYW1iZGEgcmVxdWVzdCwgcGFyYW1fdmFsdWU6IHt9LAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfdG90YWw9UmF3U1FMKAogICAgICAgICAgICAgICAgIiIiU0VMRUNUIENPVU5UKCopIEZST00gY2FzZV9jYXNlCiAgICAgICAgICAgICAgICAgICAgIFdIRVJFIHR5cGVfaWQgPSBjYXNlX2Nhc2V0eXBlLmlkCiAgICAgICAgICAgICAgICAgICAgIEFORCBzdGF0ZSA9ICVzCiAgICAgICAgICAgICAgICAiIiIsCiAgICAgICAgICAgICAgICAoQ2FzZS5TVEFURV9PUEVOLCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfdG90YWw9bW9kZWxzLkNvdW50KCdjYXNlcycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2Rfc3RhcnQnLAogICAgICAgICAgICAnbGFiZWwnOiBfKCdQZXJpb2QgU3RhcnQnKSwKICAgICAgICAgICAgJ3R5cGUnOiAnZGF0ZScsCiAgICAgICAgICAgICdkZWZhdWx0JzogbWluX2NyZWF0ZWRfb24sCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2RfZW5kJywKICAgICAgICAgICAgJ2xhYmVsJzogXygnUGVyaW9kIEVuZCcpLAogICAgICAgICAgICAndHlwZSc6ICdkYXRlJywKICAgICAgICAgICAgJ2RlZmF1bHQnOiBsYW1iZGE6IHRpbWV6b25lLm5vdygpLmRhdGUoKSwKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2Rfc3RhcnQnLAogICAgICAgICAgICAnbGFiZWwnOiBfKCdQZXJpb2QgU3RhcnQnKSwKICAgICAgICAgICAgJ3R5cGUnOiAnZGF0ZScsCiAgICAgICAgICAgICdkZWZhdWx0JzogbWluX2NyZWF0ZWRfb24sCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2RfZW5kJywKICAgICAgICAgICAgJ2xhYmVsJzogXygnUGVyaW9kIEVuZCcpLAogICAgICAgICAgICAndHlwZSc6ICdkYXRlJywKICAgICAgICAgICAgJ2RlZmF1bHQnOiBsYW1iZGE6IHRpbWV6b25lLm5vdygpLmRhdGUoKSwKICAgICAgICB9LAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfb3Blbj1SYXdTUUwoCiAgICAgICAgICAgICAgICAiIiJTRUxFQ1QgQ09VTlQoKikgRlJPTSBjYXNlX2Nhc2UKICAgICAgICAgICAgICAgICAgICAgV0hFUkUgY3JlYXRlZF9vbiA+PSAlcyBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9vbiA8PSAlcyBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgKGNsb3NlZF9vbiBJUyBOVUxMIE9SIGNsb3NlZF9vbiA+ICVzKSBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgKHN0YXRlID0gJXMgT1Igc3RhdGUgPSAlcykgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGVfaWQgPSBjYXNlX2Nhc2V0eXBlLmlkIiIiLAogICAgICAgICAgICAgICAgKGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9zdGFydCddLAogICAgICAgICAgICAgICAgIGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9lbmQnXSwKICAgICAgICAgICAgICAgICBpbnRlcm5hbF9maWx0ZXJzWydwZXJpb2RfZW5kJ10sCiAgICAgICAgICAgICAgICAgQ2FzZS5TVEFURV9DTE9TRUQsCiAgICAgICAgICAgICAgICAgQ2FzZS5TVEFURV9PUEVOKQogICAgICAgICAgICApLAogICAgICAgICAgICBjYXNlc19jbG9zZWQ9UmF3U1FMKAogICAgICAgICAgICAgICAgIiIiU0VMRUNUIENPVU5UKCopIEZST00gY2FzZV9jYXNlCiAgICAgICAgICAgICAgICAgICAgIFdIRVJFIGNyZWF0ZWRfb24gPj0gJXMgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRfb24gPD0gJXMgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlID0gJXMgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGVfaWQgPSBjYXNlX2Nhc2V0eXBlLmlkIiIiLAogICAgICAgICAgICAgICAgKGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9zdGFydCddLAogICAgICAgICAgICAgICAgIGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9lbmQnXSwKICAgICAgICAgICAgICAgICBDYXNlLlNUQVRFX0NMT1NFRCkKICAgICAgICAgICAgKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2Rfc3RhcnQnLAogICAgICAgICAgICAnbGFiZWwnOiBfKCdQZXJpb2QgU3RhcnQnKSwKICAgICAgICAgICAgJ3R5cGUnOiAnZGF0ZScsCiAgICAgICAgICAgICdkZWZhdWx0JzogbWluX2NyZWF0ZWRfb24sCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2RfZW5kJywKICAgICAgICAgICAgJ2xhYmVsJzogXygnUGVyaW9kIEVuZCcpLAogICAgICAgICAgICAndHlwZSc6ICdkYXRlJywKICAgICAgICAgICAgJ2RlZmF1bHQnOiBsYW1iZGE6IHRpbWV6b25lLm5vdygpLmRhdGUoKSwKICAgICAgICB9LAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDYXNlID0gbW9kZWxzLmdldF9tb2RlbCgnY2FzZScsICdDYXNlJykK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2Rfc3RhcnQnLAogICAgICAgICAgICAnbGFiZWwnOiBfKCdQZXJpb2QgU3RhcnQnKSwKICAgICAgICAgICAgJ3R5cGUnOiAnZGF0ZScsCiAgICAgICAgICAgICdkZWZhdWx0JzogbWluX2NyZWF0ZWRfb24sCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2RfZW5kJywKICAgICAgICAgICAgJ2xhYmVsJzogXygnUGVyaW9kIEVuZCcpLAogICAgICAgICAgICAndHlwZSc6ICdkYXRlJywKICAgICAgICAgICAgJ2RlZmF1bHQnOiBsYW1iZGE6IHRpbWV6b25lLm5vdygpLmRhdGUoKSwKICAgICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW50ZXJuYWxfZmlsdGVyc1sncGVyaW9kX3N0YXJ0J10sIGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9lbmQnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfb3Blbj1SYXdTUUwoCiAgICAgICAgICAgICAgICAiIiJTRUxFQ1QgQ09VTlQoKikgRlJPTSBjYXNlX2Nhc2UKICAgICAgICAgICAgICAgICAgICAgV0hFUkUgY3JlYXRlZF9vbiA+PSAlcyBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9vbiA8PSAlcyBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgKGNsb3NlZF9vbiBJUyBOVUxMIE9SIGNsb3NlZF9vbiA+ICVzKSBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgKHN0YXRlID0gJXMgT1Igc3RhdGUgPSAlcykgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGVfaWQgPSBjYXNlX2Nhc2V0eXBlLmlkIiIiLAogICAgICAgICAgICAgICAgKGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9zdGFydCddLAogICAgICAgICAgICAgICAgIGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9lbmQnXSwKICAgICAgICAgICAgICAgICBpbnRlcm5hbF9maWx0ZXJzWydwZXJpb2RfZW5kJ10sCiAgICAgICAgICAgICAgICAgQ2FzZS5TVEFURV9DTE9TRUQsCiAgICAgICAgICAgICAgICAgQ2FzZS5TVEFURV9PUEVOKQogICAgICAgICAgICApLAogICAgICAgICAgICBjYXNlc19jbG9zZWQ9UmF3U1FMKAogICAgICAgICAgICAgICAgIiIiU0VMRUNUIENPVU5UKCopIEZST00gY2FzZV9jYXNlCiAgICAgICAgICAgICAgICAgICAgIFdIRVJFIGNyZWF0ZWRfb24gPj0gJXMgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRfb24gPD0gJXMgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlID0gJXMgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGVfaWQgPSBjYXNlX2Nhc2V0eXBlLmlkIiIiLAogICAgICAgICAgICAgICAgKGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9zdGFydCddLAogICAgICAgICAgICAgICAgIGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9lbmQnXSwKICAgICAgICAgICAgICAgICBDYXNlLlNUQVRFX0NMT1NFRCkKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIGRheXNfc3RhcnQgPCAwOgogICAgICAgICAgICAgICAgaWYgZGF5c19lbmQgPT0gMDoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgZGF5c19zdGFydCA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBDYXNlID0gbW9kZWxzLmdldF9tb2RlbCgnY2FzZScsICdDYXNlJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Withi</last-search>
+      <last-search>Within</last-search>
       <last-offset />
-      <last-pattern>Withi</last-pattern>
+      <last-pattern>Within</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1976,10 +1976,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'date'</entry>
-        <entry>date</entry>
-        <entry>inline</entry>
-        <entry>min_cl</entry>
         <entry>min_clo</entry>
         <entry>get_inter</entry>
         <entry>internal_f</entry>
@@ -1992,10 +1988,14 @@
         <entry>get_group_queryset</entry>
         <entry>annotate(</entry>
         <entry>get_substates_qs</entry>
-        <entry>Past</entry>
         <entry>get_period_b</entry>
         <entry>date +</entry>
         <entry>Withi</entry>
+        <entry>With</entry>
+        <entry>Pat</entry>
+        <entry>Past</entry>
+        <entry>period_start</entry>
+        <entry>Within</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
