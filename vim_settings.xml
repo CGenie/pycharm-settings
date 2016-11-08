@@ -1085,11 +1085,12 @@
         <mark key="." line="23" column="45" />
         <mark key="^" line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category-datacards.html" timestamp="1478523247439">
-        <mark key="[" line="33" column="51" />
-        <mark key="]" line="33" column="55" />
-        <mark key="^" line="33" column="55" />
-        <mark key="." line="33" column="55" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category-datacards.html" timestamp="1478640455257">
+        <mark key="'" line="33" column="55" />
+        <mark key="[" line="52" column="80" />
+        <mark key="]" line="52" column="81" />
+        <mark key="^" line="52" column="81" />
+        <mark key="." line="52" column="81" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_product_attributes/view/prestashop_bridge_product_attributes_view.xml" timestamp="1470130672309">
         <mark key="[" line="18" column="70" />
@@ -1204,12 +1205,12 @@
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/directives.coffee" timestamp="1478505648937">
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/directives.coffee" timestamp="1478641069381">
         <mark key="'" line="817" column="13" />
-        <mark key="[" line="862" column="8" />
-        <mark key="]" line="862" column="8" />
-        <mark key="^" line="862" column="8" />
-        <mark key="." line="862" column="8" />
+        <mark key="[" line="846" column="29" />
+        <mark key="]" line="846" column="32" />
+        <mark key="." line="846" column="32" />
+        <mark key="^" line="846" column="32" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/crm_claim_workflow.xml" timestamp="1478083763572">
         <mark key="[" line="27" column="26" />
@@ -1767,7 +1768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="17" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="143" column="55" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="252" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="366" column="21" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
@@ -1867,6 +1867,7 @@
       <jump line="315" column="6" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
       <jump line="337" column="6" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
       <jump line="366" column="6" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
+      <jump line="33" column="55" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-category-datacards.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1912,8 +1913,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2F0ZWdvcnlfc2V0dGluZ3M6IHttYXhfY2F0ZWdvcmllc190b19zZWxlY3Q6IDB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>with</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1928,49 +1929,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OPEN</text>
+        <text>with</text>
       </register>
       <register name="/" type="4">
-        <text>datacardtype</text>
+        <text>new_datac</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY2F0ZWdvcnlfc2V0dGluZ3M6IHttYXhfY2F0ZWdvcmllc190b19zZWxlY3Q6IDB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSIiIG5nLWlmPSJkYXRhY2FyZF90eXBlLmNhdGVnb3JpZXMiIG5nLXJlcGVhdD0iY2F0ZWdvcnkgaW4gZGF0YWNhcmQuY2F0ZWdvcmllcyIKICAgICAgICAgICAgICAgICAgICAgaXQtY2F0ZWdvcnktc2hvdz0iY2F0ZWdvcnkiIHRyZWU9ImRhdGFjYXJkX3R5cGUuY2F0ZWdvcmllcyI+PC9kaXY+Cj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBodm0tMjYxLW9uZS1jYXRlZ29yeS10cmVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIGZpZWxkcyA9ICgnc2Vzc2lvbl9leHBpcmluZycsICd0aW1lX3JlZ2lzdHJhdGlvbicsICdtYXhfY2F0ZWdvcmllc19udW0nKQo+Pj4+Pj4+IGh2bS0yNjEtb25lLWNhdGVnb3J5LXRyZWUK</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBodm0tMjYxLW9uZS1jYXRlZ29yeS10cmVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzY29wZS5jYXRlZ29yeSA9PSAnZGVmYXVsdCcKICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfdG90YWw9bW9kZWxzLkNvdW50KCdjYXNlcycpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSIiIG5nLWlmPSJkYXRhY2FyZF90eXBlLmNhdGVnb3JpZXMiIG5nLXJlcGVhdD0iY2F0ZWdvcnkgaW4gZGF0YWNhcmQuY2F0ZWdvcmllcyIKICAgICAgICAgICAgICAgICAgICAgaXQtY2F0ZWdvcnktc2hvdz0iY2F0ZWdvcnkiIHRyZWU9ImRhdGFjYXJkX3R5cGUuY2F0ZWdvcmllcyI+PC9kaXY+Cj09PT09PT0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgpCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBodm0tMjYxLW9uZS1jYXRlZ29yeS10cmVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>datacardtype</last-search>
+      <last-search>new_datac</last-search>
       <last-offset />
-      <last-pattern>datacardtype</last-pattern>
+      <last-pattern>new_datac</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1978,7 +1979,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_get_group_queryset</entry>
         <entry>RawS</entry>
         <entry>RawSQL</entry>
         <entry>get_group_queryset</entry>
@@ -1998,6 +1998,7 @@
         <entry>itCategoryShow</entry>
         <entry>category_settings</entry>
         <entry>datacardtype</entry>
+        <entry>new_datac</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
