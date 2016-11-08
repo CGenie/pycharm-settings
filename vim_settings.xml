@@ -573,12 +573,12 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" timestamp="1478526012783">
-        <mark key="'" line="139" column="4" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="200" column="39" />
-        <mark key="^" line="36" column="122" />
-        <mark key="." line="149" column="75" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" timestamp="1478642489824">
+        <mark key="'" line="146" column="4" />
+        <mark key="[" line="132" column="31" />
+        <mark key="]" line="133" column="24" />
+        <mark key="." line="133" column="24" />
+        <mark key="^" line="133" column="24" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/cache.py" timestamp="1470983416929">
         <mark key="'" line="46" column="12" />
@@ -1927,7 +1927,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGF0YWNhcmR0eXBlX2lkOiBkYXRhY2FyZHR5cGUuaWQK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICd0eXBlX2lkJywKICAgICAgICB9LAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1951,28 +1951,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWNsaWNrPSJoZWxwZXIuc2hvd19hZGRpbmdfb3B0aW9ucyA9IGZhbHNlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGF0YWNhcmR0eXBlX2lkOiBkYXRhY2FyZHR5cGUuaWQK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICd0eXBlX2lkJywKICAgICAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2FzZV9pZDogY2FzZV8uaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGF0YWNhcmR0eXBlX2lkOiBkYXRhY2FyZHR5cGUuaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWNsaWNrPSJoZWxwZXIuc2hvd19hZGRpbmdfb3B0aW9ucyA9IGZhbHNlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2FzZV9pZDogY2FzZV8uaWQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWNsaWNrPSJoZWxwZXIuc2hvd19hZGRpbmdfb3B0aW9ucyA9IGZhbHNlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWNsaWNrPSJoZWxwZXIuc2hvd19hZGRpbmdfb3B0aW9ucyA9IGZhbHNlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKGRhdGEsIHJlcXVlc3RfZGF0YSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuZGF0YWNhcmQuCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKGRhdGEsIHJlcXVlc3RfZGF0YSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuZGF0YWNhcmQuCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
