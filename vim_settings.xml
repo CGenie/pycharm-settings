@@ -1039,6 +1039,13 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="8" column="80" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/serializers.py" timestamp="1478641329279">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="41" column="51" />
+        <mark key="]" line="43" column="42" />
+        <mark key="." line="43" column="42" />
+        <mark key="^" line="43" column="42" />
+      </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/templates/directives/itCategoryTreeChooserModal.html" timestamp="1470039937914">
         <mark key="'" line="18" column="68" />
         <mark key="[" line="21" column="0" />
@@ -1768,7 +1775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="55" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="252" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="366" column="21" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="373" column="21" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
@@ -1868,6 +1874,7 @@
       <jump line="337" column="6" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
       <jump line="366" column="6" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
       <jump line="33" column="55" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-category-datacards.html" />
+      <jump line="62" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1914,7 +1921,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>with</text>
+        <text>data['type']</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1929,7 +1936,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>with</text>
+        <text>data['type']</text>
       </register>
       <register name="/" type="4">
         <text>new_datac</text>
