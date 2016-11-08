@@ -150,12 +150,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478586465217">
-        <mark key="'" line="514" column="0" />
-        <mark key="[" line="729" column="0" />
-        <mark key="]" line="734" column="13" />
-        <mark key="." line="527" column="20" />
-        <mark key="^" line="529" column="20" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478587120251">
+        <mark key="'" line="517" column="0" />
+        <mark key="[" line="538" column="68" />
+        <mark key="]" line="538" column="68" />
+        <mark key="." line="538" column="68" />
+        <mark key="^" line="538" column="68" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/static/src/js/case.coffee" timestamp="1473683839087">
         <mark key="[" line="19" column="0" />
@@ -1904,8 +1904,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfd2l0aGluPVJhd1NRTCgKICAgICAgICAgICAgICAgICIiIlNFTEVDVCBDT1VOVCgqKSBGUk9NIGNhc2VfY2FzZQogICAgICAgICAgICAgICAgICAgICBXSEVSRSB0eXBlX2lkID0gY2FzZV9jYXNldHlwZS5pZAogICAgICAgICAgICAgICAgICAgICBBTkQgKGRlYWRsaW5lIElTIE5VTEwgT1IgZGVhZGxpbmUgPiBub3coKSkiIiIsCiAgICAgICAgICAgICAgICAoKQogICAgICAgICAgICApLAo=</text>
+      <register name="&quot;" type="4">
+        <text>end</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1920,7 +1920,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>end</text>
       </register>
       <register name="/" type="4">
         <text>_get_group_queryset</text>
@@ -1929,31 +1929,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfd2l0aGluPVJhd1NRTCgKICAgICAgICAgICAgICAgICIiIlNFTEVDVCBDT1VOVCgqKSBGUk9NIGNhc2VfY2FzZQogICAgICAgICAgICAgICAgICAgICBXSEVSRSB0eXBlX2lkID0gY2FzZV9jYXNldHlwZS5pZAogICAgICAgICAgICAgICAgICAgICBBTkQgKGRlYWRsaW5lIElTIE5VTEwgT1IgZGVhZGxpbmUgPiBub3coKSkiIiIsCiAgICAgICAgICAgICAgICAoKQogICAgICAgICAgICApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5xdWVyeXNldAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcXMgPSBzZWxmLl9maWx0ZXJfcXVlcnlzZXQoKS5vcmRlcl9ieSgnJykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIF9maWx0ZXJfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgaW50ZXJuYWxfZmlsdGVycyA9IHNlbGYuCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5xdWVyeXNldAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgcXMgPSBzZWxmLl9maWx0ZXJfcXVlcnlzZXQoKS5vcmRlcl9ieSgnJykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAogICAgZGVmIF9maWx0ZXJfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgaW50ZXJuYWxfZmlsdGVycyA9IHNlbGYuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgpkZWYgbWluX2Nsb3NlZF9vbigpOgogICAgQ2FzZSA9IG1vZGVscy5nZXRfbW9kZWwoJ2Nhc2UnLCAnQ2FzZScpCgogICAgY2FzZSA9IENhc2Uub2JqZWN0cy5maWx0ZXIoY2xvc2VkX29uX19pc251bGw9RmFsc2UpLm9yZGVyX2J5KCdjbG9zZWRfb24nKS5maXJzdCgpCgogICAgaWYgY2FzZToKICAgICAgICByZXR1cm4gY2FzZS5jcmVhdGVkX29uLmRhdGUoKQoKICAgIHJldHVybiBkYXRldGltZS5kYXRlKDE5NzAsIDEsIDEpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRlIGZpbHRlcicsIGZpbHRlcik7Cg==</text>
+        <text encoding="base64">CgpkZWYgbWluX2Nsb3NlZF9vbigpOgogICAgQ2FzZSA9IG1vZGVscy5nZXRfbW9kZWwoJ2Nhc2UnLCAnQ2FzZScpCgogICAgY2FzZSA9IENhc2Uub2JqZWN0cy5maWx0ZXIoY2xvc2VkX29uX19pc251bGw9RmFsc2UpLm9yZGVyX2J5KCdjbG9zZWRfb24nKS5maXJzdCgpCgogICAgaWYgY2FzZToKICAgICAgICByZXR1cm4gY2FzZS5jcmVhdGVkX29uLmRhdGUoKQoKICAgIHJldHVybiBkYXRldGltZS5kYXRlKDE5NzAsIDEsIDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
