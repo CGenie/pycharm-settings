@@ -150,12 +150,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478587120251">
-        <mark key="'" line="517" column="0" />
-        <mark key="[" line="538" column="68" />
-        <mark key="]" line="538" column="68" />
-        <mark key="." line="538" column="68" />
-        <mark key="^" line="538" column="68" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478591094068">
+        <mark key="'" line="989" column="4" />
+        <mark key="[" line="752" column="33" />
+        <mark key="]" line="752" column="37" />
+        <mark key="." line="752" column="37" />
+        <mark key="^" line="752" column="37" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/static/src/js/case.coffee" timestamp="1473683839087">
         <mark key="[" line="19" column="0" />
@@ -610,6 +610,12 @@
         <mark key="]" line="160" column="93" />
         <mark key="." line="160" column="93" />
         <mark key="^" line="160" column="93" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" timestamp="1478591208287">
+        <mark key="[" line="123" column="32" />
+        <mark key="]" line="123" column="34" />
+        <mark key="^" line="123" column="34" />
+        <mark key="." line="123" column="34" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/converters/images.py" timestamp="1474107695451">
         <mark key="'" line="39" column="21" />
@@ -1759,29 +1765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="408" column="23" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="569" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="587" column="18" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="645" column="27" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="40" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
-      <jump line="47" column="43" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
-      <jump line="48" column="8" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
-      <jump line="49" column="8" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
-      <jump line="51" column="32" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
-      <jump line="57" column="46" filename="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" />
-      <jump line="3" column="23" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="158" column="8" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="1076" column="39" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
-      <jump line="1136" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
-      <jump line="1145" column="27" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
-      <jump line="1203" column="135" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
-      <jump line="590" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="597" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="616" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="677" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="713" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="797" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="228" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="416" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="434" column="17" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
@@ -1842,7 +1825,6 @@
       <jump line="531" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="47" column="16" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="401" column="28" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="80" column="9" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="411" column="48" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="416" column="32" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
@@ -1850,15 +1832,39 @@
       <jump line="565" column="20" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="445" column="23" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="434" column="27" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="403" column="8" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="510" column="56" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="528" column="63" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="642" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="649" column="63" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="662" column="39" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="172" column="68" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="514" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="431" column="18" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="548" column="15" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="676" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="538" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="686" column="37" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="452" column="50" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="511" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="569" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="213" column="29" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="315" column="29" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="209" column="7" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="291" column="29" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="314" column="19" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="897" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="280" column="13" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="141" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="287" column="24" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="403" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="537" column="9" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="554" column="61" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="590" column="18" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="597" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="514" column="8" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="592" column="39" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="756" column="26" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="989" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1905,7 +1911,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>end</text>
+        <text>start</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1920,65 +1926,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>_get_group_queryset</text>
+        <text>Withi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfd2l0aGluPVJhd1NRTCgKICAgICAgICAgICAgICAgICIiIlNFTEVDVCBDT1VOVCgqKSBGUk9NIGNhc2VfY2FzZQogICAgICAgICAgICAgICAgICAgICBXSEVSRSB0eXBlX2lkID0gY2FzZV9jYXNldHlwZS5pZAogICAgICAgICAgICAgICAgICAgICBBTkQgKGRlYWRsaW5lIElTIE5VTEwgT1IgZGVhZGxpbmUgPiBub3coKSkiIiIsCiAgICAgICAgICAgICAgICAoKQogICAgICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2Rfc3RhcnQnLAogICAgICAgICAgICAndHlwZSc6ICdkYXRlJywKICAgICAgICAgICAgJ3Nob3cnOiBGYWxzZSwKICAgICAgICAgICAgJ1EnOiBsYW1iZGEgcmVxdWVzdCwgcGFyYW1fdmFsdWU6IHt9LAogICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2Rfc3RhcnQnLAogICAgICAgICAgICAnbGFiZWwnOiBfKCdQZXJpb2QgU3RhcnQnKSwKICAgICAgICAgICAgJ3R5cGUnOiAnZGF0ZScsCiAgICAgICAgICAgICdkZWZhdWx0JzogbWluX2NyZWF0ZWRfb24sCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2RfZW5kJywKICAgICAgICAgICAgJ2xhYmVsJzogXygnUGVyaW9kIEVuZCcpLAogICAgICAgICAgICAndHlwZSc6ICdkYXRlJywKICAgICAgICAgICAgJ2RlZmF1bHQnOiBsYW1iZGE6IHRpbWV6b25lLm5vdygpLmRhdGUoKSwKICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2Rfc3RhcnQnLAogICAgICAgICAgICAnbGFiZWwnOiBfKCdQZXJpb2QgU3RhcnQnKSwKICAgICAgICAgICAgJ3R5cGUnOiAnZGF0ZScsCiAgICAgICAgICAgICdkZWZhdWx0JzogbWluX2NyZWF0ZWRfb24sCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdwZXJpb2RfZW5kJywKICAgICAgICAgICAgJ2xhYmVsJzogXygnUGVyaW9kIEVuZCcpLAogICAgICAgICAgICAndHlwZSc6ICdkYXRlJywKICAgICAgICAgICAgJ2RlZmF1bHQnOiBsYW1iZGE6IHRpbWV6b25lLm5vdygpLmRhdGUoKSwKICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5xdWVyeXNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfb3Blbj1SYXdTUUwoCiAgICAgICAgICAgICAgICAiIiJTRUxFQ1QgQ09VTlQoKikgRlJPTSBjYXNlX2Nhc2UKICAgICAgICAgICAgICAgICAgICAgV0hFUkUgY3JlYXRlZF9vbiA+PSAlcyBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9vbiA8PSAlcyBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgKGNsb3NlZF9vbiBJUyBOVUxMIE9SIGNsb3NlZF9vbiA+ICVzKSBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgKHN0YXRlID0gJXMgT1Igc3RhdGUgPSAlcykgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGVfaWQgPSBjYXNlX2Nhc2V0eXBlLmlkIiIiLAogICAgICAgICAgICAgICAgKGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9zdGFydCddLAogICAgICAgICAgICAgICAgIGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9lbmQnXSwKICAgICAgICAgICAgICAgICBpbnRlcm5hbF9maWx0ZXJzWydwZXJpb2RfZW5kJ10sCiAgICAgICAgICAgICAgICAgQ2FzZS5TVEFURV9DTE9TRUQsCiAgICAgICAgICAgICAgICAgQ2FzZS5TVEFURV9PUEVOKQogICAgICAgICAgICApLAogICAgICAgICAgICBjYXNlc19jbG9zZWQ9UmF3U1FMKAogICAgICAgICAgICAgICAgIiIiU0VMRUNUIENPVU5UKCopIEZST00gY2FzZV9jYXNlCiAgICAgICAgICAgICAgICAgICAgIFdIRVJFIGNyZWF0ZWRfb24gPj0gJXMgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRfb24gPD0gJXMgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlID0gJXMgQU5ECiAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGVfaWQgPSBjYXNlX2Nhc2V0eXBlLmlkIiIiLAogICAgICAgICAgICAgICAgKGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9zdGFydCddLAogICAgICAgICAgICAgICAgIGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9lbmQnXSwKICAgICAgICAgICAgICAgICBDYXNlLlNUQVRFX0NMT1NFRCkKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgcXMgPSBzZWxmLl9maWx0ZXJfcXVlcnlzZXQoKS5vcmRlcl9ieSgnJykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIF9maWx0ZXJfcXVlcnlzZXQoc2VsZik6CiAgICAgICAgaW50ZXJuYWxfZmlsdGVycyA9IHNlbGYuCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDYXNlID0gbW9kZWxzLmdldF9tb2RlbCgnY2FzZScsICdDYXNlJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW50ZXJuYWxfZmlsdGVyc1sncGVyaW9kX3N0YXJ0J10sIGludGVybmFsX2ZpbHRlcnNbJ3BlcmlvZF9lbmQnXQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIGRheXNfc3RhcnQgPCAwOgogICAgICAgICAgICAgICAgaWYgZGF5c19lbmQgPT0gMDoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgZGF5c19zdGFydCA9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgpkZWYgbWluX2Nsb3NlZF9vbigpOgogICAgQ2FzZSA9IG1vZGVscy5nZXRfbW9kZWwoJ2Nhc2UnLCAnQ2FzZScpCgogICAgY2FzZSA9IENhc2Uub2JqZWN0cy5maWx0ZXIoY2xvc2VkX29uX19pc251bGw9RmFsc2UpLm9yZGVyX2J5KCdjbG9zZWRfb24nKS5maXJzdCgpCgogICAgaWYgY2FzZToKICAgICAgICByZXR1cm4gY2FzZS5jcmVhdGVkX29uLmRhdGUoKQoKICAgIHJldHVybiBkYXRldGltZS5kYXRlKDE5NzAsIDEsIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_get_group_queryset</last-search>
+      <last-search>Withi</last-search>
       <last-offset />
-      <last-pattern>_get_group_queryset</last-pattern>
+      <last-pattern>Withi</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CaseEditData</entry>
-        <entry>itMeta</entry>
-        <entry>itMetad</entry>
-        <entry>mapping</entry>
-        <entry>relat</entry>
-        <entry>relate</entry>
-        <entry>\.queryset</entry>
-        <entry>min_created_on</entry>
-        <entry>min_creat</entry>
         <entry>'date'</entry>
         <entry>date</entry>
         <entry>inline</entry>
@@ -1990,6 +1987,15 @@
         <entry>_compute_per</entry>
         <entry>delta</entry>
         <entry>_get_group_queryset</entry>
+        <entry>RawS</entry>
+        <entry>RawSQL</entry>
+        <entry>get_group_queryset</entry>
+        <entry>annotate(</entry>
+        <entry>get_substates_qs</entry>
+        <entry>Past</entry>
+        <entry>get_period_b</entry>
+        <entry>date +</entry>
+        <entry>Withi</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
