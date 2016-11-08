@@ -574,11 +574,7 @@
         <mark key="." line="31" column="22" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" timestamp="1478642590644">
-        <mark key="'" line="145" column="4" />
-        <mark key="[" line="132" column="21" />
-        <mark key="]" line="132" column="28" />
-        <mark key="." line="132" column="28" />
-        <mark key="^" line="132" column="28" />
+        <mark key="'" line="139" column="4" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/cache.py" timestamp="1470983416929">
         <mark key="'" line="46" column="12" />
@@ -1067,8 +1063,8 @@
         <mark key="." line="10" column="66" />
         <mark key="^" line="10" column="66" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/account/models.py" timestamp="1478637549763">
-        <mark key="'" line="8" column="39" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/models.py" timestamp="1478644504250">
+        <mark key="'" line="59" column="4" />
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
         <mark key="^" line="251" column="69" />
@@ -1782,10 +1778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1102" column="14" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
-      <jump line="900" column="53" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
-      <jump line="891" column="18" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
-      <jump line="861" column="22" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
       <jump line="1169" column="37" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
       <jump line="377" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="140" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
@@ -1882,6 +1874,10 @@
       <jump line="122" column="78" filename="$USER_HOME$/Italamo/caretakers/www/js/models.coffee" />
       <jump line="1145" column="11" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="1146" column="14" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="221" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="54" column="24" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="129" column="8" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1946,7 +1942,7 @@
         <text>default_change_sort</text>
       </register>
       <register name="/" type="4">
-        <text>remove_da</text>
+        <text>avatar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmlsdGVyX3NvcnQuZGVmYXVsdF9jaGFuZ2Vfc29ydCA9IGxvYWRfZGF0YWNhcmRzCg==</text>
@@ -1983,9 +1979,9 @@
       </register>
     </registers>
     <search>
-      <last-search>remove_da</last-search>
+      <last-search>avatar</last-search>
       <last-offset />
-      <last-pattern>remove_da</last-pattern>
+      <last-pattern>avatar</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1993,8 +1989,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_period_b</entry>
-        <entry>date +</entry>
         <entry>Withi</entry>
         <entry>With</entry>
         <entry>Pat</entry>
@@ -2013,6 +2007,8 @@
         <entry>\.datacardtype</entry>
         <entry>remove_datacard</entry>
         <entry>remove_da</entry>
+        <entry>imag</entry>
+        <entry>avatar</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
