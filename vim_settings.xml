@@ -455,12 +455,12 @@
         <mark key="]" line="437" column="0" />
         <mark key="." line="437" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478641493180">
-        <mark key="'" line="1154" column="13" />
-        <mark key="[" line="1182" column="81" />
-        <mark key="]" line="1183" column="45" />
-        <mark key="." line="1183" column="45" />
-        <mark key="^" line="1183" column="45" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478641959628">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1227" column="61" />
+        <mark key="]" line="1227" column="59" />
+        <mark key="^" line="1227" column="59" />
+        <mark key="." line="1227" column="59" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/edit.html" timestamp="1478067320887">
         <mark key="'" line="0" column="0" />
@@ -820,8 +820,8 @@
         <mark key="." line="72" column="39" />
         <mark key="^" line="72" column="39" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" timestamp="1478523867329">
-        <mark key="'" line="578" column="33" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" timestamp="1478641894112">
+        <mark key="'" line="629" column="23" />
         <mark key="[" line="627" column="17" />
         <mark key="]" line="629" column="23" />
         <mark key="^" line="629" column="23" />
@@ -1092,12 +1092,12 @@
         <mark key="." line="23" column="45" />
         <mark key="^" line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category-datacards.html" timestamp="1478640455257">
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category-datacards.html" timestamp="1478641802717">
         <mark key="'" line="33" column="55" />
-        <mark key="[" line="52" column="80" />
-        <mark key="]" line="52" column="81" />
-        <mark key="^" line="52" column="81" />
-        <mark key="." line="52" column="81" />
+        <mark key="[" line="53" column="37" />
+        <mark key="]" line="53" column="44" />
+        <mark key="." line="53" column="44" />
+        <mark key="^" line="53" column="44" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/prestashop_bridge_product_attributes/view/prestashop_bridge_product_attributes_view.xml" timestamp="1470130672309">
         <mark key="[" line="18" column="70" />
@@ -1205,6 +1205,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-select-datacard.html" timestamp="1478642374802">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/docker/daemon.json" timestamp="1475129276184">
         <mark key="[" line="3" column="20" />
@@ -1775,9 +1781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="366" column="21" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="373" column="21" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="375" column="46" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="388" column="21" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="394" column="21" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
@@ -1875,6 +1878,9 @@
       <jump line="366" column="6" filename="$USER_HOME$/Italamo/italamo/apps/case/datasets/1hvm_case_type.yaml" />
       <jump line="33" column="55" filename="$USER_HOME$/Italamo/caretakers/www/templates/case-category-datacards.html" />
       <jump line="62" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/serializers.py" />
+      <jump line="1183" column="45" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="629" column="23" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1921,7 +1927,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGF0YWNhcmR0eXBlX2lkOiBkYXRhY2FyZHR5cGUuaWQK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1936,49 +1942,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data['type']</text>
+        <text>datacardtype</text>
       </register>
       <register name="/" type="4">
-        <text>new_datac</text>
+        <text>SelectDa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2F0ZWdvcnlfc2V0dGluZ3M6IHttYXhfY2F0ZWdvcmllc190b19zZWxlY3Q6IDB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWNsaWNrPSJoZWxwZXIuc2hvd19hZGRpbmdfb3B0aW9ucyA9IGZhbHNlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGF0YWNhcmR0eXBlX2lkOiBkYXRhY2FyZHR5cGUuaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKGRhdGEsIHJlcXVlc3RfZGF0YSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2FzZV9pZDogY2FzZV8uaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuZGF0YWNhcmQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWNsaWNrPSJoZWxwZXIuc2hvd19hZGRpbmdfb3B0aW9ucyA9IGZhbHNlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWNsaWNrPSJoZWxwZXIuc2hvd19hZGRpbmdfb3B0aW9ucyA9IGZhbHNlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oKGRhdGEsIHJlcXVlc3RfZGF0YSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuZGF0YWNhcmQuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>new_datac</last-search>
+      <last-search>SelectDa</last-search>
       <last-offset />
-      <last-pattern>new_datac</last-pattern>
+      <last-pattern>SelectDa</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1986,8 +1992,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RawS</entry>
-        <entry>RawSQL</entry>
         <entry>get_group_queryset</entry>
         <entry>annotate(</entry>
         <entry>get_substates_qs</entry>
@@ -2006,6 +2010,8 @@
         <entry>category_settings</entry>
         <entry>datacardtype</entry>
         <entry>new_datac</entry>
+        <entry>CaseSel</entry>
+        <entry>SelectDa</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
