@@ -150,12 +150,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478543030862">
-        <mark key="'" line="510" column="56" />
-        <mark key="[" line="510" column="57" />
-        <mark key="]" line="510" column="84" />
-        <mark key="." line="510" column="84" />
-        <mark key="^" line="510" column="84" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478586465217">
+        <mark key="'" line="514" column="0" />
+        <mark key="[" line="729" column="0" />
+        <mark key="]" line="734" column="13" />
+        <mark key="." line="527" column="20" />
+        <mark key="^" line="529" column="20" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo/static/src/js/case.coffee" timestamp="1473683839087">
         <mark key="[" line="19" column="0" />
@@ -1759,13 +1759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="588" column="9" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="607" column="9" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="586" column="50" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="567" column="20" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="563" column="20" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="121" column="38" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="127" column="38" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="408" column="23" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="569" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="587" column="18" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
@@ -1859,6 +1852,13 @@
       <jump line="434" column="27" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="403" column="8" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="510" column="56" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="528" column="63" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="642" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="649" column="63" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="662" column="39" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="172" column="68" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="514" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="431" column="18" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1904,8 +1904,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfd2l0aGluPVJhd1NRTCgKICAgICAgICAgICAgICAgICIiIlNFTEVDVCBDT1VOVCgqKSBGUk9NIGNhc2VfY2FzZQogICAgICAgICAgICAgICAgICAgICBXSEVSRSB0eXBlX2lkID0gY2FzZV9jYXNldHlwZS5pZAogICAgICAgICAgICAgICAgICAgICBBTkQgKGRlYWRsaW5lIElTIE5VTEwgT1IgZGVhZGxpbmUgPiBub3coKSkiIiIsCiAgICAgICAgICAgICAgICAoKQogICAgICAgICAgICApLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1920,13 +1920,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>_compute_per</text>
+        <text>_get_group_queryset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IGRhdGVwYXJzZSwgdGltZXpvbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZXNfd2l0aGluPVJhd1NRTCgKICAgICAgICAgICAgICAgICIiIlNFTEVDVCBDT1VOVCgqKSBGUk9NIGNhc2VfY2FzZQogICAgICAgICAgICAgICAgICAgICBXSEVSRSB0eXBlX2lkID0gY2FzZV9jYXNldHlwZS5pZAogICAgICAgICAgICAgICAgICAgICBBTkQgKGRlYWRsaW5lIElTIE5VTEwgT1IgZGVhZGxpbmUgPiBub3coKSkiIiIsCiAgICAgICAgICAgICAgICAoKQogICAgICAgICAgICApLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1960,9 +1960,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_compute_per</last-search>
+      <last-search>_get_group_queryset</last-search>
       <last-offset />
-      <last-pattern>_compute_per</last-pattern>
+      <last-pattern>_get_group_queryset</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>-1</last-dir>
@@ -1970,8 +1970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CaseDatacardsC</entry>
-        <entry>CaseEdit</entry>
         <entry>CaseEditData</entry>
         <entry>itMeta</entry>
         <entry>itMetad</entry>
@@ -1990,6 +1988,8 @@
         <entry>internal_f</entry>
         <entry>created_on</entry>
         <entry>_compute_per</entry>
+        <entry>delta</entry>
+        <entry>_get_group_queryset</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
