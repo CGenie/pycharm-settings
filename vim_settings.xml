@@ -1104,8 +1104,8 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" timestamp="1478698194804">
-        <mark key="'" line="1170" column="37" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" timestamp="1478698949600">
+        <mark key="'" line="259" column="0" />
         <mark key="[" line="259" column="0" />
         <mark key="]" line="259" column="90" />
         <mark key="." line="1229" column="0" />
@@ -1770,8 +1770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="18" filename="$USER_HOME$/Italamo/caretakers/www/js/models.coffee" />
-      <jump line="122" column="78" filename="$USER_HOME$/Italamo/caretakers/www/js/models.coffee" />
       <jump line="1145" column="11" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="1146" column="14" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="221" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
@@ -1870,6 +1868,8 @@
       <jump line="99" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="515" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="511" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="259" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
