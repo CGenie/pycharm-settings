@@ -455,10 +455,10 @@
         <mark key="]" line="437" column="0" />
         <mark key="." line="437" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478644282459">
-        <mark key="'" line="1146" column="14" />
-        <mark key="[" line="1228" column="19" />
-        <mark key="]" line="1228" column="22" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478677241091">
+        <mark key="'" line="717" column="19" />
+        <mark key="[" line="693" column="0" />
+        <mark key="]" line="702" column="32" />
         <mark key="." line="1228" column="22" />
         <mark key="^" line="1228" column="22" />
       </file>
@@ -1680,6 +1680,9 @@
         <mark key="^" line="35" column="24" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/factories.coffee" timestamp="1478677695516">
+        <mark key="'" line="192" column="44" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/task/export.py" timestamp="1467277207894">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="34" />
@@ -1805,11 +1808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="676" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="538" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="686" column="37" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="452" column="50" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="511" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="569" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="213" column="29" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="315" column="29" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
@@ -1865,7 +1863,6 @@
       <jump line="62" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/serializers.py" />
       <jump line="1183" column="45" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="629" column="23" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="1153" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="1205" column="12" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="1185" column="10" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
@@ -1905,6 +1902,12 @@
       <jump line="43" column="31" filename="$USER_HOME$/Italamo/italamo/apps/account/tools.py" />
       <jump line="51" column="34" filename="$USER_HOME$/Italamo/italamo/apps/account/tools.py" />
       <jump line="23" column="87" filename="$USER_HOME$/Italamo/italamo/apps/category/views.py" />
+      <jump line="1128" column="22" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="693" column="11" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="698" column="35" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="717" column="19" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="192" column="44" filename="$USER_HOME$/Italamo/caretakers/www/js/factories.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1951,7 +1954,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGZpbGVfdXBsb2FkKHVwbG9hZGVkX2ZpbGUsIGRpcmVjdG9yeT0ib3RoZXIiKToKICAgICIiIgogICAgICAgIEdldHM6CiAgICAgICAgICAgIC0gZmlsZSB0byB1cGxvYWQKICAgICAgICAgICAgLSBkaXJlY3Rvcnkgd2l0aCBkb2N1bWVudHMKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICAtIHR1cGxlIHdpdGggZG9jdW1lbnQgcHJvcGVydGllcwogICAgIiIiCiAgICBmZCwgcGF0aCA9IHRlbXBmaWxlLm1rc3RlbXAoKQogICAgaXNfc3RyZWFtID0gaGFzYXR0cih1cGxvYWRlZF9maWxlLCAnX3N0cmVhbScpCiAgICB3aXRoIG9zLmZkb3BlbihmZCwgJ3crYicpIGFzIGY6CiAgICAgICAgaWYgaXNfc3RyZWFtOgogICAgICAgICAgICBzaHV0aWwuY29weWZpbGVvYmoodXBsb2FkZWRfZmlsZSwgZikKICAgICAgICBlbHNlOgogICAgICAgICAgICBmb3IgY2h1bmsgaW4gdXBsb2FkZWRfZmlsZS5jaHVua3MoKToKICAgICAgICAgICAgICAgIGYud3JpdGUoY2h1bmspCiAgICAgICAgZi5zZWVrKDApCiAgICAgICAgZmlsZV9oYXNoID0gaGFzaGZpbGUoZiwgaGFzaGxpYi5tZDUoKSkKICAgIGlmIGlzX3N0cmVhbToKICAgICAgICBuYW1lID0gdXBsb2FkZWRfZmlsZS5wYXRoLnNwbGl0KCcvJylbLTFdCiAgICAgICAgc2l6ZSA9IG9zLnN0YXQocGF0aCkuc3Rfc2l6ZQogICAgZWxzZToKICAgICAgICBuYW1lID0gdXBsb2FkZWRfZmlsZS5uYW1lCiAgICAgICAgc2l6ZSA9IHVwbG9hZGVkX2ZpbGUuc2l6ZQogICAgZGF0ZSA9IG1hcChzdHIsIHRpbWV6b25lLm5vdygpLnV0Y3RpbWV0dXBsZSgpWzozXSkKICAgIGZpbGVfdXJpID0gb3MucGF0aC5qb2luKGRpcmVjdG9yeSwgZGF0ZVswXSwgZGF0ZVsxXSwgZGF0ZVsyXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVfaGFzaCArIG9zLnBhdGguc3BsaXRleHQobmFtZSlbLTFdKQogICAgbmV3X3BhdGggPSBvcy5wYXRoLmpvaW4oc2V0dGluZ3MuU0VDVVJFRF9NRURJQV9ST09ULCBmaWxlX3VyaSkKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvcy5wYXRoLmRpcm5hbWUobmV3X3BhdGgpKToKICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmRpcm5hbWUobmV3X3BhdGgpLCBtb2RlPXNldHRpbmdzLkRJUl9QRVJNSVNTSU9OUykKICAgIHNodXRpbC5tb3ZlKHBhdGgsIG5ld19wYXRoKQogICAgb3MuY2htb2QobmV3X3BhdGgsIHNldHRpbmdzLkZJTEVfVVBMT0FEX1BFUk1JU1NJT05TKQogICAgcmV0dXJuIChmaWxlX3VyaSwgeydoYXNoJzogZmlsZV9oYXNoLAogICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAnc2l6ZSc6IHNpemV9KQo=</text>
+        <text encoding="base64">ICAgICRzY29wZS5jcmVhdGVfY2FzZSA9ICgpIC0+CiAgICAgICAgaWYgJHNjb3BlLnJlc3BvbnNlICE9IG51bGwKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgaWYgYXNfY2xpZW50CiAgICAgICAgICAgICRzY29wZS5yZXF1ZXN0LmFzX2NsaWVudCA9IGFzX2NsaWVudAogICAgICAgIHJlc3BvbnNlID0gQ2FzZS5jYXJldGFrZXJzX2NyZWF0ZV9jYXNlKCRzY29wZS5yZXF1ZXN0KQogICAgICAgIHJlc3BvbnNlLiRwcm9taXNlLnRoZW4gKCkgLT4KICAgICAgICAgICAgJHNjb3BlLmNhc2UgPSBDYXNlLmdldCB7aWQ6IHJlc3BvbnNlLmNhc2VfaWR9CiAgICAgICAgLCAocmVzKSAtPgogICAgICAgICAgJHNjb3BlLmVycm9yID0gcmVzLmRhdGEK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1969,7 +1972,7 @@
         <text>case_csv_report</text>
       </register>
       <register name="/" type="4">
-        <text>tena</text>
+        <text>whitel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgcmVzcG9uc2UsIHN0YXR1cwo=</text>
@@ -2006,9 +2009,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tena</last-search>
+      <last-search>whitel</last-search>
       <last-offset />
-      <last-pattern>tena</last-pattern>
+      <last-pattern>whitel</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2016,8 +2019,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new_datac</entry>
-        <entry>CaseSel</entry>
         <entry>SelectDa</entry>
         <entry>\.datacardtype</entry>
         <entry>remove_datacard</entry>
@@ -2036,6 +2037,8 @@
         <entry>avatar_f</entry>
         <entry>settings.MED</entry>
         <entry>tena</entry>
+        <entry>create_case</entry>
+        <entry>whitel</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
