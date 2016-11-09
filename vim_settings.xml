@@ -1063,10 +1063,10 @@
         <mark key="." line="10" column="66" />
         <mark key="^" line="10" column="66" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/account/models.py" timestamp="1478644504250">
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/models.py" timestamp="1478672081477">
         <mark key="'" line="59" column="4" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="132" column="79" />
         <mark key="^" line="251" column="69" />
         <mark key="." line="221" column="0" />
       </file>
@@ -1633,6 +1633,12 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="71" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478672282135">
+        <mark key="'" line="85" column="78" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/itDatacardTypesEdit.html" timestamp="1478241252541">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="18" />
@@ -1778,8 +1784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1169" column="37" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
-      <jump line="377" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="140" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="368" column="36" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="138" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
@@ -1878,6 +1882,8 @@
       <jump line="54" column="24" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="129" column="8" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="59" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="84" column="78" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="0" column="31" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1923,8 +1929,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>default_change_sort</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNldHRpbmdzLlNFQwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1939,40 +1945,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>default_change_sort</text>
+        <text>avatar_uri</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyX3NvcnQuZGVmYXVsdF9jaGFuZ2Vfc29ydCA9IGxvYWRfZGF0YWNhcmRzCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGF2YXRhcl91cmwoc2VsZik6CiAgICAgICAgaWYgc2VsZi5hdmF0YXJfdXJpIGlzIE5vbmUgb3Igc2VsZi5hdmF0YXJfdXJpID09ICcnOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHJldHVybiAnLyVzLyVzJyAlIChzZXR0aW5ncy5NRURJQV9VUkwucmVwbGFjZSgnLycsICcnKSwgc2VsZi5hdmF0YXJfdXJpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdhcGkgcGFyYW1zJywgcGFyYW1zCg==</text>
+        <text encoding="base64">ICAgIHNldHRpbmdzLlNFQwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICNwYXJhbXMuZGF0YWNhcmR0eXBlX2lkID0gZGF0YWNhcmR0eXBlLmlkCg==</text>
+        <text encoding="base64">ICAgIGltYWdlID0gbW9kZWxzLkltYWdlRmllbGQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyRzY29wZS5kYXRhY2FyZHR5cGUgPSBkYXRhY2FyZHR5cGUKICAgICAgIyRzY29wZS5kYXRhY2FyZHMgPSBkYXRhY2FyZHMK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdhcGkgcGFyYW1zJywgcGFyYW1zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgI2ZpbHRlcl9zb3J0LmxvYWQgPSBsb2FkX2RhdGFjYXJkcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICNwYXJhbXMuZGF0YWNhcmR0eXBlX2lkID0gZGF0YWNhcmR0eXBlLmlkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGFjYXJkID0gJHNjb3BlLmRhdGFjYXJkc1skc2xpZGVCb3guY3VycmVudEluZGV4KCldCiAgICAgICAgICBpZiBkYXRhY2FyZAogICAgICAgICAgICAgICRzY29wZS5kYXRhY2FyZHR5cGUgPSBEYXRhY2FyZFR5cGUuZ2V0IHtpZDogZGF0YWNhcmQudHlwZX0KCg==</text>
+        <text encoding="base64">ICAgICAgIyRzY29wZS5kYXRhY2FyZHR5cGUgPSBkYXRhY2FyZHR5cGUKICAgICAgIyRzY29wZS5kYXRhY2FyZHMgPSBkYXRhY2FyZHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Nob3cnOiBUcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgI2ZpbHRlcl9zb3J0LmxvYWQgPSBsb2FkX2RhdGFjYXJkcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICd0eXBlX2lkJywKICAgICAgICAgICAgJ1EnOiBsYW1iZGEgcmVxdWVzdCwgcGFyYW1fdmFsdWU6IGRpY3QodHlwZV9pZD1wYXJhbV92YWx1ZSkgaWYgcGFyYW1fdmFsdWUgZWxzZSBkaWN0KCksCiAgICAgICAgICAgICdsYWJlbCc6IF8oJ0RhdGFjYXJkIFR5cGUnKSwKICAgICAgICAgICAgJ3R5cGUnOiAncmVsYXRpb24nLAogICAgICAgICAgICAnc2hvdyc6IFRydWUsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGFjYXJkID0gJHNjb3BlLmRhdGFjYXJkc1skc2xpZGVCb3guY3VycmVudEluZGV4KCldCiAgICAgICAgICBpZiBkYXRhY2FyZAogICAgICAgICAgICAgICRzY29wZS5kYXRhY2FyZHR5cGUgPSBEYXRhY2FyZFR5cGUuZ2V0IHtpZDogZGF0YWNhcmQudHlwZX0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICd0eXBlX2lkJywKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Nob3cnOiBUcnVlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGF0YWNhcmR0eXBlX2lkOiBkYXRhY2FyZHR5cGUuaWQK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICd0eXBlX2lkJywKICAgICAgICAgICAgJ1EnOiBsYW1iZGEgcmVxdWVzdCwgcGFyYW1fdmFsdWU6IGRpY3QodHlwZV9pZD1wYXJhbV92YWx1ZSkgaWYgcGFyYW1fdmFsdWUgZWxzZSBkaWN0KCksCiAgICAgICAgICAgICdsYWJlbCc6IF8oJ0RhdGFjYXJkIFR5cGUnKSwKICAgICAgICAgICAgJ3R5cGUnOiAncmVsYXRpb24nLAogICAgICAgICAgICAnc2hvdyc6IFRydWUsCiAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
