@@ -408,8 +408,8 @@
         <mark key="^" line="52" column="15" />
         <mark key="." line="52" column="15" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" timestamp="1477027317530">
-        <mark key="'" line="192" column="39" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" timestamp="1478674000108">
+        <mark key="'" line="50" column="13" />
         <mark key="[" line="42" column="51" />
         <mark key="]" line="42" column="62" />
         <mark key="^" line="42" column="62" />
@@ -803,6 +803,9 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/views.py" timestamp="1478674039764">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" timestamp="1476809672257">
         <mark key="'" line="15" column="42" />
         <mark key="[" line="44" column="46" />
@@ -1063,8 +1066,8 @@
         <mark key="." line="10" column="66" />
         <mark key="^" line="10" column="66" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/account/models.py" timestamp="1478672081477">
-        <mark key="'" line="59" column="4" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/models.py" timestamp="1478673803936">
+        <mark key="'" line="54" column="4" />
         <mark key="[" line="128" column="0" />
         <mark key="]" line="132" column="79" />
         <mark key="^" line="251" column="69" />
@@ -1507,7 +1510,7 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/account/views.py" timestamp="1478246986679">
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/views.py" timestamp="1478673501545">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="523" column="30" />
         <mark key="]" line="523" column="29" />
@@ -1633,11 +1636,12 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478672282135">
-        <mark key="'" line="85" column="78" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478674858859">
+        <mark key="'" line="88" column="17" />
+        <mark key="[" line="94" column="13" />
+        <mark key="]" line="94" column="7" />
+        <mark key="." line="94" column="7" />
+        <mark key="^" line="94" column="7" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/itDatacardTypesEdit.html" timestamp="1478241252541">
         <mark key="'" line="0" column="0" />
@@ -1683,12 +1687,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" timestamp="1477376405238">
-        <mark key="'" line="144" column="13" />
-        <mark key="[" line="114" column="30" />
-        <mark key="]" line="114" column="30" />
-        <mark key="^" line="638" column="13" />
-        <mark key="." line="114" column="30" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" timestamp="1478674018410">
+        <mark key="'" line="667" column="14" />
+        <mark key="[" line="667" column="14" />
+        <mark key="]" line="667" column="14" />
+        <mark key="^" line="667" column="14" />
+        <mark key="." line="667" column="14" />
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-left-top-menu.html" timestamp="1478503562157">
         <mark key="'" line="16" column="80" />
@@ -1784,17 +1788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="368" column="36" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="531" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="47" column="16" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="401" column="28" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="80" column="9" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="411" column="48" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="416" column="32" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="515" column="40" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="565" column="20" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="445" column="23" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="434" column="27" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="510" column="56" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
@@ -1879,11 +1872,22 @@
       <jump line="1145" column="11" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="1146" column="14" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="221" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
-      <jump line="54" column="24" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="129" column="8" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="59" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="84" column="78" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="0" column="31" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="523" column="29" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
+      <jump line="104" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="54" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="50" column="13" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
+      <jump line="667" column="14" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="85" column="17" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1929,8 +1933,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzLlNFQwo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1945,49 +1949,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>avatar_uri</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>avatar</text>
+        <text>file_uri</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGF2YXRhcl91cmwoc2VsZik6CiAgICAgICAgaWYgc2VsZi5hdmF0YXJfdXJpIGlzIE5vbmUgb3Igc2VsZi5hdmF0YXJfdXJpID09ICcnOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHJldHVybiAnLyVzLyVzJyAlIChzZXR0aW5ncy5NRURJQV9VUkwucmVwbGFjZSgnLycsICcnKSwgc2VsZi5hdmF0YXJfdXJpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzLlNFQwo=</text>
+        <text encoding="base64">CiAgICBJTUFHRV9ESVJFQ1RPUlkgPSAnY2F0ZWdvcnlfaW1hZ2VzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlID0gbW9kZWxzLkltYWdlRmllbGQoKQo=</text>
+        <text encoding="base64">ICAgIHNldHRpbmdzLlNFQwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdhcGkgcGFyYW1zJywgcGFyYW1zCg==</text>
+        <text encoding="base64">ICAgIGltYWdlID0gbW9kZWxzLkltYWdlRmllbGQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICNwYXJhbXMuZGF0YWNhcmR0eXBlX2lkID0gZGF0YWNhcmR0eXBlLmlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdhcGkgcGFyYW1zJywgcGFyYW1zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyRzY29wZS5kYXRhY2FyZHR5cGUgPSBkYXRhY2FyZHR5cGUKICAgICAgIyRzY29wZS5kYXRhY2FyZHMgPSBkYXRhY2FyZHMK</text>
+        <text encoding="base64">ICAgICAgICAgICNwYXJhbXMuZGF0YWNhcmR0eXBlX2lkID0gZGF0YWNhcmR0eXBlLmlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgI2ZpbHRlcl9zb3J0LmxvYWQgPSBsb2FkX2RhdGFjYXJkcwo=</text>
+        <text encoding="base64">ICAgICAgIyRzY29wZS5kYXRhY2FyZHR5cGUgPSBkYXRhY2FyZHR5cGUKICAgICAgIyRzY29wZS5kYXRhY2FyZHMgPSBkYXRhY2FyZHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGFjYXJkID0gJHNjb3BlLmRhdGFjYXJkc1skc2xpZGVCb3guY3VycmVudEluZGV4KCldCiAgICAgICAgICBpZiBkYXRhY2FyZAogICAgICAgICAgICAgICRzY29wZS5kYXRhY2FyZHR5cGUgPSBEYXRhY2FyZFR5cGUuZ2V0IHtpZDogZGF0YWNhcmQudHlwZX0KCg==</text>
+        <text encoding="base64">ICAgICAgI2ZpbHRlcl9zb3J0LmxvYWQgPSBsb2FkX2RhdGFjYXJkcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Nob3cnOiBUcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGFjYXJkID0gJHNjb3BlLmRhdGFjYXJkc1skc2xpZGVCb3guY3VycmVudEluZGV4KCldCiAgICAgICAgICBpZiBkYXRhY2FyZAogICAgICAgICAgICAgICRzY29wZS5kYXRhY2FyZHR5cGUgPSBEYXRhY2FyZFR5cGUuZ2V0IHtpZDogZGF0YWNhcmQudHlwZX0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICd0eXBlX2lkJywKICAgICAgICAgICAgJ1EnOiBsYW1iZGEgcmVxdWVzdCwgcGFyYW1fdmFsdWU6IGRpY3QodHlwZV9pZD1wYXJhbV92YWx1ZSkgaWYgcGFyYW1fdmFsdWUgZWxzZSBkaWN0KCksCiAgICAgICAgICAgICdsYWJlbCc6IF8oJ0RhdGFjYXJkIFR5cGUnKSwKICAgICAgICAgICAgJ3R5cGUnOiAncmVsYXRpb24nLAogICAgICAgICAgICAnc2hvdyc6IFRydWUsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Nob3cnOiBUcnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>avatar</last-search>
+      <last-search>file_uri</last-search>
       <last-offset />
-      <last-pattern>avatar</last-pattern>
+      <last-pattern>file_uri</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1995,11 +1999,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Withi</entry>
-        <entry>With</entry>
-        <entry>Pat</entry>
-        <entry>Past</entry>
-        <entry>period_start</entry>
         <entry>Within</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>itDatac</entry>
@@ -2015,6 +2014,11 @@
         <entry>remove_da</entry>
         <entry>imag</entry>
         <entry>avatar</entry>
+        <entry>AVATAR_DIR</entry>
+        <entry>front</entry>
+        <entry>downlo</entry>
+        <entry>\.download_file</entry>
+        <entry>file_uri</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
