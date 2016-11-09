@@ -609,6 +609,12 @@
         <mark key="." line="160" column="93" />
         <mark key="^" line="160" column="93" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/urls.py" timestamp="1478676464602">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" timestamp="1478591208287">
         <mark key="[" line="123" column="32" />
         <mark key="]" line="123" column="34" />
@@ -911,6 +917,10 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/tools.py" timestamp="1478676249993">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="84" column="36" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/webdev.sls" timestamp="1474277554807">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
@@ -943,11 +953,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/account/tools.py" timestamp="1474275759386">
-        <mark key="[" line="104" column="34" />
-        <mark key="]" line="92" column="55" />
-        <mark key="^" line="92" column="55" />
-        <mark key="." line="104" column="60" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/tools.py" timestamp="1478676238736">
+        <mark key="'" line="51" column="34" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="58" column="18" />
+        <mark key="^" line="43" column="31" />
+        <mark key="." line="53" column="44" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1478116665658">
         <mark key="'" line="461" column="31" />
@@ -1142,6 +1153,13 @@
         <mark key="]" line="33" column="44" />
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="44" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/views.py" timestamp="1478676020330">
+        <mark key="'" line="24" column="87" />
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+        <mark key="^" line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/casetype.js" timestamp="1473071185566">
         <mark key="[" line="100" column="19" />
@@ -1510,10 +1528,10 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/account/views.py" timestamp="1478673501545">
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/views.py" timestamp="1478675508537">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="523" column="30" />
-        <mark key="]" line="523" column="29" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="43" />
         <mark key="^" line="523" column="29" />
         <mark key="." line="523" column="29" />
       </file>
@@ -1636,12 +1654,11 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478674858859">
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478675333168">
         <mark key="'" line="88" column="17" />
-        <mark key="[" line="94" column="13" />
-        <mark key="]" line="94" column="7" />
-        <mark key="." line="94" column="7" />
-        <mark key="^" line="94" column="7" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/itDatacardTypesEdit.html" timestamp="1478241252541">
         <mark key="'" line="0" column="0" />
@@ -1788,16 +1805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="445" column="23" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="434" column="27" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="510" column="56" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="528" column="63" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="642" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="649" column="63" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="662" column="39" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="172" column="68" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="431" column="18" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
-      <jump line="548" column="15" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="676" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="538" column="0" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="686" column="37" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
@@ -1877,7 +1884,6 @@
       <jump line="84" column="78" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="0" column="31" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="523" column="29" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
       <jump line="104" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="54" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
@@ -1888,6 +1894,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
       <jump line="85" column="17" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="7" column="1" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
+      <jump line="27" column="38" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
+      <jump line="32" column="31" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
+      <jump line="28" column="17" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
+      <jump line="13" column="17" filename="$USER_HOME$/Italamo/italamo/apps/category/views.py" />
+      <jump line="14" column="20" filename="$USER_HOME$/Italamo/italamo/apps/category/views.py" />
+      <jump line="19" column="21" filename="$USER_HOME$/Italamo/italamo/apps/category/views.py" />
+      <jump line="43" column="31" filename="$USER_HOME$/Italamo/italamo/apps/account/tools.py" />
+      <jump line="51" column="34" filename="$USER_HOME$/Italamo/italamo/apps/account/tools.py" />
+      <jump line="23" column="87" filename="$USER_HOME$/Italamo/italamo/apps/category/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1933,8 +1950,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIGZpbGVfdXBsb2FkKHVwbG9hZGVkX2ZpbGUsIGRpcmVjdG9yeT0ib3RoZXIiKToKICAgICIiIgogICAgICAgIEdldHM6CiAgICAgICAgICAgIC0gZmlsZSB0byB1cGxvYWQKICAgICAgICAgICAgLSBkaXJlY3Rvcnkgd2l0aCBkb2N1bWVudHMKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICAtIHR1cGxlIHdpdGggZG9jdW1lbnQgcHJvcGVydGllcwogICAgIiIiCiAgICBmZCwgcGF0aCA9IHRlbXBmaWxlLm1rc3RlbXAoKQogICAgaXNfc3RyZWFtID0gaGFzYXR0cih1cGxvYWRlZF9maWxlLCAnX3N0cmVhbScpCiAgICB3aXRoIG9zLmZkb3BlbihmZCwgJ3crYicpIGFzIGY6CiAgICAgICAgaWYgaXNfc3RyZWFtOgogICAgICAgICAgICBzaHV0aWwuY29weWZpbGVvYmoodXBsb2FkZWRfZmlsZSwgZikKICAgICAgICBlbHNlOgogICAgICAgICAgICBmb3IgY2h1bmsgaW4gdXBsb2FkZWRfZmlsZS5jaHVua3MoKToKICAgICAgICAgICAgICAgIGYud3JpdGUoY2h1bmspCiAgICAgICAgZi5zZWVrKDApCiAgICAgICAgZmlsZV9oYXNoID0gaGFzaGZpbGUoZiwgaGFzaGxpYi5tZDUoKSkKICAgIGlmIGlzX3N0cmVhbToKICAgICAgICBuYW1lID0gdXBsb2FkZWRfZmlsZS5wYXRoLnNwbGl0KCcvJylbLTFdCiAgICAgICAgc2l6ZSA9IG9zLnN0YXQocGF0aCkuc3Rfc2l6ZQogICAgZWxzZToKICAgICAgICBuYW1lID0gdXBsb2FkZWRfZmlsZS5uYW1lCiAgICAgICAgc2l6ZSA9IHVwbG9hZGVkX2ZpbGUuc2l6ZQogICAgZGF0ZSA9IG1hcChzdHIsIHRpbWV6b25lLm5vdygpLnV0Y3RpbWV0dXBsZSgpWzozXSkKICAgIGZpbGVfdXJpID0gb3MucGF0aC5qb2luKGRpcmVjdG9yeSwgZGF0ZVswXSwgZGF0ZVsxXSwgZGF0ZVsyXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVfaGFzaCArIG9zLnBhdGguc3BsaXRleHQobmFtZSlbLTFdKQogICAgbmV3X3BhdGggPSBvcy5wYXRoLmpvaW4oc2V0dGluZ3MuU0VDVVJFRF9NRURJQV9ST09ULCBmaWxlX3VyaSkKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvcy5wYXRoLmRpcm5hbWUobmV3X3BhdGgpKToKICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmRpcm5hbWUobmV3X3BhdGgpLCBtb2RlPXNldHRpbmdzLkRJUl9QRVJNSVNTSU9OUykKICAgIHNodXRpbC5tb3ZlKHBhdGgsIG5ld19wYXRoKQogICAgb3MuY2htb2QobmV3X3BhdGgsIHNldHRpbmdzLkZJTEVfVVBMT0FEX1BFUk1JU1NJT05TKQogICAgcmV0dXJuIChmaWxlX3VyaSwgeydoYXNoJzogZmlsZV9oYXNoLAogICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAnc2l6ZSc6IHNpemV9KQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1949,49 +1966,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>case_csv_report</text>
       </register>
       <register name="/" type="4">
-        <text>file_uri</text>
+        <text>tena</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGF2YXRhcl91cmwoc2VsZik6CiAgICAgICAgaWYgc2VsZi5hdmF0YXJfdXJpIGlzIE5vbmUgb3Igc2VsZi5hdmF0YXJfdXJpID09ICcnOgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHJldHVybiAnLyVzLyVzJyAlIChzZXR0aW5ncy5NRURJQV9VUkwucmVwbGFjZSgnLycsICcnKSwgc2VsZi5hdmF0YXJfdXJpKQo=</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgcmVzcG9uc2UsIHN0YXR1cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBJTUFHRV9ESVJFQ1RPUlkgPSAnY2F0ZWdvcnlfaW1hZ2VzJwo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnVzZXIuc2F2ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzLlNFQwo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIgaW1wb3J0IG1vZGVscwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltYWdlID0gbW9kZWxzLkltYWdlRmllbGQoKQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdhcGkgcGFyYW1zJywgcGFyYW1zCg==</text>
+        <text encoding="base64">CiAgICBkZWYgaW1hZ2VfZmlsZV9wYXRoKHNlbGYpOgogICAgICAgIGlmIG5vdCBzZWxmLmltYWdlCiAgICAgICAgCiAgICAgICAgcmV0dXJuIG9zLnBhdGguam9pbihzZXR0aW5ncy5TRUNVUkVEX01FRElBX1JPT1QsIHNlbGYuaW1hZ2VfZmlsZV9wYXRoX3BhcnQoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICNwYXJhbXMuZGF0YWNhcmR0eXBlX2lkID0gZGF0YWNhcmR0eXBlLmlkCg==</text>
+        <text encoding="base64">CiAgICBkZWYgaW1hZ2VfZmlsZV9wYXRoX3BhcnQoc2VsZik6CiAgICAgICAgcmV0dXJuIG9zLnBhdGguam9pbihDYXRlZ29yeS5pbWFnZV91cGxvYWRfcGF0aF9wYXJ0KCksIHN0cihzZWxmLmlkKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyRzY29wZS5kYXRhY2FyZHR5cGUgPSBkYXRhY2FyZHR5cGUKICAgICAgIyRzY29wZS5kYXRhY2FyZHMgPSBkYXRhY2FyZHMK</text>
+        <text encoding="base64">CiAgICBJTUFHRV9ESVJFQ1RPUlkgPSAnY2F0ZWdvcnlfaW1hZ2VzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgI2ZpbHRlcl9zb3J0LmxvYWQgPSBsb2FkX2RhdGFjYXJkcwo=</text>
+        <text encoding="base64">ICAgIHNldHRpbmdzLlNFQwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGFjYXJkID0gJHNjb3BlLmRhdGFjYXJkc1skc2xpZGVCb3guY3VycmVudEluZGV4KCldCiAgICAgICAgICBpZiBkYXRhY2FyZAogICAgICAgICAgICAgICRzY29wZS5kYXRhY2FyZHR5cGUgPSBEYXRhY2FyZFR5cGUuZ2V0IHtpZDogZGF0YWNhcmQudHlwZX0KCg==</text>
+        <text encoding="base64">ICAgIGltYWdlID0gbW9kZWxzLkltYWdlRmllbGQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Nob3cnOiBUcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nICdhcGkgcGFyYW1zJywgcGFyYW1zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>file_uri</last-search>
+      <last-search>tena</last-search>
       <last-offset />
-      <last-pattern>file_uri</last-pattern>
+      <last-pattern>tena</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1999,13 +2016,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Within</entry>
-        <entry encoding="base64">PDw8</entry>
-        <entry>itDatac</entry>
-        <entry>itDatacard.html</entry>
-        <entry>itCategoryShow</entry>
-        <entry>category_settings</entry>
-        <entry>datacardtype</entry>
         <entry>new_datac</entry>
         <entry>CaseSel</entry>
         <entry>SelectDa</entry>
@@ -2019,6 +2029,13 @@
         <entry>downlo</entry>
         <entry>\.download_file</entry>
         <entry>file_uri</entry>
+        <entry>api</entry>
+        <entry>record_me</entry>
+        <entry>respon</entry>
+        <entry>file_up</entry>
+        <entry>avatar_f</entry>
+        <entry>settings.MED</entry>
+        <entry>tena</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
