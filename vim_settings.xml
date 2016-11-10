@@ -503,12 +503,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" timestamp="1478761110801">
-        <mark key="'" line="119" column="40" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" timestamp="1478763018185">
+        <mark key="'" line="50" column="57" />
         <mark key="[" line="280" column="0" />
-        <mark key="]" line="282" column="19" />
-        <mark key="." line="282" column="19" />
-        <mark key="^" line="282" column="19" />
+        <mark key="]" line="280" column="0" />
+        <mark key="." line="280" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/wait.coffee" timestamp="1473155493253">
         <mark key="'" line="0" column="0" />
@@ -1672,8 +1671,8 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478760113580">
-        <mark key="'" line="91" column="8" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/models.py" timestamp="1478762447535">
+        <mark key="'" line="169" column="0" />
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
         <mark key="." line="169" column="0" />
@@ -1750,11 +1749,12 @@
         <mark key="^" line="69" column="172" />
         <mark key="." line="69" column="155" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" timestamp="1478760117837">
-        <mark key="'" line="57" column="46" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/serializers.py" timestamp="1478762929122">
+        <mark key="'" line="58" column="46" />
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="31" column="42" />
+        <mark key="." line="31" column="42" />
+        <mark key="^" line="31" column="42" />
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/lib/js-ital-common/category.coffee" timestamp="1478523659412">
         <mark key="'" line="53" column="0" />
@@ -1828,8 +1828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="31" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="523" column="29" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
       <jump line="104" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
@@ -1857,7 +1855,6 @@
       <jump line="717" column="19" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="192" column="44" filename="$USER_HOME$/Italamo/caretakers/www/js/factories.coffee" />
       <jump line="54" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
-      <jump line="50" column="12" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
       <jump line="121" column="40" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/document.js" />
       <jump line="751" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/document.js" />
@@ -1928,6 +1925,9 @@
       <jump line="41" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="201" column="56" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="0" column="113" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="169" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
+      <jump line="280" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
+      <jump line="50" column="57" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1974,7 +1974,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">CiAgICAgICAgY2F0ZWdvcnkuJHJlZnJlc2ggKGRhdGEpIC0+CiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1992,46 +1992,46 @@
         <text>thumbnail</text>
       </register>
       <register name="/" type="4">
-        <text>Categ</text>
+        <text>treeH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlX3VybCc6IHNlbGYuaW1hZ2VfdXJsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">CiAgICAgICAgY2F0ZWdvcnkuJHJlZnJlc2ggKGRhdGEpIC0+CiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnaGVsbG8gZnJvbSB1cGxvYWQnCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnaGVsbG8gZnJvbSB1cGxvYWQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIG5nLWlmPSJub2RlLmltYWdlX3VybCIKICAgICAgICAgICAgIG5nLXNyYz0iL3RodW1ibmFpbHN7eyBub2RlLmltYWdlX3VybHx0aHVtYm5haWw6JzEwMHgxMDAnIH19IgogICAgICAgICAgICAgY2xhc3M9ImltZy10aHVtYm5haWwiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXNtIj4K</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIG5nLWlmPSJub2RlLmltYWdlX3VybCIKICAgICAgICAgICAgIG5nLXNyYz0iL3RodW1ibmFpbHN7eyBub2RlLmltYWdlX3VybHx0aHVtYm5haWw6JzEwMHgxMDAnIH19IgogICAgICAgICAgICAgY2xhc3M9ImltZy10aHVtYm5haWwiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRodW1ibmFpbF9iYXNlX3VybCA9IHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXJNZXRob2RGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Categ</last-search>
+      <last-search>treeH</last-search>
       <last-offset />
-      <last-pattern>Categ</last-pattern>
+      <last-pattern>treeH</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2039,8 +2039,6 @@
     </search>
     <history>
       <history-search>
-        <entry>analysis</entry>
-        <entry>importer_opt</entry>
         <entry>Mapp</entry>
         <entry>importers</entry>
         <entry>importer</entry>
@@ -2059,6 +2057,8 @@
         <entry>image_url</entry>
         <entry>category</entry>
         <entry>Categ</entry>
+        <entry>sync_t</entry>
+        <entry>treeH</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
