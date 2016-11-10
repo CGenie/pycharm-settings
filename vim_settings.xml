@@ -632,6 +632,12 @@
         <mark key="." line="160" column="93" />
         <mark key="^" line="160" column="93" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/category/urls.py" timestamp="1478679667082">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="4" column="65" />
+        <mark key="." line="4" column="65" />
+        <mark key="^" line="4" column="65" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" timestamp="1478591208287">
         <mark key="[" line="123" column="32" />
         <mark key="]" line="123" column="34" />
@@ -1515,11 +1521,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/css/dev.css" timestamp="1478764484760">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="113" />
-        <mark key="^" line="23" column="113" />
-        <mark key="." line="23" column="113" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/css/dev.css" timestamp="1478791448616">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/static/src/xml/document_viewer.xml" timestamp="1466176202617">
         <mark key="[" line="5" column="19" />
@@ -1558,11 +1564,11 @@
         <mark key="^" line="523" column="29" />
         <mark key="." line="523" column="29" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category.html" timestamp="1478765144491">
-        <mark key="[" line="30" column="56" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-category.html" timestamp="1478791526839">
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="28" column="59" />
+        <mark key="." line="28" column="59" />
+        <mark key="^" line="28" column="59" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/utils.py" timestamp="1474028081031">
         <mark key="'" line="0" column="0" />
@@ -2004,31 +2010,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlX3VybCc6IHNlbGYuaW1hZ2VfdXJsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgY2F0ZWdvcnkuJHJlZnJlc2ggKGRhdGEpIC0+CiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">LyogaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8zMjkyMTY2Ny9pb25pYy1jZW50ZXItdGV4dC12ZXJ0aWNhbGx5LWluLWl0ZW0tbGlzdC13aXRoLWl0ZW0tYXZhdGFyLWNsYXNzICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Lml0ZW0tdGV4dC1jZW50ZXIKewogICAgZGlzcGxheTogLXdlYmtpdC1ib3g7CiAgICBkaXNwbGF5OiAtd2Via2l0LWZsZXg7CiAgICBkaXNwbGF5OiAtbW96LWJveDsKICAgIGRpc3BsYXk6IC1tb3otZmxleDsKICAgIGRpc3BsYXk6IC1tcy1mbGV4Ym94OwogICAgZGlzcGxheTogZmxleDsKICAgIC13ZWJraXQtYm94LWFsaWduOiBjZW50ZXI7CiAgICAtbXMtZmxleC1hbGlnbjogY2VudGVyOwogICAgLXdlYmtpdC1hbGlnbi1pdGVtczogY2VudGVyOwogICAgLW1vei1hbGlnbi1pdGVtczogY2VudGVyOwogICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogMDsKICAgIGhlaWdodDogMTAwJTsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">CiAgICAgICAgY2F0ZWdvcnkuJHJlZnJlc2ggKGRhdGEpIC0+CiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnaGVsbG8gZnJvbSB1cGxvYWQnCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnaGVsbG8gZnJvbSB1cGxvYWQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIG5nLWlmPSJub2RlLmltYWdlX3VybCIKICAgICAgICAgICAgIG5nLXNyYz0iL3RodW1ibmFpbHN7eyBub2RlLmltYWdlX3VybHx0aHVtYm5haWw6JzEwMHgxMDAnIH19IgogICAgICAgICAgICAgY2xhc3M9ImltZy10aHVtYm5haWwiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
