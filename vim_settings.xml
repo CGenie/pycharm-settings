@@ -288,12 +288,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" timestamp="1478847580855">
-        <mark key="'" line="499" column="8" />
-        <mark key="[" line="42" column="19" />
-        <mark key="]" line="43" column="14" />
-        <mark key="^" line="43" column="14" />
-        <mark key="." line="43" column="14" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" timestamp="1478854669297">
+        <mark key="'" line="167" column="54" />
+        <mark key="[" line="167" column="41" />
+        <mark key="]" line="167" column="54" />
+        <mark key="^" line="167" column="54" />
+        <mark key="." line="167" column="54" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/account/templates/account/tenant/management.html" timestamp="1469472645966">
         <mark key="[" line="5" column="0" />
@@ -314,8 +314,8 @@
         <mark key="." line="105" column="61" />
         <mark key="^" line="105" column="61" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" timestamp="1473166187397">
-        <mark key="'" line="5" column="5" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" timestamp="1478854932806">
+        <mark key="'" line="9" column="24" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="20" column="87" />
         <mark key="." line="18" column="41" />
@@ -460,8 +460,8 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1478847777227">
-        <mark key="'" line="408" column="28" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1478855143044">
+        <mark key="'" line="408" column="26" />
         <mark key="[" line="407" column="29" />
         <mark key="]" line="408" column="28" />
         <mark key="." line="408" column="28" />
@@ -643,7 +643,8 @@
         <mark key="." line="4" column="65" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" timestamp="1478591208287">
+      <file name="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" timestamp="1478854544484">
+        <mark key="'" line="112" column="23" />
         <mark key="[" line="123" column="32" />
         <mark key="]" line="123" column="34" />
         <mark key="^" line="123" column="34" />
@@ -1156,12 +1157,11 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" timestamp="1478847766936">
-        <mark key="'" line="1088" column="16" />
-        <mark key="[" line="1149" column="30" />
-        <mark key="]" line="1152" column="29" />
-        <mark key="." line="1152" column="29" />
-        <mark key="^" line="1152" column="29" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" timestamp="1478855228532">
+        <mark key="[" line="1172" column="66" />
+        <mark key="]" line="1173" column="75" />
+        <mark key="." line="1173" column="75" />
+        <mark key="^" line="1173" column="75" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/import_helpers.py" timestamp="1473094276627">
         <mark key="'" line="254" column="78" />
@@ -1847,22 +1847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="12" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
-      <jump line="125" column="28" filename="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" />
-      <jump line="1" column="32" filename="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" />
-      <jump line="11" column="22" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_noheader.py" />
-      <jump line="72" column="34" filename="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" />
-      <jump line="80" column="27" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
-      <jump line="79" column="27" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
-      <jump line="29" column="69" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
-      <jump line="22" column="33" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
-      <jump line="2" column="45" filename="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" />
-      <jump line="202" column="52" filename="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_noheader.py" />
-      <jump line="50" column="65" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_importer.py" />
-      <jump line="95" column="58" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
       <jump line="339" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="483" column="156" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="484" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
@@ -1943,10 +1927,26 @@
       <jump line="499" column="8" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
       <jump line="51" column="8" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
       <jump line="1088" column="16" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
-      <jump line="408" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="781" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="228" column="47" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="236" column="49" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
+      <jump line="112" column="23" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
+      <jump line="435" column="8" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
+      <jump line="111" column="32" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
+      <jump line="167" column="54" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
+      <jump line="0" column="19" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
+      <jump line="1" column="23" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
+      <jump line="2" column="36" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
+      <jump line="3" column="79" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
+      <jump line="6" column="62" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
+      <jump line="8" column="20" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
+      <jump line="9" column="24" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
+      <jump line="1152" column="29" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="1001" column="82" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="144" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="408" column="26" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1992,8 +1992,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Type</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmKGZpbHRlci50eXBlID09PSAnZGF0ZScpIHsKICAgICAgICAgICAgICAgIGZpbHRlci5fdmFsdWUgPSBtb21lbnQoZmlsdGVyLnZhbHVlKS50b0RhdGUoKTsKICAgICAgICAgICAgfSAgLy8gaWYoZmlsdGVyLnR5cGUgPT09ICdkYXRlJykK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2008,49 +2008,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Type</text>
+        <text>defaults.get(codename))</text>
       </register>
       <register name="/" type="4">
-        <text>WithSt</text>
+        <text>'_'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdpc19wdWJsaWMnLAogICAgICAgICAgICAnUSc6IGxhbWJkYSByZXF1ZXN0LCBwYXJhbV92YWx1ZTogZGljdChpc19wdWJsaWM9VHJ1ZSkgaWYgcGFyYW1fdmFsdWUgPT0gJ3RydWUnIGVsc2UgZGljdCgpLAogICAgICAgICAgICAnbGFiZWwnOiBfKCdQdWJsaWMnKSwKICAgICAgICAgICAgJ3R5cGUnOiAnYm9vbGVhbicsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlci5fdmFsdWUgPSBtb21lbnQoZmlsdGVyLnZhbHVlKS50b0RhdGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmKGZpbHRlci50eXBlID09PSAnZGF0ZScpIHsKICAgICAgICAgICAgICAgIGZpbHRlci5fdmFsdWUgPSBtb21lbnQoZmlsdGVyLnZhbHVlKS50b0RhdGUoKTsKICAgICAgICAgICAgfSAgLy8gaWYoZmlsdGVyLnR5cGUgPT09ICdkYXRlJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZmlsdGVyLnR5cGUgPT0gJ3JlbGF0aW9uJykgewogICAgICAgICAgICAgICAgdmFyIHJlbGF0ZWRUbyA9IGZpbHRlci5yZWxhdGVkX3RvOwogICAgICAgICAgICAgICAgdmFyIG1vZGVsID0gbnVsbDsKICAgICAgICAgICAgICAgIHN3aXRjaChyZWxhdGVkVG8pIHsKICAgICAgICAgICAgICAgICAgICBjYXNlICdjYXNlLkNhc2VUeXBlJzoKICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWwgPSAkaW5qZWN0b3IuZ2V0KCdDYXNlVHlwZScpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICdkYXRhY2FyZC5EYXRhY2FyZEltcG9ydE1hcHBpbmcnOgogICAgICAgICAgICAgICAgICAgICAgICBtb2RlbCA9ICRpbmplY3Rvci5nZXQoJ0RhdGFjYXJkSW1wb3J0TWFwcGluZycpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBFcnJvcignTW9kZWwgJyArIHJlbGF0ZWRUbyArICcgbm90IHN1cHBvcnRlZCcpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZmlsdGVyLm9iamVjdHMgPSBuZXcgUGFnaW5hdG9yKG1vZGVsLCAncXVlcnknLCB7ZGVmYXVsdHM6ICdfJ30pOwogICAgICAgICAgICAgICAgZmlsdGVyLl92YWx1ZSA9IG51bGw7CiAgICAgICAgICAgICAgICBmaWx0ZXIub2JqZWN0cy5sb2FkX2FsbCgpLnRoZW4oZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgdmFyIHZhbHVlID0gZmlsdGVyLnZhbHVlIHx8IGZpbHRlci5kZWZhdWx0OwogICAgICAgICAgICAgICAgICAgIGlmKHZhbHVlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGZvcih2YXIgaSBpbiBmaWx0ZXIub2JqZWN0cykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYoZmlsdGVyLm9iamVjdHNbaV0uaWQgPT0gdmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWx0ZXIuX3ZhbHVlID0gZmlsdGVyLm9iamVjdHNbaV07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8zMjkyMTY2Ny9pb25pYy1jZW50ZXItdGV4dC12ZXJ0aWNhbGx5LWluLWl0ZW0tbGlzdC13aXRoLWl0ZW0tYXZhdGFyLWNsYXNzICovCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmKGZpbHRlci50eXBlID09PSAndGV4dCcpIHsKICAgICAgICAgICAgICAgIHNjb3BlLnRleHRfZmlsdGVyID0gZmlsdGVyOwoKICAgICAgICAgICAgICAgIC8vIFRPRE86IHdvdWxkIGxvb2sgbmljZXIgd2l0aCBSeEpzIG9ic2VydmVycyA6KQogICAgICAgICAgICAgICAgc2NvcGUuJHdhdGNoKCd0ZXh0X2ZpbHRlci52YWx1ZScsIGZ1bmN0aW9uKG5ld1ZhbCwgb2xkVmFsKSB7CiAgICAgICAgICAgICAgICAgICAgaWYobmV3VmFsID09PSBvbGRWYWwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgdmFyIGFmdGVyVGltZW91dCA9IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgICAgICBpZihzY29wZS50ZXh0X2ZpbHRlci52YWx1ZSA9PSBuZXdWYWwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjb3BlLmNoYW5nZV9maWx0ZXIoc2NvcGUudGV4dF9maWx0ZXIpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICAgICAgJHRpbWVvdXQoYWZ0ZXJUaW1lb3V0LCAzMDApOwogICAgICAgICAgICAgICAgfSk7ICAvLyBzY29wZS4kd2F0Y2gKICAgICAgICAgICAgfSAgLy8gaWYoZmlsdGVyLnR5cGUgPT09ICd0ZXh0JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lml0ZW0tdGV4dC1jZW50ZXIKewogICAgZGlzcGxheTogLXdlYmtpdC1ib3g7CiAgICBkaXNwbGF5OiAtd2Via2l0LWZsZXg7CiAgICBkaXNwbGF5OiAtbW96LWJveDsKICAgIGRpc3BsYXk6IC1tb3otZmxleDsKICAgIGRpc3BsYXk6IC1tcy1mbGV4Ym94OwogICAgZGlzcGxheTogZmxleDsKICAgIC13ZWJraXQtYm94LWFsaWduOiBjZW50ZXI7CiAgICAtbXMtZmxleC1hbGlnbjogY2VudGVyOwogICAgLXdlYmtpdC1hbGlnbi1pdGVtczogY2VudGVyOwogICAgLW1vei1hbGlnbi1pdGVtczogY2VudGVyOwogICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogMDsKICAgIGhlaWdodDogMTAwJTsKfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgY2F0ZWdvcnkuJHJlZnJlc2ggKGRhdGEpIC0+CiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyogaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8zMjkyMTY2Ny9pb25pYy1jZW50ZXItdGV4dC12ZXJ0aWNhbGx5LWluLWl0ZW0tbGlzdC13aXRoLWl0ZW0tYXZhdGFyLWNsYXNzICovCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Lml0ZW0tdGV4dC1jZW50ZXIKewogICAgZGlzcGxheTogLXdlYmtpdC1ib3g7CiAgICBkaXNwbGF5OiAtd2Via2l0LWZsZXg7CiAgICBkaXNwbGF5OiAtbW96LWJveDsKICAgIGRpc3BsYXk6IC1tb3otZmxleDsKICAgIGRpc3BsYXk6IC1tcy1mbGV4Ym94OwogICAgZGlzcGxheTogZmxleDsKICAgIC13ZWJraXQtYm94LWFsaWduOiBjZW50ZXI7CiAgICAtbXMtZmxleC1hbGlnbjogY2VudGVyOwogICAgLXdlYmtpdC1hbGlnbi1pdGVtczogY2VudGVyOwogICAgLW1vei1hbGlnbi1pdGVtczogY2VudGVyOwogICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogMDsKICAgIGhlaWdodDogMTAwJTsKfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgY2F0ZWdvcnkuJHJlZnJlc2ggKGRhdGEpIC0+CiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnaGVsbG8gZnJvbSB1cGxvYWQnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>WithSt</last-search>
+      <last-search>'_'</last-search>
       <last-offset />
-      <last-pattern>WithSt</last-pattern>
+      <last-pattern>'_'</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2058,11 +2058,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'thumb</entry>
-        <entry>image_url</entry>
-        <entry>category</entry>
-        <entry>Categ</entry>
-        <entry>sync_t</entry>
         <entry>treeH</entry>
         <entry>CaseCategoryC</entry>
         <entry>WEB</entry>
@@ -2078,6 +2073,11 @@
         <entry>DatacardTypeShow</entry>
         <entry>relation</entry>
         <entry>WithSt</entry>
+        <entry>defaults</entry>
+        <entry>filter</entry>
+        <entry>_value</entry>
+        <entry>defaults:</entry>
+        <entry>'_'</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
