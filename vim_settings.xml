@@ -22,12 +22,12 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="60" column="70" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" timestamp="1478694970914">
-        <mark key="'" line="50" column="21" />
-        <mark key="[" line="91" column="60" />
-        <mark key="]" line="93" column="38" />
-        <mark key="^" line="93" column="38" />
-        <mark key="." line="93" column="38" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" timestamp="1478846384423">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="122" column="40" />
+        <mark key="]" line="123" column="48" />
+        <mark key="^" line="123" column="48" />
+        <mark key="." line="123" column="48" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/odoo/serializers.py" timestamp="1465970484078">
         <mark key="[" line="8" column="37" />
@@ -54,6 +54,9 @@
         <mark key="]" line="12" column="30" />
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/filter_context.html" timestamp="1478847401924">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/templates/admin-table.html" timestamp="1469290505087">
         <mark key="'" line="53" column="86" />
@@ -132,8 +135,8 @@
         <mark key="." line="25" column="22" />
         <mark key="^" line="25" column="22" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/import-uploaded-file.html" timestamp="1478695695004">
-        <mark key="'" line="17" column="56" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/import-uploaded-file.html" timestamp="1478845995497">
+        <mark key="'" line="50" column="32" />
         <mark key="[" line="44" column="69" />
         <mark key="]" line="44" column="69" />
         <mark key="." line="44" column="69" />
@@ -151,8 +154,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478635029552">
-        <mark key="'" line="789" column="19" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478848100528">
+        <mark key="'" line="236" column="49" />
         <mark key="[" line="839" column="36" />
         <mark key="]" line="840" column="12" />
         <mark key="." line="840" column="12" />
@@ -285,7 +288,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" timestamp="1478692897508">
+      <file name="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" timestamp="1478847580855">
         <mark key="'" line="499" column="8" />
         <mark key="[" line="42" column="19" />
         <mark key="]" line="43" column="14" />
@@ -304,8 +307,8 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" timestamp="1478690495310">
-        <mark key="'" line="72" column="34" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" timestamp="1478846394070">
+        <mark key="'" line="105" column="61" />
         <mark key="[" line="103" column="83" />
         <mark key="]" line="105" column="61" />
         <mark key="." line="105" column="61" />
@@ -457,12 +460,12 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1478761039259">
-        <mark key="'" line="0" column="113" />
-        <mark key="[" line="99" column="29" />
-        <mark key="]" line="99" column="29" />
-        <mark key="." line="99" column="29" />
-        <mark key="^" line="99" column="29" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1478847777227">
+        <mark key="'" line="408" column="28" />
+        <mark key="[" line="407" column="29" />
+        <mark key="]" line="408" column="28" />
+        <mark key="." line="408" column="28" />
+        <mark key="^" line="408" column="28" />
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478764124476">
         <mark key="'" line="0" column="0" />
@@ -484,12 +487,12 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" timestamp="1478694000128">
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" timestamp="1478847116440">
         <mark key="'" line="109" column="72" />
-        <mark key="[" line="109" column="55" />
-        <mark key="]" line="109" column="72" />
-        <mark key="^" line="109" column="72" />
-        <mark key="." line="109" column="72" />
+        <mark key="[" line="140" column="41" />
+        <mark key="]" line="141" column="20" />
+        <mark key="." line="141" column="20" />
+        <mark key="^" line="141" column="20" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/docker/docker-compose.yaml" timestamp="1474039673768">
         <mark key="[" line="35" column="16" />
@@ -594,10 +597,12 @@
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" timestamp="1478690985428">
-        <mark key="'" line="202" column="52" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="55" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" timestamp="1478847720466">
+        <mark key="'" line="209" column="52" />
+        <mark key="[" line="171" column="35" />
+        <mark key="]" line="171" column="35" />
+        <mark key="." line="171" column="35" />
+        <mark key="^" line="131" column="37" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/cache.py" timestamp="1470983416929">
         <mark key="'" line="46" column="12" />
@@ -1066,12 +1071,12 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="8" column="80" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/serializers.py" timestamp="1478695886434">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="32" column="45" />
-        <mark key="." line="32" column="45" />
-        <mark key="^" line="32" column="45" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/datacard/serializers.py" timestamp="1478847868477">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="31" column="96" />
+        <mark key="." line="31" column="96" />
+        <mark key="^" line="31" column="96" />
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/templates/directives/itCategoryTreeChooserModal.html" timestamp="1470039937914">
         <mark key="'" line="18" column="68" />
@@ -1151,11 +1156,12 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" timestamp="1478759798592">
-        <mark key="'" line="247" column="0" />
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="90" />
-        <mark key="." line="1229" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" timestamp="1478847766936">
+        <mark key="'" line="1088" column="16" />
+        <mark key="[" line="1149" column="30" />
+        <mark key="]" line="1152" column="29" />
+        <mark key="." line="1152" column="29" />
+        <mark key="^" line="1152" column="29" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/import_helpers.py" timestamp="1473094276627">
         <mark key="'" line="254" column="78" />
@@ -1422,11 +1428,12 @@
         <mark key="^" line="59" column="27" />
         <mark key="." line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacard/itDatacard.html" timestamp="1478637706360">
-        <mark key="'" line="9" column="24" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacard/itDatacard.html" timestamp="1478846643568">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="1" column="135" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/italamo_res_partner/models/res_partner.py" timestamp="1476854160650">
         <mark key="[" line="29" column="0" />
@@ -1840,39 +1847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
-      <jump line="50" column="13" filename="$USER_HOME$/Italamo/italamo/lib/litcloudconverter/api.py" />
-      <jump line="667" column="14" filename="$USER_HOME$/Italamo/italamo/apps/document/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
-      <jump line="85" column="17" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="7" column="1" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
-      <jump line="27" column="38" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
-      <jump line="32" column="31" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
-      <jump line="28" column="17" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/views.py" />
-      <jump line="13" column="17" filename="$USER_HOME$/Italamo/italamo/apps/category/views.py" />
-      <jump line="14" column="20" filename="$USER_HOME$/Italamo/italamo/apps/category/views.py" />
-      <jump line="19" column="21" filename="$USER_HOME$/Italamo/italamo/apps/category/views.py" />
-      <jump line="43" column="31" filename="$USER_HOME$/Italamo/italamo/apps/account/tools.py" />
-      <jump line="51" column="34" filename="$USER_HOME$/Italamo/italamo/apps/account/tools.py" />
-      <jump line="23" column="87" filename="$USER_HOME$/Italamo/italamo/apps/category/views.py" />
-      <jump line="1128" column="22" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
-      <jump line="693" column="11" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
-      <jump line="717" column="19" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
-      <jump line="192" column="44" filename="$USER_HOME$/Italamo/caretakers/www/js/factories.coffee" />
-      <jump line="54" column="4" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
-      <jump line="121" column="40" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/document.js" />
-      <jump line="751" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/document.js" />
-      <jump line="762" column="46" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/document.js" />
-      <jump line="780" column="50" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/document.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="101" column="18" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="102" column="40" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="106" column="70" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/case/rpc.py" />
       <jump line="133" column="12" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
       <jump line="125" column="28" filename="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/api.py" />
@@ -1909,7 +1883,6 @@
       <jump line="7" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
       <jump line="43" column="14" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
-      <jump line="499" column="8" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
       <jump line="54" column="38" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
       <jump line="157" column="72" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
@@ -1931,7 +1904,6 @@
       <jump line="91" column="8" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="99" column="29" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="41" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
-      <jump line="201" column="56" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="0" column="113" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="169" column="0" filename="$USER_HOME$/Italamo/italamo/apps/category/models.py" />
       <jump line="280" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/category.coffee" />
@@ -1940,6 +1912,41 @@
       <jump line="1064" column="39" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
       <jump line="143" column="88" filename="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" />
+      <jump line="201" column="56" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="206" column="66" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="449" column="11" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="452" column="58" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="453" column="78" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="44" column="69" filename="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/import-uploaded-file.html" />
+      <jump line="50" column="32" filename="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/import-uploaded-file.html" />
+      <jump line="577" column="17" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="494" column="8" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="571" column="35" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="576" column="9" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="122" column="41" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="39" column="8" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
+      <jump line="105" column="61" filename="$USER_HOME$/Italamo/italamo/apps/datacard/models.py" />
+      <jump line="532" column="8" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="1395" column="30" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="1473" column="10" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="1488" column="66" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="1490" column="30" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="1513" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="1539" column="19" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="1555" column="31" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/partials/filter_context.html" />
+      <jump line="603" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="49" column="8" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="456" column="46" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
+      <jump line="42" column="9" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
+      <jump line="499" column="8" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/Italamo/italamo/lib/api_filter_sort_mixin.py" />
+      <jump line="1088" column="16" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
+      <jump line="408" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="781" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="228" column="47" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="236" column="49" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1986,7 +1993,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>avatar</text>
+        <text>Type</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2001,49 +2008,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>avatar</text>
+        <text>Type</text>
       </register>
       <register name="/" type="4">
-        <text>WEB</text>
+        <text>WithSt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlX3VybCc6IHNlbGYuaW1hZ2VfdXJsLAo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdjb2RlbmFtZSc6ICdpc19wdWJsaWMnLAogICAgICAgICAgICAnUSc6IGxhbWJkYSByZXF1ZXN0LCBwYXJhbV92YWx1ZTogZGljdChpc19wdWJsaWM9VHJ1ZSkgaWYgcGFyYW1fdmFsdWUgPT0gJ3RydWUnIGVsc2UgZGljdCgpLAogICAgICAgICAgICAnbGFiZWwnOiBfKCdQdWJsaWMnKSwKICAgICAgICAgICAgJ3R5cGUnOiAnYm9vbGVhbicsCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8zMjkyMTY2Ny9pb25pYy1jZW50ZXItdGV4dC12ZXJ0aWNhbGx5LWluLWl0ZW0tbGlzdC13aXRoLWl0ZW0tYXZhdGFyLWNsYXNzICovCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Lml0ZW0tdGV4dC1jZW50ZXIKewogICAgZGlzcGxheTogLXdlYmtpdC1ib3g7CiAgICBkaXNwbGF5OiAtd2Via2l0LWZsZXg7CiAgICBkaXNwbGF5OiAtbW96LWJveDsKICAgIGRpc3BsYXk6IC1tb3otZmxleDsKICAgIGRpc3BsYXk6IC1tcy1mbGV4Ym94OwogICAgZGlzcGxheTogZmxleDsKICAgIC13ZWJraXQtYm94LWFsaWduOiBjZW50ZXI7CiAgICAtbXMtZmxleC1hbGlnbjogY2VudGVyOwogICAgLXdlYmtpdC1hbGlnbi1pdGVtczogY2VudGVyOwogICAgLW1vei1hbGlnbi1pdGVtczogY2VudGVyOwogICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogMDsKICAgIGhlaWdodDogMTAwJTsKfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgY2F0ZWdvcnkuJHJlZnJlc2ggKGRhdGEpIC0+CiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyogaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8zMjkyMTY2Ny9pb25pYy1jZW50ZXItdGV4dC12ZXJ0aWNhbGx5LWluLWl0ZW0tbGlzdC13aXRoLWl0ZW0tYXZhdGFyLWNsYXNzICovCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Lml0ZW0tdGV4dC1jZW50ZXIKewogICAgZGlzcGxheTogLXdlYmtpdC1ib3g7CiAgICBkaXNwbGF5OiAtd2Via2l0LWZsZXg7CiAgICBkaXNwbGF5OiAtbW96LWJveDsKICAgIGRpc3BsYXk6IC1tb3otZmxleDsKICAgIGRpc3BsYXk6IC1tcy1mbGV4Ym94OwogICAgZGlzcGxheTogZmxleDsKICAgIC13ZWJraXQtYm94LWFsaWduOiBjZW50ZXI7CiAgICAtbXMtZmxleC1hbGlnbjogY2VudGVyOwogICAgLXdlYmtpdC1hbGlnbi1pdGVtczogY2VudGVyOwogICAgLW1vei1hbGlnbi1pdGVtczogY2VudGVyOwogICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogMDsKICAgIGhlaWdodDogMTAwJTsKfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgY2F0ZWdvcnkuJHJlZnJlc2ggKGRhdGEpIC0+CiAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnaGVsbG8gZnJvbSB1cGxvYWQnCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyAnaGVsbG8gZnJvbSB1cGxvYWQnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>WEB</last-search>
+      <last-search>WithSt</last-search>
       <last-offset />
-      <last-pattern>WEB</last-pattern>
+      <last-pattern>WithSt</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2051,18 +2058,6 @@
     </search>
     <history>
       <history-search>
-        <entry>importer</entry>
-        <entry>helper.importer</entry>
-        <entry>analyze_im</entry>
-        <entry>importers':</entry>
-        <entry>label</entry>
-        <entry>map_items</entry>
-        <entry>map_it</entry>
-        <entry>option-</entry>
-        <entry>importer_codename</entry>
-        <entry>timest</entry>
-        <entry>console.log</entry>
-        <entry>def image_url</entry>
         <entry>'thumb</entry>
         <entry>image_url</entry>
         <entry>category</entry>
@@ -2071,6 +2066,18 @@
         <entry>treeH</entry>
         <entry>CaseCategoryC</entry>
         <entry>WEB</entry>
+        <entry>save</entry>
+        <entry>new_</entry>
+        <entry>new_mapping_c</entry>
+        <entry>\.save</entry>
+        <entry>uploaded_file_im</entry>
+        <entry>def save(</entry>
+        <entry>filterSort</entry>
+        <entry>FilterSort</entry>
+        <entry>text</entry>
+        <entry>DatacardTypeShow</entry>
+        <entry>relation</entry>
+        <entry>WithSt</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
