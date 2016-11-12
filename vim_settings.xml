@@ -203,8 +203,8 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" timestamp="1477306498783">
-        <mark key="'" line="65" column="24" />
+      <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" timestamp="1478937137320">
+        <mark key="'" line="123" column="0" />
         <mark key="[" line="122" column="8" />
         <mark key="]" line="122" column="8" />
         <mark key="." line="122" column="8" />
@@ -1847,7 +1847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="483" column="156" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="484" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="94" column="20" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
@@ -1947,6 +1946,7 @@
       <jump line="1001" column="82" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
       <jump line="144" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="408" column="26" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="123" column="0" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
