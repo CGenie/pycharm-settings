@@ -1703,8 +1703,8 @@
         <mark key="." line="0" column="57" />
         <mark key="^" line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1478333164272">
-        <mark key="'" line="290" column="37" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" timestamp="1479125979020">
+        <mark key="'" line="396" column="7" />
         <mark key="[" line="412" column="61" />
         <mark key="]" line="412" column="73" />
         <mark key="." line="412" column="73" />
@@ -1847,7 +1847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="483" column="156" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="484" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="94" column="20" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="487" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
@@ -1947,6 +1946,7 @@
       <jump line="144" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="408" column="26" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="123" column="0" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" />
+      <jump line="396" column="7" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2011,7 +2011,7 @@
         <text>defaults.get(codename))</text>
       </register>
       <register name="/" type="4">
-        <text>'_'</text>
+        <text>set_order_paid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlci5fdmFsdWUgPSBtb21lbnQoZmlsdGVyLnZhbHVlKS50b0RhdGUoKTsK</text>
@@ -2048,9 +2048,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'_'</last-search>
+      <last-search>set_order_paid</last-search>
       <last-offset />
-      <last-pattern>'_'</last-pattern>
+      <last-pattern>set_order_paid</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2058,7 +2058,6 @@
     </search>
     <history>
       <history-search>
-        <entry>treeH</entry>
         <entry>CaseCategoryC</entry>
         <entry>WEB</entry>
         <entry>save</entry>
@@ -2078,6 +2077,7 @@
         <entry>_value</entry>
         <entry>defaults:</entry>
         <entry>'_'</entry>
+        <entry>set_order_paid</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
