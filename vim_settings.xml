@@ -275,6 +275,13 @@
         <mark key="." line="141" column="20" />
         <mark key="^" line="141" column="20" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/main.js" timestamp="1479202677395">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="51" />
+        <mark key="." line="21" column="51" />
+        <mark key="^" line="21" column="51" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/js-ital-common/wait.coffee" timestamp="1473155493253">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="0" />
@@ -401,12 +408,12 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="122" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/partials/toolbar.html" timestamp="1479199098462">
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/toolbar.html" timestamp="1479203107285">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="162" column="61" />
-        <mark key="]" line="162" column="60" />
-        <mark key="." line="162" column="60" />
-        <mark key="^" line="162" column="60" />
+        <mark key="[" line="162" column="46" />
+        <mark key="]" line="162" column="54" />
+        <mark key="." line="162" column="54" />
+        <mark key="^" line="162" column="54" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/casetype/edit.html" timestamp="1470119379518">
         <mark key="'" line="0" column="0" />
@@ -967,7 +974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
       <jump line="50" column="21" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/base.py" />
       <jump line="109" column="72" filename="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" />
       <jump line="63" column="17" filename="$USER_HOME$/Italamo/italamo/apps/datacard/importers/csv_noheader.py" />
@@ -1067,6 +1073,7 @@
       <jump line="152" column="48" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/base_urls.js" />
       <jump line="153" column="24" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/base_urls.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/serializers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/main.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1112,8 +1119,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aDQgY2xhc3M9IndpZGUtb25seSI+PGkgY2xhc3M9ImZhIGZhLXBlbmNpbC1zcXVhcmUtbyI+PC9pPnt7OjogJ1JlcG9ydHMgJiBHcmFwaHMnfHRyYW5zbGF0ZSB9fTwvaDQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>square</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1128,10 +1135,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>square</text>
       </register>
       <register name="/" type="4">
-        <text>Sett</text>
+        <text>translatePro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmJnLWRvY3RlbXBsYXRlcwoKICBiYWNrZ3JvdW5kLWNvbG9yOiAjNTc4Q0I1IWltcG9ydGFudAo=</text>
@@ -1168,9 +1175,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Sett</last-search>
+      <last-search>translatePro</last-search>
       <last-offset />
-      <last-pattern>Sett</last-pattern>
+      <last-pattern>translatePro</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1178,7 +1185,6 @@
     </search>
     <history>
       <history-search>
-        <entry>text</entry>
         <entry>DatacardTypeShow</entry>
         <entry>relation</entry>
         <entry>WithSt</entry>
@@ -1198,6 +1204,7 @@
         <entry>toolbar.html</entry>
         <entry>ToolbarContr</entry>
         <entry>Sett</entry>
+        <entry>translatePro</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
