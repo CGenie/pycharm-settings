@@ -105,6 +105,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" timestamp="1479283157834">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/invoice_workflows.xml" timestamp="1476192971625">
         <mark key="[" line="56" column="46" />
         <mark key="]" line="56" column="49" />
@@ -184,6 +187,11 @@
         <mark key="]" line="27" column="63" />
         <mark key="." line="27" column="63" />
         <mark key="^" line="27" column="63" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/datepicker.js" timestamp="1479283689698">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/account/migrations/0014_tenantsettings_max_categories_num.py" timestamp="1477896901101">
         <mark key="[" line="9" column="46" />
@@ -512,6 +520,12 @@
         <mark key="^" line="30" column="46" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/index.html" timestamp="1479283476934">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/vagrants/Vagrantfile_common" timestamp="1474278568045">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="28" />
@@ -570,6 +584,10 @@
         <mark key="]" line="608" column="71" />
         <mark key="." line="608" column="71" />
         <mark key="^" line="608" column="71" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/README.md" timestamp="1479282304058">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="108" column="51" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/category/migrations/0004_category_default.py" timestamp="1478175294866">
         <mark key="[" line="27" column="10" />
@@ -1790,8 +1808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="24" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
-      <jump line="1152" column="29" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
       <jump line="1001" column="82" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
       <jump line="144" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="408" column="26" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
@@ -1890,6 +1906,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" />
       <jump line="6" column="260" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="654" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1936,7 +1954,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBqb3VybmFsX2lkcy5leGlzdHM6CiAgICAgICAgICAgIHJldHVybiBqb3VybmFsX2lkc1swXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1951,40 +1969,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_tameson</text>
+        <text>'ui.bootstrap.datepicker'</text>
       </register>
       <register name="/" type="4">
         <text>Datepi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii8vdFtAdC1jYWxsPSdyZXBvcnQuZXh0ZXJuYWxfbGF5b3V0X2hlYWRlciddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InQtY2FsbCI+dGFtZXNvbi5leHRlcm5hbF9sYXlvdXRfaGVhZGVyPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgIDwveHBhdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgZGF0ZXBpY2tlciBmcm9tICdzcmMvZGF0ZXBpY2tlcic7CgogICAgICAgIHZhciBhcHAgPSBhbmd1bGFyLm1vZHVsZSgnYXBwJywgW2RhdGVwaWNrZXJdKTsKCiAgICAgICAgYXBwLmNvbnRyb2xsZXIoJ0NvbnRyb2xsZXInLCBmdW5jdGlvbigkc2NvcGUpIHsKICAgICAgICAgICAgJHNjb3BlLmRhdGUxID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgJHNjb3BlLmRhdGUyID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgJHNjb3BlLmRhdGVzID0gWyRzY29wZS5kYXRlMSwgJHNjb3BlLmRhdGUyXTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBqb3VybmFsX2lkcy5leGlzdHM6CiAgICAgICAgICAgIHJldHVybiBqb3VybmFsX2lkc1swXQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC94cGF0aD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii8qIiBwb3NpdGlvbj0icmVwbGFjZSI+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW5oZXJpdF9pZD0icmVwb3J0LmV4dGVybmFsX2xheW91dCIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0idC1jYWxsIj50YW1lc29uLmV4dGVybmFsX2xheW91dF9oZWFkZXI8L2F0dHJpYnV0ZT4KICAgICAgICAgICAgPC94cGF0aD4KICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii8vdFtAdC1jYWxsPSdyZXBvcnQuZXh0ZXJuYWxfbGF5b3V0X2Zvb3RlciddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InQtY2FsbCI+dGFtZXNvbi5leHRlcm5hbF9sYXlvdXRfZm9vdGVyPC9hdHRyaWJ1dGU+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9iYWJlbCI+CiAgICAgICAgaW1wb3J0IGRhdGVwaWNrZXIgZnJvbSAnc3JjL2RhdGVwaWNrZXInOwoKICAgICAgICB2YXIgYXBwID0gYW5ndWxhci5tb2R1bGUoJ2FwcCcsIFtkYXRlcGlja2VyXSk7CgogICAgICAgIGFwcC5jb250cm9sbGVyKCdDb250cm9sbGVyJywgZnVuY3Rpb24oJHNjb3BlKSB7CiAgICAgICAgICAgICRzY29wZS5kYXRlMSA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICRzY29wZS5kYXRlMiA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICRzY29wZS5kYXRlcyA9IFskc2NvcGUuZGF0ZTEsICRzY29wZS5kYXRlMl07CiAgICAgICAgfSk7CiAgICA8L3NjcmlwdD4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGRhdGVwaWNrZXIgZnJvbSAnc3JjL2RhdGVwaWNrZXInOwoKYW5ndWxhci5tb2R1bGUoJ215TW9kdWxlJywgW2RhdGVwaWNrZXJdKTsKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzcmMvZGF0ZXBpY2tlci9kYXRlcGlja2VyLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzcmMvZGF0ZXBhcnNlci9kYXRlcGFyc2VyLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8dWliLWRhdGVwaWNrZXIgbmctcmVwZWF0PSIiCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgaWQ9ImV4dGVybmFsXyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii8vdFtAdC1jYWxsPSdzdG9jay5leHRlcm5hbF9sYXlvdXRfaGVhZGVyX2JhcmNvZGVfcmlnaHQnXSIgcG9zaXRpb249ImF0dHJpYnV0ZXMiPgogICAgICAgICAgICAgICAgPGF0dHJpYnV0ZSBuYW1lPSJ0LWNhbGwiPnRhbWVzb24uZXh0ZXJuYWxfbGF5b3V0X2hlYWRlcjwvYXR0cmlidXRlPgogICAgICAgICAgICA8L3hwYXRoPgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgZGF0ZXBpY2tlciBmcm9tICdzcmMvZGF0ZXBpY2tlcic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
