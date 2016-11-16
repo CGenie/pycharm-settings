@@ -648,12 +648,12 @@
         <mark key="." line="4" column="65" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" timestamp="1478854544484">
-        <mark key="'" line="112" column="23" />
-        <mark key="[" line="123" column="32" />
-        <mark key="]" line="123" column="34" />
-        <mark key="^" line="123" column="34" />
-        <mark key="." line="123" column="34" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" timestamp="1479286306035">
+        <mark key="'" line="113" column="36" />
+        <mark key="[" line="113" column="28" />
+        <mark key="]" line="113" column="36" />
+        <mark key="^" line="113" column="36" />
+        <mark key="." line="113" column="36" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/converters/images.py" timestamp="1474107695451">
         <mark key="'" line="39" column="21" />
@@ -1539,6 +1539,11 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/addons/timerecord/api.py" timestamp="1479286196308">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="47" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/account/views.py" timestamp="1478675508537">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="0" />
@@ -1808,10 +1813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1001" column="82" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
-      <jump line="144" column="28" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
-      <jump line="408" column="26" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
-      <jump line="123" column="0" filename="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" />
       <jump line="396" column="7" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="566" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
       <jump line="1253" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
@@ -1908,6 +1909,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
       <jump line="654" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="88" column="16" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
+      <jump line="1" column="65" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Italamo/italamo/addons/timerecord/api.py" />
+      <jump line="113" column="36" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1954,7 +1959,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>uib-datepicker</text>
+        <text>TimeRecord</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1969,13 +1974,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>uib-datepicker</text>
+        <text>TimeRecord</text>
       </register>
       <register name="/" type="4">
-        <text>Datepi</text>
+        <text>IsTim</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJkYXRlcGlja2VyLS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChJc1RpbWVSZWNvcmRFbmFibGVkLCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZ3VsYXIgZnJvbSAnLi9hbmd1bGFyJwo=</text>
@@ -2009,9 +2014,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Datepi</last-search>
+      <last-search>IsTim</last-search>
       <last-offset />
-      <last-pattern>Datepi</last-pattern>
+      <last-pattern>IsTim</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2019,7 +2024,6 @@
     </search>
     <history>
       <history-search>
-        <entry>report_invoice</entry>
         <entry>external_layout_head</entry>
         <entry>tameson\.</entry>
         <entry>inherit</entry>
@@ -2039,6 +2043,7 @@
         <entry>def get_deliveries</entry>
         <entry>datepic</entry>
         <entry>Datepi</entry>
+        <entry>IsTim</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
