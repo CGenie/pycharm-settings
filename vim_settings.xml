@@ -188,10 +188,11 @@
         <mark key="." line="27" column="63" />
         <mark key="^" line="27" column="63" />
       </file>
-      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/datepicker.js" timestamp="1479283689698">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/datepicker.js" timestamp="1479284662803">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/account/migrations/0014_tenantsettings_max_categories_num.py" timestamp="1477896901101">
         <mark key="[" line="9" column="46" />
@@ -520,11 +521,11 @@
         <mark key="^" line="30" column="46" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/index.html" timestamp="1479283476934">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/index.html" timestamp="1479284666183">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/vagrants/Vagrantfile_common" timestamp="1474278568045">
         <mark key="[" line="3" column="0" />
@@ -1954,7 +1955,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhbmd1bGFyLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1969,7 +1970,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'ui.bootstrap.datepicker'</text>
+        <text>compiled</text>
       </register>
       <register name="/" type="4">
         <text>Datepi</text>
@@ -1978,31 +1979,31 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgZGF0ZXBpY2tlciBmcm9tICdzcmMvZGF0ZXBpY2tlcic7CgogICAgICAgIHZhciBhcHAgPSBhbmd1bGFyLm1vZHVsZSgnYXBwJywgW2RhdGVwaWNrZXJdKTsKCiAgICAgICAgYXBwLmNvbnRyb2xsZXIoJ0NvbnRyb2xsZXInLCBmdW5jdGlvbigkc2NvcGUpIHsKICAgICAgICAgICAgJHNjb3BlLmRhdGUxID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgJHNjb3BlLmRhdGUyID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgJHNjb3BlLmRhdGVzID0gWyRzY29wZS5kYXRlMSwgJHNjb3BlLmRhdGUyXTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhbmd1bGFyLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9iYWJlbCI+CiAgICAgICAgaW1wb3J0IGRhdGVwaWNrZXIgZnJvbSAnc3JjL2RhdGVwaWNrZXInOwoKICAgICAgICB2YXIgYXBwID0gYW5ndWxhci5tb2R1bGUoJ2FwcCcsIFtkYXRlcGlja2VyXSk7CgogICAgICAgIGFwcC5jb250cm9sbGVyKCdDb250cm9sbGVyJywgZnVuY3Rpb24oJHNjb3BlKSB7CiAgICAgICAgICAgICRzY29wZS5kYXRlMSA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICRzY29wZS5kYXRlMiA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICRzY29wZS5kYXRlcyA9IFskc2NvcGUuZGF0ZTEsICRzY29wZS5kYXRlMl07CiAgICAgICAgfSk7CiAgICA8L3NjcmlwdD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGVwaWNrZXIgZnJvbSAnc3JjL2RhdGVwaWNrZXInOwoKYW5ndWxhci5tb2R1bGUoJ215TW9kdWxlJywgW2RhdGVwaWNrZXJdKTsKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzcmMvZGF0ZXBpY2tlci9kYXRlcGlja2VyLmpzIj48L3NjcmlwdD4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzcmMvZGF0ZXBhcnNlci9kYXRlcGFyc2VyLmpzIj48L3NjcmlwdD4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dWliLWRhdGVwaWNrZXIgbmctcmVwZWF0PSIiCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9iYWJlbCI+CiAgICAgICAgaW1wb3J0IGRhdGVwaWNrZXIgZnJvbSAnc3JjL2RhdGVwaWNrZXInOwoKICAgICAgICB2YXIgYXBwID0gYW5ndWxhci5tb2R1bGUoJ2FwcCcsIFtkYXRlcGlja2VyXSk7CgogICAgICAgIGFwcC5jb250cm9sbGVyKCdDb250cm9sbGVyJywgZnVuY3Rpb24oJHNjb3BlKSB7CiAgICAgICAgICAgICRzY29wZS5kYXRlMSA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICRzY29wZS5kYXRlMiA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICRzY29wZS5kYXRlcyA9IFskc2NvcGUuZGF0ZTEsICRzY29wZS5kYXRlMl07CiAgICAgICAgfSk7CiAgICA8L3NjcmlwdD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGRhdGVwaWNrZXIgZnJvbSAnc3JjL2RhdGVwaWNrZXInOwoKYW5ndWxhci5tb2R1bGUoJ215TW9kdWxlJywgW2RhdGVwaWNrZXJdKTsKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzcmMvZGF0ZXBpY2tlci9kYXRlcGlja2VyLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzcmMvZGF0ZXBhcnNlci9kYXRlcGFyc2VyLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8dWliLWRhdGVwaWNrZXIgbmctcmVwZWF0PSIiCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgZGF0ZXBpY2tlciBmcm9tICdzcmMvZGF0ZXBpY2tlcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
