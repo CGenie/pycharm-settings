@@ -105,8 +105,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" timestamp="1479283157834">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" timestamp="1479287163833">
+        <mark key="'" line="195" column="20" />
+        <mark key="[" line="209" column="7" />
+        <mark key="]" line="210" column="46" />
+        <mark key="." line="210" column="46" />
+        <mark key="^" line="210" column="46" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/invoice_workflows.xml" timestamp="1476192971625">
         <mark key="[" line="56" column="46" />
@@ -188,16 +192,22 @@
         <mark key="." line="27" column="63" />
         <mark key="^" line="27" column="63" />
       </file>
-      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/datepicker.js" timestamp="1479285842318">
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/datepicker.js" timestamp="1479286589916">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/account/migrations/0014_tenantsettings_max_categories_num.py" timestamp="1477896901101">
         <mark key="[" line="9" column="46" />
         <mark key="]" line="9" column="46" />
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" timestamp="1479287567507">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="57" />
       </file>
       <file name="$USER_HOME$/git-work/gitlab/CROSSBAR/monitoring/workers/kosz_dev.py" timestamp="1478937137320">
         <mark key="'" line="123" column="0" />
@@ -520,11 +530,10 @@
         <mark key="^" line="30" column="46" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/index.html" timestamp="1479285877539">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="8" column="53" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="53" />
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/index.html" timestamp="1479286569957">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/vagrants/Vagrantfile_common" timestamp="1474278568045">
         <mark key="[" line="3" column="0" />
@@ -727,6 +736,13 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/template/datepicker/day.html" timestamp="1479288030047">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="19" column="69" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_crm/data/ss_crm_data.xml" timestamp="1465801941156">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="10" column="35" />
@@ -891,6 +907,10 @@
         <mark key="^" line="7" column="82" />
         <mark key="." line="7" column="82" />
       </file>
+      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/test/isClass.spec.js" timestamp="1479288067971">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="93" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/lib/search/tools.py" timestamp="1478689598063">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="17" />
@@ -960,12 +980,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/base_urls.js" timestamp="1479198690835">
-        <mark key="'" line="153" column="24" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" timestamp="1476436635584">
         <mark key="'" line="21" column="26" />
@@ -1813,38 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="396" column="7" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="566" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="1253" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="1232" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="1226" column="30" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="1225" column="34" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="822" column="25" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="668" column="33" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="643" column="29" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="603" column="13" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="526" column="35" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="378" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
-      <jump line="272" column="72" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
-      <jump line="298" column="29" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/models.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/Italamo/italamo/statics/partials/toolbar.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/css/app/flex.sass" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/base_urls.js" />
-      <jump line="152" column="48" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/base_urls.js" />
-      <jump line="153" column="24" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/base_urls.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Italamo/italamo/apps/account/serializers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/main.js" />
-      <jump line="141" column="36" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="3" column="38" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="183" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="6" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="63" column="26" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="109" column="36" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="344" column="119" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="100" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="339" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="235" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="15" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/account_invoice.xml" />
       <jump line="56" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="55" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
@@ -1907,12 +1889,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" />
       <jump line="6" column="260" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
       <jump line="654" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
       <jump line="88" column="16" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
       <jump line="1" column="65" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Italamo/italamo/addons/timerecord/api.py" />
       <jump line="113" column="36" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="154" column="43" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="155" column="13" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="168" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="171" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="175" column="11" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="182" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="207" column="17" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="210" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="239" column="54" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="240" column="13" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="274" column="11" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="284" column="20" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="285" column="21" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="286" column="9" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="326" column="31" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="329" column="25" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="384" column="20" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="385" column="19" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="386" column="38" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="416" column="34" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="448" column="20" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="459" column="23" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="460" column="11" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="461" column="73" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="465" column="64" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="467" column="9" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="482" column="20" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="195" column="20" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/template/datepicker/day.html" />
+      <jump line="6" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
+      <jump line="16" column="24" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1958,8 +1972,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>TimeRecord</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVsZW1lbnQgPSAkY29tcGlsZSgnPGRpdj48ZGl2IG5nLXJlcGVhdD0iaXRlbSBpbiBpdGVtcyIgJyArCiAgICAgICd1aWItaXMtY2xhc3M9ImFjdGl2ZUNsYXNzIGZvciBhY3RpdmVJdGVtIG9uIGl0ZW0iPnt7IGl0ZW0gfX08L2Rpdj48L2Rpdj4nKSgkcm9vdFNjb3BlKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1974,49 +1988,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TimeRecord</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>IsTim</text>
+        <text>ON_RE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChJc1RpbWVSZWNvcmRFbmFibGVkLCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZ3VsYXIgZnJvbSAnLi9hbmd1bGFyJwo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tCiAgdWliLWlzLWNsYXNzPSIKICAgICdidG4taW5mbycgZm9yIHNlbGVjdGVkRHQsCiAgICAnYWN0aXZlJyBmb3IgYWN0aXZlRHQKICAgIG9uIGR0IgogICAgLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhbmd1bGFyLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0KICAgICAgICAgIHVpYi1pcy1jbGFzcz0iCiAgICAgICAgICAgICdidG4taW5mbycgZm9yIHNlbGVjdGVkRHQsCiAgICAgICAgICAgICdhY3RpdmUnIGZvciBhY3RpdmVEdAogICAgICAgICAgICBvbiBkdCIKICAgICAgICAgICAgLS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FjdGl2ZWR0JywgJHNjb3BlLmFjdGl2ZUR0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhY3RpdmVkYXRlJywgc2VsZi5hY3RpdmVEYXRlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9iYWJlbCI+CiAgICAgICAgaW1wb3J0IGRhdGVwaWNrZXIgZnJvbSAnc3JjL2RhdGVwaWNrZXInOwoKICAgICAgICB2YXIgYXBwID0gYW5ndWxhci5tb2R1bGUoJ2FwcCcsIFtkYXRlcGlja2VyXSk7CgogICAgICAgIGFwcC5jb250cm9sbGVyKCdDb250cm9sbGVyJywgZnVuY3Rpb24oJHNjb3BlKSB7CiAgICAgICAgICAgICRzY29wZS5kYXRlMSA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICRzY29wZS5kYXRlMiA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICRzY29wZS5kYXRlcyA9IFskc2NvcGUuZGF0ZTEsICRzY29wZS5kYXRlMl07CiAgICAgICAgfSk7CiAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdhY3RpdmVkYXRlJywgc2VsZi5hY3RpdmVEYXRlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGVwaWNrZXIgZnJvbSAnc3JjL2RhdGVwaWNrZXInOwoKYW5ndWxhci5tb2R1bGUoJ215TW9kdWxlJywgW2RhdGVwaWNrZXJdKTsKCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FjdGl2ZWRhdGUnLCBzZWxmLmFjdGl2ZURhdGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzcmMvZGF0ZXBpY2tlci9kYXRlcGlja2VyLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzcmMvZGF0ZXBhcnNlci9kYXRlcGFyc2VyLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">aW1wb3J0IGFuZ3VsYXIgZnJvbSAnLi9hbmd1bGFyJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8dWliLWRhdGVwaWNrZXIgbmctcmVwZWF0PSIiCg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhbmd1bGFyLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>IsTim</last-search>
+      <last-search>ON_RE</last-search>
       <last-offset />
-      <last-pattern>IsTim</last-pattern>
+      <last-pattern>ON_RE</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2024,12 +2038,6 @@
     </search>
     <history>
       <history-search>
-        <entry>external_layout_head</entry>
-        <entry>tameson\.</entry>
-        <entry>inherit</entry>
-        <entry>report_invoice_document</entry>
-        <entry>xpath</entry>
-        <entry>external_la</entry>
         <entry>report_deli</entry>
         <entry>picking_send</entry>
         <entry>picking_send_</entry>
@@ -2044,6 +2052,12 @@
         <entry>datepic</entry>
         <entry>Datepi</entry>
         <entry>IsTim</entry>
+        <entry>'active</entry>
+        <entry>activeDt</entry>
+        <entry>active</entry>
+        <entry>on</entry>
+        <entry>on_re</entry>
+        <entry>ON_RE</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
