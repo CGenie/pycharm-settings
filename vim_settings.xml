@@ -261,6 +261,9 @@
         <mark key="." line="71" column="39" />
         <mark key="^" line="29" column="48" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" timestamp="1479280719181">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/converter/essential.sls" timestamp="1473673851450">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
@@ -1787,8 +1790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="62" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
-      <jump line="8" column="20" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
       <jump line="9" column="24" filename="$USER_HOME$/Italamo/italamo/statics/partials/inline_filter_context.html" />
       <jump line="1152" column="29" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
       <jump line="1001" column="82" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/utils.js" />
@@ -1887,6 +1888,8 @@
       <jump line="136" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="345" column="57" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" />
+      <jump line="6" column="260" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1951,7 +1954,7 @@
         <text>_tameson</text>
       </register>
       <register name="/" type="4">
-        <text>def get_deliveries</text>
+        <text>Datepi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHhwYXRoIGV4cHI9Ii8vdFtAdC1jYWxsPSdyZXBvcnQuZXh0ZXJuYWxfbGF5b3V0X2hlYWRlciddIiBwb3NpdGlvbj0iYXR0cmlidXRlcyI+CiAgICAgICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9InQtY2FsbCI+dGFtZXNvbi5leHRlcm5hbF9sYXlvdXRfaGVhZGVyPC9hdHRyaWJ1dGU+CiAgICAgICAgICAgIDwveHBhdGg+Cg==</text>
@@ -1988,9 +1991,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def get_deliveries</last-search>
+      <last-search>Datepi</last-search>
       <last-offset />
-      <last-pattern>def get_deliveries</last-pattern>
+      <last-pattern>Datepi</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1998,8 +2001,6 @@
     </search>
     <history>
       <history-search>
-        <entry>report_invoice_doc</entry>
-        <entry>reference</entry>
         <entry>report_invoice</entry>
         <entry>external_layout_head</entry>
         <entry>tameson\.</entry>
@@ -2018,6 +2019,8 @@
         <entry>create_pay</entry>
         <entry>create_payment_method</entry>
         <entry>def get_deliveries</entry>
+        <entry>datepic</entry>
+        <entry>Datepi</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
