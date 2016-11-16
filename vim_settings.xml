@@ -107,10 +107,9 @@
       </file>
       <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" timestamp="1479287163833">
         <mark key="'" line="195" column="20" />
-        <mark key="[" line="209" column="7" />
-        <mark key="]" line="210" column="46" />
-        <mark key="." line="210" column="46" />
-        <mark key="^" line="210" column="46" />
+        <mark key="]" line="195" column="46" />
+        <mark key="." line="195" column="46" />
+        <mark key="^" line="195" column="46" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/invoice_workflows.xml" timestamp="1476192971625">
         <mark key="[" line="56" column="46" />
@@ -279,8 +278,12 @@
         <mark key="." line="71" column="39" />
         <mark key="^" line="29" column="48" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" timestamp="1479280719181">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" timestamp="1479288578276">
+        <mark key="'" line="1591" column="14" />
+        <mark key="[" line="7343" column="84" />
+        <mark key="]" line="7343" column="84" />
+        <mark key="^" line="7343" column="84" />
+        <mark key="." line="7343" column="84" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/converter/essential.sls" timestamp="1473673851450">
         <mark key="'" line="0" column="0" />
@@ -658,11 +661,11 @@
         <mark key="^" line="4" column="65" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" timestamp="1479286306035">
-        <mark key="'" line="113" column="36" />
-        <mark key="[" line="113" column="28" />
-        <mark key="]" line="113" column="36" />
-        <mark key="^" line="113" column="36" />
-        <mark key="." line="113" column="36" />
+        <mark key="'" line="1" column="36" />
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/converters/images.py" timestamp="1474107695451">
         <mark key="'" line="39" column="21" />
@@ -1827,7 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/account_invoice.xml" />
       <jump line="56" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="55" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="101" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
@@ -1927,6 +1929,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
       <jump line="16" column="24" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
       <jump line="76" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
+      <jump line="1591" column="14" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1972,8 +1975,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsZW1lbnQgPSAkY29tcGlsZSgnPGRpdj48ZGl2IG5nLXJlcGVhdD0iaXRlbSBpbiBpdGVtcyIgJyArCiAgICAgICd1aWItaXMtY2xhc3M9ImFjdGl2ZUNsYXNzIGZvciBhY3RpdmVJdGVtIG9uIGl0ZW0iPnt7IGl0ZW0gfX08L2Rpdj48L2Rpdj4nKSgkcm9vdFNjb3BlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1988,10 +1991,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>ON_RE</text>
+        <text>on dt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChJc1RpbWVSZWNvcmRFbmFibGVkLCkK</text>
@@ -2028,9 +2031,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ON_RE</last-search>
+      <last-search>on dt</last-search>
       <last-offset />
-      <last-pattern>ON_RE</last-pattern>
+      <last-pattern>on dt</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2038,7 +2041,6 @@
     </search>
     <history>
       <history-search>
-        <entry>report_deli</entry>
         <entry>picking_send</entry>
         <entry>picking_send_</entry>
         <entry>picking_send_trans</entry>
@@ -2058,6 +2060,7 @@
         <entry>on</entry>
         <entry>on_re</entry>
         <entry>ON_RE</entry>
+        <entry>on dt</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
