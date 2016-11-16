@@ -215,6 +215,13 @@
         <mark key="." line="122" column="8" />
         <mark key="^" line="122" column="8" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" timestamp="1479296636619">
+        <mark key="'" line="643" column="25" />
+        <mark key="[" line="1077" column="0" />
+        <mark key="]" line="1077" column="0" />
+        <mark key="^" line="1061" column="3" />
+        <mark key="." line="1077" column="0" />
+      </file>
       <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.coffee" timestamp="1469446761933">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="25" column="28" />
@@ -467,10 +474,10 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1478855143044">
-        <mark key="'" line="408" column="26" />
-        <mark key="[" line="407" column="29" />
-        <mark key="]" line="408" column="28" />
+      <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" timestamp="1479296413718">
+        <mark key="'" line="147" column="117" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="188" column="70" />
         <mark key="." line="408" column="28" />
         <mark key="^" line="408" column="28" />
       </file>
@@ -726,12 +733,6 @@
         <mark key="]" line="82" column="19" />
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="122" />
-      </file>
-      <file name="$USER_HOME$/Italamo/italamo/statics/partials/toolbar.html" timestamp="1479203107285">
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="54" />
-        <mark key="." line="37" column="54" />
-        <mark key="^" line="37" column="54" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson_product_extra_fields/__openerp__.py" timestamp="1469775036640">
         <mark key="[" line="9" column="26" />
@@ -1803,6 +1804,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/statics/partials/case/select_main_case.html" timestamp="1479296541159">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/account/urls.py" timestamp="1474272496350">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1830,12 +1837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="55" column="16" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="101" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="354" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="345" column="45" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="26" column="45" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="30" column="45" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="198" column="10" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="356" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
@@ -1930,6 +1931,12 @@
       <jump line="16" column="24" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
       <jump line="76" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
       <jump line="1591" column="14" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
+      <jump line="630" column="11" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
+      <jump line="641" column="53" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
+      <jump line="643" column="25" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
+      <jump line="408" column="26" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="147" column="117" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1975,8 +1982,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAvKgogICAgJHNjb3BlLmNhc2VzID0gbmV3IFBhZ2luYXRvcihDYXNlLCAncXVlcnknLCB7CiAgICAgICAgJ2ZpbHRlci1vcGVuJzogdHJ1ZSwKICAgICAgICBpbmZvOiB0cnVlLAogICAgICAgIGV4Y2x1ZGU6ICRzY29wZS5jYXNlLmlkLAogICAgICAgIHNvcnRzOiBbJ25hbWUgYXNjJ10KICAgIH0pOwogICAgKi8K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1991,49 +1998,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>datacards</text>
       </register>
       <register name="/" type="4">
-        <text>on dt</text>
+        <text>FilterS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChJc1RpbWVSZWNvcmRFbmFibGVkLCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS5maWx0ZXJfc29ydC5kZWZhdWx0X2NoYW5nZV9maWx0ZXIgPSBsb2FkX2RhdGFjYXJkcwogICAgICAgICAgICAgICAgJHNjb3BlLmZpbHRlcl9zb3J0LmRlZmF1bHRfY2hhbmdlX3NvcnQgPSBsb2FkX2RhdGFjYXJkcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCiAgdWliLWlzLWNsYXNzPSIKICAgICdidG4taW5mbycgZm9yIHNlbGVjdGVkRHQsCiAgICAnYWN0aXZlJyBmb3IgYWN0aXZlRHQKICAgIG9uIGR0IgogICAgLS0+Cg==</text>
+        <text encoding="base64">CiAgICAvKgogICAgJHNjb3BlLmNhc2VzID0gbmV3IFBhZ2luYXRvcihDYXNlLCAncXVlcnknLCB7CiAgICAgICAgJ2ZpbHRlci1vcGVuJzogdHJ1ZSwKICAgICAgICBpbmZvOiB0cnVlLAogICAgICAgIGV4Y2x1ZGU6ICRzY29wZS5jYXNlLmlkLAogICAgICAgIHNvcnRzOiBbJ25hbWUgYXNjJ10KICAgIH0pOwogICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0KICAgICAgICAgIHVpYi1pcy1jbGFzcz0iCiAgICAgICAgICAgICdidG4taW5mbycgZm9yIHNlbGVjdGVkRHQsCiAgICAgICAgICAgICdhY3RpdmUnIGZvciBhY3RpdmVEdAogICAgICAgICAgICBvbiBkdCIKICAgICAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgICRzY29wZS5maWx0ZXJfc29ydCA9IEZpbHRlclNvcnQoewogICAgICAgIG1vZGVsOiBDYXNlLAogICAgICAgIGhhbmRsZXI6ICdzaW1wbGUnCiAgICB9KTsKICAgIHZhciBsb2FkX2Nhc2VzID0gZnVuY3Rpb24oKSB7CiAgICAgICAgdmFyIHBhcmFtcyA9ICRzY29wZS5maWx0ZXJfc29ydC5hcGlfcGFyYW1zKCRzY29wZS5maWx0ZXJfc29ydCk7CiAgICAgICAgLy9wYXJhbXNbJ2ZpbHRlci1vcGVuJ10gPSB0cnVlOwogICAgICAgIHBhcmFtcy5pbmZvID0gdHJ1ZTsKICAgICAgICBwYXJhbXMuZXhjbHVkZSA9ICRzY29wZS5jYXNlLmlkOwoKICAgICAgICAkc2NvcGUuY2FzZXMgPSBuZXcgUGFnaW5hdG9yKENhc2UsICdxdWVyeScsIHBhcmFtcyk7CiAgICB9OwogICAgbG9hZF9jYXNlcygpOwogICAgJHNjb3BlLmZpbHRlcl9zb3J0LmRlZmF1bHRfY2hhbmdlX2ZpbHRlciA9IGxvYWRfY2FzZXM7CiAgICAkc2NvcGUuZmlsdGVyX3NvcnQuZGVmYXVsdF9jaGFuZ2Vfc29ydCA9IGxvYWRfY2FzZXM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FjdGl2ZWR0JywgJHNjb3BlLmFjdGl2ZUR0KTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhY3RpdmVkYXRlJywgc2VsZi5hY3RpdmVEYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZigkc2NvcGUuY2FzZSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdhY3RpdmVkYXRlJywgc2VsZi5hY3RpdmVEYXRlKTsK</text>
+        <text encoding="base64">ICAgIGxvYWRfY2FzZXMoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FjdGl2ZWRhdGUnLCBzZWxmLmFjdGl2ZURhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbAo=</text>
+        <text encoding="base64">ICAgICAgICBpZigkc2NvcGUuY2FzZSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZ3VsYXIgZnJvbSAnLi9hbmd1bGFyJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhbmd1bGFyLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuZXhjbHVkZSA9ICRzY29wZS5jYXNlLmlkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>on dt</last-search>
+      <last-search>FilterS</last-search>
       <last-offset />
-      <last-pattern>on dt</last-pattern>
+      <last-pattern>FilterS</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2041,9 +2048,6 @@
     </search>
     <history>
       <history-search>
-        <entry>picking_send</entry>
-        <entry>picking_send_</entry>
-        <entry>picking_send_trans</entry>
         <entry>picking_send_invoice_trans</entry>
         <entry>header</entry>
         <entry>payment</entry>
@@ -2061,6 +2065,9 @@
         <entry>on_re</entry>
         <entry>ON_RE</entry>
         <entry>on dt</entry>
+        <entry>select_main_case</entry>
+        <entry>SelectMainCase</entry>
+        <entry>FilterS</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
