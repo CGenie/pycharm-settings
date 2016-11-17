@@ -483,10 +483,6 @@
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478764124476">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1064" column="120" />
-        <mark key="]" line="1065" column="29" />
-        <mark key="." line="1065" column="29" />
-        <mark key="^" line="1065" column="29" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/edit.html" timestamp="1478067320887">
         <mark key="'" line="0" column="0" />
@@ -640,13 +636,6 @@
         <mark key="]" line="64" column="38" />
         <mark key="^" line="64" column="18" />
         <mark key="." line="64" column="44" />
-      </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/models.coffee" timestamp="1478644275337">
-        <mark key="'" line="122" column="78" />
-        <mark key="[" line="159" column="12" />
-        <mark key="]" line="159" column="18" />
-        <mark key="^" line="159" column="18" />
-        <mark key="." line="159" column="18" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/base.html" timestamp="1471888795175">
         <mark key="[" line="4" column="18" />
@@ -871,12 +860,8 @@
         <mark key="." line="72" column="39" />
         <mark key="^" line="72" column="39" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" timestamp="1478641894112">
-        <mark key="'" line="629" column="23" />
-        <mark key="[" line="627" column="17" />
-        <mark key="]" line="629" column="23" />
-        <mark key="^" line="629" column="23" />
-        <mark key="." line="629" column="23" />
+      <file name="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" timestamp="1479363873386">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-edit-datacard.html" timestamp="1478524436658">
         <mark key="'" line="25" column="92" />
@@ -1240,24 +1225,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/templates/case-select-datacard.html" timestamp="1478643317782">
-        <mark key="[" line="30" column="66" />
-        <mark key="]" line="30" column="75" />
-        <mark key="^" line="30" column="65" />
-        <mark key="." line="30" column="66" />
-      </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/base/docker/daemon.json" timestamp="1475129276184">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="55" />
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
-      </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/js/directives.coffee" timestamp="1478641069381">
-        <mark key="'" line="817" column="13" />
-        <mark key="[" line="846" column="29" />
-        <mark key="]" line="846" column="32" />
-        <mark key="." line="846" column="32" />
-        <mark key="^" line="846" column="32" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/crm_claim_workflow.xml" timestamp="1478083763572">
         <mark key="[" line="27" column="26" />
@@ -1521,12 +1493,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/css/dev.css" timestamp="1478791448616">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/static/src/xml/document_viewer.xml" timestamp="1466176202617">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="28" />
@@ -1646,13 +1612,6 @@
         <mark key="]" line="20" column="2" />
         <mark key="." line="20" column="9" />
         <mark key="^" line="10" column="9" />
-      </file>
-      <file name="$USER_HOME$/Italamo/caretakers/www/index.html" timestamp="1469790881456">
-        <mark key="'" line="34" column="37" />
-        <mark key="[" line="65" column="44" />
-        <mark key="]" line="65" column="44" />
-        <mark key="." line="65" column="44" />
-        <mark key="^" line="65" column="44" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/case/views.py" timestamp="1477562033556">
         <mark key="'" line="40" column="80" />
@@ -1837,11 +1796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="45" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="198" column="10" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="356" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="7" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="348" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="358" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="102" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="366" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
@@ -1937,6 +1891,11 @@
       <jump line="643" column="25" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
       <jump line="408" column="26" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="147" column="117" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
+      <jump line="520" column="31" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="526" column="20" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="57" column="30" filename="$USER_HOME$/Italamo/caretakers/www/index.html" />
+      <jump line="434" column="37" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1982,8 +1941,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKgogICAgJHNjb3BlLmNhc2VzID0gbmV3IFBhZ2luYXRvcihDYXNlLCAncXVlcnknLCB7CiAgICAgICAgJ2ZpbHRlci1vcGVuJzogdHJ1ZSwKICAgICAgICBpbmZvOiB0cnVlLAogICAgICAgIGV4Y2x1ZGU6ICRzY29wZS5jYXNlLmlkLAogICAgICAgIHNvcnRzOiBbJ25hbWUgYXNjJ10KICAgIH0pOwogICAgKi8K</text>
+      <register name="&quot;" type="4">
+        <text>directives</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1998,13 +1957,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>datacards</text>
+        <text>directives</text>
       </register>
       <register name="/" type="4">
-        <text>FilterS</text>
+        <text>case\.datacardt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS5maWx0ZXJfc29ydC5kZWZhdWx0X2NoYW5nZV9maWx0ZXIgPSBsb2FkX2RhdGFjYXJkcwogICAgICAgICAgICAgICAgJHNjb3BlLmZpbHRlcl9zb3J0LmRlZmF1bHRfY2hhbmdlX3NvcnQgPSBsb2FkX2RhdGFjYXJkcwo=</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ibGliL2pzLWl0YWwtY29tbW9uL2RpcmVjdGl2ZXMuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAvKgogICAgJHNjb3BlLmNhc2VzID0gbmV3IFBhZ2luYXRvcihDYXNlLCAncXVlcnknLCB7CiAgICAgICAgJ2ZpbHRlci1vcGVuJzogdHJ1ZSwKICAgICAgICBpbmZvOiB0cnVlLAogICAgICAgIGV4Y2x1ZGU6ICRzY29wZS5jYXNlLmlkLAogICAgICAgIHNvcnRzOiBbJ25hbWUgYXNjJ10KICAgIH0pOwogICAgKi8K</text>
@@ -2038,9 +1997,9 @@
       </register>
     </registers>
     <search>
-      <last-search>FilterS</last-search>
+      <last-search>case\.datacardt</last-search>
       <last-offset />
-      <last-pattern>FilterS</last-pattern>
+      <last-pattern>case\.datacardt</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2048,8 +2007,6 @@
     </search>
     <history>
       <history-search>
-        <entry>picking_send_invoice_trans</entry>
-        <entry>header</entry>
         <entry>payment</entry>
         <entry>mod</entry>
         <entry>create_pay</entry>
@@ -2068,6 +2025,8 @@
         <entry>select_main_case</entry>
         <entry>SelectMainCase</entry>
         <entry>FilterS</entry>
+        <entry>js-ital-c</entry>
+        <entry>case\.datacardt</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
