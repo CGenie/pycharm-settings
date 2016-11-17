@@ -846,6 +846,13 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/views.py" timestamp="1479394075289">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="31" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" timestamp="1476809672257">
         <mark key="'" line="15" column="42" />
         <mark key="[" line="44" column="46" />
@@ -1796,7 +1803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="102" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="366" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="94" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
@@ -1896,6 +1902,7 @@
       <jump line="57" column="30" filename="$USER_HOME$/Italamo/caretakers/www/index.html" />
       <jump line="434" column="37" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1942,7 +1949,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>directives</text>
+        <text>'hello'</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1957,10 +1964,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>directives</text>
+        <text>'hello'</text>
       </register>
       <register name="/" type="4">
-        <text>case\.datacardt</text>
+        <text>upload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ibGliL2pzLWl0YWwtY29tbW9uL2RpcmVjdGl2ZXMuanMiPjwvc2NyaXB0Pgo=</text>
@@ -1997,9 +2004,9 @@
       </register>
     </registers>
     <search>
-      <last-search>case\.datacardt</last-search>
+      <last-search>upload</last-search>
       <last-offset />
-      <last-pattern>case\.datacardt</last-pattern>
+      <last-pattern>upload</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2007,7 +2014,6 @@
     </search>
     <history>
       <history-search>
-        <entry>payment</entry>
         <entry>mod</entry>
         <entry>create_pay</entry>
         <entry>create_payment_method</entry>
@@ -2027,6 +2033,7 @@
         <entry>FilterS</entry>
         <entry>js-ital-c</entry>
         <entry>case\.datacardt</entry>
+        <entry>upload</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
