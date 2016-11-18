@@ -484,6 +484,13 @@
       <file name="$USER_HOME$/Italamo/caretakers/www/js/controllers.coffee" timestamp="1478764124476">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" timestamp="1479453404357">
+        <mark key="'" line="11" column="26" />
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/partials/datacardtype/edit.html" timestamp="1478067320887">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
@@ -593,12 +600,12 @@
         <mark key="^" line="29" column="126" />
         <mark key="." line="29" column="126" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" timestamp="1478243925083">
-        <mark key="'" line="474" column="17" />
-        <mark key="[" line="607" column="13" />
-        <mark key="]" line="608" column="71" />
-        <mark key="." line="608" column="71" />
-        <mark key="^" line="608" column="71" />
+      <file name="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" timestamp="1479452630747">
+        <mark key="'" line="765" column="21" />
+        <mark key="[" line="221" column="27" />
+        <mark key="]" line="221" column="52" />
+        <mark key="." line="221" column="52" />
+        <mark key="^" line="221" column="52" />
       </file>
       <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/README.md" timestamp="1479282304058">
         <mark key="[" line="106" column="0" />
@@ -846,11 +853,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/document/views.py" timestamp="1479395801442">
-        <mark key="'" line="39" column="28" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/views.py" timestamp="1479452810548">
+        <mark key="'" line="79" column="21" />
+        <mark key="[" line="42" column="23" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="43" column="28" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" timestamp="1476809672257">
         <mark key="'" line="15" column="42" />
@@ -957,9 +965,10 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/document/tools.py" timestamp="1479395811424">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="47" column="23" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/tools.py" timestamp="1479452674318">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/pillar/webdev.sls" timestamp="1474277554807">
         <mark key="[" line="0" column="0" />
@@ -1229,6 +1238,9 @@
         <mark key="." line="92" column="39" />
         <mark key="^" line="92" column="39" />
       </file>
+      <file name="$USER_HOME$/Italamo/italamo/apps/account/api.py" timestamp="1479452218134">
+        <mark key="'" line="59" column="19" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/smartservices_website_portal_sale/models/__init__.py" timestamp="1466083246019">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1254,11 +1266,11 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/italamo/nginx.conf" timestamp="1474287299657">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="40" />
-        <mark key="^" line="6" column="40" />
-        <mark key="." line="6" column="40" />
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/italamo/nginx.conf" timestamp="1479452293273">
+        <mark key="[" line="128" column="36" />
+        <mark key="]" line="129" column="38" />
+        <mark key="." line="129" column="38" />
+        <mark key="^" line="129" column="38" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/lib/scheduler/tasks.py" timestamp="1478240041264">
         <mark key="'" line="9" column="23" />
@@ -1806,26 +1818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="123" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="169" column="36" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="98" column="20" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="95" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="343" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="3" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="58" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="96" column="45" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="97" column="34" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="342" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="14" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="106" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="105" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="130" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="56" column="58" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="47" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="54" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="62" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="74" column="40" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="14" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="122" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
@@ -1903,9 +1895,29 @@
       <jump line="434" column="37" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
-      <jump line="44" column="28" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
       <jump line="222" column="58" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
       <jump line="39" column="28" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="48" column="12" filename="$USER_HOME$/Italamo/italamo/apps/account/api.py" />
+      <jump line="54" column="19" filename="$USER_HOME$/Italamo/italamo/apps/account/api.py" />
+      <jump line="59" column="19" filename="$USER_HOME$/Italamo/italamo/apps/account/api.py" />
+      <jump line="44" column="22" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="97" column="8" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="337" column="48" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="397" column="14" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="398" column="44" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="763" column="48" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="313" column="48" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="317" column="35" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="766" column="21" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="764" column="21" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
+      <jump line="37" column="36" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
+      <jump line="114" column="8" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
+      <jump line="32" column="24" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
+      <jump line="132" column="12" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
+      <jump line="39" column="29" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
+      <jump line="78" column="21" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="7" column="26" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1951,8 +1963,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGZpbGVzX2xpc3QocmVxdWVzdCk6CiAgICB1cGxvYWRlZF9saXN0ID0gcmVxdWVzdC5GSUxFUy5nZXRsaXN0KCdmaWxlW10nKSBvclwKICAgICAgICByZXF1ZXN0LkZJTEVTLmdldGxpc3QoJ2ZpbGUnKSBvciByZXF1ZXN0LkZJTEVTLnZhbHVlcygpCiAgICBpZiBsZW4odXBsb2FkZWRfbGlzdCkgPT0gMDoKICAgICAgICByZXR1cm4gTm9uZQogICAgIyBEcm9wWm9uZSBpcyBub3QgYWJsZSB0byBlYXNpbHkgY2hhbmdlIGZpbGVuYW1lIG9uIHRoZSBmbHksIHRoYXQncwogICAgIyB3aHkgd2Ugc2VuZCAnY3VzdG9tX2ZpbGVfbmFtZScgZmllbGQgd2hlbiB3ZSB3YW50IHRvIGNoYW5nZSBmaWxlIG5hbWUKICAgICMgTk9URTogdGhpcyBpcyBvbmx5IGZvciAxIGZpbGUgYnV0IGZvciBtdWx0aXBsZSBmaWxlcyB3ZSBjb3VsZCBzZW5kCiAgICAjIGEgSlNPTmVkIG1hcHBpbmcgaW4gYSB2YXJpYWJsZSAnY3VzdG9tX2ZpbGVfbmFtZXMnLCBmb3IgZXhhbXBsZS4KICAgIGN1c3RvbV9maWxlX25hbWUgPSByZXF1ZXN0LlBPU1QuZ2V0KCdjdXN0b21fZmlsZV9uYW1lJykKICAgIGlmIGN1c3RvbV9maWxlX25hbWUgYW5kIGxlbih1cGxvYWRlZF9saXN0KSA9PSAxOgogICAgICAgIHVwbG9hZGVkX2xpc3RbMF0ubmFtZSA9IGN1c3RvbV9maWxlX25hbWUKICAgIHJldHVybiB1cGxvYWRlZF9saXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>x_file</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1967,49 +1979,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>body = request.read()</text>
+        <text>x_file</text>
       </register>
       <register name="/" type="4">
-        <text>uploaded_fi</text>
+        <text>middlewa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0ibGliL2pzLWl0YWwtY29tbW9uL2RpcmVjdGl2ZXMuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBwcm9jZXNzX3JlcXVlc3QocmVxdWVzdCk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSByZXF1ZXN0LmhlYWRlcnMK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYiBpbXBvcnQgYXV0aAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKgogICAgJHNjb3BlLmNhc2VzID0gbmV3IFBhZ2luYXRvcihDYXNlLCAncXVlcnknLCB7CiAgICAgICAgJ2ZpbHRlci1vcGVuJzogdHJ1ZSwKICAgICAgICBpbmZvOiB0cnVlLAogICAgICAgIGV4Y2x1ZGU6ICRzY29wZS5jYXNlLmlkLAogICAgICAgIHNvcnRzOiBbJ25hbWUgYXNjJ10KICAgIH0pOwogICAgKi8K</text>
+        <text encoding="base64">IyBIQUNLIE9OIERKQU5HTyBVU0VSUyBQQVNTRVMgVEVTVCBGT1IgQ09SUkVDVCBSRURJUkVDVElPTiBXSVRIIFRFTkFOVFMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5maWx0ZXJfc29ydCA9IEZpbHRlclNvcnQoewogICAgICAgIG1vZGVsOiBDYXNlLAogICAgICAgIGhhbmRsZXI6ICdzaW1wbGUnCiAgICB9KTsKICAgIHZhciBsb2FkX2Nhc2VzID0gZnVuY3Rpb24oKSB7CiAgICAgICAgdmFyIHBhcmFtcyA9ICRzY29wZS5maWx0ZXJfc29ydC5hcGlfcGFyYW1zKCRzY29wZS5maWx0ZXJfc29ydCk7CiAgICAgICAgLy9wYXJhbXNbJ2ZpbHRlci1vcGVuJ10gPSB0cnVlOwogICAgICAgIHBhcmFtcy5pbmZvID0gdHJ1ZTsKICAgICAgICBwYXJhbXMuZXhjbHVkZSA9ICRzY29wZS5jYXNlLmlkOwoKICAgICAgICAkc2NvcGUuY2FzZXMgPSBuZXcgUGFnaW5hdG9yKENhc2UsICdxdWVyeScsIHBhcmFtcyk7CiAgICB9OwogICAgbG9hZF9jYXNlcygpOwogICAgJHNjb3BlLmZpbHRlcl9zb3J0LmRlZmF1bHRfY2hhbmdlX2ZpbHRlciA9IGxvYWRfY2FzZXM7CiAgICAkc2NvcGUuZmlsdGVyX3NvcnQuZGVmYXVsdF9jaGFuZ2Vfc29ydCA9IGxvYWRfY2FzZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">IyBIQUNLIEVORAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkc2NvcGUuY2FzZSkgewo=</text>
+        <text encoding="base64">ZGphbmdvLmNvbnRyaWIuYXV0aC5kZWNvcmF0b3JzLnVzZXJfcGFzc2VzX3Rlc3QgPSBuZXdfdXNlcl9wYXNzZXNfdGVzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvYWRfY2FzZXMoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGRqYW5nby5jb250cmliLmF1dGguZGVjb3JhdG9ycwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZnJvbSBhdXRoLmRlY29yYXRvcnMgaW1wb3J0IG5ld191c2VyX3Bhc3Nlc190ZXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkc2NvcGUuY2FzZSkgewo=</text>
+        <text encoding="base64">ZnJvbSBhcHBzLmFjY291bnQubW9kZWxzIGltcG9ydCBVc2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5jb250ZW50dHlwZXMubW9kZWxzIGltcG9ydCBDb250ZW50VHlwZQpmcm9tIGRqYW5nby5jb250cmliLnNlc3Npb25zLm1pZGRsZXdhcmUgaW1wb3J0IFNlc3Npb25NaWRkbGV3YXJlCmZyb20gZGphbmdvLmNvcmUudXJscmVzb2x2ZXJzIGltcG9ydCByZXNvbHZlLCBSZXNvbHZlcjQwNCwgcmV2ZXJzZSBhcyBkamFuZ29fcmV2ZXJzZQpmcm9tIGRqYW5nby5kYiBpbXBvcnQgY29ubmVjdGlvbgpmcm9tIGRqYW5nby5odHRwIGltcG9ydCBIdHRwUmVzcG9uc2VGb3JiaWRkZW4sIEh0dHBSZXNwb25zZSwgSHR0cFJlc3BvbnNlUmVkaXJlY3QKZnJvbSBkamFuZ28ubWlkZGxld2FyZS5sb2NhbGUgaW1wb3J0IExvY2FsZU1pZGRsZXdhcmUsIHRyYW5zbGF0aW9uLCBwYXRjaF92YXJ5X2hlYWRlcnMKZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCBnZXRfb2JqZWN0X29yXzQwNApmcm9tIGRqYW5nby51dGlscyBpbXBvcnQgdGltZXpvbmUKZnJvbSBkamFuZ28udXRpbHMuY2FjaGUgaW1wb3J0IHBhdGNoX3ZhcnlfaGVhZGVycwpmcm9tIGRqYW5nby51dGlscy5odHRwIGltcG9ydCBjb29raWVfZGF0ZQpmcm9tIGRqYW5nby51dGlscy50cmFuc2xhdGlvbiBpbXBvcnQgYWN0aXZhdGUKZnJvbSBkamFuZ29fdGVuYW50cy51dGlscyBpbXBvcnQgZ2V0X3RlbmFudF9tb2RlbCwgcmVtb3ZlX3d3d19hbmRfZGV2LCBnZXRfcHVibGljX3NjaGVtYV9uYW1lCmZyb20gaW1wb3J0bGliIGltcG9ydCBpbXBvcnRfbW9kdWxlCgpmcm9tIHRvb2xzIGltcG9ydCBQcmVmaXhIYW5kbGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>uploaded_fi</last-search>
+      <last-search>middlewa</last-search>
       <last-offset />
-      <last-pattern>uploaded_fi</last-pattern>
+      <last-pattern>middlewa</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2017,12 +2029,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create_payment_method</entry>
-        <entry>def get_deliveries</entry>
-        <entry>datepic</entry>
-        <entry>Datepi</entry>
-        <entry>IsTim</entry>
-        <entry>'active</entry>
         <entry>activeDt</entry>
         <entry>active</entry>
         <entry>on</entry>
@@ -2037,6 +2043,12 @@
         <entry>upload</entry>
         <entry>FIL</entry>
         <entry>uploaded_fi</entry>
+        <entry>me</entry>
+        <entry>'me'</entry>
+        <entry>files_list</entry>
+        <entry>media</entry>
+        <entry>apps.media</entry>
+        <entry>middlewa</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
