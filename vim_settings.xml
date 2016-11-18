@@ -105,11 +105,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" timestamp="1479287163833">
-        <mark key="'" line="195" column="20" />
-        <mark key="]" line="195" column="46" />
-        <mark key="." line="195" column="46" />
-        <mark key="^" line="195" column="46" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" timestamp="1479505668072">
+        <mark key="'" line="62" column="209" />
+        <mark key="[" line="55" column="51" />
+        <mark key="]" line="55" column="26" />
+        <mark key="^" line="55" column="26" />
+        <mark key="." line="55" column="26" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/invoice_workflows.xml" timestamp="1476192971625">
         <mark key="[" line="56" column="46" />
@@ -500,11 +501,11 @@
         <mark key="." line="83" column="70" />
         <mark key="^" line="83" column="70" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/invoice.py" timestamp="1479207012748">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="6" column="4" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/invoice.py" timestamp="1479503364434">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/datacard/views.py" timestamp="1478847116440">
         <mark key="'" line="109" column="72" />
@@ -544,11 +545,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="30" column="46" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/index.html" timestamp="1479286569957">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/vagrants/Vagrantfile_common" timestamp="1474278568045">
         <mark key="[" line="3" column="0" />
@@ -757,11 +753,11 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1479209272743">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="29" column="42" />
-        <mark key="." line="29" column="42" />
-        <mark key="^" line="29" column="42" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1479502776396">
+        <mark key="[" line="35" column="38" />
+        <mark key="]" line="36" column="38" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="36" column="38" />
       </file>
       <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.js" timestamp="1469442311104">
         <mark key="[" line="0" column="0" />
@@ -1818,29 +1814,6 @@
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/account_invoice.xml" timestamp="1479467123043" />
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="207" column="17" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="210" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="239" column="54" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="240" column="13" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="274" column="11" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="284" column="20" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="285" column="21" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="286" column="9" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="326" column="31" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="329" column="25" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="384" column="20" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="385" column="19" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="386" column="38" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="416" column="34" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="448" column="20" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="459" column="23" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="460" column="11" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="461" column="73" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="465" column="64" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="467" column="9" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="482" column="20" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="195" column="20" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/template/datepicker/day.html" />
       <jump line="6" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
       <jump line="16" column="24" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
@@ -1918,6 +1891,29 @@
       <jump line="115" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="39" column="20" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="18" column="82" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="21" column="124" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="22" column="87" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="23" column="119" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="28" column="125" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="30" column="85" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="31" column="92" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="20" column="20" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="40" column="73" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="41" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="54" column="20" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="56" column="105" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="63" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="64" column="105" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="66" column="65" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="71" column="23" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="72" column="105" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="74" column="65" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="24" column="122" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="55" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="58" column="206" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="62" column="209" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1963,8 +1959,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>logo-tameson.png</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1979,10 +1975,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kYXRhPg==</text>
+        <text>logo-tameson.png</text>
       </register>
       <register name="/" type="4">
-        <text>done_deli</text>
+        <text>img</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dGFjaG1lbnRfdXNlPSJUcnVlIgogICAgICAgICAgICAgICAgYXR0YWNobWVudD0iKG9iamVjdC5zdGF0ZSBpbiAoJ29wZW4nLCdwYWlkJykpIGFuZCAoJ0lOVicrKG9iamVjdC5udW1iZXIgb3IgJycpLnJlcGxhY2UoJy8gICAgJywnJykrJy5wZGYnKSIK</text>
@@ -1991,37 +1987,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbRWxzZV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgPC90Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dCB0LWNhbGw9InJlcG9ydC5odG1sX2NvbnRhaW5lciI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbRWxzZSBJZiAgU08ud2tfc2hvcCA9IHRhbWVzb24uY28udWsgICBPUiAgIGN1c3RvbWVyIGNvdW50cnkgPSBVSyBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgPC90Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAke29iamVjdC5wYXJ0bmVyX2lkLmxhbmd9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dCB0LWNhbGw9InJlcG9ydC5odG1sX2NvbnRhaW5lciI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHA6Ly90YW1lc29uLm5sIiBzdHlsZT0iZm9udC1mYW1pbHk6J0FyaWFsIEJsYWNrJywgQXJpYWwsIHNhbnMtc2VyaWY7IHRleHQtZGVjb3JhdGlvbjogbm9uZTsgY29sb3I6ICNEMDAwMDA7IGZvbnQtc2l6ZTogMThweDsiPjxpbWcgc3JjPSJsb2dvLXRhbWVzb24ucG5nIiBhbHQ9IlRBTUVTT04iPjwvYT4KPGJyPgo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxNHB4O2NvbG9yOiM1NTUiPllvdXIgcGFydG5lciBpbiBmbHVpZCBjb250cm9sPC9zcGFuPjxicj48YnI+CjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDE1cHgiPjxzcGFuIHN0eWxlPSJjb2xvcjogIzU1NSI+VDo8L3NwYW4+ICszMSAoMCk0MDcuNTA1Ljc5NSA8c3BhbiBzdHlsZT0iY29sb3I6ICM1NTUiPiYjMTI0OyBFOiA8YSBocmVmPSJtYWlsdG86c3VwcG9ydEB0YW1lc29uLm5sIj5zdXBwb3J0QHRhbWVzb24ubmw8L2E+ICYjMTI0OyBXOiA8YSBocmVmPSJodHRwOi8vdGFtZXNvbi5ubCIgdGFyZ2V0PSJfYmxhbmsiPnRhbWVzb24ubmw8L2E+ICYjMTI0OyA8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cDovL3RhbWVzb24ubmwvYWxnZW1lbmUtdm9vcndhYXJkZW4uaHRtbCI+YWxnZW1lbmUgdm9vcndhYXJkZW48L2E+PC9zcGFuPjwvc3Bhbj4KPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJweDsgY29sb3I6IzU1NSI+PGJyPlRvcmVuYWxsZWUgMjAgLSA1NjE3QkMgRWluZGhvdmVuIChOTCkgJiMxMjQ7IEtWSzogNTczMzEzMzIgJiMxMjQ7IEJUVzogTkw4NTI1MzQ5OTFCMDE8L3NwYW4+CgpbRWxzZSBJZiAgU08ud2tfc2hvcCA9IHRhbWVzb24uY28udWsgICBPUiAgIGN1c3RvbWVyIGNvdW50cnkgPSBVSyBdCgo8YSBocmVmPSJodHRwOi8vdGFtZXNvbi5jb20iIHN0eWxlPSJmb250LWZhbWlseTonQXJpYWwgQmxhY2snLCBBcmlhbCwgc2Fucy1zZXJpZjsgdGV4dC1kZWNvcmF0aW9uOiBub25lOyBjb2xvcjogI0QwMDAwMDsgZm9udC1zaXplOiAxOHB4OyI+PGltZyBzcmM9ImxvZ28tdGFtZXNvbi5wbmciIGFsdD0iVEFNRVNPTiI+PC9hPgo8YnI+CjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDE0cHg7Y29sb3I6IzU1NSI+WW91ciBwYXJ0bmVyIGluIGZsdWlkIGNvbnRyb2w8L3NwYW4+PGJyPjxicj4KPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTVweCI+PHNwYW4gc3R5bGU9ImNvbG9yOiAjNTU1Ij5UOjwvc3Bhbj4gKzMxICgwKTQwNy41MDUuNzk1IDxzcGFuIHN0eWxlPSJjb2xvcjogIzU1NSI+JiMxMjQ7IEU6IDxhIGhyZWY9Im1haWx0bzpzdXBwb3J0QHRhbWVzb24uY28udWsiPnN1cHBvcnRAdGFtZXNvbi5jby51azwvYT4gJiMxMjQ7IFc6IDxhIGhyZWY9Imh0dHA6Ly90YW1lc29uLmNvLnVrIiB0YXJnZXQ9Il9ibGFuayI+dGFtZXNvbi5jby51azwvYT4gJiMxMjQ7IDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwOi8vdGFtZXNvbi5jby51ay90ZXJtcy1hbmQtY29uZGl0aW9ucy5odG1sIj50ZXJtcyBhbmQgY29uZGl0aW9uczwvYT48L3NwYW4+PC9zcGFuPgo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB4OyBjb2xvcjojNTU1Ij48YnI+VG9yZW5hbGxlZSAyMCAtIDU2MTdCQyBFaW5kaG92ZW4gKE5MKSAmIzEyNDsgUmVnLiAoTkwpOiA1NzMzMTMzMiAmIzEyNDsgVkFUOiBOTDg1MjUzNDk5MUIwMTwvc3Bhbj4KCltFbHNlXQoKPGEgaHJlZj0iaHR0cDovL3RhbWVzb24uY29tIiBzdHlsZT0iZm9udC1mYW1pbHk6J0FyaWFsIEJsYWNrJywgQXJpYWwsIHNhbnMtc2VyaWY7IHRleHQtZGVjb3JhdGlvbjogbm9uZTsgY29sb3I6ICNEMDAwMDA7IGZvbnQtc2l6ZTogMThweDsiPjxpbWcgc3JjPSJsb2dvLXRhbWVzb24ucG5nIiBhbHQ9IlRBTUVTT04iPjwvYT4KPGJyPgo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxNHB4O2NvbG9yOiM1NTUiPllvdXIgcGFydG5lciBpbiBmbHVpZCBjb250cm9sPC9zcGFuPjxicj48YnI+CjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDE1cHgiPjxzcGFuIHN0eWxlPSJjb2xvcjogIzU1NSI+VDo8L3NwYW4+ICszMSAoMCk0MDcuNTA1Ljc5NSA8c3BhbiBzdHlsZT0iY29sb3I6ICM1NTUiPiYjMTI0OyBFOiA8YSBocmVmPSJtYWlsdG86c3VwcG9ydEB0YW1lc29uLmNvbSI+c3VwcG9ydEB0YW1lc29uLmNvbTwvYT4gJiMxMjQ7IFc6IDxhIGhyZWY9Imh0dHA6Ly90YW1lc29uLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnRhbWVzb24uY29tPC9hPiAmIzEyNDsgPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly90YW1lc29uLmNvbS90ZXJtcy1hbmQtY29uZGl0aW9ucy5odG1sIj50ZXJtcyBhbmQgY29uZGl0aW9uczwvYT48L3NwYW4+PC9zcGFuPgo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB4OyBjb2xvcjojNTU1Ij48YnI+VG9yZW5hbGxlZSAyMCAtIDU2MTdCQyBFaW5kaG92ZW4gKE5MKSAmIzEyNDsgUmVnLiAoTkwpOiA1NzMzMTMzMiAmIzEyNDsgVkFUOiBOTDg1MjUzNDk5MUIwMTwvc3Bhbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0YSA9IHJlcXVlc3QuTUVUQQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBEZWZpbmUgd2hvbGUgdGVtcGxhdGUgYXMgYSBmdW5jdGlvbjogdGhpcyB3YXkgc2FsZXMgb3JkZXIgYW5kIG90aGVyIGR5bmFtaWNhbGx5CiAgICAgICAgICAgICAgICAgZ2VuZXJhdGVkIHZhcmlhYmxlcyBjYW4gYmUgY2FjaGVkIGFuZCBmZXRjaGVkIG9ubHkgb25jZSAobGlrZSBzYWxlcyBvcmRlcikuCiAgICAgICAgICAgICAgICAgTm9ybWFsbHkgd2Ugd291bGQganVzdCBkbwogICAgICAgICAgICAgICAgIDwlCiAgICAgICAgICAgICAgICAgICAgIHNvID0gb2JqZWN0LmdldF9zYWxlX29yZGVyKCkKICAgICAgICAgICAgICAgICAlPgogICAgICAgICAgICAgICAgIGJ1dCBPZG9vIGJsb2NrcyBhcmJpdHJhcnkgUHl0aG9uIGNvZGUgZXhlY3V0aW9uIGZvciBzZWN1cml0eSByZWFzb25zLgogICAgICAgICAgICAgICAgIC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigneCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR7ZW1haWxfdGVtcGxhdGUob2JqZWN0LCBvYmplY3QuZ2V0X3NhbGVfb3JkZXIoKSl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHZhbC5maWxlIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdmaWxlIGlzIE5vbmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvJWRlZj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>done_deli</last-search>
+      <last-search>img</last-search>
       <last-offset />
-      <last-pattern>done_deli</last-pattern>
+      <last-pattern>img</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2029,10 +2025,6 @@
     </search>
     <history>
       <history-search>
-        <entry>case\.datacardt</entry>
-        <entry>upload</entry>
-        <entry>FIL</entry>
-        <entry>uploaded_fi</entry>
         <entry>me</entry>
         <entry>'me'</entry>
         <entry>files_list</entry>
@@ -2049,6 +2041,10 @@
         <entry>o\.</entry>
         <entry>header</entry>
         <entry>done_deli</entry>
+        <entry>endit</entry>
+        <entry>endif</entry>
+        <entry>br</entry>
+        <entry>img</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
