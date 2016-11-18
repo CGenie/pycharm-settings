@@ -273,10 +273,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" timestamp="1479205493356">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" timestamp="1479467639642">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="182" column="10" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-users.html" timestamp="1476811815348">
         <mark key="'" line="54" column="31" />
@@ -1053,8 +1055,10 @@
         <mark key="." line="1" column="45" />
         <mark key="^" line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1479214402741">
-        <mark key="'" line="22" column="58" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" timestamp="1479467636522">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="351" column="0" />
+        <mark key="]" line="351" column="46" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/workflows.xml" timestamp="1474447303761">
         <mark key="'" line="175" column="42" />
@@ -1811,42 +1815,9 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/account_invoice.xml" timestamp="1479211178119">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/account_invoice.xml" timestamp="1479467123043" />
     </filemarks>
     <jumps>
-      <jump line="104" column="23" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="110" column="23" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="116" column="23" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
-      <jump line="265" column="52" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="5" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="114" column="29" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="22" column="58" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="111" column="32" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="113" column="77" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="117" column="68" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="149" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="97" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="136" column="28" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="345" column="57" filename="$USER_HOME$/git-work/github/ODOO/tameson/bridge_skeleton/models/wk_skeleton.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/extra_functions.py" />
-      <jump line="6" column="260" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
-      <jump line="654" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="88" column="16" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
-      <jump line="1" column="65" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Italamo/italamo/addons/timerecord/api.py" />
-      <jump line="113" column="36" filename="$USER_HOME$/Italamo/italamo/apps/statistics/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="154" column="43" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="155" column="13" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="168" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="171" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
-      <jump line="175" column="11" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
       <jump line="182" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
       <jump line="207" column="17" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
       <jump line="210" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/datepicker/datepicker.js" />
@@ -1918,6 +1889,35 @@
       <jump line="33" column="20" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
       <jump line="35" column="13" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
       <jump line="45" column="24" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="345" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="3" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="15" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="17" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="20" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="75" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="172" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="21" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="25" column="39" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="358" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="119" column="24" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="14" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="26" column="61" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="37" column="37" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="39" column="54" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="141" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="12" column="67" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="179" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="131" column="36" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="183" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="48" column="36" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
+      <jump line="157" column="28" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="115" column="12" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1963,8 +1963,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1979,49 +1979,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">PC9kYXRhPg==</text>
       </register>
       <register name="/" type="4">
-        <text>parsed</text>
+        <text>done_deli</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4X2ZpbGUgPSByZXF1ZXN0Lk1FVEEuZ2V0KCdIVFRQX1hfRklMRScpCiAgICAgICAgaWYgeF9maWxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dGFjaG1lbnRfdXNlPSJUcnVlIgogICAgICAgICAgICAgICAgYXR0YWNobWVudD0iKG9iamVjdC5zdGF0ZSBpbiAoJ29wZW4nLCdwYWlkJykpIGFuZCAoJ0lOVicrKG9iamVjdC5udW1iZXIgb3IgJycpLnJlcGxhY2UoJy8gICAgJywnJykrJy5wZGYnKSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0YSA9IHJlcXVlc3QuTUVUQQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigneCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHZhbC5maWxlIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdmaWxlIGlzIE5vbmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgPC90Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudF9sZW5ndGggPSByZXF1ZXN0Lk1FVEFbJ0hUVFBfQ09OVEVOVF9MRU5HVEgnXQo=</text>
+        <text encoding="base64">ICAgICAgICA8dCB0LWNhbGw9InJlcG9ydC5odG1sX2NvbnRhaW5lciI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudF90eXBlID0gcmVxdWVzdC5NRVRBWydIVFRQX0NPTlRFTlRfVFlQRSddCg==</text>
+        <text encoding="base64">ICAgICAgICAgPC90Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICA8dCB0LWNhbGw9InJlcG9ydC5odG1sX2NvbnRhaW5lciI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbC5yZWFkX2JpbmFyeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0YSA9IHJlcXVlc3QuTUVUQQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCA9IHBhcnNlZFtrZXldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigneCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9IGYucmVhZGxpbmUoKS5zdHJpcCgpCiAgICAgICAgICAgIGlmIG5vdCBsaW5lLnN0YXJ0c3dpdGgoJy0tJyk6CiAgICAgICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0JvdW5kYXJ5IGV4cGVjdGVkIGF0IGZpcnN0IGxpbmUhJykKICAgICAgICAgICAgYm91bmRhcnkgPSBsaW5lWzI6XQogICAgICAgICAgICBmLnNlZWsoMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHZhbC5maWxlIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdmaWxlIGlzIE5vbmUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parsed</last-search>
+      <last-search>done_deli</last-search>
       <last-offset />
-      <last-pattern>parsed</last-pattern>
+      <last-pattern>done_deli</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2029,13 +2029,6 @@
     </search>
     <history>
       <history-search>
-        <entry>on_re</entry>
-        <entry>ON_RE</entry>
-        <entry>on dt</entry>
-        <entry>select_main_case</entry>
-        <entry>SelectMainCase</entry>
-        <entry>FilterS</entry>
-        <entry>js-ital-c</entry>
         <entry>case\.datacardt</entry>
         <entry>upload</entry>
         <entry>FIL</entry>
@@ -2049,6 +2042,13 @@
         <entry>is_s</entry>
         <entry>file_uplo</entry>
         <entry>parsed</entry>
+        <entry>external_la</entry>
+        <entry>papers</entry>
+        <entry>paper</entry>
+        <entry>company</entry>
+        <entry>o\.</entry>
+        <entry>header</entry>
+        <entry>done_deli</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
