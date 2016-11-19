@@ -450,12 +450,12 @@
         <mark key="^" line="804" column="24" />
         <mark key="." line="804" column="24" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/document/models.py" timestamp="1476336988543">
-        <mark key="'" line="217" column="6" />
-        <mark key="[" line="128" column="30" />
-        <mark key="]" line="128" column="8" />
-        <mark key="^" line="128" column="8" />
-        <mark key="." line="128" column="8" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/models.py" timestamp="1479538294039">
+        <mark key="'" line="1338" column="20" />
+        <mark key="[" line="1343" column="15" />
+        <mark key="]" line="1343" column="15" />
+        <mark key="." line="1343" column="15" />
+        <mark key="^" line="1346" column="58" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/user.js" timestamp="1472486370145">
         <mark key="[" line="47" column="0" />
@@ -851,11 +851,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/apps/document/views.py" timestamp="1479455984856">
-        <mark key="'" line="88" column="28" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Italamo/italamo/apps/document/views.py" timestamp="1479538320010">
+        <mark key="'" line="290" column="34" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="12" />
+        <mark key="." line="102" column="12" />
+        <mark key="^" line="99" column="71" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" timestamp="1476809672257">
         <mark key="'" line="15" column="42" />
@@ -1811,18 +1812,8 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/account_invoice.xml" timestamp="1479467123043" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/template/datepicker/day.html" />
-      <jump line="6" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
-      <jump line="16" column="24" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
-      <jump line="76" column="0" filename="$USER_HOME$/git-work/github/JAVASCRIPT/bootstrap/src/isClass/isClass.js" />
-      <jump line="1591" column="14" filename="$USER_HOME$/Italamo/italamo/statics/js/lib/ui-bootstrap-tpls-2.2.0.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
-      <jump line="630" column="11" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
-      <jump line="641" column="53" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
-      <jump line="643" column="25" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/case.js" />
       <jump line="408" column="26" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="147" column="117" filename="$USER_HOME$/Italamo/italamo/statics/js/modules/coffee/datacardtype.coffee" />
       <jump line="520" column="31" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
@@ -1914,6 +1905,15 @@
       <jump line="55" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
       <jump line="58" column="206" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
       <jump line="62" column="209" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="120" column="32" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="60" column="104" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="82" column="41" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="298" column="34" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
+      <jump line="1338" column="20" filename="$USER_HOME$/Italamo/italamo/apps/document/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/models.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1959,8 +1959,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>logo-tameson.png</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0LnVzZXIgIT0gZG9jdW1lbnRfbG9jay51c2VyIGFuZCBcCiAgICAgICAgICAgbm90IHJlcXVlc3QudXNlci5pc19zdXBlcnVzZXIgYW5kIFwKICAgICAgICAgICBub3QgcmVxdWVzdC50ZW5hbnQuYWRtaW5zLmZpbHRlcihpZD1yZXF1ZXN0LnVzZXIuaWQpLmV4aXN0cygpIGFuZCBcCiAgICAgICAgICAgbm90IHJlcXVlc3QudGVuYW50Lm1hbmFnZXJzLmZpbHRlcihpZD1yZXF1ZXN0LnVzZXIuaWQpLmV4aXN0cygpOgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1975,49 +1975,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>logo-tameson.png</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text>get_lo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dGFjaG1lbnRfdXNlPSJUcnVlIgogICAgICAgICAgICAgICAgYXR0YWNobWVudD0iKG9iamVjdC5zdGF0ZSBpbiAoJ29wZW4nLCdwYWlkJykpIGFuZCAoJ0lOVicrKG9iamVjdC5udW1iZXIgb3IgJycpLnJlcGxhY2UoJy8gICAgJywnJykrJy5wZGYnKSIK</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0LnVzZXIgIT0gZG9jdW1lbnRfbG9jay51c2VyIGFuZCBcCiAgICAgICAgICAgbm90IHJlcXVlc3QudXNlci5pc19zdXBlcnVzZXIgYW5kIFwKICAgICAgICAgICBub3QgcmVxdWVzdC50ZW5hbnQuYWRtaW5zLmZpbHRlcihpZD1yZXF1ZXN0LnVzZXIuaWQpLmV4aXN0cygpIGFuZCBcCiAgICAgICAgICAgbm90IHJlcXVlc3QudGVuYW50Lm1hbmFnZXJzLmZpbHRlcihpZD1yZXF1ZXN0LnVzZXIuaWQpLmV4aXN0cygpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0LnVzZXIgIT0gZG9jdW1lbnRfbG9jay51c2VyIGFuZCBcCiAgICAgICAgICAgbm90IHJlcXVlc3QudXNlci5pc19zdXBlcnVzZXIgYW5kIFwKICAgICAgICAgICBub3QgcmVxdWVzdC50ZW5hbnQuYWRtaW5zLmZpbHRlcihpZD1yZXF1ZXN0LnVzZXIuaWQpLmV4aXN0cygpIGFuZCBcCiAgICAgICAgICAgbm90IHJlcXVlc3QudGVuYW50Lm1hbmFnZXJzLmZpbHRlcihpZD1yZXF1ZXN0LnVzZXIuaWQpLmV4aXN0cygpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbRWxzZV0K</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2xvY2tfZm9yX21hbnVhbF91cGRhdGUoaWQ9aWQsIGZpbGVuYW1lPU5vbmUpOgogICAgICAgIG9sZF9kb2N1bWVudCA9IERvY3VtZW50Lm9iamVjdHMuZ2V0KGlkPWlkKQogICAgICAgIG5ld19sb2NrID0gRG9jdW1lbnRMb2NrKGRvY3VtZW50PW9sZF9kb2N1bWVudCwgdXNlcj1yZXF1ZXN0LnVzZXIpCiAgICAgICAgcmV0dXJuIG5ld19sb2NrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAjIEdlbmVyaWMgZnVuY3Rpb24gbWFwIGhvdyB0byBnZXQgbG9ja3MKICAgIGdldF9sb2NrX21hcCA9IHsKICAgICAgICAnZG9jdW1lbnRfbG9jayc6IGxhbWJkYSBpZD1Ob25lLCBmaWxlbmFtZT1Ob25lOiBEb2N1bWVudC5vYmplY3RzLmdldChpZD1pZCkudmFsaWRfbG9ja3MoKS5sYXN0KCksCiAgICAgICAgJ2xvY2snOiBsYW1iZGEgaWQ9Tm9uZSwgZmlsZW5hbWU9Tm9uZTogRG9jdW1lbnRMb2NrLm9iamVjdHMuc2VsZWN0X3JlbGF0ZWQoJ2RvY3VtZW50JywgJ3VzZXInKS5nZXQoaWQ9aWQsIHJlbGVhc2VkPUZhbHNlKSwKICAgICAgICAnZG9jdW1lbnRfbWFudWFsX3VwZGF0ZSc6IGdldF9sb2NrX2Zvcl9tYW51YWxfdXBkYXRlLAogICAgICAgICdkZWZhdWx0JzogbGFtYmRhIGlkPU5vbmUsIGZpbGVuYW1lPU5vbmU6IERvY3VtZW50TG9jay5vYmplY3RzLmdldF9ieV9uYW1lKG5hbWU9ZmlsZV9uYW1lKSwKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbRWxzZSBJZiAgU08ud2tfc2hvcCA9IHRhbWVzb24uY28udWsgICBPUiAgIGN1c3RvbWVyIGNvdW50cnkgPSBVSyBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnRfbG9jayA9IGdldF9sb2NrX21hcC5nZXQobW9kZWwsIGdldF9sb2NrX21hcC5nZXQoJ2RlZmF1bHQnKSkoaWQ9aWQsIGZpbGVuYW1lPWZpbGVfbmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAke29iamVjdC5wYXJ0bmVyX2lkLmxhbmd9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHA6Ly90YW1lc29uLm5sIiBzdHlsZT0iZm9udC1mYW1pbHk6J0FyaWFsIEJsYWNrJywgQXJpYWwsIHNhbnMtc2VyaWY7IHRleHQtZGVjb3JhdGlvbjogbm9uZTsgY29sb3I6ICNEMDAwMDA7IGZvbnQtc2l6ZTogMThweDsiPjxpbWcgc3JjPSJsb2dvLXRhbWVzb24ucG5nIiBhbHQ9IlRBTUVTT04iPjwvYT4KPGJyPgo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxNHB4O2NvbG9yOiM1NTUiPllvdXIgcGFydG5lciBpbiBmbHVpZCBjb250cm9sPC9zcGFuPjxicj48YnI+CjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDE1cHgiPjxzcGFuIHN0eWxlPSJjb2xvcjogIzU1NSI+VDo8L3NwYW4+ICszMSAoMCk0MDcuNTA1Ljc5NSA8c3BhbiBzdHlsZT0iY29sb3I6ICM1NTUiPiYjMTI0OyBFOiA8YSBocmVmPSJtYWlsdG86c3VwcG9ydEB0YW1lc29uLm5sIj5zdXBwb3J0QHRhbWVzb24ubmw8L2E+ICYjMTI0OyBXOiA8YSBocmVmPSJodHRwOi8vdGFtZXNvbi5ubCIgdGFyZ2V0PSJfYmxhbmsiPnRhbWVzb24ubmw8L2E+ICYjMTI0OyA8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cDovL3RhbWVzb24ubmwvYWxnZW1lbmUtdm9vcndhYXJkZW4uaHRtbCI+YWxnZW1lbmUgdm9vcndhYXJkZW48L2E+PC9zcGFuPjwvc3Bhbj4KPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJweDsgY29sb3I6IzU1NSI+PGJyPlRvcmVuYWxsZWUgMjAgLSA1NjE3QkMgRWluZGhvdmVuIChOTCkgJiMxMjQ7IEtWSzogNTczMzEzMzIgJiMxMjQ7IEJUVzogTkw4NTI1MzQ5OTFCMDE8L3NwYW4+CgpbRWxzZSBJZiAgU08ud2tfc2hvcCA9IHRhbWVzb24uY28udWsgICBPUiAgIGN1c3RvbWVyIGNvdW50cnkgPSBVSyBdCgo8YSBocmVmPSJodHRwOi8vdGFtZXNvbi5jb20iIHN0eWxlPSJmb250LWZhbWlseTonQXJpYWwgQmxhY2snLCBBcmlhbCwgc2Fucy1zZXJpZjsgdGV4dC1kZWNvcmF0aW9uOiBub25lOyBjb2xvcjogI0QwMDAwMDsgZm9udC1zaXplOiAxOHB4OyI+PGltZyBzcmM9ImxvZ28tdGFtZXNvbi5wbmciIGFsdD0iVEFNRVNPTiI+PC9hPgo8YnI+CjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDE0cHg7Y29sb3I6IzU1NSI+WW91ciBwYXJ0bmVyIGluIGZsdWlkIGNvbnRyb2w8L3NwYW4+PGJyPjxicj4KPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTVweCI+PHNwYW4gc3R5bGU9ImNvbG9yOiAjNTU1Ij5UOjwvc3Bhbj4gKzMxICgwKTQwNy41MDUuNzk1IDxzcGFuIHN0eWxlPSJjb2xvcjogIzU1NSI+JiMxMjQ7IEU6IDxhIGhyZWY9Im1haWx0bzpzdXBwb3J0QHRhbWVzb24uY28udWsiPnN1cHBvcnRAdGFtZXNvbi5jby51azwvYT4gJiMxMjQ7IFc6IDxhIGhyZWY9Imh0dHA6Ly90YW1lc29uLmNvLnVrIiB0YXJnZXQ9Il9ibGFuayI+dGFtZXNvbi5jby51azwvYT4gJiMxMjQ7IDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwOi8vdGFtZXNvbi5jby51ay90ZXJtcy1hbmQtY29uZGl0aW9ucy5odG1sIj50ZXJtcyBhbmQgY29uZGl0aW9uczwvYT48L3NwYW4+PC9zcGFuPgo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB4OyBjb2xvcjojNTU1Ij48YnI+VG9yZW5hbGxlZSAyMCAtIDU2MTdCQyBFaW5kaG92ZW4gKE5MKSAmIzEyNDsgUmVnLiAoTkwpOiA1NzMzMTMzMiAmIzEyNDsgVkFUOiBOTDg1MjUzNDk5MUIwMTwvc3Bhbj4KCltFbHNlXQoKPGEgaHJlZj0iaHR0cDovL3RhbWVzb24uY29tIiBzdHlsZT0iZm9udC1mYW1pbHk6J0FyaWFsIEJsYWNrJywgQXJpYWwsIHNhbnMtc2VyaWY7IHRleHQtZGVjb3JhdGlvbjogbm9uZTsgY29sb3I6ICNEMDAwMDA7IGZvbnQtc2l6ZTogMThweDsiPjxpbWcgc3JjPSJsb2dvLXRhbWVzb24ucG5nIiBhbHQ9IlRBTUVTT04iPjwvYT4KPGJyPgo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxNHB4O2NvbG9yOiM1NTUiPllvdXIgcGFydG5lciBpbiBmbHVpZCBjb250cm9sPC9zcGFuPjxicj48YnI+CjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDE1cHgiPjxzcGFuIHN0eWxlPSJjb2xvcjogIzU1NSI+VDo8L3NwYW4+ICszMSAoMCk0MDcuNTA1Ljc5NSA8c3BhbiBzdHlsZT0iY29sb3I6ICM1NTUiPiYjMTI0OyBFOiA8YSBocmVmPSJtYWlsdG86c3VwcG9ydEB0YW1lc29uLmNvbSI+c3VwcG9ydEB0YW1lc29uLmNvbTwvYT4gJiMxMjQ7IFc6IDxhIGhyZWY9Imh0dHA6Ly90YW1lc29uLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnRhbWVzb24uY29tPC9hPiAmIzEyNDsgPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly90YW1lc29uLmNvbS90ZXJtcy1hbmQtY29uZGl0aW9ucy5odG1sIj50ZXJtcyBhbmQgY29uZGl0aW9uczwvYT48L3NwYW4+PC9zcGFuPgo8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB4OyBjb2xvcjojNTU1Ij48YnI+VG9yZW5hbGxlZSAyMCAtIDU2MTdCQyBFaW5kaG92ZW4gKE5MKSAmIzEyNDsgUmVnLiAoTkwpOiA1NzMzMTMzMiAmIzEyNDsgVkFUOiBOTDg1MjUzNDk5MUIwMTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbRWxzZV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBEZWZpbmUgd2hvbGUgdGVtcGxhdGUgYXMgYSBmdW5jdGlvbjogdGhpcyB3YXkgc2FsZXMgb3JkZXIgYW5kIG90aGVyIGR5bmFtaWNhbGx5CiAgICAgICAgICAgICAgICAgZ2VuZXJhdGVkIHZhcmlhYmxlcyBjYW4gYmUgY2FjaGVkIGFuZCBmZXRjaGVkIG9ubHkgb25jZSAobGlrZSBzYWxlcyBvcmRlcikuCiAgICAgICAgICAgICAgICAgTm9ybWFsbHkgd2Ugd291bGQganVzdCBkbwogICAgICAgICAgICAgICAgIDwlCiAgICAgICAgICAgICAgICAgICAgIHNvID0gb2JqZWN0LmdldF9zYWxlX29yZGVyKCkKICAgICAgICAgICAgICAgICAlPgogICAgICAgICAgICAgICAgIGJ1dCBPZG9vIGJsb2NrcyBhcmJpdHJhcnkgUHl0aG9uIGNvZGUgZXhlY3V0aW9uIGZvciBzZWN1cml0eSByZWFzb25zLgogICAgICAgICAgICAgICAgIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR7ZW1haWxfdGVtcGxhdGUob2JqZWN0LCBvYmplY3QuZ2V0X3NhbGVfb3JkZXIoKSl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbRWxzZSBJZiAgU08ud2tfc2hvcCA9IHRhbWVzb24uY28udWsgICBPUiAgIGN1c3RvbWVyIGNvdW50cnkgPSBVSyBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvJWRlZj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAke29iamVjdC5wYXJ0bmVyX2lkLmxhbmd9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search>get_lo</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern>get_lo</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2025,9 +2025,6 @@
     </search>
     <history>
       <history-search>
-        <entry>me</entry>
-        <entry>'me'</entry>
-        <entry>files_list</entry>
         <entry>media</entry>
         <entry>apps.media</entry>
         <entry>middlewa</entry>
@@ -2045,6 +2042,9 @@
         <entry>endif</entry>
         <entry>br</entry>
         <entry>img</entry>
+        <entry>def add(</entry>
+        <entry>get_lock_m</entry>
+        <entry>get_lo</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
