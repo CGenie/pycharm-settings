@@ -1267,11 +1267,11 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/italamo/nginx.conf" timestamp="1479459301472">
-        <mark key="[" line="101" column="52" />
-        <mark key="]" line="101" column="53" />
-        <mark key="." line="101" column="52" />
-        <mark key="^" line="101" column="57" />
+      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/italamo/nginx.conf" timestamp="1479541100011">
+        <mark key="[" line="109" column="45" />
+        <mark key="]" line="109" column="80" />
+        <mark key="." line="109" column="80" />
+        <mark key="^" line="109" column="80" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/lib/scheduler/tasks.py" timestamp="1478240041264">
         <mark key="'" line="9" column="23" />
@@ -1959,8 +1959,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0LnVzZXIgIT0gZG9jdW1lbnRfbG9jay51c2VyIGFuZCBcCiAgICAgICAgICAgbm90IHJlcXVlc3QudXNlci5pc19zdXBlcnVzZXIgYW5kIFwKICAgICAgICAgICBub3QgcmVxdWVzdC50ZW5hbnQuYWRtaW5zLmZpbHRlcihpZD1yZXF1ZXN0LnVzZXIuaWQpLmV4aXN0cygpIGFuZCBcCiAgICAgICAgICAgbm90IHJlcXVlc3QudGVuYW50Lm1hbmFnZXJzLmZpbHRlcihpZD1yZXF1ZXN0LnVzZXIuaWQpLmV4aXN0cygpOgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1975,7 +1975,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get_lo</text>
