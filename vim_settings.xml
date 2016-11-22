@@ -149,8 +149,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1478848100528">
-        <mark key="'" line="236" column="49" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1479817029401">
+        <mark key="'" line="1062" column="4" />
         <mark key="[" line="839" column="36" />
         <mark key="]" line="840" column="12" />
         <mark key="." line="840" column="12" />
@@ -451,11 +451,7 @@
         <mark key="." line="804" column="24" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/document/models.py" timestamp="1479538294039">
-        <mark key="'" line="1338" column="20" />
-        <mark key="[" line="1343" column="15" />
-        <mark key="]" line="1343" column="15" />
-        <mark key="." line="1343" column="15" />
-        <mark key="^" line="1346" column="58" />
+        <mark key="^" line="1306" column="58" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/statics/js/modules/user.js" timestamp="1472486370145">
         <mark key="[" line="47" column="0" />
@@ -599,7 +595,7 @@
         <mark key="." line="29" column="126" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" timestamp="1479452630747">
-        <mark key="'" line="765" column="21" />
+        <mark key="'" line="764" column="21" />
         <mark key="[" line="221" column="27" />
         <mark key="]" line="221" column="52" />
         <mark key="." line="221" column="52" />
@@ -852,11 +848,10 @@
         <mark key="^" line="10" column="47" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/document/views.py" timestamp="1479538320010">
-        <mark key="'" line="290" column="34" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="12" />
-        <mark key="." line="102" column="12" />
-        <mark key="^" line="99" column="71" />
+        <mark key="'" line="306" column="34" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="12" />
+        <mark key="." line="53" column="12" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/index.html" timestamp="1476809672257">
         <mark key="'" line="15" column="42" />
@@ -964,8 +959,8 @@
         <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/document/tools.py" timestamp="1479456048810">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="30" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="30" />
         <mark key="." line="38" column="35" />
         <mark key="^" line="38" column="35" />
       </file>
@@ -1266,12 +1261,6 @@
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="9" />
-      </file>
-      <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/italamo/nginx.conf" timestamp="1479541100011">
-        <mark key="[" line="109" column="45" />
-        <mark key="]" line="109" column="80" />
-        <mark key="." line="109" column="80" />
-        <mark key="^" line="109" column="80" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/lib/scheduler/tasks.py" timestamp="1478240041264">
         <mark key="'" line="9" column="23" />
@@ -1814,9 +1803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="520" column="31" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="526" column="20" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="57" column="30" filename="$USER_HOME$/Italamo/caretakers/www/index.html" />
       <jump line="434" column="37" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
@@ -1914,6 +1900,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/models.py" />
       <jump line="61" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
+      <jump line="280" column="20" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="173" column="8" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="1062" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1978,7 +1967,7 @@
         <text>co.uk</text>
       </register>
       <register name="/" type="4">
-        <text>co.uk</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAlIGVsaWYgc28ud2tfc2hvcCA9PSAndGFtZXNvbi5jby51aycgb3Igb2JqZWN0LnBhcnRuZXJfaWQuY291bnRyeV9pZC5jb2RlID09ICdHQic6Cg==</text>
@@ -2015,17 +2004,16 @@
       </register>
     </registers>
     <search>
-      <last-search>co.uk</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>co.uk</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apps.media</entry>
         <entry>middlewa</entry>
         <entry>is_s</entry>
         <entry>file_uplo</entry>
@@ -2045,6 +2033,7 @@
         <entry>get_lock_m</entry>
         <entry>get_lo</entry>
         <entry>co.uk</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
