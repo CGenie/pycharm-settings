@@ -426,8 +426,8 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1479126085374">
-        <mark key="'" line="378" column="16" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" timestamp="1479931175575">
+        <mark key="'" line="381" column="13" />
       </file>
       <file name="$USER_HOME$/Italamo/converter/results.py" timestamp="1474025241231">
         <mark key="'" line="0" column="0" />
@@ -931,8 +931,8 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" timestamp="1476206182567">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" timestamp="1479931571276">
+        <mark key="'" line="16" column="54" />
         <mark key="[" line="44" column="72" />
         <mark key="]" line="44" column="88" />
         <mark key="^" line="44" column="88" />
@@ -1614,8 +1614,8 @@
         <mark key="." line="88" column="65" />
         <mark key="^" line="88" column="65" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" timestamp="1479213519401">
-        <mark key="'" line="116" column="23" />
+      <file name="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" timestamp="1479931278417">
+        <mark key="'" line="88" column="82" />
         <mark key="[" line="122" column="20" />
         <mark key="]" line="122" column="20" />
         <mark key="." line="122" column="23" />
@@ -1805,27 +1805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="766" column="21" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
-      <jump line="764" column="21" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
-      <jump line="37" column="36" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="114" column="8" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="32" column="24" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="132" column="12" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="39" column="29" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="78" column="21" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
-      <jump line="7" column="26" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="53" column="11" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="2" column="12" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="91" column="8" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
-      <jump line="113" column="28" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
-      <jump line="88" column="28" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
-      <jump line="33" column="20" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="35" column="13" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="45" column="24" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
-      <jump line="182" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_deliveryslip.xml" />
-      <jump line="345" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
-      <jump line="4" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="3" column="22" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="15" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
       <jump line="17" column="31" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/report_invoice.xml" />
@@ -1905,6 +1884,27 @@
       <jump line="115" column="81" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
       <jump line="2" column="20" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
       <jump line="69" column="41" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
+      <jump line="418" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="336" column="6" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="337" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="358" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="384" column="75" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="393" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="394" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="396" column="17" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="397" column="20" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="415" column="22" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="408" column="8" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="414" column="21" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="381" column="13" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/override_functions.py" />
+      <jump line="31" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
+      <jump line="94" column="78" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
+      <jump line="88" column="82" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
+      <jump line="15" column="41" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
+      <jump line="16" column="54" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1969,7 +1969,7 @@
         <text>eption</text>
       </register>
       <register name="/" type="4">
-        <text>format_</text>
+        <text>polic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIF9jb2x1bW5zID0gewogICAgICAgICd2b2x1bWVfZGVjaW1hbF9wcmVjaXNpb24nOiBmaWVsZHMuaW50ZWdlcigKICAgICAgICAgICAgJ0RlY2ltYWwgcHJlY2lzaW9uIG9uIHZvbHVtZScKICAgICAgICApCiAgICB9Cg==</text>
@@ -2006,9 +2006,9 @@
       </register>
     </registers>
     <search>
-      <last-search>format_</last-search>
+      <last-search>polic</last-search>
       <last-offset />
-      <last-pattern>format_</last-pattern>
+      <last-pattern>polic</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2016,14 +2016,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parsed</entry>
-        <entry>external_la</entry>
-        <entry>papers</entry>
-        <entry>paper</entry>
-        <entry>company</entry>
-        <entry>o\.</entry>
-        <entry>header</entry>
-        <entry>done_deli</entry>
         <entry>endit</entry>
         <entry>endif</entry>
         <entry>br</entry>
@@ -2036,6 +2028,14 @@
         <entry>35</entry>
         <entry>NAME_L</entry>
         <entry>format_</entry>
+        <entry>ordered</entry>
+        <entry>deliv</entry>
+        <entry>invoice_policy</entry>
+        <entry>is_open_inv</entry>
+        <entry>do_auto_</entry>
+        <entry>should_auto</entry>
+        <entry>invoic</entry>
+        <entry>polic</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
