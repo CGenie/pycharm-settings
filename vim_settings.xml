@@ -983,6 +983,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" timestamp="1479896901135">
+        <mark key="'" line="360" column="8" />
+      </file>
       <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/crm_claim.py" timestamp="1476436635584">
         <mark key="'" line="21" column="26" />
         <mark key="[" line="85" column="17" />
@@ -1803,10 +1806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="434" column="37" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/caretakers/www/js/app.coffee" />
-      <jump line="0" column="0" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
-      <jump line="222" column="58" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
       <jump line="39" column="28" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
       <jump line="48" column="12" filename="$USER_HOME$/Italamo/italamo/apps/account/api.py" />
       <jump line="54" column="19" filename="$USER_HOME$/Italamo/italamo/apps/account/api.py" />
@@ -1903,6 +1902,10 @@
       <jump line="280" column="20" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="173" column="8" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
       <jump line="1062" column="4" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
+      <jump line="463" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="80" column="93" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="112" column="32" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
+      <jump line="360" column="8" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/delivery_ups/models/ups_request.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1967,7 +1970,7 @@
         <text>co.uk</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>NAME_L</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAlIGVsaWYgc28ud2tfc2hvcCA9PSAndGFtZXNvbi5jby51aycgb3Igb2JqZWN0LnBhcnRuZXJfaWQuY291bnRyeV9pZC5jb2RlID09ICdHQic6Cg==</text>
@@ -2004,9 +2007,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>NAME_L</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>NAME_L</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>-1</last-dir>
@@ -2014,8 +2017,6 @@
     </search>
     <history>
       <history-search>
-        <entry>middlewa</entry>
-        <entry>is_s</entry>
         <entry>file_uplo</entry>
         <entry>parsed</entry>
         <entry>external_la</entry>
@@ -2034,6 +2035,8 @@
         <entry>get_lo</entry>
         <entry>co.uk</entry>
         <entry>user</entry>
+        <entry>35</entry>
+        <entry>NAME_L</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
