@@ -152,8 +152,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1479817029401">
-        <mark key="'" line="1062" column="4" />
+      <file name="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" timestamp="1479935978359">
+        <mark key="'" line="968" column="12" />
         <mark key="[" line="839" column="36" />
         <mark key="]" line="840" column="12" />
         <mark key="." line="840" column="12" />
@@ -1830,7 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="209" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/invoice_action_data.xml" />
       <jump line="120" column="32" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
       <jump line="60" column="104" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
       <jump line="59" column="4" filename="$USER_HOME$/Italamo/italamo/apps/document/views.py" />
@@ -1930,6 +1929,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/__openerp__.py" />
       <jump line="248" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/models/pob.py" />
       <jump line="412" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob_extension_multilang/prestashop_bridge_multilang.py" />
+      <jump line="968" column="12" filename="$USER_HOME$/Italamo/italamo/lib/graphs/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1994,7 +1994,7 @@
         <text encoding="base64">IG9yICcnXSBpZiBsXQ==</text>
       </register>
       <register name="/" type="4">
-        <text>action_multiple_syn</text>
+        <text>Past.Wi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzaGlwbWVudC5TaGlwVG8uQWRkcmVzcy5BZGRyZXNzTGluZSA9IFtsIGZvciBsIGluIFtzaGlwX3RvLnN0cmVldCBvciAnJywgc2hpcF90by5zdHJlZXQyIG9yICcnXSBpZiBsXQo=</text>
@@ -2031,9 +2031,9 @@
       </register>
     </registers>
     <search>
-      <last-search>action_multiple_syn</last-search>
+      <last-search>Past.Wi</last-search>
       <last-offset />
-      <last-pattern>action_multiple_syn</last-pattern>
+      <last-pattern>Past.Wi</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -2041,7 +2041,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deliv</entry>
         <entry>invoice_policy</entry>
         <entry>is_open_inv</entry>
         <entry>do_auto_</entry>
@@ -2061,6 +2060,7 @@
         <entry>\t</entry>
         <entry>tr_name=</entry>
         <entry>action_multiple_syn</entry>
+        <entry>Past.Wi</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
