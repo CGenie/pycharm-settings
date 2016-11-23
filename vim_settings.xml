@@ -412,12 +412,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" timestamp="1479898085105">
-        <mark key="'" line="2" column="20" />
-        <mark key="[" line="69" column="43" />
-        <mark key="]" line="69" column="41" />
-        <mark key="." line="69" column="41" />
-        <mark key="^" line="69" column="41" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" timestamp="1479902067258">
+        <mark key="'" line="69" column="41" />
+        <mark key="[" line="113" column="75" />
+        <mark key="]" line="113" column="74" />
+        <mark key="." line="113" column="74" />
+        <mark key="^" line="113" column="74" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/top.sls" timestamp="1474280485816">
         <mark key="'" line="26" column="0" />
@@ -1805,7 +1805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="35" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
       <jump line="766" column="21" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
       <jump line="764" column="21" filename="$USER_HOME$/Italamo/italamo/italamo/settings/base.py" />
       <jump line="37" column="36" filename="$USER_HOME$/Italamo/italamo/apps/media/middleware.py" />
@@ -1905,6 +1904,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
       <jump line="115" column="81" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
       <jump line="2" column="20" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
+      <jump line="69" column="41" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1951,7 +1951,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>eption</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1966,10 +1966,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>eption</text>
       </register>
       <register name="/" type="4">
-        <text>NAME_L</text>
+        <text>format_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIF9jb2x1bW5zID0gewogICAgICAgICd2b2x1bWVfZGVjaW1hbF9wcmVjaXNpb24nOiBmaWVsZHMuaW50ZWdlcigKICAgICAgICAgICAgJ0RlY2ltYWwgcHJlY2lzaW9uIG9uIHZvbHVtZScKICAgICAgICApCiAgICB9Cg==</text>
@@ -2006,17 +2006,16 @@
       </register>
     </registers>
     <search>
-      <last-search>NAME_L</last-search>
+      <last-search>format_</last-search>
       <last-offset />
-      <last-pattern>NAME_L</last-pattern>
+      <last-pattern>format_</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>file_uplo</entry>
         <entry>parsed</entry>
         <entry>external_la</entry>
         <entry>papers</entry>
@@ -2036,6 +2035,7 @@
         <entry>user</entry>
         <entry>35</entry>
         <entry>NAME_L</entry>
+        <entry>format_</entry>
       </history-search>
       <history-cmd>
         <entry>S</entry>
