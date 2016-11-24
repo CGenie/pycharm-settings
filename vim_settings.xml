@@ -372,6 +372,11 @@
         <mark key="." line="25" column="69" />
         <mark key="^" line="25" column="69" />
       </file>
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/data/picking_data.xml" timestamp="1479996750132">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Italamo/italamo/apps/case/tools.py" timestamp="1477561716611">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="49" />
@@ -416,12 +421,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" timestamp="1479996400607">
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/models/stock.py" timestamp="1479998223495">
         <mark key="'" line="69" column="41" />
-        <mark key="[" line="121" column="20" />
-        <mark key="]" line="121" column="47" />
-        <mark key="." line="121" column="47" />
-        <mark key="^" line="121" column="47" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="129" column="18" />
       </file>
       <file name="$USER_HOME$/Italamo/italamo/salt/roots/salt/top.sls" timestamp="1474280485816">
         <mark key="'" line="26" column="0" />
@@ -763,11 +768,10 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1479897746405">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="31" column="35" />
-        <mark key="." line="31" column="35" />
-        <mark key="^" line="31" column="35" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/__openerp__.py" timestamp="1479996764700">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/git-work/gitlab/vault-ui/js/app.js" timestamp="1469442311104">
         <mark key="[" line="0" column="0" />
@@ -1291,11 +1295,12 @@
         <mark key="." line="27" column="29" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/stock_res_config_view.xml" timestamp="1479996387287">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+      <file name="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/stock_res_config_view.xml" timestamp="1479998295481">
+        <mark key="'" line="14" column="9" />
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="23" column="40" />
       </file>
       <file name="$USER_HOME$/git-work/github/ODOO/tameson-csv-converter/templates/info-stock.html" timestamp="1472556989959">
         <mark key="'" line="34" column="11" />
@@ -1847,7 +1852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="94" column="78" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="88" column="82" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/data/picking_workflows.xml" />
@@ -1947,6 +1951,7 @@
       <jump line="0" column="1" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob_stock_handling/pob_stock_handling.py" />
       <jump line="0" column="0" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob_extension_multilang/prestashop_bridge_multilang_view.xml" />
       <jump line="352" column="16" filename="$USER_HOME$/git-work/github/ODOO/tameson/pob/views/pob_view.xml" />
+      <jump line="24" column="9" filename="$USER_HOME$/git-work/github/ODOO/odoo-modules/tameson/views/stock_res_config_view.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1992,8 +1997,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2008,40 +2013,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pos.ui</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>sync_now</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXJscGF0dGVybnMgKz0gcGF0dGVybnMoJycsIHVybChyJ15yb3NldHRhLz8kJywgaW5jbHVkZSgncm9zZXR0YS51cmxzJykpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZmllbGQgbmFtZT0iaWQiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjcmV0dXJuIFRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bWVudWl0ZW0gIGlkPSJtZW51X2lkX3BvYl9zeW5jIiBuYW1lPSJTeW5jaHJvbmlzYXRpb24iIHBhcmVudD0iaWRfcGFyZW50X3ByZXN0YXNob3BlcnAiIHNlcXVlbmNlPSIxIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZpZXdfaWQnOiAndGFtZXNvbi5waWNraW5nX2FmdGVyX2RlbGl2ZXJ5X2FsZXJ0JywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG1lbnVpdGVtICBpZD0ic3luY19ub3dfbWVudV9pZCIgbmFtZT0iU3luY2hyb25pemUgTm93IiBwYXJlbnQ9Im1lbnVfaWRfcG9iX3N5bmMiIGFjdGlvbj0icHJlc3Rhc2hvcGVycF9zeW5jX25vd19hY3Rpb24iIHNlcXVlbmNlPSIxIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BhcmFtcyc6IHsKICAgICAgICAgICAgICAgICd0aXRsZSc6ICdzb21lIHRpdGxlJywKICAgICAgICAgICAgICAgICd0ZXh0JzogJ3NvbWUgdGV4dCcsCiAgICAgICAgICAgICAgICAnc3RpY2t5JzogRmFsc2UsCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG1lbnVpdGVtICBpZD0ic3luY19ub3dfbWVudV9pZCIgbmFtZT0iU3luY2hyb25pemUgTm93IiBwYXJlbnQ9Im1lbnVfaWRfcG9iX3N5bmMiIGFjdGlvbj0icHJlc3Rhc2hvcGVycF9zeW5jX25vd19hY3Rpb24iIHNlcXVlbmNlPSIxIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZpZXdfaWQnOiAndGFtZXNvbi4nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlvdXIgZmllbGRzICMgcmVtZW1iZXIgdG8gYWRkIG5ldyBtb2RlbCBhbmQgZmllbGRzIGZyb20geG1sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwaWNraW5ncyc6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJpZCIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLX5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fnByZXN0YXNob3BlcnBfc3luY19ub3d+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn4tLT4KCTxyZWNvcmQgaWQ9InByZXN0YXNob3BlcnBfc3luY19ub3dfZm9ybV9sYW5ndWFnZSIgbW9kZWw9ImlyLnVpLnZpZXciPgoJCTxmaWVsZCBuYW1lPSJuYW1lIj5wcmVzdGFzaG9wZXJwLnN5bmMubm93LmZvcm1sYW5nPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0ibW9kZWwiPnByZXN0YXNob3BlcnAuc3luYy5ub3c8L2ZpZWxkPgoJCTxmaWVsZCBuYW1lPSJ0eXBlIj5mb3JtPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0iaW5oZXJpdF9pZCIgcmVmPSJwb2IucHJlc3Rhc2hvcGVycF9zeW5jX25vd19mb3JtIi8+CiAgICAgICAgPGZpZWxkIG5hbWU9ImFyY2giIHR5cGU9InhtbCI+CQkKCQkJPGdyb3VwIG5hbWU9ImQiIHBvc2l0aW9uPSJiZWZvcmUiPgoJCQkJPHAgY2xhc3M9Im9lX2dyZXkgb2VfaW5saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSW4gb3JkZXIgdG8gc3luYyB0aGUgcmVjb3JkcyB3aXRoIHRoZWlyIHRyYW5zbGF0aW9ucywgCgkJCQkJCQkJCXlvdSBuZWVkIHRvIGluc3RhbGwgJ1BPQjpNdWx0aS1MYW5ndWFnZSBFeHRlbnNpb24nIG9uIHByZXN0YXNob3BgcyBzZXJ2ZXIgdG9vLiAKCQkJCQkJCQkJWW91IG11c3QgbWFwcGVkIGFsbCBsYW5ndWFnZXMgd2l0aCBQcmVzdGFzaG9wYHMgbGFuZ3VhZ2VzIGJlZm9yZSBkb2luZyB0aGlzIG9wZXJhdGlvbi4gCiAgICAgICAgICAgICAgICA8L3A+CgkJCQk8bmV3bGluZS8+CgkJCTwvZ3JvdXA+CQoJCTwvZmllbGQ+CQkKPC9yZWNvcmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGZpZWxkIG5hbWU9InByaW9yaXR5Ij4xNjwvZmllbGQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgPHJlY29yZCBpZD0icHJlc3Rhc2hvcGVycF9zeW5jX25vd19mb3JtIiBtb2RlbD0iaXIudWkudmlldyI+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5wcmVzdGFzaG9wZXJwLnN5bmMubm93LmZvcm08L2ZpZWxkPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0ibW9kZWwiPnByZXN0YXNob3BlcnAuc3luYy5ub3c8L2ZpZWxkPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0idHlwZSI+Zm9ybTwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJhcmNoIiB0eXBlPSJ4bWwiPgogICAgICAgICAgICAgICAgPGZvcm0gc3RyaW5nPSJTeW5jaHJvbml6YXRpb24gRm9ybSIgdmVyc2lvbj0iNy4wIiBzYXZlPSJmYWxzZSIgb3I9ImZhbHNlIiBkaXNjYXJkPSJmYWxzZSI+CiAgICAgICAgICAgICAgICA8c2hlZXQ+CiAgICAgICAgICAgICAgICA8c2VwYXJhdG9yIHN0cmluZz0iQ2xpY2sgdG8gRXhwb3J0IC8gVXBkYXRlIGRhdGEgb24gUHJlc3RhU2hvcCA6Ii8+CiAgICAgICAgICAgICAgICA8cCBjbGFzcz0ib2VfZ3JleSBvZV9pbmxpbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCeSBjbGlja2luZyBvbiB0aGUgYnV0dG9ucywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeW91IHdpbGwgaW5pdGlhdGUgdGhlIHN5bmNocm9uaXphdGlvbnMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2l0aCBQcmVzdGFzaG9wLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPC9zaGVldD4KICAgICAgICAgICAgICAgIDwvZm9ybT4KICAgICAgICAgICAgPC9maWVsZD4KICAgICAgICA8L3JlY29yZD4KCiAgICAgICAgPHJlY29yZCBpZD0icHJlc3Rhc2hvcGVycF9zeW5jX25vd19hY3Rpb24iIG1vZGVsPSJpci5hY3Rpb25zLmFjdF93aW5kb3ciPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0ibmFtZSI+UHJlc3Rhc2hvcGVycCBTeW5jaHJvbml6YXRpb24gTm93PC9maWVsZD4KICAgICAgICAgICAgPGZpZWxkIG5hbWU9InJlc19tb2RlbCI+cHJlc3Rhc2hvcGVycC5zeW5jLm5vdzwvZmllbGQ+CiAgICAgICAgICAgIDxmaWVsZCBuYW1lPSJ2aWV3X3R5cGUiPmZvcm08L2ZpZWxkPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0idGFyZ2V0Ij5pbmxpbmU8L2ZpZWxkPiAgICAgICAgICAKICAgICAgICAgICAgPGZpZWxkIG5hbWU9InZpZXdfaWQiIHJlZj0icHJlc3Rhc2hvcGVycF9zeW5jX25vd19mb3JtIi8+CiAgICAgICAgPC9yZWNvcmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAnZGF0YS9waWNraW5nX2RhdGEueG1sJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIDxyZWNvcmQgaWQ9IndrX3BvYl9zdG9ja191cGRhdGVfZm9ybSIgbW9kZWw9ImlyLnVpLnZpZXciPgogICAgICAgIDxmaWVsZCBuYW1lPSJuYW1lIj5wcmVzdGFzaG9wZXJwLnN5bmMubm93PC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0ibW9kZWwiPnByZXN0YXNob3BlcnAuc3luYy5ub3c8L2ZpZWxkPgogICAgICAgIDxmaWVsZCBuYW1lPSJ0eXBlIj5mb3JtPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0iaW5oZXJpdF9pZCIgcmVmPSJwb2IucHJlc3Rhc2hvcGVycF9zeW5jX25vd19mb3JtIi8+CiAgICAgICAgPGZpZWxkIG5hbWU9ImFyY2giIHR5cGU9InhtbCI+ICAKICAgICAgICAgIDxzaGVldCBwb3NpdGlvbj0naW5zaWRlJz4KICAgICAgICAgICAgPGdyb3VwPgogICAgICAgICAgICAgICAgPHA+PGI+TWFudWFsbHkgVXBkYXRlIFByb2R1Y3QncyBTdG9jayB0byBQcmVzdGFzaG9wPC9iPjwvcD4KICAgICAgICAgICAgIAogICAgICAgICAgICAgPGJ1dHRvbiBuYW1lPSJtYW51YWxfc3RvY2tfdXBkYXRlIiBzdHJpbmc9IlVwZGF0ZSBQcm9kdWN0YHMgU3RvY2siIHR5cGU9Im9iamVjdCIgY2xhc3M9Im9lX2hpZ2hsaWdodCIgLz4KICAgICAgICAgICAgICA8L2dyb3VwPgogICAgICAgICAgPC9zaGVldD4gICAgICAgICAgIAogICAgICAgIDwvZmllbGQ+ICAgIAogICAgICA8L3JlY29yZD4K</text>
+        <text encoding="base64">ICAgIDxyZWNvcmQgbW9kZWw9ImlyLnVpLnZpZXciIGlkPSJwaWNraW5nX2FmdGVyX2RlbGl2ZXJ5X2FsZXJ0Ij4KICAgICAgICA8ZmllbGQgbmFtZT0ibmFtZSI+c3RvY2sucGlja2luZy5jaGVjay5hc3NpZ24uYWxsLmVuZF9mb3JtPC9maWVsZD4KICAgICAgICA8ZmllbGQgbmFtZT0ibW9kZWwiPnN0b2NrLnBpY2tpbmc8L2ZpZWxkPgogICAgICAgIDxmaWVsZCBuYW1lPSJwcmlvcml0eSI+MTY8L2ZpZWxkPgogICAgICAgIDxmaWVsZCBuYW1lPSJhcmNoIiB0eXBlPSJ4bWwiPgogICAgICAgICAgICA8ZmllbGQgbmFtZT0iaWQiIC8+CiAgICAgICAgPC9maWVsZD4KICAgIDwvcmVjb3JkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2095,10 +2100,10 @@
         <entry>3</entry>
         <entry>:w</entry>
         <entry>set ignorecase smartcase</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s/\t/    /g</entry>
         <entry encoding="base64">JzwsJz5zL1x0LyAgICAvZw==</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
